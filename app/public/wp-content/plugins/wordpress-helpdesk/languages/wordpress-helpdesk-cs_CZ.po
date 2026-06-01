@@ -1,0 +1,3190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress TotalDesk\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-25 17:49+0000\n"
+"PO-Revision-Date: 2023-03-08 08:37+0000\n"
+"Last-Translator: WeLaunch\n"
+"Language-Team: Czech\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=3; plural=( n == 1 ) ? 0 : ( n >= 2 && n <= 4 ) ? 1 : "
+"2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1"
+
+#: admin/class-wordpress-helpdesk-log.php:74
+#: admin/class-wordpress-helpdesk-livechat-backend.php:160
+msgid " by "
+msgstr " podle"
+
+#: admin/options-init.php:103
+msgid "\">register your License here</a>."
+msgstr "\">zaregistrujte si licenci zde</a>."
+
+#: admin/class-wordpress-helpdesk-livechat-backend.php:395
+#, php-format
+msgid "%d Chat Tickets created yet"
+msgstr "Dosud vytvořeno %d lístků na chat"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:351
+#: admin/class-wordpress-helpdesk-saved-replies.php:352
+#: admin/class-wordpress-helpdesk-saved-replies.php:361
+#: admin/class-wordpress-helpdesk-saved-replies.php:387
+#: admin/class-wordpress-helpdesk-saved-replies.php:388
+#: admin/class-wordpress-helpdesk-saved-replies.php:397
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: admin/class-wordpress-helpdesk-notifications.php:158
+#: admin/class-wordpress-helpdesk-log.php:151
+#, php-format
+msgid "%s changed from %s to %s"
+msgstr "%s změněno z %s na %s"
+
+#: admin/class-wordpress-helpdesk-slack.php:180
+#, php-format
+msgid "%s changed from %s to: %s"
+msgstr "%s změněno z %s na: %s"
+
+#: admin/class-wordpress-helpdesk-notifications.php:193
+#: admin/class-wordpress-helpdesk-slack.php:192
+#: admin/class-wordpress-helpdesk-log.php:160
+#, php-format
+msgid "%s changed to: %s"
+msgstr "%s změněno na: %s"
+
+#: admin/class-wordpress-helpdesk-ticket-processor.php:232
+#, php-format
+msgid "%s not set!"
+msgstr "%s není nastaveno!"
+
+#: admin/class-wordpress-helpdesk-form.php:856
+msgid "*"
+msgstr "*"
+
+#: admin/options-init.php:907
+msgid "110"
+msgstr "110"
+
+#: admin/options-init.php:905
+msgid "143"
+msgstr "143"
+
+#: admin/options-init.php:906
+msgid "993"
+msgstr "993"
+
+#: admin/options-init.php:908
+msgid "995"
+msgstr "995"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:559
+#: admin/class-wordpress-helpdesk-faq-post-type.php:572
+#: admin/views/single-faq.php:86
+msgid "< Back to "
+msgstr "< Zpět na"
+
+#: admin/class-wordpress-helpdesk-form.php:119 admin/views/single-ticket.php:95
+msgid "< Back to My Tickets"
+msgstr "< Zpět na Moje vstupenky"
+
+#: admin/options-init.php:973
+msgid ""
+"<a href=\"https://build.Envato.com/my-apps/\" target=\"_blank\">Click here "
+"to get your API key > Person Tokens</a>."
+msgstr ""
+"<a href=\"https://build.Envato.com/my-apps/\" target=\"_blank\">Kliknutím "
+"sem získáte klíč API &gt; Tokeny osob</a> ."
+
+#: admin/options-init.php:1127
+msgid ""
+"<a href=\"https://developers.facebook.com/docs/messenger-"
+"platform/discovery/customer-chat-plugin#steps\">Follow the steps here to get "
+"the Messenger code.</a>"
+msgstr ""
+"<a href=\"https://developers.facebook.com/docs/messenger-"
+"platform/discovery/customer-chat-plugin#steps\">Chcete-li získat kód "
+"Messenger, postupujte podle kroků zde.</a>"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1156
+msgid ""
+"<span class=\"vers comment-grey-bubble\" title=\"Comments\"><span "
+"class=\"screen-reader-text\">Comments</span></span>"
+msgstr ""
+"<span class=\"vers comment-grey-bubble\" title=\"Komentáře\"><span "
+"class=\"screen-reader-text\">Komentáře</span></span>"
+
+#: admin/class-wordpress-helpdesk-notifications.php:441
+#: admin/class-wordpress-helpdesk-notifications.php:447
+#, php-format
+msgid "[Ticket: %d] "
+msgstr "[Vstupenka: %d]"
+
+#: admin/class-wordpress-helpdesk-my-tickets.php:172
+#, php-format
+msgid "[Ticket: %s]"
+msgstr "[Vstupenka: %s]"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1094
+#, php-format
+msgid "[Ticket: %s] %s"
+msgstr "[Vstupenka: %s] %s"
+
+#: admin/class-wordpress-helpdesk-slack.php:176
+#: admin/class-wordpress-helpdesk-slack.php:188
+#, php-format
+msgid "[Ticket: %s] %s changed"
+msgstr "[Vstupenka: %s] %s změněno"
+
+#: admin/class-wordpress-helpdesk-slack.php:93
+#: admin/class-wordpress-helpdesk-slack.php:132
+#: admin/class-wordpress-helpdesk-slack.php:178
+#: admin/class-wordpress-helpdesk-slack.php:190
+#: admin/class-wordpress-helpdesk-slack.php:253
+#: admin/class-wordpress-helpdesk-slack.php:289
+#, php-format
+msgid "[Ticket: %s] - %s"
+msgstr "[Vstupenka: %s] – %s"
+
+#: admin/class-wordpress-helpdesk-slack.php:287
+#, php-format
+msgid "[Ticket: %s] Agent assigned"
+msgstr "[Ticket: %s] Agent přidělen"
+
+#: admin/class-wordpress-helpdesk-slack.php:251
+#, php-format
+msgid "[Ticket: %s] Agent changed"
+msgstr "[Ticket: %s] Agent změněn"
+
+#: admin/options-init.php:333
+msgid ""
+"A custom Post Type FAQ will be created. Tickets can be copied into a new FAQ."
+msgstr ""
+"Vytvoří se vlastní FAQ typu příspěvku. Vstupenky lze zkopírovat do nového "
+"FAQ."
+
+#: admin/options-init.php:697
+msgid ""
+"A selected Item will be overwritten when an item is found within the "
+"purchase code."
+msgstr ""
+"Vybraná položka bude přepsána, když bude položka nalezena v nákupním kódu."
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:112
+#: admin/class-wordpress-helpdesk-livechat-backend.php:195
+#, php-format
+msgid "A seperate Chat-Ticket with the ID %s has been created."
+msgstr "Byl vytvořen samostatný Chat-Ticket s ID %s."
+
+#: admin/class-wordpress-helpdesk-notifications.php:96
+#, php-format
+msgid "A Ticket with the ID %s has been created"
+msgstr "Vstupenka s ID %s byla vytvořena"
+
+#: admin/options-init.php:559 admin/options-init.php:566
+#: admin/options-init.php:1773 admin/options-init.php:1779
+msgid "Accepts shortcodes also."
+msgstr "Přijímá také krátké kódy."
+
+#: admin/options-init.php:440
+msgid "Accordion"
+msgstr "Akordeon"
+
+#: admin/class-wordpress-helpdesk-my-tickets.php:149
+msgid "Actions"
+msgstr "Akce"
+
+#: admin/class-wordpress-helpdesk-ticket-notes.php:92
+msgid "Add"
+msgstr "Přidat"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:134
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:201
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:238
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:275
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:312
+#: admin/class-wordpress-helpdesk-saved-replies.php:291
+#: admin/class-wordpress-helpdesk-saved-replies.php:359
+#: admin/class-wordpress-helpdesk-saved-replies.php:395
+#: admin/class-wordpress-helpdesk-faq-post-type.php:756
+#: admin/class-wordpress-helpdesk-faq-post-type.php:920
+#, php-format
+msgid "Add New %s"
+msgstr "Přidat nový %s"
+
+#: admin/class-wordpress-helpdesk-ticket-notes.php:86
+msgid "Add Note"
+msgstr "Přidat poznámku"
+
+#: admin/options-init.php:347
+msgid "Add Schema.org Support"
+msgstr "Přidat podporu Schema.org"
+
+#: admin/options-init.php:1947 admin/options-init.php:1954
+msgid "Add some stylesheet if you want."
+msgstr "Pokud chcete, přidejte nějakou šablonu stylů."
+
+#: admin/options-init.php:1916
+msgid "Advanced settings"
+msgstr "Pokročilé nastavení"
+
+#: admin/options-init.php:1809
+msgid "Afrikaans"
+msgstr "afrikánština"
+
+#: admin/options-init.php:1706
+msgid "After login all reporters will be redirected to the my tickets page."
+msgstr ""
+"Po přihlášení budou všichni reportéři přesměrováni na stránku moje vstupenky."
+
+#: admin/views/single-ticket.php:229
+#, php-format
+msgid "Agent: %s"
+msgstr "Zástupce: %s"
+
+#: admin/options-init.php:1712
+msgid "Agents can create tickets for Users"
+msgstr "Agenti mohou vytvářet vstupenky pro uživatele"
+
+#: admin/options-init.php:272 admin/options-init.php:1464
+msgid "AJAX Interval"
+msgstr "Interval AJAX"
+
+#: admin/options-init.php:1810
+msgid "Albanian"
+msgstr "albánský"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:122
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:124
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:196
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:233
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:270
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:307
+#: admin/class-wordpress-helpdesk-saved-replies.php:288
+#: admin/class-wordpress-helpdesk-saved-replies.php:354
+#: admin/class-wordpress-helpdesk-saved-replies.php:390
+#: admin/class-wordpress-helpdesk-faq-post-type.php:753
+#: admin/class-wordpress-helpdesk-faq-post-type.php:915
+#, php-format
+msgid "All %s"
+msgstr "Vše %s"
+
+#: admin/options-init.php:1389
+msgid "Allow Attachments"
+msgstr "Povolit přílohy"
+
+#: admin/options-init.php:1382
+msgid "Allow Guest-Chat"
+msgstr "Povolit chat pro hosty"
+
+#: admin/options-init.php:1720
+msgid "Allow Ticket creation via Forms only when User is logged in."
+msgstr ""
+"Povolit vytváření lístku prostřednictvím formulářů, pouze když je uživatel "
+"přihlášen."
+
+#: admin/options-init.php:1840
+msgid "Alternative"
+msgstr "Alternativní"
+
+#: admin/options-init.php:1811
+msgid "Amharic"
+msgstr "amharština"
+
+#: admin/options-init.php:1812
+msgid "Arabic"
+msgstr "arabština"
+
+#: admin/options-init.php:884
+msgid "Archive Folder"
+msgstr "Složka archivu"
+
+#: admin/options-init.php:1813
+msgid "Armenian"
+msgstr "arménský"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1491
+msgid "Articles Found"
+msgstr "Články nalezeny"
+
+#: admin/options-init.php:1295
+msgid "Assigned Agent Changed Notification"
+msgstr "Oznámení o změně přiřazeného agenta"
+
+#: admin/class-wordpress-helpdesk-slack.php:255
+#: admin/class-wordpress-helpdesk-log.php:265
+#, php-format
+msgid "Assigned from %s to %s"
+msgstr "Přiděleno od %s do %s"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1150
+msgid "Assigned To"
+msgstr "Přiřazen"
+
+#: admin/class-wordpress-helpdesk-notifications.php:344
+#: admin/class-wordpress-helpdesk-notifications.php:401
+#: admin/class-wordpress-helpdesk-slack.php:291
+#: admin/class-wordpress-helpdesk-log.php:263
+#: admin/class-wordpress-helpdesk-log.php:298
+#, php-format
+msgid "Assigned to %s"
+msgstr "Přiděleno %s"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:633
+msgid "Assigned to: "
+msgstr "Přiřazen:"
+
+#: admin/class-wordpress-helpdesk-form.php:764
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:351
+#: admin/class-wordpress-helpdesk-attachments.php:63
+#: admin/views/single-ticket.php:443
+msgid "Attachments"
+msgstr "Přílohy"
+
+#: admin/options-init.php:612 admin/options-init.php:677
+#: admin/options-init.php:755
+msgid "Attachments field"
+msgstr "Pole příloh"
+
+#: admin/options-init.php:1523
+msgid "Automatic Reply User"
+msgstr "Uživatel s automatickou odpovědí"
+
+#: admin/options-init.php:1755
+msgid "Automatically Close Tickets"
+msgstr "Automaticky zavřít vstupenky"
+
+#: admin/options-init.php:1756
+msgid ""
+"Automatically set Tickets to close / solved after X Days no comment / update "
+"was made. You need to set a default solved status!"
+msgstr ""
+"Automaticky nastavit vstupenky na uzavření / vyřešení po X dnech bez "
+"komentáře / aktualizace. Musíte nastavit výchozí stav vyřešen!"
+
+#: admin/options-init.php:1814
+msgid "Azerbaijan"
+msgstr "Ázerbajdžán"
+
+#: admin/options-init.php:1627 admin/options-init.php:1675
+msgid "Bad, I'm unsatisfied"
+msgstr "Špatný, jsem nespokojený"
+
+#: admin/options-init.php:1815
+msgid "Bangla"
+msgstr "Bangla"
+
+#: admin/options-init.php:1816
+msgid "Basque"
+msgstr "baskický"
+
+#: admin/options-init.php:1817
+msgid "Belarusian"
+msgstr "běloruský"
+
+#: admin/options-init.php:1854
+msgid "Bokmal"
+msgstr "Bokmal"
+
+#: admin/options-init.php:451
+msgid "Boxed Layout"
+msgstr "Rozložení v krabici"
+
+#: admin/options-init.php:1859
+msgid "Brasil"
+msgstr "Brazílie"
+
+#: admin/options-init.php:1818
+msgid "Bulgarian"
+msgstr "bulharský"
+
+#: admin/options-init.php:1457
+msgid "Button Text"
+msgstr "Text tlačítka"
+
+#: admin/options-init.php:1819
+msgid "Catalan"
+msgstr "katalánština"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:348
+msgid "Categories"
+msgstr "Kategorie"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:347
+msgid "Category"
+msgstr "Kategorie"
+
+#: admin/options-init.php:788
+msgid "Change an order"
+msgstr "Změňte objednávku"
+
+#: admin/options-init.php:1171
+msgid "Chatra Code"
+msgstr "Chatrský kód"
+
+#: admin/options-init.php:937
+msgid "Check Folder"
+msgstr "Zkontrolujte složku"
+
+#: admin/options-init.php:987
+msgid "Check Support until for Purchase?"
+msgstr "Kontrolovat podporu do pro nákup?"
+
+#: admin/options-init.php:341
+msgid "Check this to enable our FAQ feature."
+msgstr "Zaškrtnutím tohoto políčka aktivujete naši funkci FAQ."
+
+#: admin/options-init.php:1821
+msgid "Chinese"
+msgstr "čínština"
+
+#: admin/options-init.php:227
+msgid "Choose a default agent per selected department."
+msgstr "Vyberte výchozího agenta pro vybrané oddělení."
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1118
+msgid "Click here to see all"
+msgstr "Kliknutím sem zobrazíte vše"
+
+#: admin/options-init.php:1726
+msgid "Close Comment section when Ticket closed"
+msgstr "Zavřít sekci komentářů, když je vstupenka uzavřena"
+
+#: admin/views/single-ticket.php:105
+msgid "Close ticket"
+msgstr "Zavřít lístek"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:977
+msgid "Color"
+msgstr "Barva"
+
+#: admin/class-wordpress-helpdesk-notifications.php:257
+#: admin/class-wordpress-helpdesk-log.php:199
+msgid "Comment added"
+msgstr "Komentář přidán"
+
+#: admin/options-init.php:1257
+msgid "Comment Added Notification"
+msgstr "Oznámení o přidání komentáře"
+
+#: admin/options-init.php:1785
+msgid "Configure what you want to show in the My tickets table."
+msgstr "Nakonfigurujte, co chcete zobrazit v tabulce Moje vstupenky."
+
+#: admin/options-init.php:565
+msgid "Content After FAQ"
+msgstr "Obsah po FAQ"
+
+#: admin/options-init.php:1778
+msgid "Content After Single Ticket"
+msgstr "Obsah po jednotlivé jízdence"
+
+#: admin/options-init.php:558
+msgid "Content Before FAQ"
+msgstr "Obsah před FAQ"
+
+#: admin/options-init.php:1772
+msgid "Content Before Single Ticket"
+msgstr "Obsah před jednotlivou vstupenkou"
+
+#: admin/class-wordpress-helpdesk-log.php:79
+msgid "Content: "
+msgstr "Obsah:"
+
+#: admin/options-init.php:1172
+msgid "Copy & paste the HTML code here. https://app.chatra.io/settings/general"
+msgstr ""
+"Zde zkopírujte a vložte kód HTML. https://app.chatra.io/settings/general"
+
+#: admin/options-init.php:1142
+msgid ""
+"Copy & paste the HTML code here. https://app.crisp.chat/settings/websites/"
+msgstr ""
+"Zde zkopírujte a vložte kód HTML. https://app.crisp.chat/settings/websites/"
+
+#: admin/options-init.php:1157
+msgid ""
+"Copy & paste the HTML code here. https://app.purechat.com/websites/install-"
+"first"
+msgstr ""
+"Zde zkopírujte a vložte kód HTML. https://app.purechat.com/websites/install-"
+"first"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1164
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1171
+#, php-format
+msgid "Could not find anything for: %s"
+msgstr "Nebylo možné najít nic pro: %s"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:518
+msgid "Could not Merge Ticket."
+msgstr "Lístek se nepodařilo sloučit."
+
+#: admin/widgets/faq-topics.php:128
+msgid "Count"
+msgstr "Počet"
+
+#: admin/options-init.php:626 admin/options-init.php:633
+#: admin/options-init.php:704 admin/options-init.php:711
+#: admin/options-init.php:798 admin/options-init.php:805
+msgid "Create custom fields here. Use a | for settings form types."
+msgstr "Zde vytvořte vlastní pole. Použijte | pro typy formulářů nastavení."
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:973
+msgid "Create FAQ from this Ticket"
+msgstr "Vytvořte FAQ z tohoto tiketu"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:448
+msgid "Create Saved Reply"
+msgstr "Vytvořit uloženou odpověď"
+
+#: admin/class-wordpress-helpdesk-form.php:240
+msgid "Create Ticket"
+msgstr "Vytvořit lístek"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:602
+msgid "Created by: "
+msgstr "Vytvořil:"
+
+#: admin/class-wordpress-helpdesk-ticket-notes.php:77
+#: admin/class-wordpress-helpdesk-ticket-notes.php:134
+#, php-format
+msgid "created on %s by %s"
+msgstr "vytvořeno %s uživatelem %s"
+
+#: admin/views/single-ticket.php:198 admin/views/single-ticket.php:231
+msgid "Created on:"
+msgstr "Vytvořeno dne:"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:601
+msgid "Created on: "
+msgstr "Vytvořeno dne:"
+
+#: admin/options-init.php:1141
+msgid "Crisp Code"
+msgstr "Ostrý kód"
+
+#: admin/options-init.php:1822
+msgid "Croatian"
+msgstr "chorvatský"
+
+#: admin/class-wordpress-helpdesk-woocommerce.php:264
+msgid "Currently we do not have any frequently asked questions."
+msgstr "V současné době nemáme žádné časté dotazy."
+
+#: admin/options-init.php:1946
+msgid "Custom CSS"
+msgstr "Vlastní CSS"
+
+#: admin/options-init.php:710
+msgid "Custom Envato Optional Fields"
+msgstr "Vlastní volitelná pole Envato"
+
+#: admin/options-init.php:703
+msgid "Custom Envato Required Fields"
+msgstr "Vlastní povinná pole Envato"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1036
+msgid "Custom Image Icon."
+msgstr "Ikona vlastního obrázku."
+
+#: admin/options-init.php:1953
+msgid "Custom JS"
+msgstr "Vlastní JS"
+
+#: admin/options-init.php:632
+msgid "Custom Optional Fields"
+msgstr "Vlastní volitelná pole"
+
+#: admin/options-init.php:625
+msgid "Custom Required Fields"
+msgstr "Vlastní povinná pole"
+
+#: admin/options-init.php:1917
+msgid "Custom stylesheet / javascript."
+msgstr "Vlastní šablona stylů / javascript."
+
+#: admin/options-init.php:804
+msgid "Custom WooCommerce Optional Fields"
+msgstr "Vlastní volitelná pole WooCommerce"
+
+#: admin/options-init.php:797
+msgid "Custom WooCommerce Required Fields"
+msgstr "Vlastní povinná pole WooCommerce"
+
+#: admin/class-wordpress-helpdesk-form.php:341
+msgid "Customer Email (leave empty to create ticket with your current user)"
+msgstr ""
+"E-mail zákazníka (nechte prázdné, chcete-li vytvořit lístek s vaším "
+"aktuálním uživatelem)"
+
+#: admin/class-wordpress-helpdesk-form.php:318
+msgid "Customer Name (leave empty to create ticket with your current user)"
+msgstr ""
+"Jméno zákazníka (nechte prázdné, chcete-li vytvořit tiket s vaším aktuálním "
+"uživatelem)"
+
+#: admin/options-init.php:1823
+msgid "Czech"
+msgstr "čeština"
+
+#: admin/options-init.php:837
+msgid "Daily"
+msgstr "Denně"
+
+#: admin/options-init.php:1824
+msgid "Danish"
+msgstr "dánština"
+
+#: admin/options-init.php:618 admin/options-init.php:683
+#: admin/options-init.php:761
+msgid "Data Privacy Checkbox"
+msgstr "Zaškrtávací políčko Ochrana osobních údajů"
+
+#: admin/options-init.php:1805
+msgid "Datatables Language"
+msgstr "Jazyk datových tabulek"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1157
+#: admin/class-wordpress-helpdesk-my-tickets.php:126
+msgid "Date"
+msgstr "datum"
+
+#: admin/class-wordpress-helpdesk-reports.php:259
+msgid "Date Filter"
+msgstr "Filtr data"
+
+#: admin/class-wordpress-helpdesk-reports.php:263
+msgid "Date From (JJJJ-MM-DD)"
+msgstr "Datum od (JJJJ-MM-DD)"
+
+#: admin/class-wordpress-helpdesk-reports.php:84
+msgid "Date From is not valid!"
+msgstr "Datum od není platné!"
+
+#: admin/class-wordpress-helpdesk-reports.php:267
+msgid "Date Until (JJJJ-MM-DD)"
+msgstr "Datum do (JJJJ-MM-DD)"
+
+#: admin/class-wordpress-helpdesk-reports.php:94
+msgid "Date Until is not valid!"
+msgstr "Datum do není platné!"
+
+#: admin/options-init.php:1762
+msgid "Days after a Ticket gets closed"
+msgstr "Dny po uzavření vstupenky"
+
+#: admin/options-init.php:218
+msgid "Default Agent"
+msgstr "Výchozí agent"
+
+#: admin/options-init.php:241
+#, php-format
+msgid "Default Agent for %s"
+msgstr "Výchozí agent pro %s"
+
+#: admin/options-init.php:226
+msgid "Default Agents by Department"
+msgstr "Výchozí agenti podle oddělení"
+
+#: admin/options-init.php:212
+msgid "Default Department"
+msgstr "Výchozí oddělení"
+
+#: admin/options-init.php:1404
+msgid "Default Icon"
+msgstr "Výchozí ikona"
+
+#: admin/options-init.php:1539
+msgid "Default New Ticket Reply"
+msgstr "Výchozí odpověď na nový tiket"
+
+#: admin/options-init.php:164
+msgid "Default New Ticket Status"
+msgstr "Výchozí stav nového lístku"
+
+#: admin/options-init.php:200
+msgid "Default priority"
+msgstr "Výchozí priorita"
+
+#: admin/options-init.php:1555
+msgid "Default reply when no saved reply found for a reply."
+msgstr ""
+"Výchozí odpověď, když pro odpověď nebyla nalezena žádná uložená odpověď."
+
+#: admin/options-init.php:176
+msgid "Default Solved (closed) Status"
+msgstr "Výchozí stav vyřešeno (uzavřeno)."
+
+#: admin/options-init.php:1554
+msgid "Default Ticket Reply Reply"
+msgstr "Výchozí odpověď na lístek Odpověď"
+
+#: admin/options-init.php:459 admin/options-init.php:498
+msgid "Default Topic columns. Needs to be deviable by 12."
+msgstr "Výchozí sloupce tématu. Musí být deviovatelné do 12."
+
+#: admin/options-init.php:188
+msgid "Default Type"
+msgstr "Výchozí typ"
+
+#: admin/options-init.php:251
+msgid "Defaults"
+msgstr "Výchozí"
+
+#: admin/class-wordpress-helpdesk-ticket-notes.php:78
+#: admin/class-wordpress-helpdesk-ticket-notes.php:135
+msgid "Delete Note"
+msgstr "Smazat poznámku"
+
+#: admin/class-wordpress-helpdesk-form.php:462
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:263
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1154
+#: admin/class-wordpress-helpdesk-my-tickets.php:138
+msgid "Department"
+msgstr "oddělení"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:264
+msgid "Departments"
+msgstr "oddělení"
+
+#: admin/widgets/faq-topics.php:126 admin/views/single-ticket.php:426
+msgid "Description"
+msgstr "Popis"
+
+#: admin/options-init.php:259
+msgid "Desktop Notifications"
+msgstr "Oznámení na ploše"
+
+#: admin/options-init.php:1939
+msgid "Disable Fontawesome Loading"
+msgstr "Zakázat načítání Fontawesome"
+
+#: admin/options-init.php:1727
+msgid ""
+"Disable replies when a ticket is closed. Make sure you set a default solved "
+"(closed) status in default settings."
+msgstr ""
+"Zakázat odpovědi, když je lístek uzavřen. Ujistěte se, že jste ve výchozím "
+"nastavení nastavili výchozí vyřešený (uzavřený) stav."
+
+#: admin/options-init.php:426
+msgid "Disable the Rating dislike button"
+msgstr "Deaktivujte tlačítko Hodnocení se mi nelíbí"
+
+#: admin/options-init.php:930
+msgid "Do not validate Certificates."
+msgstr "Neověřujte certifikáty."
+
+#: admin/options-init.php:1825
+msgid "Dutch"
+msgstr "holandský"
+
+#: admin/widgets/faq-dynamic-posts.php:107
+msgid "Dynamic Title:"
+msgstr "Dynamický název:"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:135
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:199
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:236
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:273
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:310
+#: admin/class-wordpress-helpdesk-saved-replies.php:292
+#: admin/class-wordpress-helpdesk-saved-replies.php:357
+#: admin/class-wordpress-helpdesk-saved-replies.php:393
+#: admin/class-wordpress-helpdesk-faq-post-type.php:757
+#: admin/class-wordpress-helpdesk-faq-post-type.php:918
+#, php-format
+msgid "Edit %s"
+msgstr "Upravit %s"
+
+#: admin/options-init.php:853
+msgid "Email"
+msgstr "E-mailem"
+
+#: admin/options-init.php:1660
+msgid "Email Intro"
+msgstr "Úvod e-mailem"
+
+#: admin/class-wordpress-helpdesk-comments-processor.php:116
+#: admin/class-wordpress-helpdesk-ticket-processor.php:162
+msgid "Email not set!"
+msgstr "Email není nastaven!"
+
+#: admin/options-init.php:1681
+msgid "Email Outro"
+msgstr "Email Outro"
+
+#: admin/options-init.php:1646
+msgid "Email Rating Status"
+msgstr "Stav hodnocení e-mailu"
+
+#: admin/options-init.php:1667 admin/options-init.php:1674
+msgid "Email Satisfied Text"
+msgstr "Email spokojený text"
+
+#: admin/options-init.php:1653
+msgid "Email Subject"
+msgstr "Předmět emailu"
+
+#: admin/views/single-ticket.php:199 admin/views/single-ticket.php:232
+msgid "Email:"
+msgstr "E-mailem:"
+
+#: admin/options-init.php:109
+msgid "Enable"
+msgstr "Umožnit"
+
+#: admin/options-init.php:1302
+msgid "Enable agent changed added Notification"
+msgstr "Povolit agenta změněno přidáno oznámení"
+
+#: admin/options-init.php:1516
+msgid "Enable Automatic Replies"
+msgstr "Povolit automatické odpovědi"
+
+#: admin/options-init.php:1532
+msgid "Enable Automatic Replies for new Tickets"
+msgstr "Povolit automatické odpovědi pro nové vstupenky"
+
+#: admin/options-init.php:1547
+msgid "Enable Automatic Reply for new Ticket Replies"
+msgstr "Povolit automatickou odpověď pro nové odpovědi na tiket"
+
+#: admin/options-init.php:1163
+msgid "Enable Chatra Live Chat."
+msgstr "Povolit chatu Chatra Live."
+
+#: admin/options-init.php:1264
+msgid "Enable Comment added Notification"
+msgstr "Povolit upozornění na přidání komentáře"
+
+#: admin/options-init.php:1133
+msgid "Enable Crisp Live Chat."
+msgstr "Povolit Crisp Live Chat."
+
+#: admin/options-init.php:1799
+msgid "Enable Datatables"
+msgstr "Povolit datové tabulky"
+
+#: admin/options-init.php:266
+msgid "Enable Desktop Notifications"
+msgstr "Povolit upozornění na ploše"
+
+#: admin/options-init.php:525
+msgid "Enable FAQ Access per User Role"
+msgstr "Povolte přístup k nejčastějším dotazům podle uživatelské role"
+
+#: admin/options-init.php:1118
+msgid "Enable FB Messenger Live Chat."
+msgstr "Povolte živý chat FB Messenger."
+
+#: admin/options-init.php:825
+msgid "Enable Inbox"
+msgstr "Povolit doručenou poštu"
+
+#: admin/options-init.php:1376
+msgid "Enable Live Chat"
+msgstr "Povolit živý chat"
+
+#: admin/options-init.php:1148
+msgid "Enable PureChat Live Chat."
+msgstr "Povolit PureChat Live Chat."
+
+#: admin/options-init.php:1484
+msgid "Enable Reply Template"
+msgstr "Povolit šablonu odpovědi"
+
+#: admin/options-init.php:1509
+msgid "Enable Saved Replies"
+msgstr "Povolit uložené odpovědi"
+
+#: admin/options-init.php:1570
+msgid "Enable Support Rating"
+msgstr "Povolit hodnocení podpory"
+
+#: admin/options-init.php:1634
+msgid "Enable Support Rating Email"
+msgstr "Povolit e-mail s hodnocením podpory"
+
+#: admin/options-init.php:1593
+msgid "Enable Support Rating on Ticket Page"
+msgstr "Povolte hodnocení podpory na stránce vstupenek"
+
+#: admin/options-init.php:340
+msgid "Enable the FAQs Knowledge Base"
+msgstr "Povolte databázi znalostí FAQ"
+
+#: admin/options-init.php:826
+msgid "Enable this to allow ticket creation via Email."
+msgstr ""
+"Povolením této možnosti povolíte vytváření lístků prostřednictvím e-mailu."
+
+#: admin/options-init.php:1925
+msgid "Enable this to override the custom templates."
+msgstr "Povolením této možnosti přepíšete vlastní šablony."
+
+#: admin/options-init.php:110
+msgid "Enable TotalDesk."
+msgstr "Povolit TotalDesk."
+
+#: admin/options-init.php:1826
+msgid "English"
+msgstr "Angličtina"
+
+#: admin/options-init.php:1458
+msgid "Enter Chat"
+msgstr "Vstupte do chatu"
+
+#: admin/options-init.php:863
+msgid "Enter your Password"
+msgstr "Zadejte heslo"
+
+#: admin/options-init.php:862
+msgid "Enter your Username"
+msgstr "Vložte svoji přezdívku"
+
+#: admin/options-init.php:972
+msgid "Envato API Key"
+msgstr "Envato API klíč"
+
+#: admin/options-init.php:646
+msgid "Envato Form Fields"
+msgstr "Pole formuláře Envato"
+
+#: admin/options-init.php:960
+msgid "Envato Integration"
+msgstr "Integrace Envato"
+
+#: admin/options-init.php:696
+msgid "Envato Items"
+msgstr "Položky Envato"
+
+#: admin/class-wordpress-helpdesk-livechat-backend.php:355
+msgid "Error while uploading your attachment."
+msgstr "Při nahrávání přílohy došlo k chybě."
+
+#: admin/options-init.php:1827
+msgid "Estonian"
+msgstr "estonština"
+
+#: admin/options-init.php:148
+msgid "Export all Tickets"
+msgstr "Exportujte všechny vstupenky"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:748
+msgid "FAQ"
+msgstr "FAQ"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1009
+msgid "FAQ creation failed, could not find original ticket: "
+msgstr "Vytvoření častých dotazů se nezdařilo, nelze najít původní tiket:"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1462
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1463
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1483
+msgid "FAQ Terms"
+msgstr "FAQ Podmínky"
+
+#: admin/widgets/faq-topics.php:6
+msgid "FAQ Topics"
+msgstr "Časté dotazy"
+
+#: admin/options-init.php:332
+msgid "FAQ – Knowledge Base"
+msgstr "FAQ – Knowledge Base"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:749
+#: admin/class-wordpress-helpdesk-faq-post-type.php:752
+msgid "FAQs"
+msgstr "Nejčastější dotazy"
+
+#: admin/options-init.php:1126
+msgid "FBMessenger Code"
+msgstr "Kód FBMessenger"
+
+#: admin/options-init.php:1583
+msgid "Feedback Page"
+msgstr "Stránka zpětné vazby"
+
+#: admin/class-wordpress-helpdesk-support-rating.php:141
+msgid "Feedback received. Thanks!"
+msgstr "Zpětná vazba přijata. Dík!"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:354
+msgid "Feedback:"
+msgstr "Zpětná vazba:"
+
+#: admin/class-wordpress-helpdesk-support-rating.php:124
+msgid "Feedback: "
+msgstr "Zpětná vazba:"
+
+#: admin/options-init.php:937
+msgid "Fetch Emails Now"
+msgstr "Získejte e-maily hned teď"
+
+#: admin/options-init.php:647
+msgid "Fields for the Simple [new_ticket type=\"Envato\"] form. "
+msgstr "Pole pro jednoduchý formulář [new_ticket type=\"Envato\"]."
+
+#: admin/options-init.php:725
+msgid "Fields for the Simple [new_ticket type=\"WooCommerce\"] form. "
+msgstr "Pole pro jednoduchý formulář [new_ticket type=\"WooCommerce\"]."
+
+#: admin/options-init.php:582
+msgid "Fields for the Simple [new_ticket] form. "
+msgstr "Pole pro jednoduchý formulář [new_ticket]."
+
+#: admin/options-init.php:1828
+msgid "Filipino"
+msgstr "filipínský"
+
+#: admin/class-wordpress-helpdesk-reports.php:276
+msgid "Filtered"
+msgstr "Filtrovaný"
+
+#: admin/class-wordpress-helpdesk-reports.php:277
+msgid "Filtered Tickets:"
+msgstr "Filtrované vstupenky:"
+
+#: admin/options-init.php:1829
+msgid "Finnish"
+msgstr "finština"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1035
+msgid "Font Awesome Icon."
+msgstr "Písmo úžasné ikona."
+
+#: admin/options-init.php:1362
+msgid "Footer for Mails"
+msgstr "Zápatí pro e-maily"
+
+#: admin/options-init.php:573
+msgid "Form Fields"
+msgstr "Pole formuláře"
+
+#: admin/options-init.php:1830
+msgid "French"
+msgstr "francouzština"
+
+#: admin/class-wordpress-helpdesk-woocommerce.php:282
+msgid "Frequently Asked Questions"
+msgstr "Často kladené otázky"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1149
+msgid "From"
+msgstr "Z"
+
+#: admin/options-init.php:1831
+msgid "Galician"
+msgstr "galicijský"
+
+#: admin/options-init.php:101
+msgid "General"
+msgstr "Všeobecné"
+
+#: admin/options-init.php:1832
+msgid "Georgian"
+msgstr "gruzínský"
+
+#: admin/options-init.php:1833
+msgid "German"
+msgstr "Němec"
+
+#: admin/options-init.php:786
+msgid "Gift Cards"
+msgstr "Dárkové poukázky"
+
+#: admin/options-init.php:1620 admin/options-init.php:1668
+msgid "Good, I'm satisfied"
+msgstr "Dobře, jsem spokojený"
+
+#: admin/options-init.php:1834
+msgid "Greek"
+msgstr "řecký"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:828
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1045
+msgid "Guest (logged out)"
+msgstr "Host (odhlášen)"
+
+#: admin/options-init.php:1835
+msgid "Gujarati"
+msgstr "Gudžarátština"
+
+#: admin/options-init.php:1836
+msgid "Hebrew"
+msgstr "hebrejština"
+
+#: admin/options-init.php:1661
+#, php-format
+msgid ""
+"Hello %s,<br/><br/>We'd love to hear about your support experience. Please "
+"take a moment to answer one simple question by clicking either link below:"
+"<br/><br/>How would you rate the support you received?<br/><br/>"
+msgstr ""
+"Dobrý den %s,<br/><br/>rádi bychom se dozvěděli o vašich zkušenostech s "
+"podporou. Věnujte prosím chvilku odpovědi na jednu jednoduchou otázku "
+"kliknutím na některý z níže uvedených odkazů:<br/><br/>Jak byste ohodnotili "
+"podporu, které se vám dostalo?<br/><br/>"
+
+#: admin/options-init.php:94 admin/options-init.php:1340
+msgid "Helpdesk"
+msgstr "Podpora"
+
+#: includes/class-wordpress-helpdesk-activator.php:214
+msgid "Helpdesk Agent"
+msgstr "Agent helpdesku"
+
+#: includes/class-wordpress-helpdesk-activator.php:236
+msgid "Helpdesk Reporter"
+msgstr "Reportér helpdesku"
+
+#: admin/class-wordpress-helpdesk-sidebar-widgets.php:48
+msgid "Helpdesk Sidebar"
+msgstr "Postranní panel helpdesku"
+
+#: admin/options-init.php:1444
+#, php-format
+msgid "Hi %s,<br><br>Please tell us your subject and your concerns."
+msgstr "Ahoj %s,<br><br>Sdělte nám prosím svůj předmět a své obavy."
+
+#: admin/options-init.php:510
+msgid "Hide all FAQ excerpts for not logged in users in the Knwoledge Base"
+msgstr ""
+"Skryjte všechny úryvky častých dotazů pro nepřihlášené uživatele v základně "
+"znalostí"
+
+#: admin/options-init.php:518
+msgid "Hide all Single FAQ pages for not logged in users."
+msgstr "Skrýt všechny stránky Single FAQ pro nepřihlášené uživatele."
+
+#: admin/options-init.php:517
+msgid "Hide All Single FAQs pages"
+msgstr "Skrýt všechny jednotlivé stránky s často kladenými dotazy"
+
+#: admin/options-init.php:552
+msgid "Hide complete Topics from not logged in users:"
+msgstr "Skrýt kompletní témata před nepřihlášenými uživateli:"
+
+#: admin/widgets/faq-topics.php:172
+msgid "Hide Empy Topics"
+msgstr "Skrýt prázdná témata"
+
+#: admin/options-init.php:509
+msgid "Hide FAQ excerpts for not logged in"
+msgstr "Skrýt úryvky častých dotazů pro nepřihlášené"
+
+#: admin/options-init.php:477
+msgid "Hide FAQs when subcategories exists"
+msgstr "Skrýt časté dotazy, pokud existují podkategorie"
+
+#: admin/options-init.php:1396
+msgid "Hide Livechat when agents offline"
+msgstr "Skrýt Livechat, když jsou agenti offline"
+
+#: admin/options-init.php:537
+msgid "Hide some FAQs"
+msgstr "Skryjte některé časté dotazy"
+
+#: admin/options-init.php:551
+msgid "Hide some Topics"
+msgstr "Skrýt některá témata"
+
+#: admin/options-init.php:1837
+msgid "Hindi"
+msgstr "hindština"
+
+#: admin/class-wordpress-helpdesk-log.php:46
+msgid "History"
+msgstr "Dějiny"
+
+#: admin/options-init.php:870
+msgid "Host"
+msgstr "Hostitel"
+
+#: admin/options-init.php:835
+msgid "Hourly"
+msgstr "Hodinově"
+
+#: admin/options-init.php:291
+msgid "How can we help you today?"
+msgstr "Jak vám dnes můžeme pomoci?"
+
+#: admin/options-init.php:833
+msgid "How often should Emails be fetched."
+msgstr "Jak často by se měly načítat e-maily."
+
+#: admin/options-init.php:1613
+msgid "How would you rate our support?"
+msgstr "Jak byste ohodnotili naši podporu?"
+
+#: admin/options-init.php:1654
+msgid "How would you rate the support?"
+msgstr "Jak byste ohodnotili podporu?"
+
+#. Author URI of the plugin
+msgid "https://welaunch.io"
+msgstr "https://welaunch.io"
+
+#. URI of the plugin
+msgid "https://welaunch.io/plugins/helpdesk/"
+msgstr "https://welaunch.io/plugins/helpdesk/"
+
+#: admin/options-init.php:1838
+msgid "Hungarian"
+msgstr "maďarský"
+
+#: admin/class-wordpress-helpdesk-form.php:791
+#, php-format
+msgid "I have read and agree to the %s"
+msgstr "Přečetl jsem a souhlasím s %s"
+
+#: admin/options-init.php:1839
+msgid "Icelandic"
+msgstr "islandský"
+
+#: admin/widgets/faq-topics.php:125
+msgid "Id"
+msgstr "Id"
+
+#: admin/options-init.php:980
+msgid ""
+"If enabled manual ticket creations will require a purchase code. Requests "
+"without a purchase code will automatically be denied and a reply will be "
+"sent with the request for the code."
+msgstr ""
+"Pokud je povoleno ruční vytváření lístků, bude vyžadovat nákupní kód. "
+"Žádosti bez nákupního kódu budou automaticky zamítnuty a bude zaslána "
+"odpověď s žádostí o kód."
+
+#: admin/options-init.php:988
+msgid ""
+"If enabled purchases, where the support is expired will not be created as a "
+"ticket."
+msgstr ""
+"Pokud jsou povoleny nákupy, u kterých vypršela podpora, nebudou vytvořeny "
+"jako tiket."
+
+#: admin/options-init.php:373
+msgid "If no FAQs found, fall back to comment search."
+msgstr ""
+"Pokud nebyly nalezeny žádné často kladené otázky, vraťte se k vyhledávání "
+"komentářů."
+
+#: admin/options-init.php:141
+msgid ""
+"If you can not work with xlsx (Excel 2007 and higher) files, check this. You "
+"then can work with normal .xls files."
+msgstr ""
+"Pokud nemůžete pracovat se soubory xlsx (Excel 2007 a vyšší), zkontrolujte "
+"toto. Poté můžete pracovat s normálními soubory .xls."
+
+#: admin/options-init.php:918
+msgid "IMAP"
+msgstr "IMAP"
+
+#: admin/options-init.php:919
+msgid "IMAPS"
+msgstr "IMAPS"
+
+#: admin/options-init.php:1713
+msgid ""
+"In the new ticket page, agents can create tickets on behalf of other users."
+msgstr ""
+"Na nové stránce tiketu mohou agenti vytvářet tikety jménem jiných uživatelů."
+
+#: admin/options-init.php:818
+msgid "Inbox"
+msgstr "Doručená pošta"
+
+#: admin/options-init.php:876
+msgid "Inbox Folder"
+msgstr "Složka Doručená pošta"
+
+#: admin/options-init.php:273 admin/options-init.php:1465
+msgid "Increase the interval (in miliseconds) to save server performance."
+msgstr "Zvyšte interval (v milisekundách), abyste ušetřili výkon serveru."
+
+#: admin/options-init.php:1841
+msgid "Indonesian"
+msgstr "indonéština"
+
+#: admin/options-init.php:953
+msgid ""
+"Install & Setup the <a href=\"https://wordpress.org/plugins/invisible-"
+"recaptcha/\" target=\"_blank\">invisible recaptcha plugin from here</a>. "
+"Then check this option."
+msgstr ""
+"Nainstalujte a nastavte <a href=\"https://wordpress.org/plugins/invisible-"
+"recaptcha/\" target=\"_blank\">neviditelný plugin recaptcha odtud</a> . Pak "
+"zaškrtněte tuto možnost."
+
+#: admin/options-init.php:944
+msgid "Integrations"
+msgstr "Integrace"
+
+#: admin/options-init.php:952
+msgid "Invisible Recaptcha Integration"
+msgstr "Neviditelná integrace Recaptcha"
+
+#: admin/options-init.php:1842
+msgid "Irish"
+msgstr "irština"
+
+#: admin/options-init.php:1843
+msgid "Italian"
+msgstr "italština"
+
+#: admin/options-init.php:497
+msgid "Item Columns"
+msgstr "Sloupce položek"
+
+#: admin/options-init.php:470
+msgid "Item Masonry"
+msgstr "Položka Zdivo"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:682
+#: admin/views/single-ticket.php:268
+msgid "Item: "
+msgstr "Položka:"
+
+#: admin/options-init.php:1844
+msgid "Japanese"
+msgstr "japonský"
+
+#: admin/options-init.php:1845
+msgid "Kazakh"
+msgstr "kazašský"
+
+#: admin/options-init.php:355
+msgid "Knowledge Base Page"
+msgstr "Stránka znalostní báze"
+
+#: admin/options-init.php:1846
+msgid "Korean"
+msgstr "korejština"
+
+#: admin/options-init.php:1847
+msgid "Kyrgyz"
+msgstr "kyrgyzština"
+
+#: admin/options-init.php:1848
+msgid "Latvian"
+msgstr "lotyšský"
+
+#: admin/options-init.php:1119
+msgid ""
+"Learn more here: <a href=\"https://developers.facebook.com/docs/messenger-"
+"platform/discovery/customer-chat-plugin\">Click</a>"
+msgstr ""
+"Více se dozvíte zde: <a href=\"https://developers.facebook."
+"com/docs/messenger-platform/discovery/customer-chat-plugin\">Klikněte</a>"
+
+#: admin/options-init.php:1164
+msgid "Learn more here: https://chatra.io"
+msgstr "Více informací zde: https://chatra.io"
+
+#: admin/options-init.php:1134
+msgid "Learn more here: https://crisp.chat/en/"
+msgstr "Více informací zde: https://crisp.chat/en/"
+
+#: admin/options-init.php:1149
+msgid "Learn more here: https://www.purechat.com/"
+msgstr "Více informací zde: https://www.purechat.com/"
+
+#: admin/options-init.php:132
+msgid "Left"
+msgstr "Vlevo, odjet"
+
+#: admin/options-init.php:130
+msgid "Left or Right sidebar."
+msgstr "Levý nebo pravý boční panel."
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:683
+#: admin/views/single-ticket.php:269
+msgid "License: "
+msgstr "Licence:"
+
+#: admin/options-init.php:450
+msgid "List Layout"
+msgstr "Rozložení seznamu"
+
+#: admin/options-init.php:1849
+msgid "Lithuanian"
+msgstr "litevský"
+
+#: admin/options-init.php:1369 admin/options-init.php:1423
+#: admin/class-wordpress-helpdesk-livechat-backend.php:222
+#: admin/class-wordpress-helpdesk-livechat-backend.php:223
+#: admin/class-wordpress-helpdesk-livechat-backend.php:235
+msgid "Live Chat"
+msgstr "Živý chat"
+
+#: admin/options-init.php:1422
+msgid "Live Chat Title"
+msgstr "Název živého chatu"
+
+#: admin/options-init.php:1740
+msgid "Login Page"
+msgstr "Přihlašovací stránka"
+
+#: admin/options-init.php:1850
+msgid "Macedonian"
+msgstr "makedonský"
+
+#: admin/options-init.php:845
+msgid "Mail Account Settings"
+msgstr "Nastavení poštovního účtu"
+
+#: admin/options-init.php:1179
+msgid "Mail Notifications"
+msgstr "Oznámení e-mailem"
+
+#: admin/options-init.php:1584
+msgid ""
+"Make sure the [helpdesk_feedback] shortcode is placed there. After saving "
+"here go to settings > permalinks and save."
+msgstr ""
+"Ujistěte se, že je tam umístěn krátký kód [helpdesk_feedback]. Po uložení "
+"zde přejděte do nastavení > trvalé odkazy a uložte."
+
+#: admin/options-init.php:356
+msgid ""
+"Make sure the [knowledge_base] shortcode is placed there. After saving go to "
+"settings > permalinks and save."
+msgstr ""
+"Ujistěte se, že je tam umístěn krátký kód [knowledge_base]. Po uložení "
+"přejděte do nastavení > trvalé odkazy a uložte."
+
+#: admin/options-init.php:1792
+msgid ""
+"Make sure the [my_tickets] shortcode is placed there. After saving go to "
+"settings > permalinks and save."
+msgstr ""
+"Ujistěte se, že je tam umístěn krátký kód [my_tickets]. Po uložení přejděte "
+"do nastavení > trvalé odkazy a uložte."
+
+#: admin/options-init.php:1698
+msgid "Make sure the [new_ticket] shortcode is placed there."
+msgstr "Ujistěte se, že je tam umístěn krátký kód [new_ticket]."
+
+#: admin/options-init.php:619 admin/options-init.php:684
+#: admin/options-init.php:762
+msgid "Make sure you set a privacy page in wp-admin > settings > privacy"
+msgstr ""
+"Ujistěte se, že jste nastavili stránku ochrany osobních údajů v wp-admin > "
+"nastavení > soukromí"
+
+#: admin/options-init.php:1851
+msgid "Malay"
+msgstr "malajština"
+
+#: admin/options-init.php:433
+msgid "Masonry"
+msgstr "Zdivo"
+
+#: admin/options-init.php:379
+msgid "Maximum Live Search Results"
+msgstr "Maximální výsledky živého vyhledávání"
+
+#: admin/widgets/faq-topics.php:120
+msgid "Menu Order"
+msgstr "Pořadí menu"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:462
+msgid "Merge Now"
+msgstr "Sloučit hned"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:350
+msgid "Merge Ticket"
+msgstr "Sloučit lístek"
+
+#: admin/class-wordpress-helpdesk-form.php:435
+msgid "Message * "
+msgstr "Zpráva *"
+
+#: admin/class-wordpress-helpdesk-comments-processor.php:151
+#: admin/class-wordpress-helpdesk-ticket-processor.php:206
+msgid "Message not set!"
+msgstr "Zpráva není nastavena!"
+
+#: admin/class-wordpress-helpdesk-livechat-backend.php:201
+#, php-format
+msgid "Message received and Chat-Ticket %s created. You should have an email."
+msgstr "Zpráva přijata a Chat-Ticket %s vytvořen. Měli byste mít e-mail."
+
+#: admin/options-init.php:1852
+msgid "Mongolian"
+msgstr "mongolský"
+
+#: admin/options-init.php:790
+msgid "More order issues"
+msgstr "Další problémy s objednávkou"
+
+#: admin/class-wordpress-helpdesk-woocommerce.php:56
+msgid "My Tickets"
+msgstr "Moje vstupenky"
+
+#: admin/options-init.php:1784
+msgid "My tickets"
+msgstr "Moje vstupenky"
+
+#: admin/options-init.php:1791
+msgid "My Tickets Page"
+msgstr "Stránka Moje vstupenky"
+
+#: admin/options-init.php:1338
+#: admin/class-wordpress-helpdesk-my-tickets.php:120
+#: admin/widgets/faq-topics.php:121
+msgid "Name"
+msgstr "název"
+
+#: admin/options-init.php:96
+msgid "Need support? Please use the comment function on codecanyon."
+msgstr "Potřebujete podporu? Použijte prosím funkci komentáře na codecanyon."
+
+#: admin/options-init.php:1853
+msgid "Nepali"
+msgstr "nepálský"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:133
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:136
+#: admin/class-wordpress-helpdesk-saved-replies.php:290
+#: admin/class-wordpress-helpdesk-saved-replies.php:293
+#: admin/class-wordpress-helpdesk-faq-post-type.php:755
+#: admin/class-wordpress-helpdesk-faq-post-type.php:758
+#, php-format
+msgid "New %s"
+msgstr "Nový %s"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:202
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:239
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:276
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:313
+#: admin/class-wordpress-helpdesk-saved-replies.php:360
+#: admin/class-wordpress-helpdesk-saved-replies.php:396
+#: admin/class-wordpress-helpdesk-faq-post-type.php:921
+#, php-format
+msgid "New %s Name"
+msgstr "Nové jméno %s"
+
+#: admin/class-wordpress-helpdesk-notifications.php:261
+#, php-format
+msgid "New comment added by %s"
+msgstr "Nový komentář přidal %s"
+
+#: admin/class-wordpress-helpdesk-slack.php:134
+#, php-format
+msgid "New Comment added by %s:"
+msgstr "Nový komentář přidal %s:"
+
+#: admin/class-wordpress-helpdesk-slack.php:129
+#, php-format
+msgid "New Comment added on Ticket %s"
+msgstr "Přidán nový komentář k lístku %s"
+
+#: admin/class-wordpress-helpdesk-desktop-notifications.php:129
+#, php-format
+msgid "New comment on %s"
+msgstr "Nový komentář na %s"
+
+#: admin/class-wordpress-helpdesk-support-rating.php:111
+#: admin/class-wordpress-helpdesk-support-rating.php:120
+msgid "New Feeback"
+msgstr "Nová zpětná vazba"
+
+#: admin/class-wordpress-helpdesk-notifications.php:92
+#: admin/class-wordpress-helpdesk-log.php:115
+msgid "New Ticket created"
+msgstr "Byl vytvořen nový tiket"
+
+#: admin/class-wordpress-helpdesk-slack.php:90
+#: admin/class-wordpress-helpdesk-slack.php:95
+#, php-format
+msgid "New Ticket created: %s"
+msgstr "Vytvořen nový lístek: %s"
+
+#: admin/options-init.php:1187 admin/options-init.php:1194
+msgid "New Ticket Notification"
+msgstr "Oznámení o nové jízdence"
+
+#: admin/options-init.php:1697
+msgid "New Ticket Page"
+msgstr "Nová stránka vstupenek"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:139
+#: admin/class-wordpress-helpdesk-saved-replies.php:296
+#: admin/class-wordpress-helpdesk-faq-post-type.php:761
+#, php-format
+msgid "No %s found"
+msgstr "Nebyl nalezen žádný %s"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:140
+#: admin/class-wordpress-helpdesk-saved-replies.php:297
+#: admin/class-wordpress-helpdesk-faq-post-type.php:762
+#, php-format
+msgid "No %s found in trash"
+msgstr "V koši nebyl nalezen žádný %s"
+
+#: admin/views/single-ticket.php:216
+msgid "No Agent assigned yet."
+msgstr "Zatím není přidělen žádný agent."
+
+#: admin/options-init.php:1437
+msgid "No agents online."
+msgstr "Žádní agenti online."
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:627
+msgid "No Articles found."
+msgstr "Nebyly nalezeny žádné články."
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1189
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1204
+#: admin/class-wordpress-helpdesk-livechat-backend.php:403
+msgid "No Author"
+msgstr "Žádný autor"
+
+#: admin/class-wordpress-helpdesk-livechat-backend.php:391
+msgid "No Chat Tickets created yet"
+msgstr "Dosud nebyly vytvořeny žádné vstupenky na chat"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:466
+msgid "No comment to duplicate has been supplied!"
+msgstr "Nebyl zadán žádný komentář k duplikaci!"
+
+#: admin/class-wordpress-helpdesk-reports.php:353
+msgid "No Date filter applied here:"
+msgstr "Zde není použit žádný filtr data:"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:366
+msgid "No FAQ found."
+msgstr "Nebyly nalezeny žádné časté dotazy."
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:360
+msgid "No FAQ ID set."
+msgstr "Není nastaveno žádné FAQ ID."
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:869
+msgid "No feedback available"
+msgstr "Zpětná vazba není k dispozici"
+
+#: admin/class-wordpress-helpdesk-inbox.php:329
+#: admin/class-wordpress-helpdesk-inbox.php:390
+msgid "No Message in your Email detected."
+msgstr "Nebyla zjištěna žádná zpráva ve vašem e-mailu."
+
+#: admin/class-wordpress-helpdesk-inbox.php:346
+msgid ""
+"No purchase code detected. Please make sure the email contains the following "
+"pattern \"Purchase Code: XXX\"."
+msgstr ""
+"Nebyl zjištěn žádný nákupní kód. Ujistěte se prosím, že e-mail obsahuje "
+"následující vzor „Nákupní kód: XXX“."
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1475
+msgid "No Search Terms found yet"
+msgstr "Dosud nebyly nalezeny žádné hledané výrazy"
+
+#: admin/class-wordpress-helpdesk-reports.php:217
+msgid "No Source"
+msgstr "Žádný zdroj"
+
+#: admin/class-wordpress-helpdesk-support-rating.php:89
+msgid "No Ticket ID set."
+msgstr "Není nastaveno žádné ID vstupenky."
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:478
+#: admin/class-wordpress-helpdesk-faq-post-type.php:989
+msgid "No ticket to duplicate has been supplied!"
+msgstr "Nebyla dodána žádná vstupenka k duplikování!"
+
+#: admin/class-wordpress-helpdesk-my-tickets.php:164
+msgid "No tickets submitted yet."
+msgstr "Dosud nebyly předloženy žádné vstupenky."
+
+#: admin/class-wordpress-helpdesk-exporter.php:47
+msgid "No Tickets to Export"
+msgstr "Žádné vstupenky na export"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:99
+msgid "No Topics created so far!"
+msgstr "Dosud nebyla vytvořena žádná témata!"
+
+#: admin/options-init.php:929
+msgid "No Validate Cert"
+msgstr "No Validate Cert"
+
+#: admin/options-init.php:119
+msgid "None"
+msgstr "Žádný"
+
+#: admin/options-init.php:1682
+msgid ""
+"Not solved yet?<br><br>The message you add to your feedback will not be "
+"forwarded as a reply. If you have further questions you can reply to this "
+"email."
+msgstr ""
+"Ještě jste nevyřešili?<br><br>Zpráva, kterou přidáte do své zpětné vazby, "
+"nebude přeposlána jako odpověď. Máte-li další otázky, můžete odpovědět na "
+"tento e-mail."
+
+#: admin/options-init.php:1331
+msgid "Notification settings"
+msgstr "Nastavení upozornění"
+
+#: admin/options-init.php:1188
+msgid "Notification when a new ticket has been created. "
+msgstr "Upozornění na vytvoření nového tiketu."
+
+#: admin/options-init.php:1223
+msgid "Notification when a ticket status has been changed. "
+msgstr "Upozornění na změnu stavu tiketu."
+
+#: admin/options-init.php:1278 admin/options-init.php:1315
+msgid "Notify the agent."
+msgstr "Informujte agenta."
+
+#: admin/options-init.php:1242
+msgid "Notify the assigned agent."
+msgstr "Informujte přiděleného agenta."
+
+#: admin/options-init.php:1207
+msgid "Notify the by default assigned agent."
+msgstr "Upozornit standardně přiřazeného agenta."
+
+#: admin/options-init.php:1214 admin/options-init.php:1249
+#: admin/options-init.php:1286 admin/options-init.php:1322
+msgid "Notify the following users:"
+msgstr "Informujte následující uživatele:"
+
+#: admin/options-init.php:1200 admin/options-init.php:1235
+#: admin/options-init.php:1270 admin/options-init.php:1308
+msgid "Notify the reporter."
+msgstr "Informujte reportéra."
+
+#: admin/widgets/faq-dynamic-posts.php:111
+msgid "Number of max. FAQs:"
+msgstr "Počet max. Nejčastější dotazy:"
+
+#: admin/options-init.php:1855
+msgid "Nynorsk"
+msgstr "Nynorsk"
+
+#: admin/options-init.php:121
+msgid "Only for Ticket pages"
+msgstr "Pouze pro stránky vstupenek"
+
+#: admin/options-init.php:120
+msgid "Only in Knowledge Base"
+msgstr "Pouze ve znalostní bázi"
+
+#: admin/options-init.php:1719
+msgid "Only Logged In"
+msgstr "Pouze přihlášen"
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:517
+msgid "Or enter your Ticket ID:"
+msgstr "Nebo zadejte své ID vstupenky:"
+
+#: admin/views/single-ticket.php:287
+msgid "Order"
+msgstr "Objednat"
+
+#: admin/widgets/faq-topics.php:131 admin/widgets/faq-dynamic-posts.php:129
+msgid "Order By:"
+msgstr "Seřadit podle:"
+
+#: admin/class-wordpress-helpdesk-form.php:278
+msgid "Order Support"
+msgstr "Objednávka podpory"
+
+#: admin/options-init.php:774
+msgid "Order Support (lists all Orders)"
+msgstr "Podpora objednávek (uvádí všechny objednávky)"
+
+#: admin/options-init.php:780
+msgid "Order Support Subjects"
+msgstr "Objednejte si předměty podpory"
+
+#: admin/widgets/faq-topics.php:152 admin/widgets/faq-dynamic-posts.php:150
+msgid "Order:"
+msgstr "Objednat:"
+
+#: admin/class-wordpress-helpdesk-form.php:297
+msgid "Other"
+msgstr "jiný"
+
+#: admin/options-init.php:1430
+msgid "Our customer service is available."
+msgstr "Náš zákaznický servis je k dispozici."
+
+#: admin/widgets/faq-topics.php:127
+msgid "Parent"
+msgstr "Rodič"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:197
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:234
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:271
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:308
+#: admin/class-wordpress-helpdesk-saved-replies.php:355
+#: admin/class-wordpress-helpdesk-saved-replies.php:391
+#: admin/class-wordpress-helpdesk-faq-post-type.php:916
+#, php-format
+msgid "Parent %s"
+msgstr "Nadřazený %s"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:198
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:235
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:272
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:309
+#: admin/class-wordpress-helpdesk-saved-replies.php:356
+#: admin/class-wordpress-helpdesk-saved-replies.php:392
+#: admin/class-wordpress-helpdesk-faq-post-type.php:917
+#, php-format
+msgid "Parent %s:"
+msgstr "Rodič %s:"
+
+#: admin/options-init.php:1856
+msgid "Pashto"
+msgstr "paštština"
+
+#: admin/options-init.php:787
+msgid "Payment issues"
+msgstr "Problémy s platbami"
+
+#: admin/options-init.php:1857
+msgid "Persian"
+msgstr "Peršan"
+
+#: admin/class-wordpress-helpdesk-form.php:175
+#: admin/class-wordpress-helpdesk-form.php:181
+#, php-format
+msgid "Please <a href=\"%s\" title=\"Login\">login to submit a ticket.</a>"
+msgstr ""
+"<a href=\"%s\" title=\"Přihlásit se\">Pro odeslání tiketu se prosím "
+"přihlaste.</a>"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1437
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1443
+#, php-format
+msgid "Please <a href=\"%s\" title=\"Login\">login to view this faq.</a>"
+msgstr ""
+"<a href=\"%s\" title=\"Přihlásit se\">Pro zobrazení tohoto často kladeného "
+"dotazu se prosím přihlaste.</a>"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:522
+#, php-format
+msgid "Please <a href=\"%s\" title=\"Login\">login to view this topic.</a>"
+msgstr ""
+"<a href=\"%s\" title=\"Přihlásit se\">Pro zobrazení tohoto tématu se prosím "
+"přihlaste.</a>"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1006
+#: admin/class-wordpress-helpdesk-my-tickets.php:51
+#, php-format
+msgid "Please <a href=\"%s\" title=\"Login\">login to view your tickets</a>"
+msgstr ""
+"<a href=\"%s\" title=\"Přihlásit se\">Pro zobrazení vstupenek se prosím "
+"přihlaste</a>"
+
+#: admin/class-wordpress-helpdesk-support-rating.php:100
+msgid "Please set a feedback text."
+msgstr "Nastavte text zpětné vazby."
+
+#: admin/options-init.php:1858
+msgid "Polish"
+msgstr "polština"
+
+#: admin/options-init.php:920
+msgid "POP3"
+msgstr "POP3"
+
+#: admin/options-init.php:921
+msgid "POP3S"
+msgstr "POP3S"
+
+#: admin/widgets/faq-dynamic-posts.php:102
+msgid "Popular FAQs"
+msgstr "Oblíbené často kladené dotazy"
+
+#: admin/widgets/faq-dynamic-posts.php:12
+#: admin/widgets/faq-dynamic-posts.php:106
+#, php-format
+msgid "Popular FAQs %s"
+msgstr "Oblíbené časté dotazy %s"
+
+#: admin/options-init.php:903
+msgid "Port"
+msgstr "Přístav"
+
+#: admin/options-init.php:1860
+msgid "Portuguese"
+msgstr "portugalština"
+
+#: admin/class-wordpress-helpdesk-comments-processor.php:146
+msgid "Post ID not created!"
+msgstr "ID příspěvku nebylo vytvořeno!"
+
+#: admin/class-wordpress-helpdesk-comments-processor.php:140
+msgid "Post ID not set!"
+msgstr "ID příspěvku není nastaveno!"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:301
+msgid "Priorities"
+msgstr "Priority"
+
+#: admin/class-wordpress-helpdesk-form.php:497
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:300
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1155
+#: admin/class-wordpress-helpdesk-exporter.php:222
+#: admin/views/single-ticket.php:150
+msgid "Priority"
+msgstr "Přednost"
+
+#: admin/options-init.php:594 admin/options-init.php:659
+#: admin/options-init.php:737
+msgid "Priority Select Field"
+msgstr "Pole výběru priority"
+
+#: admin/class-wordpress-helpdesk-form.php:785
+msgid "Privacy Policy"
+msgstr "Zásady ochrany osobních údajů"
+
+#: admin/class-wordpress-helpdesk-ticket-notes.php:49
+msgid "Private Notes"
+msgstr "Soukromé poznámky"
+
+#: admin/options-init.php:784
+msgid "Problem with an order"
+msgstr "Problém s objednávkou"
+
+#: admin/class-wordpress-helpdesk-form.php:630
+msgid "Product"
+msgstr "Produkt"
+
+#: admin/class-wordpress-helpdesk-form.php:288
+msgid "Product Support"
+msgstr "Podpora produktu"
+
+#: admin/options-init.php:768
+msgid "Product Support (lists all Products)"
+msgstr "Podpora produktu (uvádí všechny produkty)"
+
+#: admin/views/single-ticket.php:321
+msgid "Product:"
+msgstr "Produkt:"
+
+#: admin/options-init.php:789
+msgid "Promotions and deals"
+msgstr "Akce a nabídky"
+
+#: admin/options-init.php:892 admin/options-init.php:916
+msgid "Protocol"
+msgstr "Protokol"
+
+#: admin/class-wordpress-helpdesk-form.php:662
+#: admin/class-wordpress-helpdesk-form.php:667 admin/options-init.php:690
+msgid "Purchase Code"
+msgstr "Nákupní kód"
+
+#: admin/class-wordpress-helpdesk-ticket-processor.php:242
+#, php-format
+msgid "Purchase Code %s could not be verified!"
+msgstr "Nákupní kód %s nelze ověřit!"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:679
+#: admin/views/single-ticket.php:266
+msgid "Purchase Code could not be verified!"
+msgstr "Nákupní kód se nepodařilo ověřit!"
+
+#: admin/class-wordpress-helpdesk-ticket-processor.php:212
+msgid "Purchase Code not set!"
+msgstr "Nákupní kód není nastaven!"
+
+#: admin/options-init.php:979
+msgid "Purchase Code required?"
+msgstr "Je vyžadován nákupní kód?"
+
+#: admin/class-wordpress-helpdesk-ticket-processor.php:249
+#: admin/class-wordpress-helpdesk-ticket-processor.php:252
+msgid "Purchase Code verified for item: "
+msgstr "Nákupní kód ověřen pro položku:"
+
+#: admin/views/single-ticket.php:255
+msgid "Purchase Code:"
+msgstr "Nákupní kód:"
+
+#: admin/options-init.php:1156
+msgid "PureChat Code"
+msgstr "Kód PureChat"
+
+#: admin/class-wordpress-helpdesk-woocommerce.php:320
+msgid "Read More"
+msgstr "Přečtěte si více"
+
+#: admin/class-wordpress-helpdesk-form.php:133
+msgid "Recaptcha not passed!"
+msgstr "Recaptcha neprošla!"
+
+#: admin/options-init.php:832
+msgid "Recurrence"
+msgstr "Opakování"
+
+#: admin/options-init.php:1705
+msgid "Redirect reporters to My Tickets page"
+msgstr "Přesměrujte reportéry na stránku Moje vstupenky"
+
+#: admin/options-init.php:1492
+msgid "Reply Template"
+msgstr "Šablona odpovědi"
+
+#: admin/options-init.php:1493
+msgid "Reply template for agents & admins. Use {user_name} or {author_name}."
+msgstr ""
+"Šablona odpovědí pro agenty a správce. Použijte {user_name} nebo "
+"{author_name}."
+
+#: admin/views/single-ticket.php:196
+#, php-format
+msgid "Reporter: %s"
+msgstr "Reportér: %s"
+
+#: admin/class-wordpress-helpdesk-reports.php:38
+#: admin/class-wordpress-helpdesk-reports.php:39
+#: admin/class-wordpress-helpdesk-reports.php:257
+msgid "Reports"
+msgstr "Zprávy"
+
+#: admin/options-init.php:785
+msgid "Returns and refunds"
+msgstr "Vrácení zboží a vrácení peněz"
+
+#: admin/options-init.php:348
+msgid "Rich data & snippet support."
+msgstr "Podpora bohatých dat a úryvků."
+
+#: admin/options-init.php:133
+msgid "Right"
+msgstr "Že jo"
+
+#: admin/options-init.php:1861
+msgid "Romanian"
+msgstr "rumunština"
+
+#: admin/options-init.php:1862
+msgid "Russian"
+msgstr "ruština"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1152
+msgid "Satisfied"
+msgstr "Spokojený"
+
+#: admin/class-wordpress-helpdesk-support-rating.php:123
+msgid "Satisfied: "
+msgstr "Spokojený:"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:284
+#: admin/class-wordpress-helpdesk-saved-replies.php:287
+msgid "Saved Replies"
+msgstr "Uložené odpovědi"
+
+#: admin/options-init.php:1476
+msgid "Saved Replies (BOT)"
+msgstr "Uložené odpovědi (BOT)"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:283
+msgid "Saved Reply"
+msgstr "Uložená odpověď"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:487
+msgid "Saved Reply creation failed, could not find original comment: "
+msgstr ""
+"Vytvoření uložené odpovědi se nezdařilo, nebyl nalezen původní komentář:"
+
+#: admin/widgets/faq-live-search.php:23
+msgid "Search"
+msgstr "Vyhledávání"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:138
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:195
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:232
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:269
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:306
+#: admin/class-wordpress-helpdesk-saved-replies.php:295
+#: admin/class-wordpress-helpdesk-saved-replies.php:353
+#: admin/class-wordpress-helpdesk-saved-replies.php:389
+#: admin/class-wordpress-helpdesk-faq-post-type.php:760
+#: admin/class-wordpress-helpdesk-faq-post-type.php:914
+#, php-format
+msgid "Search %s"
+msgstr "Hledat %s"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1490
+msgid "Search Counts"
+msgstr "Počet hledání"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:310
+#: admin/class-wordpress-helpdesk-faq-post-type.php:313
+msgid "Search FAQs"
+msgstr "Hledat často kladené dotazy"
+
+#: admin/options-init.php:372
+msgid "Search in Comments"
+msgstr "Hledejte v komentářích"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1103
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1138
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Výsledky hledání pro: %s"
+
+#: admin/class-wordpress-helpdesk-form.php:464
+msgid "Select a Department"
+msgstr "Vyberte oddělení"
+
+#: admin/widgets/faq-dynamic-posts.php:152
+msgid "Select a Order:"
+msgstr "Vyberte objednávku:"
+
+#: admin/class-wordpress-helpdesk-form.php:499
+msgid "Select a priority"
+msgstr "Vyberte prioritu"
+
+#: admin/class-wordpress-helpdesk-form.php:534
+msgid "Select a type"
+msgstr "Vyberte typ"
+
+#: admin/class-wordpress-helpdesk-form.php:692
+msgid "Select an Item"
+msgstr "Vyberte položku"
+
+#: admin/class-wordpress-helpdesk-form.php:690
+msgid "Select Item"
+msgstr "Vybrat předmět"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:455
+msgid "Select Ticket"
+msgstr "Vyberte Tiket"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:827
+msgid "Select User Roles"
+msgstr "Vyberte Uživatelské role"
+
+#: admin/class-wordpress-helpdesk-form.php:572
+msgid "Select your Order"
+msgstr "Vyberte svou objednávku"
+
+#: admin/class-wordpress-helpdesk-form.php:632
+msgid "Select your product"
+msgstr "Vyberte svůj produkt"
+
+#: admin/class-wordpress-helpdesk-form.php:597
+msgid "Select your Subject"
+msgstr "Vyberte svůj předmět"
+
+#: admin/class-wordpress-helpdesk-support-rating.php:181
+msgid "Send Feedback"
+msgstr "Poslat zpětnou vazbu"
+
+#: admin/options-init.php:1576
+msgid "Send Feedback to Agent"
+msgstr "Odeslat zpětnou vazbu agentovi"
+
+#: admin/options-init.php:1748
+msgid "Send Login credentials"
+msgstr "Odeslat přihlašovací údaje"
+
+#: admin/options-init.php:1563
+msgid ""
+"Send out Emails when tickets are completed and ask for a support rating."
+msgstr ""
+"Po dokončení vstupenek odešlete e-maily a požádejte o hodnocení podpory."
+
+#: admin/options-init.php:1749
+msgid ""
+"Send out the login credentials when a new account has been created for a new "
+"user."
+msgstr ""
+"Odešlete přihlašovací údaje po vytvoření nového účtu pro nového uživatele."
+
+#: admin/options-init.php:1577
+msgid ""
+"Sends a mail to the Agent with the users feedback. Otherwise it is only "
+"available in backed of each ticket."
+msgstr ""
+"Odešle e-mail agentovi se zpětnou vazbou uživatelů. Jinak je k dispozici "
+"pouze na zadní straně každé vstupenky."
+
+#: admin/options-init.php:1863
+msgid "Serbian"
+msgstr "srbština"
+
+#: admin/options-init.php:1806
+msgid "Set a language for the datatable."
+msgstr "Nastavte jazyk pro datovou tabulku."
+
+#: admin/options-init.php:1346
+msgid "Set a Logo"
+msgstr "Nastavte logo"
+
+#: admin/options-init.php:309
+msgid "Set an icon"
+msgstr "Nastavte ikonu"
+
+#: admin/options-init.php:380
+msgid "Set maximum results for FAQ live search."
+msgstr "Nastavte maximální počet výsledků pro živé vyhledávání FAQ."
+
+#: admin/options-init.php:177
+msgid "Set the name of the Solved (closed) ticket status."
+msgstr "Nastavte název stavu tiketu Vyřešeno (uzavřeno)."
+
+#: admin/options-init.php:319
+msgid "Set the time when the notification automatically hides."
+msgstr "Nastavte čas, kdy se oznámení automaticky skryje."
+
+#: admin/options-init.php:34
+msgid "Settings"
+msgstr "Nastavení"
+
+#: admin/options-init.php:846
+msgid "Settings for your Mail Account."
+msgstr "Nastavení pro váš poštovní účet."
+
+#: admin/options-init.php:405
+msgid "Show Back to Parent Topic Link"
+msgstr "Zobrazit odkaz Zpět na nadřazené téma"
+
+#: admin/options-init.php:1891
+msgid "Show Date"
+msgstr "Zobrazit datum"
+
+#: admin/options-init.php:364
+msgid "Show FAQ Search in Knowledge Base"
+msgstr "Zobrazit FAQ Hledat ve znalostní bázi"
+
+#: admin/options-init.php:122
+msgid "Show in Ticket & FAQ pages"
+msgstr "Zobrazit na stránkách Ticket & FAQ"
+
+#: admin/options-init.php:1885
+msgid "Show Name"
+msgstr "Zobrazit jméno"
+
+#: admin/options-init.php:419
+msgid "Show Rating"
+msgstr "Zobrazit hodnocení"
+
+#: admin/widgets/faq-posts.php:6
+msgid "Show some FAQs."
+msgstr "Zobrazit některé časté dotazy."
+
+#: admin/options-init.php:1897
+msgid "Show Status"
+msgstr "Zobrazit stav"
+
+#: admin/widgets/faq-topics.php:180
+msgid "Show subcategories"
+msgstr "Zobrazit podkategorie"
+
+#: admin/options-init.php:1903
+msgid "Show System"
+msgstr "Zobrazit systém"
+
+#: admin/options-init.php:538
+msgid "Show the following FAQs only to logged in Users:"
+msgstr "Zobrazit následující časté dotazy pouze přihlášeným uživatelům:"
+
+#: admin/options-init.php:484
+msgid "Show Topic Children"
+msgstr "Zobrazit téma Děti"
+
+#: admin/options-init.php:491
+msgid "Show Topic Children Categories"
+msgstr "Zobrazit tématické dětské kategorie"
+
+#: admin/options-init.php:391
+msgid "Show Topic Title"
+msgstr "Zobrazit název tématu"
+
+#: admin/options-init.php:1909
+msgid "Show Type"
+msgstr "Zobrazit typ"
+
+#: admin/options-init.php:412
+msgid "Show Views Count"
+msgstr "Zobrazit počet zhlédnutí"
+
+#: admin/options-init.php:116
+msgid "Sidebar Display"
+msgstr "Zobrazení postranního panelu"
+
+#: admin/options-init.php:129
+msgid "Sidebar Position"
+msgstr "Poloha bočního panelu"
+
+#: admin/options-init.php:581
+msgid "Simple Form Fields"
+msgstr "Pole jednoduchého formuláře"
+
+#: admin/options-init.php:1612
+msgid "Single Ticket Intro"
+msgstr "Intro pro jednu vstupenku"
+
+#: admin/options-init.php:1619 admin/options-init.php:1626
+msgid "Single Ticket Satisfied Text"
+msgstr "Text spokojený s jednou vstupenkou"
+
+#: admin/options-init.php:1605
+msgid "Single Ticket Status"
+msgstr "Stav jedné vstupenky"
+
+#: admin/options-init.php:1864
+msgid "Sinhala"
+msgstr "sinhálština"
+
+#: admin/options-init.php:1865
+msgid "Slovak"
+msgstr "Slovák"
+
+#: admin/options-init.php:1866
+msgid "Slovenian"
+msgstr "slovinský"
+
+#: admin/widgets/faq-topics.php:122
+msgid "Slug"
+msgstr "Slimák"
+
+#: admin/class-wordpress-helpdesk-exporter.php:55
+msgid "Something was wrong with the export generation ..."
+msgstr "Něco bylo špatně s generací exportu..."
+
+#: admin/class-wordpress-helpdesk-inbox.php:477
+msgid "Sorry ..."
+msgstr "Promiňte ..."
+
+#: admin/class-wordpress-helpdesk-inbox.php:482
+msgid "Sorry we could not process your mail :("
+msgstr "Je nám líto, že jsme nemohli zpracovat vaši poštu :("
+
+#: admin/options-init.php:1451
+msgid ""
+"Sorry,<br><br>None of our agents is online right now. But you can leave a "
+"message."
+msgstr ""
+"Omlouváme se,<br><br>Žádný z našich agentů není právě online. Ale můžete "
+"zanechat zprávu."
+
+#: admin/options-init.php:1867
+msgid "Spanish"
+msgstr "španělština"
+
+#: admin/options-init.php:895
+msgid "SSL"
+msgstr "SSL"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:189
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:190
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1151
+#: admin/class-wordpress-helpdesk-exporter.php:210
+#: admin/class-wordpress-helpdesk-my-tickets.php:132
+msgid "Status"
+msgstr "Postavení"
+
+#: admin/options-init.php:1222 admin/options-init.php:1229
+msgid "Status Change Notification"
+msgstr "Oznámení o změně stavu"
+
+#: admin/options-init.php:1436
+msgid "Status Text (Offline)"
+msgstr "Stavový text (offline)"
+
+#: admin/options-init.php:1429
+msgid "Status Text (Online)"
+msgstr "Stavový text (online)"
+
+#: admin/class-wordpress-helpdesk-form.php:362
+#: admin/class-wordpress-helpdesk-form.php:384
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:510
+msgid "Subject"
+msgstr "Předmět"
+
+#: admin/class-wordpress-helpdesk-ticket-processor.php:202
+msgid "Subject not set!"
+msgstr "Předmět není nastaven!"
+
+#: admin/class-wordpress-helpdesk-reports.php:271
+#: admin/widgets/faq-live-search.php:26
+msgid "Submit"
+msgstr "Předložit"
+
+#: admin/class-wordpress-helpdesk-woocommerce.php:112
+msgid "Submit a new Ticket"
+msgstr "Odešlete novou vstupenku"
+
+#: admin/class-wordpress-helpdesk-woocommerce.php:57
+msgid "Submit Ticket"
+msgstr "Odeslat vstupenku"
+
+#: admin/class-wordpress-helpdesk-ticket-processor.php:247
+#, php-format
+msgid "Support Expired on %s – please renew!"
+msgstr "Podpora vypršela %s – obnovte ji!"
+
+#: admin/options-init.php:1355
+msgid "Support Mail Address"
+msgstr "E-mailová adresa podpory"
+
+#: admin/options-init.php:1932
+msgid "Support Mail Template"
+msgstr "Podpora šablony pošty"
+
+#: admin/options-init.php:1562
+msgid "Support Rating"
+msgstr "Hodnocení podpory"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:684
+#: admin/views/single-ticket.php:270
+msgid "Support Until:"
+msgstr "Podpora do:"
+
+#: admin/options-init.php:1868
+msgid "Swahili"
+msgstr "svahilština"
+
+#: admin/options-init.php:1869
+msgid "Swedish"
+msgstr "švédský"
+
+#: admin/class-wordpress-helpdesk-exporter.php:228
+msgid "System"
+msgstr "Systém"
+
+#: admin/options-init.php:588 admin/options-init.php:653
+#: admin/options-init.php:731
+msgid "Systems / Project Select Field"
+msgstr "Systémy / Výběrové pole projektu"
+
+#: admin/options-init.php:1010
+msgid "Tab Title"
+msgstr "Název karty"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:383
+msgid "Tag"
+msgstr "Štítek"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:384
+msgid "Tags"
+msgstr "Tagy"
+
+#: admin/options-init.php:1870
+msgid "Tamil"
+msgstr "tamilština"
+
+#: admin/options-init.php:1871
+msgid "telugu"
+msgstr "telugština"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1489
+msgid "Term"
+msgstr "Období"
+
+#: admin/widgets/faq-topics.php:123
+msgid "Term_group"
+msgstr "Skupina_pojmů"
+
+#: admin/widgets/faq-topics.php:124
+msgid "Term_id"
+msgstr "Term_id"
+
+#: admin/options-init.php:937
+msgid "Test Mail Account"
+msgstr "Test poštovního účtu"
+
+#: admin/options-init.php:639 admin/options-init.php:717
+#: admin/options-init.php:811
+msgid "Text before Submit Button Form."
+msgstr "Text před formulářem tlačítka Odeslat."
+
+#: admin/options-init.php:1872
+msgid "Thai"
+msgstr "thajština"
+
+#: admin/class-wordpress-helpdesk-support-rating.php:159
+msgid "Thanks for your feedback!"
+msgstr "Děkujeme za vaši odezvu!"
+
+#: admin/class-wordpress-helpdesk-notifications.php:197
+#, php-format
+msgid "The %s changed to: %s"
+msgstr "%s se změnilo na: %s"
+
+#: admin/class-wordpress-helpdesk-notifications.php:162
+#, php-format
+msgid "The %s has changed from %s to %s"
+msgstr "%s se změnilo z %s na %s"
+
+#. Description of the plugin
+msgid "The All in One WordPress Helpdesk solution"
+msgstr "Řešení All in One WordPress Helpdesk"
+
+#: admin/options-init.php:213
+msgid "The default Department for new tickets."
+msgstr "Výchozí oddělení pro nové vstupenky."
+
+#: admin/options-init.php:1332
+msgid "The default notification settings for mails etc."
+msgstr "Výchozí nastavení oznámení pro e-maily atd."
+
+#: admin/options-init.php:201
+msgid "The default priority for new tickets."
+msgstr "Výchozí priorita pro nové vstupenky."
+
+#: admin/options-init.php:165
+msgid "The default status for new tickets."
+msgstr "Výchozí stav pro nové vstupenky."
+
+#: admin/options-init.php:189
+msgid "The default type for new tickets."
+msgstr "Výchozí typ pro nové vstupenky."
+
+#: admin/options-init.php:242
+#, php-format
+msgid "The default user for %s."
+msgstr "Výchozí uživatel pro %s."
+
+#: admin/options-init.php:219
+msgid "The default user for new tickets."
+msgstr "Výchozí uživatel pro nové vstupenky."
+
+#: admin/options-init.php:877
+msgid ""
+"The folder where to scan for new mails. Most of the time it is the INBOX "
+"folder."
+msgstr ""
+"Složka, ve které se mají vyhledávat nové e-maily. Většinou je to složka "
+"INBOX."
+
+#: admin/options-init.php:310 admin/options-init.php:1405
+msgid "The icon must be in square format."
+msgstr "Ikona musí být ve čtvercovém formátu."
+
+#: admin/options-init.php:1347
+msgid "The logo will be used in all Mail notifications."
+msgstr "Logo bude použito ve všech oznámeních pošty."
+
+#: admin/options-init.php:1606
+msgid "The status when the rating form on single tickets should show."
+msgstr ""
+"Stav, kdy by se měl zobrazit formulář hodnocení na jednotlivých tiketech."
+
+#: admin/options-init.php:1647
+msgid "The status when the rating support email should be sent out."
+msgstr "Stav, kdy má být odeslán e-mail s podporou hodnocení."
+
+#: admin/options-init.php:885
+msgid "The target folder, where processed mails should be moved (eg. Archiv)."
+msgstr ""
+"Cílová složka, kam se mají přesouvat zpracované e-maily (např. Archiv)."
+
+#: admin/options-init.php:1510
+msgid ""
+"This allows you to save comments into a saved reply, that can be reused for "
+"later tickets."
+msgstr ""
+"To vám umožní uložit komentáře do uložené odpovědi, kterou lze znovu použít "
+"pro pozdější tipy."
+
+#: admin/options-init.php:1485
+msgid "This allows you to set a predefined reply template."
+msgstr "To vám umožní nastavit předdefinovanou šablonu odpovědi."
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:234
+#: admin/class-wordpress-helpdesk-livechat-backend.php:457
+msgid "This is not your Ticket!"
+msgstr "Toto není vaše vstupenka!"
+
+#: admin/options-init.php:1339
+msgid "This is the default from name for your mail notifications."
+msgstr "Toto je výchozí název pro vaše e-mailová upozornění."
+
+#: admin/class-wordpress-helpdesk-notifications.php:349
+#, php-format
+msgid "This ticket has been assigned from %s to %s"
+msgstr "Tento lístek byl přiřazen od %s do %s"
+
+#: admin/class-wordpress-helpdesk-notifications.php:406
+#, php-format
+msgid "This ticket has been assigned to %s"
+msgstr "Tento lístek byl přiřazen uživateli %s"
+
+#: admin/options-init.php:1734
+msgid "This ticket is closed. Please open a new one for further support."
+msgstr "Tento lístek je uzavřen. Pro další podporu otevřete nový."
+
+#: admin/options-init.php:1524
+msgid ""
+"This User will be used for automatic replies. You can create a user Bot for "
+"example and set it here."
+msgstr ""
+"Tento uživatel bude použit pro automatické odpovědi. Můžete si vytvořit "
+"například robota uživatele a nastavit jej zde."
+
+#: admin/options-init.php:1741
+msgid "This will be the page, where the login button will link to."
+msgstr "Toto bude stránka, na kterou bude odkazovat tlačítko přihlášení."
+
+#: admin/options-init.php:1933
+msgid ""
+"This will be used for notifications. Variables: {{title}}, {{support_logo}}, "
+"{{support_name}}, {{title}}, {{content}}, {{ticket_link}}, "
+"{{ticket_link_text}}, {{footer}}"
+msgstr ""
+"To bude použito pro oznámení. Proměnné: {{title}}, {{support_logo}}, "
+"{{support_name}}, {{title}}, {{content}}, {{ticket_link}}, "
+"{{ticket_link_text}}, {{footer}}"
+
+#: admin/options-init.php:1356
+msgid ""
+"This will be used in your mail notifications as the default reply to address."
+msgstr ""
+"Tato adresa bude použita ve vašich e-mailových oznámeních jako výchozí "
+"adresa pro odpověď."
+
+#: admin/options-init.php:1517
+msgid ""
+"This will use your saved replies based on tags & word matches to "
+"automatically reply."
+msgstr ""
+"To použije vaše uložené odpovědi na základě značek a shod slov k automatické "
+"odpovědi."
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:300
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:118
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:349
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1148
+#: admin/class-wordpress-helpdesk-livechat-backend.php:523
+msgid "Ticket"
+msgstr "Lístek"
+
+#: admin/options-init.php:1733
+msgid "Ticket closed Text"
+msgstr "Vstupenka uzavřena Text"
+
+#: admin/class-wordpress-helpdesk-form.php:146
+msgid "Ticket could not be created!"
+msgstr "Vstupenku se nepodařilo vytvořit!"
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:101
+#: admin/class-wordpress-helpdesk-livechat-backend.php:183
+msgid "Ticket could not be created. Please contact support email directly."
+msgstr ""
+"Lístek se nepodařilo vytvořit. Kontaktujte prosím přímo e-mail podpory."
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:224
+#: admin/class-wordpress-helpdesk-livechat-backend.php:447
+msgid "Ticket does not exists."
+msgstr "Lístek neexistuje."
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:519
+msgid "Ticket ID"
+msgstr "ID vstupenky"
+
+#: admin/class-wordpress-helpdesk-inbox.php:396
+msgid "Ticket ID for your Reply could not be found."
+msgstr "ID tiketu pro vaši odpověď nebylo nalezeno."
+
+#: admin/class-wordpress-helpdesk-exporter.php:204
+msgid "Ticket Information"
+msgstr "Informace o vstupenkách"
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:160
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:216
+#: admin/class-wordpress-helpdesk-livechat-backend.php:320
+#: admin/class-wordpress-helpdesk-livechat-backend.php:439
+msgid "Ticket not set."
+msgstr "Lístek není nastaven."
+
+#: admin/class-wordpress-helpdesk-form.php:140
+#, php-format
+msgid ""
+"Ticket successfully created! You can <a href=\"%s\">view it here</a>.<br/>"
+msgstr ""
+"Vstupenka byla úspěšně vytvořena! <a href=\"%s\">Prohlédnout si jej můžete "
+"zde</a> .<br/>"
+
+#: admin/class-wordpress-helpdesk-ticket-notes.php:107
+msgid "Ticket Sytem"
+msgstr "Systém jízdenek"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:119
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:130
+#: admin/options-init.php:1690
+msgid "Tickets"
+msgstr "Vstupenky"
+
+#: admin/class-wordpress-helpdesk-reports.php:281
+msgid "Tickets by Agent"
+msgstr "Vstupenky od Agenta"
+
+#: admin/class-wordpress-helpdesk-reports.php:374
+msgid "Tickets by Department"
+msgstr "Vstupenky podle oddělení"
+
+#: admin/class-wordpress-helpdesk-reports.php:326
+msgid "Tickets by Month"
+msgstr "Vstupenky podle měsíce"
+
+#: admin/class-wordpress-helpdesk-reports.php:383
+msgid "Tickets by Priority"
+msgstr "Vstupenky podle priority"
+
+#: admin/class-wordpress-helpdesk-reports.php:290
+msgid "Tickets by Reporter"
+msgstr "Vstupenky od Reportéra"
+
+#: admin/class-wordpress-helpdesk-reports.php:299
+msgid "Tickets by Satisfaction"
+msgstr "Vstupenky od Satisfaction"
+
+#: admin/class-wordpress-helpdesk-reports.php:308
+msgid "Tickets by Source"
+msgstr "Vstupenky podle zdroje"
+
+#: admin/class-wordpress-helpdesk-reports.php:356
+msgid "Tickets by Status"
+msgstr "Vstupenky podle stavu"
+
+#: admin/class-wordpress-helpdesk-reports.php:365
+msgid "Tickets by Type"
+msgstr "Vstupenky podle typu"
+
+#: admin/class-wordpress-helpdesk-reports.php:317
+msgid "Tickets by Year"
+msgstr "Vstupenky podle roku"
+
+#: admin/class-wordpress-helpdesk-reports.php:335
+msgid "Tickets created by Year / Month"
+msgstr "Vstupenky vytvořené podle roku / měsíce"
+
+#: admin/options-init.php:298
+msgid "Time in minutes when the welcome message should pop up again."
+msgstr "Čas v minutách, kdy by se měla uvítací zpráva znovu objevit."
+
+#: admin/options-init.php:318
+msgid "Timeout"
+msgstr "Časový limit"
+
+#: admin/widgets/faq-topics.php:112 admin/widgets/faq-dynamic-posts.php:103
+msgid "Title:"
+msgstr "Titul:"
+
+#: admin/options-init.php:894
+msgid "TLS"
+msgstr "TLS"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:908
+msgid "Topic"
+msgstr "Téma"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:496
+msgid "Topic missing."
+msgstr "Téma chybí."
+
+#: admin/options-init.php:398
+msgid "Topic title Appendix"
+msgstr "Název tématu Příloha"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:909
+#: admin/widgets/faq-topics.php:111
+msgid "Topics"
+msgstr "Témata"
+
+#: admin/options-init.php:458
+msgid "Topics Columns"
+msgstr "Témata Sloupce"
+
+#: admin/options-init.php:448
+msgid "Topics Layout"
+msgstr "Rozložení témat"
+
+#: admin/class-wordpress-helpdesk-reports.php:352
+msgid "Total"
+msgstr "Celkový"
+
+#: admin/options-init.php:1820
+msgid "traditional"
+msgstr "tradiční"
+
+#: admin/options-init.php:1873
+msgid "Turkish"
+msgstr "turečtina"
+
+#: admin/options-init.php:836
+msgid "Twice daily"
+msgstr "Dvakrát denně"
+
+#: admin/class-wordpress-helpdesk-form.php:532
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:226
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1153
+#: admin/class-wordpress-helpdesk-exporter.php:216
+#: admin/class-wordpress-helpdesk-my-tickets.php:144
+msgid "Type"
+msgstr "Typ"
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:403
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:513
+#: admin/class-wordpress-helpdesk-livechat-backend.php:252
+msgid "Type your message…"
+msgstr "Napište svou zprávu…"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:227
+msgid "Types"
+msgstr "Typy"
+
+#: admin/options-init.php:600 admin/options-init.php:665
+#: admin/options-init.php:743
+msgid "Types Select Field"
+msgstr "Typy Vyberte pole"
+
+#: admin/options-init.php:1874
+msgid "Ukrainian"
+msgstr "ukrajinština"
+
+#: admin/class-wordpress-helpdesk-notifications.php:327
+#: admin/class-wordpress-helpdesk-notifications.php:336
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:644
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1171
+#: admin/class-wordpress-helpdesk-slack.php:231
+#: admin/class-wordpress-helpdesk-slack.php:240
+#: admin/class-wordpress-helpdesk-log.php:238
+#: admin/class-wordpress-helpdesk-log.php:247
+#: admin/class-wordpress-helpdesk-reports.php:168
+msgid "Unassigned"
+msgstr "Nepřiřazeno"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:200
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:237
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:274
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:311
+#: admin/class-wordpress-helpdesk-saved-replies.php:358
+#: admin/class-wordpress-helpdesk-saved-replies.php:394
+#: admin/class-wordpress-helpdesk-faq-post-type.php:919
+#, php-format
+msgid "Update %s"
+msgstr "Aktualizovat %s"
+
+#: admin/options-init.php:1875
+msgid "Urdu"
+msgstr "Urdu"
+
+#: admin/options-init.php:140
+msgid "Use Excel 2007"
+msgstr "Použijte Excel 2007"
+
+#: admin/options-init.php:1924
+msgid "Use Theme Template"
+msgstr "Použijte šablonu motivu"
+
+#: admin/widgets/faq-dynamic-posts.php:6
+msgid ""
+"Use this if you want to show FAQs dynamically based on the current users FAQ "
+"page."
+msgstr ""
+"Použijte toto, pokud chcete zobrazovat často kladené dotazy dynamicky na "
+"základě stránky s často kladenými dotazy aktuálních uživatelů."
+
+#: admin/widgets/faq-live-search.php:6
+msgid "Use this to show the live ajax search for FAQs"
+msgstr "Použijte toto k zobrazení živého vyhledávání ajaxu pro časté dotazy"
+
+#: admin/class-wordpress-helpdesk-comments-processor.php:121
+msgid "User Exists. The comment has been created by your account."
+msgstr "Uživatel existuje. Komentář byl vytvořen vaším účtem."
+
+#: admin/class-wordpress-helpdesk-comments-processor.php:129
+msgid "User not exists, but account could not be created."
+msgstr "Uživatel neexistuje, ale účet nelze vytvořit."
+
+#: admin/class-wordpress-helpdesk-ticket-processor.php:183
+#, php-format
+msgid ""
+"User not exists, but account could not be created. <a href=\"%s\" "
+"title=\"Login\">Please login first</a>!"
+msgstr ""
+"Uživatel neexistuje, ale účet nelze vytvořit. <a href=\"%s\" "
+"title=\"Přihlásit se\">Nejprve se prosím přihlaste</a> !"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:811
+msgid "User Role Access"
+msgstr "Přístup k uživatelské roli"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1050
+msgid "User Role Access."
+msgstr "Přístup k uživatelské roli."
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:842
+msgid "User Roles Access"
+msgstr "Přístup k uživatelským rolím"
+
+#: admin/options-init.php:860
+msgid "Username & Password"
+msgstr "Uživatelské jméno heslo"
+
+#: admin/class-wordpress-helpdesk-comments-processor.php:113
+#: admin/class-wordpress-helpdesk-ticket-processor.php:159
+msgid "Username not set!"
+msgstr "Uživatelské jméno není nastaveno!"
+
+#: admin/class-wordpress-helpdesk-ticket-processor.php:169
+#, php-format
+msgid ""
+"Username or Email exists.  <a href=\"%s\" title=\"Login\">Please login to "
+"create a ticket</a>."
+msgstr ""
+"Uživatelské jméno nebo e-mail existuje. <a href=\"%s\" title=\"Přihlásit "
+"se\">Pro vytvoření tiketu se prosím přihlaste</a> ."
+
+#: admin/options-init.php:1876
+msgid "Uzbek"
+msgstr "uzbecký"
+
+#: admin/options-init.php:1877
+msgid "Vietnamese"
+msgstr "vietnamština"
+
+#: admin/class-wordpress-helpdesk-my-tickets.php:235
+msgid "View"
+msgstr "Pohled"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:137
+#: admin/class-wordpress-helpdesk-saved-replies.php:294
+#: admin/class-wordpress-helpdesk-faq-post-type.php:759
+#, php-format
+msgid "View %s"
+msgstr "Zobrazit %s"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:276
+#: admin/class-wordpress-helpdesk-faq-post-type.php:284
+#, php-format
+msgid "View %s article"
+msgid_plural "View %s articles"
+msgstr[0] "Zobrazit %s článek"
+msgstr[1] "Zobrazit články %s"
+msgstr[2] ""
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:404
+#: admin/class-wordpress-helpdesk-faq-post-type.php:724
+msgid "View Article"
+msgstr "Zobrazit článek"
+
+#: admin/class-wordpress-helpdesk-notifications.php:48
+#: admin/class-wordpress-helpdesk-support-rating.php:73
+msgid "View Ticket"
+msgstr "Zobrazit vstupenku"
+
+#: admin/views/single-faq.php:126
+#, php-format
+msgid "Viewed: %s"
+msgstr "Zobrazeno: %s"
+
+#: admin/class-wordpress-helpdesk-inbox.php:483
+msgid "Visit our Website"
+msgstr "Navštívit naši stránku"
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:469
+msgid "Visitor"
+msgstr "Návštěvník"
+
+#: admin/class-wordpress-helpdesk-reports.php:202
+msgid "Waiting"
+msgstr "Čekání"
+
+#: admin/class-wordpress-helpdesk-comments-processor.php:126
+#: admin/class-wordpress-helpdesk-ticket-processor.php:180
+msgid "We created an account for you – Check your inbox!"
+msgstr "Vytvořili jsme pro vás účet – zkontrolujte svou doručenou poštu!"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1117
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1157
+#, php-format
+msgid "We found more than %d results ..."
+msgstr "Našli jsme více než %d výsledků..."
+
+#: admin/class-wordpress-helpdesk-support-rating.php:177
+msgid "We would be happy if you leave a feedback message:"
+msgstr "Budeme rádi, když nám zanecháte zpětnou vazbu:"
+
+#: admin/class-wordpress-helpdesk-form.php:744 admin/options-init.php:606
+#: admin/options-init.php:671 admin/options-init.php:749
+msgid "Website URL"
+msgstr "URL stránky"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:377
+#: admin/views/single-ticket.php:247
+msgid "Website:"
+msgstr "Webová stránka:"
+
+#. Author of the plugin
+msgid "weLaunch"
+msgstr "weLaunch"
+
+#: admin/options-init.php:290
+msgid "Welcome Text"
+msgstr "Uvítací text"
+
+#: admin/options-init.php:1450
+msgid "Welcome Text (Offline)"
+msgstr "Uvítací text (offline)"
+
+#: admin/options-init.php:1443
+msgid "Welcome Text (Online)"
+msgstr "Uvítací text (online)"
+
+#: admin/options-init.php:297
+msgid "Welcome Timout"
+msgstr "Vítejte Timout"
+
+#: admin/options-init.php:283
+msgid "Welcome Title"
+msgstr "Uvítací titulek"
+
+#: admin/options-init.php:284
+msgid "Welcome to Helpdesk"
+msgstr "Vítejte v Helpdesku"
+
+#: admin/options-init.php:1878
+msgid "Welsh"
+msgstr "velština"
+
+#: admin/options-init.php:526
+msgid ""
+"When enabled you can set user role access per FAQ by editing a FAQ in "
+"backend."
+msgstr ""
+"Když je tato možnost povolena, můžete nastavit přístup uživatelské role "
+"podle FAQ úpravou FAQ v backendu."
+
+#: admin/options-init.php:1540
+msgid "When no saved reply was found based on tags."
+msgstr "Když nebyla nalezena žádná uložená odpověď na základě značek."
+
+#: admin/options-init.php:1258
+msgid "Whenever a comment has been added. "
+msgstr "Kdykoli byl přidán komentář."
+
+#: admin/options-init.php:1296
+msgid "Whenever the assigned agent changed. "
+msgstr "Kdykoli se změnil přidělený agent."
+
+#: admin/options-init.php:783
+msgid "Where is my stuff?"
+msgstr "Kde jsou mé věci?"
+
+#: admin/options-init.php:117
+msgid "Where you want to show the sidebar."
+msgstr "Kde chcete zobrazit postranní panel."
+
+#: admin/class-wordpress-helpdesk-sidebar-widgets.php:50
+msgid "Widgets in this area will be shown on all posts and pages."
+msgstr "Widgety v této oblasti se zobrazí u všech příspěvků a stránek."
+
+#: admin/options-init.php:724
+msgid "WooCommerce Form Fields"
+msgstr "Pole formuláře WooCommerce"
+
+#: admin/options-init.php:996
+msgid "WooCommerce Integration"
+msgstr "Integrace WooCommerce"
+
+#: admin/options-init.php:1024
+msgid "WooCommerce – FAQ - Accordion "
+msgstr "WooCommerce – FAQ – Akordeon"
+
+#: admin/options-init.php:1030
+msgid "WooCommerce – FAQ – Columns"
+msgstr "WooCommerce – FAQ – Sloupce"
+
+#: admin/options-init.php:1017
+msgid "WooCommerce – FAQ – Show excerpt and read more."
+msgstr "WooCommerce – FAQ – Ukažte úryvek a přečtěte si více."
+
+#: admin/options-init.php:1041
+msgid "WooCommerce – Hide Admin bar for Reporters"
+msgstr "WooCommerce – Skrýt administrátorskou lištu pro reportéry"
+
+#: admin/options-init.php:1048
+msgid "WooCommerce – Prevent Admin access for Reporters"
+msgstr "WooCommerce – Zabraňte reportérům v přístupu správce"
+
+#: admin/options-init.php:1002
+msgid "WooCommerce – Show FAQs Tab on Product pages"
+msgstr "WooCommerce – Zobrazit kartu FAQ na produktových stránkách"
+
+#: admin/options-init.php:26 admin/options-init.php:28
+msgid "WordPress Helpdesk"
+msgstr "Helpdesk WordPress"
+
+#: wordpress-helpdesk.php:108
+msgid ""
+"WordPress Helpdesk requires the weLaunch Framework Please install or "
+"activate it before: https://www.welaunch.io/updates/welaunch-framework.zip"
+msgstr ""
+"WordPress Helpdesk vyžaduje rámec weLaunch Prosím nainstalujte nebo "
+"aktivujte jej dříve: https://www.welaunch.io/updates/welaunch-framework.zip"
+
+#. Name of the plugin
+msgid "WordPress TotalDesk"
+msgstr "WordPress TotalDesk"
+
+#: admin/class-wordpress-helpdesk-support-rating.php:94
+msgid "Wrong satisfied value."
+msgstr "Špatně spokojená hodnota."
+
+#: admin/class-wordpress-helpdesk-exporter.php:40
+msgid "You are not an admin"
+msgstr "Nejste správce"
+
+#: admin/options-init.php:365
+msgid "You can also use the widget instead of this search."
+msgstr "Místo tohoto hledání můžete také použít widget."
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1450
+msgid "You do not have sufficient access rights to see this FAQ."
+msgstr "K zobrazení tohoto FAQ nemáte dostatečná přístupová práva."
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:527
+msgid "You do not have sufficient access rights to see this topic."
+msgstr "K zobrazení tohoto tématu nemáte dostatečná přístupová práva."
+
+#: admin/class-wordpress-helpdesk-form.php:344
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:504
+msgid "Your Email"
+msgstr "Tvůj e-mail"
+
+#: admin/options-init.php:966
+msgid "Your Envato Username"
+msgstr "Vaše uživatelské jméno Envato"
+
+#: admin/class-wordpress-helpdesk-form.php:321
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:501
+msgid "Your Name"
+msgstr "Tvé jméno"
+
+#: admin/class-wordpress-helpdesk-form.php:570
+msgid "Your Order"
+msgstr "Vaše objednávka"
+
+#: admin/class-wordpress-helpdesk-form.php:595
+msgid "Your Subject"
+msgstr "Tvůj předmět"
+
+#: admin/class-wordpress-helpdesk-exporter.php:53
+msgid "Your Ticket Export is ready. The Download should start automatically."
+msgstr ""
+"Váš Ticket Export je připraven. Stahování by se mělo spustit automaticky."

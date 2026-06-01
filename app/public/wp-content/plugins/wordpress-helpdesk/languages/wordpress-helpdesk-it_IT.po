@@ -1,0 +1,3095 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress TotalDesk\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-07 08:41+0000\n"
+"PO-Revision-Date: 2024-08-23 17:49+0000\n"
+"Last-Translator: WeLaunch\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.1"
+
+#: admin/class-wordpress-helpdesk-log.php:74
+#: admin/class-wordpress-helpdesk-livechat-backend.php:160
+msgid " by "
+msgstr " di "
+
+#: admin/options-init.php:94
+msgid "\">register your License here</a>."
+msgstr "\"> registra la tua licenza qui </a>."
+
+#: admin/class-wordpress-helpdesk-livechat-backend.php:395
+#, php-format
+msgid "%d Chat Tickets created yet"
+msgstr "%d Biglietti chat creati ancora"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:212
+#: admin/class-wordpress-helpdesk-saved-replies.php:213
+#: admin/class-wordpress-helpdesk-saved-replies.php:222
+#: admin/class-wordpress-helpdesk-saved-replies.php:248
+#: admin/class-wordpress-helpdesk-saved-replies.php:249
+#: admin/class-wordpress-helpdesk-saved-replies.php:258
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: admin/class-wordpress-helpdesk-notifications.php:158
+#: admin/class-wordpress-helpdesk-log.php:151
+#, php-format
+msgid "%s changed from %s to %s"
+msgstr "%s cambiato da %s a %s"
+
+#: admin/class-wordpress-helpdesk-slack.php:180
+#, php-format
+msgid "%s changed from %s to: %s"
+msgstr "%s cambiato da %s a: %s"
+
+#: admin/class-wordpress-helpdesk-notifications.php:193
+#: admin/class-wordpress-helpdesk-slack.php:192
+#: admin/class-wordpress-helpdesk-log.php:160
+#, php-format
+msgid "%s changed to: %s"
+msgstr "%s cambiato in: %s"
+
+#: admin/class-wordpress-helpdesk-ticket-processor.php:220
+#, php-format
+msgid "%s not set!"
+msgstr "%s non impostato!"
+
+#: admin/class-wordpress-helpdesk-form.php:786
+msgid "*"
+msgstr "*"
+
+#: admin/options-init.php:864
+msgid "110"
+msgstr "110"
+
+#: admin/options-init.php:862
+msgid "143"
+msgstr "143"
+
+#: admin/options-init.php:863
+msgid "993"
+msgstr "993"
+
+#: admin/options-init.php:865
+msgid "995"
+msgstr "995"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:504
+#: admin/class-wordpress-helpdesk-faq-post-type.php:517
+#: admin/views/single-faq.php:86
+msgid "< Back to "
+msgstr "<Torna a"
+
+#: admin/class-wordpress-helpdesk-form.php:95 admin/views/single-ticket.php:95
+msgid "< Back to My Tickets"
+msgstr "<Back to My Tickets"
+
+#: admin/options-init.php:930
+msgid ""
+"<a href=\"https://build.Envato.com/my-apps/\" target=\"_blank\">Click here "
+"to get your API key > Person Tokens</a>."
+msgstr ""
+"<a href=\"https://build.Envato.com/my-apps/\" target=\"_blank\"> Fai clic "
+"qui per ottenere la chiave API> Token persona </a>."
+
+#: admin/options-init.php:1076
+msgid ""
+"<a href=\"https://developers.facebook.com/docs/messenger-"
+"platform/discovery/customer-chat-plugin#steps\">Follow the steps here to get "
+"the Messenger code.</a>"
+msgstr ""
+"<a href=\"https://developers.facebook.com/docs/messenger-"
+"platform/discovery/customer-chat-plugin#steps\">Segui i passaggi qui per "
+"ottenere il codice Messenger.</a>"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:93
+msgid "<h2>No Topics created so far!</h2>"
+msgstr "<h2> Nessun argomento creato finora! </ h2>"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1147
+msgid ""
+"<span class=\"vers comment-grey-bubble\" title=\"Comments\"><span "
+"class=\"screen-reader-text\">Comments</span></span>"
+msgstr ""
+"<span class =  \"vers comment-gray-bubble \" title =  \"Commenti \"> <span "
+"class =  \"screen-reader-text \"> Commenti </ span> </ span>"
+
+#: admin/class-wordpress-helpdesk-my-tickets.php:161
+#, php-format
+msgid "[Ticket: %s]"
+msgstr "[Ticket: %s ]"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1085
+#, php-format
+msgid "[Ticket: %s] %s"
+msgstr "[Ticket: %s ] %s"
+
+#: admin/class-wordpress-helpdesk-slack.php:176
+#: admin/class-wordpress-helpdesk-slack.php:188
+#, php-format
+msgid "[Ticket: %s] %s changed"
+msgstr "[Ticket: %s ] %s cambiato"
+
+#: admin/class-wordpress-helpdesk-slack.php:93
+#: admin/class-wordpress-helpdesk-slack.php:132
+#: admin/class-wordpress-helpdesk-slack.php:178
+#: admin/class-wordpress-helpdesk-slack.php:190
+#: admin/class-wordpress-helpdesk-slack.php:253
+#: admin/class-wordpress-helpdesk-slack.php:289
+#, php-format
+msgid "[Ticket: %s] - %s"
+msgstr "[Ticket: %s ] - %s"
+
+#: admin/class-wordpress-helpdesk-slack.php:287
+#, php-format
+msgid "[Ticket: %s] Agent assigned"
+msgstr "[Ticket: %s ] Agente assegnato"
+
+#: admin/class-wordpress-helpdesk-slack.php:251
+#, php-format
+msgid "[Ticket: %s] Agent changed"
+msgstr "[Ticket: %s ] Agente cambiato"
+
+#: admin/options-init.php:324
+msgid ""
+"A custom Post Type FAQ will be created. Tickets can be copied into a new FAQ."
+msgstr ""
+"Verrà creata una FAQ personalizzata sul tipo di post. I biglietti possono "
+"essere copiati in una nuova FAQ."
+
+#: admin/options-init.php:666
+msgid ""
+"A selected Item will be overwritten when an item is found within the "
+"purchase code."
+msgstr ""
+"Un articolo selezionato verrà sovrascritto quando un oggetto viene trovato "
+"nel codice di acquisto."
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:112
+#: admin/class-wordpress-helpdesk-livechat-backend.php:195
+#, php-format
+msgid "A seperate Chat-Ticket with the ID %s has been created."
+msgstr "È stato creato un ticket chat separato con l'ID %s ."
+
+#: admin/class-wordpress-helpdesk-notifications.php:96
+#, php-format
+msgid "A Ticket with the ID %s has been created"
+msgstr "È stato creato un ticket con l'ID %s"
+
+#: admin/options-init.php:534 admin/options-init.php:541
+#: admin/options-init.php:1681 admin/options-init.php:1687
+msgid "Accepts shortcodes also."
+msgstr "Accetta anche codici brevi."
+
+#: admin/class-wordpress-helpdesk-my-tickets.php:146
+msgid "Actions"
+msgstr "Azioni"
+
+#: admin/class-wordpress-helpdesk-ticket-notes.php:92
+msgid "Add"
+msgstr "Inserisci"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:134
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:201
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:238
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:275
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:312
+#: admin/class-wordpress-helpdesk-saved-replies.php:152
+#: admin/class-wordpress-helpdesk-saved-replies.php:220
+#: admin/class-wordpress-helpdesk-saved-replies.php:256
+#: admin/class-wordpress-helpdesk-faq-post-type.php:693
+#: admin/class-wordpress-helpdesk-faq-post-type.php:766
+#, php-format
+msgid "Add New %s"
+msgstr "Aggiungi nuovo %s"
+
+#: admin/class-wordpress-helpdesk-ticket-notes.php:86
+msgid "Add Note"
+msgstr "Aggiungi nota"
+
+#: admin/options-init.php:338
+msgid "Add Schema.org Support"
+msgstr "Aggiungi supporto Schema.org"
+
+#: admin/options-init.php:1855 admin/options-init.php:1862
+msgid "Add some stylesheet if you want."
+msgstr "Aggiungi un foglio di stile, se vuoi."
+
+#: admin/options-init.php:1824
+msgid "Advanced settings"
+msgstr "Impostazioni avanzate"
+
+#: admin/options-init.php:1717
+msgid "Afrikaans"
+msgstr "afrikaans"
+
+#: admin/options-init.php:1614
+msgid "After login all reporters will be redirected to the my tickets page."
+msgstr ""
+"Dopo l'accesso tutti i reporter verranno reindirizzati alla pagina dei miei "
+"ticket."
+
+#: admin/views/single-ticket.php:229
+#, php-format
+msgid "Agent: %s"
+msgstr "Agente: %s"
+
+#: admin/options-init.php:1620
+msgid "Agents can create tickets for Users"
+msgstr "Gli agenti possono creare ticket per gli utenti"
+
+#: admin/options-init.php:263 admin/options-init.php:1413
+msgid "AJAX Interval"
+msgstr "Intervallo AJAX"
+
+#: admin/options-init.php:1718
+msgid "Albanian"
+msgstr "albanese"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:122
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:124
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:196
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:233
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:270
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:307
+#: admin/class-wordpress-helpdesk-saved-replies.php:149
+#: admin/class-wordpress-helpdesk-saved-replies.php:215
+#: admin/class-wordpress-helpdesk-saved-replies.php:251
+#: admin/class-wordpress-helpdesk-faq-post-type.php:690
+#: admin/class-wordpress-helpdesk-faq-post-type.php:761
+#, php-format
+msgid "All %s"
+msgstr "Tutto %s"
+
+#: admin/options-init.php:1338
+msgid "Allow Attachments"
+msgstr "Consenti allegati"
+
+#: admin/options-init.php:1331
+msgid "Allow Guest-Chat"
+msgstr "Consenti chat ospite"
+
+#: admin/options-init.php:1628
+msgid "Allow Ticket creation via Forms only when User is logged in."
+msgstr ""
+"Consenti la creazione del ticket tramite moduli solo quando l'utente ha "
+"effettuato l'accesso."
+
+#: admin/options-init.php:1748
+msgid "Alternative"
+msgstr "Alternativa"
+
+#: admin/options-init.php:1719
+msgid "Amharic"
+msgstr "Amarico"
+
+#: admin/options-init.php:1720
+msgid "Arabic"
+msgstr "Arabo"
+
+#: admin/options-init.php:841
+msgid "Archive Folder"
+msgstr "Cartella archivio"
+
+#: admin/options-init.php:1721
+msgid "Armenian"
+msgstr "armeno"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1307
+msgid "Articles Found"
+msgstr "Articoli trovati"
+
+#: admin/options-init.php:1244
+msgid "Assigned Agent Changed Notification"
+msgstr "Notifica modificata agente assegnato"
+
+#: admin/class-wordpress-helpdesk-slack.php:255
+#: admin/class-wordpress-helpdesk-log.php:265
+#, php-format
+msgid "Assigned from %s to %s"
+msgstr "Assegnato da %s a %s"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1141
+msgid "Assigned To"
+msgstr "Assegnato a"
+
+#: admin/class-wordpress-helpdesk-notifications.php:344
+#: admin/class-wordpress-helpdesk-notifications.php:401
+#: admin/class-wordpress-helpdesk-slack.php:291
+#: admin/class-wordpress-helpdesk-log.php:263
+#: admin/class-wordpress-helpdesk-log.php:298
+#, php-format
+msgid "Assigned to %s"
+msgstr "Assegnato a %s"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:633
+msgid "Assigned to: "
+msgstr "Assegnato a: "
+
+#: admin/class-wordpress-helpdesk-form.php:728
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:351
+#: admin/class-wordpress-helpdesk-attachments.php:63
+#: admin/views/single-ticket.php:393
+msgid "Attachments"
+msgstr "allegati"
+
+#: admin/options-init.php:587 admin/options-init.php:646
+#: admin/options-init.php:718
+msgid "Attachments field"
+msgstr "Campo allegati"
+
+#: admin/options-init.php:1446
+msgid "Automatic Reply User"
+msgstr "Automatic Reply User"
+
+#: admin/options-init.php:1663
+msgid "Automatically Close Tickets"
+msgstr "Chiudi automaticamente i ticket"
+
+#: admin/options-init.php:1664
+msgid ""
+"Automatically set Tickets to close / solved after X Days no comment / update "
+"was made. You need to set a default solved status!"
+msgstr ""
+"Imposta automaticamente la chiusura / risoluzione dei ticket dopo X giorni "
+"senza commenti / aggiornamenti. È necessario impostare uno stato risolto "
+"predefinito!"
+
+#: admin/options-init.php:1722
+msgid "Azerbaijan"
+msgstr "Azerbaigian"
+
+#: admin/options-init.php:1535 admin/options-init.php:1583
+msgid "Bad, I'm unsatisfied"
+msgstr "Cattivo, sono insoddisfatto"
+
+#: admin/options-init.php:1723
+msgid "Bangla"
+msgstr "Bangla"
+
+#: admin/options-init.php:1724
+msgid "Basque"
+msgstr "Basco"
+
+#: admin/options-init.php:1725
+msgid "Belarusian"
+msgstr "Bielorusso"
+
+#: admin/options-init.php:1762
+msgid "Bokmal"
+msgstr "Bokmal"
+
+#: admin/options-init.php:434
+msgid "Boxed Layout"
+msgstr "Layout in scatola"
+
+#: admin/options-init.php:1767
+msgid "Brasil"
+msgstr "Brasile"
+
+#: admin/options-init.php:1726
+msgid "Bulgarian"
+msgstr "bulgaro"
+
+#: admin/options-init.php:1406
+msgid "Button Text"
+msgstr "Pulsante testo"
+
+#: admin/options-init.php:1727
+msgid "Catalan"
+msgstr "catalano"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:209
+msgid "Categories"
+msgstr "categorie"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:208
+msgid "Category"
+msgstr "Categoria"
+
+#: admin/options-init.php:751
+msgid "Change an order"
+msgstr "Cambia un ordine"
+
+#: admin/options-init.php:1120
+msgid "Chatra Code"
+msgstr "Codice di Chatra"
+
+#: admin/options-init.php:894
+msgid "Check Folder"
+msgstr "Controlla cartella"
+
+#: admin/options-init.php:944
+msgid "Check Support until for Purchase?"
+msgstr "Controllare l'assistenza fino all'acquisto?"
+
+#: admin/options-init.php:332
+msgid "Check this to enable our FAQ feature."
+msgstr "Seleziona questa opzione per abilitare la nostra funzione FAQ."
+
+#: admin/options-init.php:1729
+msgid "Chinese"
+msgstr "Cinese"
+
+#: admin/options-init.php:218
+msgid "Choose a default agent per selected department."
+msgstr "Scegli un agente predefinito per il reparto selezionato."
+
+#: admin/options-init.php:1634
+msgid "Close Comment section when Ticket closed"
+msgstr "Chiudi la sezione dei commenti quando il ticket è chiuso"
+
+#: admin/views/single-ticket.php:105
+msgid "Close ticket"
+msgstr "Chiudi biglietto"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:977
+msgid "Color"
+msgstr "Colore"
+
+#: admin/class-wordpress-helpdesk-notifications.php:257
+#: admin/class-wordpress-helpdesk-log.php:199
+msgid "Comment added"
+msgstr "Commento aggiunto"
+
+#: admin/options-init.php:1206
+msgid "Comment Added Notification"
+msgstr "Commento aggiunto notifica"
+
+#: admin/options-init.php:1693
+msgid "Configure what you want to show in the My tickets table."
+msgstr "Configura ciò che desideri mostrare nella tabella I miei biglietti."
+
+#: admin/options-init.php:540
+msgid "Content After FAQ"
+msgstr "Contenuto dopo le domande frequenti"
+
+#: admin/options-init.php:1686
+msgid "Content After Single Ticket"
+msgstr "Contenuto dopo biglietto singolo"
+
+#: admin/options-init.php:533
+msgid "Content Before FAQ"
+msgstr "Contenuto prima delle domande frequenti"
+
+#: admin/options-init.php:1680
+msgid "Content Before Single Ticket"
+msgstr "Contenuto prima del biglietto singolo"
+
+#: admin/class-wordpress-helpdesk-log.php:79
+msgid "Content: "
+msgstr "Soddisfare: "
+
+#: admin/options-init.php:1121
+msgid "Copy & paste the HTML code here. https://app.chatra.io/settings/general"
+msgstr ""
+"Copia e incolla qui il codice HTML. https://app.chatra.io/settings/general"
+
+#: admin/options-init.php:1091
+msgid ""
+"Copy & paste the HTML code here. https://app.crisp.chat/settings/websites/"
+msgstr ""
+"Copia e incolla qui il codice HTML. https://app.crisp.chat/settings/websites/"
+
+#: admin/options-init.php:1106
+msgid ""
+"Copy & paste the HTML code here. https://app.purechat.com/websites/install-"
+"first"
+msgstr ""
+"Copia e incolla qui il codice HTML. https://app.purechat."
+"com/websites/install-first"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:988
+#: admin/class-wordpress-helpdesk-faq-post-type.php:995
+#, php-format
+msgid "Could not find anything for: %s"
+msgstr "Impossibile trovare nulla per: %s"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:518
+msgid "Could not Merge Ticket."
+msgstr "Impossibile unire il biglietto."
+
+#: admin/widgets/faq-topics.php:122
+msgid "Count"
+msgstr "Contare"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:819
+msgid "Create FAQ from this Ticket"
+msgstr "Crea FAQ da questo ticket"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:309
+msgid "Create Saved Reply"
+msgstr "Crea risposta salvata"
+
+#: admin/class-wordpress-helpdesk-form.php:204
+msgid "Create Ticket"
+msgstr "Crea biglietto"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:602
+msgid "Created by: "
+msgstr "Creato da: "
+
+#: admin/class-wordpress-helpdesk-ticket-notes.php:77
+#: admin/class-wordpress-helpdesk-ticket-notes.php:134
+#, php-format
+msgid "created on %s by %s"
+msgstr "creato su %s da %s"
+
+#: admin/views/single-ticket.php:198 admin/views/single-ticket.php:231
+msgid "Created on:"
+msgstr "Creato:"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:601
+msgid "Created on: "
+msgstr "Creato: "
+
+#: admin/options-init.php:1090
+msgid "Crisp Code"
+msgstr "Codice Crisp"
+
+#: admin/options-init.php:1730
+msgid "Croatian"
+msgstr "croato"
+
+#: admin/class-wordpress-helpdesk-woocommerce.php:262
+msgid "Currently we do not have any frequently asked questions."
+msgstr "Al momento non abbiamo domande frequenti."
+
+#: admin/options-init.php:1854
+msgid "Custom CSS"
+msgstr "CSS personalizzato"
+
+#: admin/options-init.php:679
+msgid "Custom Envato Optional Fields"
+msgstr "Campi opzionali Envato personalizzati"
+
+#: admin/options-init.php:672
+msgid "Custom Envato Required Fields"
+msgstr "Campi obbligatori Envato personalizzati"
+
+#: admin/options-init.php:1861
+msgid "Custom JS"
+msgstr "JS personalizzato"
+
+#: admin/options-init.php:607
+msgid "Custom Optional Fields"
+msgstr "Campi opzionali personalizzati"
+
+#: admin/options-init.php:600
+msgid "Custom Required Fields"
+msgstr "Campi obbligatori personalizzati"
+
+#: admin/options-init.php:1825
+msgid "Custom stylesheet / javascript."
+msgstr "Foglio di stile personalizzato / javascript."
+
+#: admin/options-init.php:767
+msgid "Custom WooCommerce Optional Fields"
+msgstr "Campi opzionali WooCommerce personalizzati"
+
+#: admin/options-init.php:760
+msgid "Custom WooCommerce Required Fields"
+msgstr "Campi obbligatori WooCommerce personalizzati"
+
+#: admin/class-wordpress-helpdesk-form.php:305
+msgid "Customer Email (leave empty to create ticket with your current user)"
+msgstr ""
+"Email cliente (lasciare vuoto per creare un ticket con l'utente corrente)"
+
+#: admin/class-wordpress-helpdesk-form.php:282
+msgid "Customer Name (leave empty to create ticket with your current user)"
+msgstr ""
+"Nome cliente (lasciare vuoto per creare il biglietto con il tuo utente "
+"attuale)"
+
+#: admin/options-init.php:1731
+msgid "Czech"
+msgstr "ceco"
+
+#: admin/options-init.php:794
+msgid "Daily"
+msgstr "Quotidiano"
+
+#: admin/options-init.php:1732
+msgid "Danish"
+msgstr "danese"
+
+#: admin/options-init.php:593 admin/options-init.php:652
+#: admin/options-init.php:724
+msgid "Data Privacy Checkbox"
+msgstr "Casella di controllo Privacy dei dati"
+
+#: admin/options-init.php:1713
+msgid "Datatables Language"
+msgstr "Lingua dei dati"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1148
+#: admin/class-wordpress-helpdesk-my-tickets.php:123
+msgid "Date"
+msgstr "Data"
+
+#: admin/class-wordpress-helpdesk-reports.php:259
+msgid "Date Filter"
+msgstr "Filtro data"
+
+#: admin/class-wordpress-helpdesk-reports.php:263
+msgid "Date From (JJJJ-MM-DD)"
+msgstr "Data da (JJJJ-MM-DD)"
+
+#: admin/class-wordpress-helpdesk-reports.php:84
+msgid "Date From is not valid!"
+msgstr "Date From non è valido!"
+
+#: admin/class-wordpress-helpdesk-reports.php:267
+msgid "Date Until (JJJJ-MM-DD)"
+msgstr "Data Until (JJJJ-MM-DD)"
+
+#: admin/class-wordpress-helpdesk-reports.php:94
+msgid "Date Until is not valid!"
+msgstr "La data fino a non è valida!"
+
+#: admin/options-init.php:1670
+msgid "Days after a Ticket gets closed"
+msgstr "Giorni dopo la chiusura di un biglietto"
+
+#: admin/options-init.php:209
+msgid "Default Agent"
+msgstr "Agente predefinito"
+
+#: admin/options-init.php:232
+#, php-format
+msgid "Default Agent for %s"
+msgstr "Agente predefinito per %s"
+
+#: admin/options-init.php:217
+msgid "Default Agents by Department"
+msgstr "Agenti predefiniti per reparto"
+
+#: admin/options-init.php:203
+msgid "Default Department"
+msgstr "Dipartimento predefinito"
+
+#: admin/options-init.php:1353
+msgid "Default Icon"
+msgstr "Icona predefinita"
+
+#: admin/options-init.php:155
+msgid "Default New Ticket Status"
+msgstr "Stato nuovo ticket predefinito"
+
+#: admin/options-init.php:191
+msgid "Default priority"
+msgstr "Priorità predefinita"
+
+#: admin/options-init.php:167
+msgid "Default Solved (closed) Status"
+msgstr "Stato predefinito risolto (chiuso)"
+
+#: admin/options-init.php:442 admin/options-init.php:481
+msgid "Default Topic columns. Needs to be deviable by 12."
+msgstr "Colonne degli argomenti predefinite. Deve essere deviato entro 12."
+
+#: admin/options-init.php:179
+msgid "Default Type"
+msgstr "Tipo predefinito"
+
+#: admin/options-init.php:242
+msgid "Defaults"
+msgstr "Defaults"
+
+#: admin/class-wordpress-helpdesk-ticket-notes.php:78
+#: admin/class-wordpress-helpdesk-ticket-notes.php:135
+msgid "Delete Note"
+msgstr "Elimina nota"
+
+#: admin/class-wordpress-helpdesk-form.php:426
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:263
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1145
+#: admin/class-wordpress-helpdesk-my-tickets.php:135
+msgid "Department"
+msgstr "Dipartimento"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:264
+msgid "Departments"
+msgstr "dipartimenti"
+
+#: admin/widgets/faq-topics.php:120 admin/views/single-ticket.php:376
+msgid "Description"
+msgstr "Descrizione"
+
+#: admin/options-init.php:250
+msgid "Desktop Notifications"
+msgstr "Notifiche sul desktop"
+
+#: admin/options-init.php:1847
+msgid "Disable Fontawesome Loading"
+msgstr "Disabilita il caricamento di Fontawesome"
+
+#: admin/options-init.php:1635
+msgid ""
+"Disable replies when a ticket is closed. Make sure you set a default solved "
+"(closed) status in default settings."
+msgstr ""
+"Disabilita le risposte alla chiusura di un ticket. Assicurati di impostare "
+"uno stato risolto (chiuso) predefinito nelle impostazioni predefinite."
+
+#: admin/options-init.php:417
+msgid "Disable the Rating dislike button"
+msgstr "Disabilita il pulsante Non mi piace Valutazione"
+
+#: admin/options-init.php:887
+msgid "Do not validate Certificates."
+msgstr "Non convalidare certificati."
+
+#: admin/options-init.php:1733
+msgid "Dutch"
+msgstr "olandese"
+
+#: admin/widgets/faq-dynamic-posts.php:107
+msgid "Dynamic Title:"
+msgstr "Titolo dinamico:"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:135
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:199
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:236
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:273
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:310
+#: admin/class-wordpress-helpdesk-saved-replies.php:153
+#: admin/class-wordpress-helpdesk-saved-replies.php:218
+#: admin/class-wordpress-helpdesk-saved-replies.php:254
+#: admin/class-wordpress-helpdesk-faq-post-type.php:694
+#: admin/class-wordpress-helpdesk-faq-post-type.php:764
+#, php-format
+msgid "Edit %s"
+msgstr "Modifica %s"
+
+#: admin/options-init.php:810
+msgid "Email"
+msgstr "E-mail"
+
+#: admin/options-init.php:1568
+msgid "Email Intro"
+msgstr "Intro Email"
+
+#: admin/class-wordpress-helpdesk-comments-processor.php:116
+#: admin/class-wordpress-helpdesk-ticket-processor.php:156
+msgid "Email not set!"
+msgstr "Email non impostata!"
+
+#: admin/options-init.php:1589
+msgid "Email Outro"
+msgstr "Email Outro"
+
+#: admin/options-init.php:1554
+msgid "Email Rating Status"
+msgstr "Stato della valutazione e-mail"
+
+#: admin/options-init.php:1575 admin/options-init.php:1582
+msgid "Email Satisfied Text"
+msgstr "Invia per email il testo"
+
+#: admin/options-init.php:1561
+msgid "Email Subject"
+msgstr "Oggetto dell'email"
+
+#: admin/views/single-ticket.php:199 admin/views/single-ticket.php:232
+msgid "Email:"
+msgstr "E-mail:"
+
+#: admin/options-init.php:100
+msgid "Enable"
+msgstr "Abilitare"
+
+#: admin/options-init.php:1251
+msgid "Enable agent changed added Notification"
+msgstr "Abilita l'agente modificato Notifica aggiunta"
+
+#: admin/options-init.php:1439
+msgid "Enable Automatic Replies"
+msgstr "Abilita risposte automatiche"
+
+#: admin/options-init.php:1455
+msgid "Enable Automatic Replies for new Tickets"
+msgstr "Abilita risposte automatiche per nuovi ticket"
+
+#: admin/options-init.php:1462
+msgid "Enable Automatic Reply for new Ticket Replies"
+msgstr "Abilita risposta automatica per nuove risposte ticket"
+
+#: admin/options-init.php:1112
+msgid "Enable Chatra Live Chat."
+msgstr "Abilita Chat Chat Live."
+
+#: admin/options-init.php:1213
+msgid "Enable Comment added Notification"
+msgstr "Abilita notifica aggiunta commento"
+
+#: admin/options-init.php:1082
+msgid "Enable Crisp Live Chat."
+msgstr "Abilita chat live croccante."
+
+#: admin/options-init.php:1707
+msgid "Enable Datatables"
+msgstr "Abilita datatables"
+
+#: admin/options-init.php:257
+msgid "Enable Desktop Notifications"
+msgstr "Abilita le notifiche desktop"
+
+#: admin/options-init.php:1067
+msgid "Enable FB Messenger Live Chat."
+msgstr "Abilita la chat dal vivo di FB Messenger."
+
+#: admin/options-init.php:782
+msgid "Enable Inbox"
+msgstr "Abilita Posta in arrivo"
+
+#: admin/options-init.php:1325
+msgid "Enable Live Chat"
+msgstr "Abilita chat dal vivo"
+
+#: admin/options-init.php:1097
+msgid "Enable PureChat Live Chat."
+msgstr "Attiva la chat live di PureChat."
+
+#: admin/options-init.php:1432
+msgid "Enable Saved Replies"
+msgstr "Abilita risposte salvate"
+
+#: admin/options-init.php:1478
+msgid "Enable Support Rating"
+msgstr "Abilita valutazione supporto"
+
+#: admin/options-init.php:1542
+msgid "Enable Support Rating Email"
+msgstr "Abilita l'email di valutazione del supporto"
+
+#: admin/options-init.php:1501
+msgid "Enable Support Rating on Ticket Page"
+msgstr "Abilita la valutazione del supporto sulla pagina del ticket"
+
+#: admin/options-init.php:331
+msgid "Enable the FAQs Knowledge Base"
+msgstr "Abilita la Knowledge Base delle FAQ"
+
+#: admin/options-init.php:783
+msgid "Enable this to allow ticket creation via Email."
+msgstr "Abilitare questo per consentire la creazione di ticket tramite e-mail."
+
+#: admin/options-init.php:1833
+msgid "Enable this to override the custom templates."
+msgstr "Abilitare questo per sovrascrivere i modelli personalizzati."
+
+#: admin/options-init.php:101
+msgid "Enable TotalDesk."
+msgstr "Abilita TotalDesk."
+
+#: admin/options-init.php:1734
+msgid "English"
+msgstr "inglese"
+
+#: admin/options-init.php:1407
+msgid "Enter Chat"
+msgstr "Entra nella chat"
+
+#: admin/options-init.php:820
+msgid "Enter your Password"
+msgstr "Inserisci la tua password"
+
+#: admin/options-init.php:819
+msgid "Enter your Username"
+msgstr "Inserisci il tuo nome utente"
+
+#: admin/options-init.php:929
+msgid "Envato API Key"
+msgstr "Chiave API Envato"
+
+#: admin/options-init.php:615
+msgid "Envato Form Fields"
+msgstr "Campi di forma Envato"
+
+#: admin/options-init.php:917
+msgid "Envato Integration"
+msgstr "Integrazione Envato"
+
+#: admin/options-init.php:665
+msgid "Envato Items"
+msgstr "Articoli Envato"
+
+#: admin/class-wordpress-helpdesk-livechat-backend.php:355
+msgid "Error while uploading your attachment."
+msgstr "Errore durante il caricamento del tuo allegato."
+
+#: admin/options-init.php:1735
+msgid "Estonian"
+msgstr "Estone"
+
+#: admin/options-init.php:139
+msgid "Export all Tickets"
+msgstr "Esporta tutti i biglietti"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:685
+msgid "FAQ"
+msgstr "FAQ"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:855
+msgid "FAQ creation failed, could not find original ticket: "
+msgstr ""
+"Creazione di una FAQ non riuscita, impossibile trovare il biglietto "
+"originale: "
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1278
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1279
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1299
+msgid "FAQ Terms"
+msgstr "FAQ Termini"
+
+#: admin/widgets/faq-topics.php:6
+msgid "FAQ Topics"
+msgstr "Argomenti FAQ"
+
+#: admin/options-init.php:323
+msgid "FAQ – Knowledge Base"
+msgstr "FAQ - Knowledge Base"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:686
+#: admin/class-wordpress-helpdesk-faq-post-type.php:689
+msgid "FAQs"
+msgstr "FAQs"
+
+#: admin/options-init.php:1075
+msgid "FBMessenger Code"
+msgstr "Codice FBMessenger"
+
+#: admin/options-init.php:1491
+msgid "Feedback Page"
+msgstr "Pagina di feedback"
+
+#: admin/class-wordpress-helpdesk-support-rating.php:141
+msgid "Feedback received. Thanks!"
+msgstr "Feedback ricevuto. Grazie!"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:354
+msgid "Feedback:"
+msgstr "Risposta:"
+
+#: admin/class-wordpress-helpdesk-support-rating.php:124
+msgid "Feedback: "
+msgstr "Risposta:"
+
+#: admin/options-init.php:894
+msgid "Fetch Emails Now"
+msgstr "Recupera email adesso"
+
+#: admin/options-init.php:616
+msgid "Fields for the Simple [new_ticket type=\"Envato\"] form. "
+msgstr "Campi per il modulo [new_ticket type =  \"Envato \"] semplice. "
+
+#: admin/options-init.php:688
+msgid "Fields for the Simple [new_ticket type=\"WooCommerce\"] form. "
+msgstr "Campi per il modulo [new_ticket type =  \"WooCommerce \"] semplice. "
+
+#: admin/options-init.php:557
+msgid "Fields for the Simple [new_ticket] form. "
+msgstr "Campi per il modulo [new_ticket] semplice. "
+
+#: admin/options-init.php:1736
+msgid "Filipino"
+msgstr "Filippino"
+
+#: admin/class-wordpress-helpdesk-reports.php:276
+msgid "Filtered"
+msgstr "filtrato"
+
+#: admin/class-wordpress-helpdesk-reports.php:277
+msgid "Filtered Tickets:"
+msgstr "Biglietti filtrati:"
+
+#: admin/options-init.php:1737
+msgid "Finnish"
+msgstr "finlandese"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:881
+msgid "Font Awesome Icon."
+msgstr "Icona Font Awesome."
+
+#: admin/options-init.php:1311
+msgid "Footer for Mails"
+msgstr "Piè di pagina per posta"
+
+#: admin/options-init.php:548
+msgid "Form Fields"
+msgstr "Campi modulo"
+
+#: admin/options-init.php:1738
+msgid "French"
+msgstr "francese"
+
+#: admin/class-wordpress-helpdesk-woocommerce.php:276
+msgid "Frequently Asked Questions"
+msgstr "Domande frequenti"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1140
+msgid "From"
+msgstr "A partire dal"
+
+#: admin/options-init.php:1739
+msgid "Galician"
+msgstr "galiziano"
+
+#: admin/options-init.php:92
+msgid "General"
+msgstr "Generale"
+
+#: admin/options-init.php:1740
+msgid "Georgian"
+msgstr "georgiano"
+
+#: admin/options-init.php:1741
+msgid "German"
+msgstr "Tedesco"
+
+#: admin/options-init.php:749
+msgid "Gift Cards"
+msgstr "Carte regalo"
+
+#: admin/options-init.php:1528 admin/options-init.php:1576
+msgid "Good, I'm satisfied"
+msgstr "Bene, sono soddisfatto"
+
+#: admin/options-init.php:1742
+msgid "Greek"
+msgstr "greco"
+
+#: admin/options-init.php:1743
+msgid "Gujarati"
+msgstr "Gujarati"
+
+#: admin/options-init.php:1744
+msgid "Hebrew"
+msgstr "ebraico"
+
+#: admin/options-init.php:1569
+#, php-format
+msgid ""
+"Hello %s,<br/><br/>We'd love to hear about your support experience. Please "
+"take a moment to answer one simple question by clicking either link below:"
+"<br/><br/>How would you rate the support you received?<br/><br/>"
+msgstr ""
+"Salve %s , <br/> <br/> Ci piacerebbe conoscere la tua esperienza di supporto."
+" Prenditi un momento per rispondere a una semplice domanda facendo clic su "
+"uno dei seguenti link: <br/> <br/> Come valuteresti il ​​supporto che hai "
+"ricevuto? <br/> <br/>"
+
+#: admin/options-init.php:85 admin/options-init.php:1289
+msgid "Helpdesk"
+msgstr "helpdesk"
+
+#: includes/class-wordpress-helpdesk-activator.php:214
+msgid "Helpdesk Agent"
+msgstr "Agente dell'helpdesk"
+
+#: includes/class-wordpress-helpdesk-activator.php:236
+msgid "Helpdesk Reporter"
+msgstr "Helpdesk Reporter"
+
+#: admin/class-wordpress-helpdesk-sidebar-widgets.php:48
+msgid "Helpdesk Sidebar"
+msgstr "Helpdesk Sidebar"
+
+#: admin/options-init.php:1393
+#, php-format
+msgid "Hi %s,<br><br>Please tell us your subject and your concerns."
+msgstr ""
+"Ciao %s , <br> <br> Per favore dicci il tuo argomento e le tue "
+"preoccupazioni."
+
+#: admin/options-init.php:493
+msgid "Hide all FAQ excerpts for not logged in users in the Knwoledge Base"
+msgstr ""
+"Nascondi tutti gli estratti di domande frequenti per gli utenti non "
+"registrati nella Knwoledge Base"
+
+#: admin/options-init.php:501
+msgid "Hide all Single FAQ pages for not logged in users."
+msgstr ""
+"Nascondi tutte le singole pagine delle FAQ per gli utenti che non hanno "
+"effettuato l'accesso."
+
+#: admin/options-init.php:500
+msgid "Hide All Single FAQs pages"
+msgstr "Nascondi tutte le singole pagine delle domande frequenti"
+
+#: admin/options-init.php:527
+msgid "Hide complete Topics from not logged in users:"
+msgstr ""
+"Nascondi argomenti completi dagli utenti che non hanno effettuato l'accesso:"
+
+#: admin/widgets/faq-topics.php:166
+msgid "Hide Empy Topics"
+msgstr "Nascondi argomenti Empy"
+
+#: admin/options-init.php:492
+msgid "Hide FAQ excerpts for not logged in"
+msgstr "Nascondi gli estratti delle FAQ per non aver effettuato l'accesso"
+
+#: admin/options-init.php:460
+msgid "Hide FAQs when subcategories exists"
+msgstr "Nascondi le domande frequenti quando esistono sottocategorie"
+
+#: admin/options-init.php:1345
+msgid "Hide Livechat when agents offline"
+msgstr "Nascondi Livechat quando gli agenti sono offline"
+
+#: admin/options-init.php:512
+msgid "Hide some FAQs"
+msgstr "Nascondi alcune domande frequenti"
+
+#: admin/options-init.php:526
+msgid "Hide some Topics"
+msgstr "Nascondi alcuni argomenti"
+
+#: admin/options-init.php:1745
+msgid "Hindi"
+msgstr "hindi"
+
+#: admin/class-wordpress-helpdesk-log.php:46
+msgid "History"
+msgstr "Storia"
+
+#: admin/options-init.php:827
+msgid "Host"
+msgstr "Ospite"
+
+#: admin/options-init.php:792
+msgid "Hourly"
+msgstr "ogni ora"
+
+#: admin/options-init.php:282
+msgid "How can we help you today?"
+msgstr "Come possiamo aiutarvi oggi?"
+
+#: admin/options-init.php:790
+msgid "How often should Emails be fetched."
+msgstr "Con quale frequenza dovrebbero essere recuperate le e-mail."
+
+#: admin/options-init.php:1521
+msgid "How would you rate our support?"
+msgstr "Come valuteresti il nostro supporto?"
+
+#: admin/options-init.php:1562
+msgid "How would you rate the support?"
+msgstr "Come valuteresti il ​​supporto?"
+
+#. Author URI of the plugin
+msgid "https://welaunch.io"
+msgstr "https://welaunch.io"
+
+#. URI of the plugin
+msgid "https://welaunch.io/plugins/helpdesk/"
+msgstr "https://welaunch.io/plugins/helpdesk/"
+
+#: admin/options-init.php:1746
+msgid "Hungarian"
+msgstr "ungherese"
+
+#: admin/class-wordpress-helpdesk-form.php:755
+#, php-format
+msgid "I have read and agree to the %s"
+msgstr "Ho letto e accetto i%s"
+
+#: admin/options-init.php:1747
+msgid "Icelandic"
+msgstr "islandese"
+
+#: admin/widgets/faq-topics.php:119
+msgid "Id"
+msgstr "Id"
+
+#: admin/options-init.php:937
+msgid ""
+"If enabled manual ticket creations will require a purchase code. Requests "
+"without a purchase code will automatically be denied and a reply will be "
+"sent with the request for the code."
+msgstr ""
+"Se le creazioni manuali dei biglietti abilitate richiedono un codice di "
+"acquisto. Le richieste senza codice di acquisto verranno automaticamente "
+"rifiutate e verrà inviata una risposta con la richiesta del codice."
+
+#: admin/options-init.php:945
+msgid ""
+"If enabled purchases, where the support is expired will not be created as a "
+"ticket."
+msgstr ""
+"Se gli acquisti abilitati, in cui il supporto è scaduto, non verranno creati "
+"come ticket."
+
+#: admin/options-init.php:364
+msgid "If no FAQs found, fall back to comment search."
+msgstr ""
+"Se non vengono trovate domande frequenti, torna alla ricerca dei commenti."
+
+#: admin/options-init.php:132
+msgid ""
+"If you can not work with xlsx (Excel 2007 and higher) files, check this. You "
+"then can work with normal .xls files."
+msgstr ""
+"Se non riesci a lavorare con xlsx (Excel 2007 e versioni successive), "
+"controlla questo. Quindi puoi lavorare con normali file .xls."
+
+#: admin/options-init.php:875
+msgid "IMAP"
+msgstr "IMAP"
+
+#: admin/options-init.php:876
+msgid "IMAPS"
+msgstr "IMAPS"
+
+#: admin/options-init.php:1621
+msgid ""
+"In the new ticket page, agents can create tickets on behalf of other users."
+msgstr ""
+"Nella nuova pagina dei ticket, gli agenti possono creare ticket per conto di "
+"altri utenti."
+
+#: admin/options-init.php:775
+msgid "Inbox"
+msgstr "Posta in arrivo"
+
+#: admin/options-init.php:833
+msgid "Inbox Folder"
+msgstr "Cartella di posta in arrivo"
+
+#: admin/options-init.php:264 admin/options-init.php:1414
+msgid "Increase the interval (in miliseconds) to save server performance."
+msgstr ""
+"Aumentare l'intervallo (in millisecondi) per salvare le prestazioni del "
+"server."
+
+#: admin/options-init.php:1749
+msgid "Indonesian"
+msgstr "indonesiano"
+
+#: admin/options-init.php:910
+msgid ""
+"Install & Setup the <a href=\"https://wordpress.org/plugins/invisible-"
+"recaptcha/\" target=\"_blank\">invisible recaptcha plugin from here</a>. "
+"Then check this option."
+msgstr ""
+"Installa e configura il <a href=\"https://wordpress.org/plugins/invisible-"
+"recaptcha/\" target=\"_blank\"> plug-in di recaptcha invisibile da qui </a>. "
+"Quindi selezionare questa opzione."
+
+#: admin/options-init.php:901
+msgid "Integrations"
+msgstr "integrazioni"
+
+#: admin/options-init.php:909
+msgid "Invisible Recaptcha Integration"
+msgstr "Integrazione invisibile del Recaptcha"
+
+#: admin/options-init.php:1750
+msgid "Irish"
+msgstr "irlandesi"
+
+#: admin/options-init.php:1751
+msgid "Italian"
+msgstr "italiano"
+
+#: admin/options-init.php:480
+msgid "Item Columns"
+msgstr "Colonne elemento"
+
+#: admin/options-init.php:453
+msgid "Item Masonry"
+msgstr "Oggetto Muratura"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:682
+#: admin/views/single-ticket.php:268
+msgid "Item: "
+msgstr "Articolo: "
+
+#: admin/options-init.php:1752
+msgid "Japanese"
+msgstr "giapponese"
+
+#: admin/options-init.php:1753
+msgid "Kazakh"
+msgstr "Kazako"
+
+#: admin/options-init.php:346
+msgid "Knowledge Base Page"
+msgstr "Pagina della Knowledge Base"
+
+#: admin/options-init.php:1754
+msgid "Korean"
+msgstr "coreano"
+
+#: admin/options-init.php:1755
+msgid "Kyrgyz"
+msgstr "Kirghizistan"
+
+#: admin/options-init.php:1756
+msgid "Latvian"
+msgstr "lettone"
+
+#: admin/options-init.php:1068
+msgid ""
+"Learn more here: <a href=\"https://developers.facebook.com/docs/messenger-"
+"platform/discovery/customer-chat-plugin\">Click</a>"
+msgstr ""
+"Ulteriori informazioni qui: fare <a href=\"https://developers.facebook."
+"com/docs/messenger-platform/discovery/customer-chat-plugin\">clic</a>"
+
+#: admin/options-init.php:1113
+msgid "Learn more here: https://chatra.io"
+msgstr "Ulteriori informazioni qui: https://chatra.io"
+
+#: admin/options-init.php:1083
+msgid "Learn more here: https://crisp.chat/en/"
+msgstr "Ulteriori informazioni qui: https://crisp.chat/en/"
+
+#: admin/options-init.php:1098
+msgid "Learn more here: https://www.purechat.com/"
+msgstr "Ulteriori informazioni qui: https://www.purechat.com/"
+
+#: admin/options-init.php:123
+msgid "Left"
+msgstr "Sinistra"
+
+#: admin/options-init.php:121
+msgid "Left or Right sidebar."
+msgstr "Barra laterale sinistra o destra."
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:683
+#: admin/views/single-ticket.php:269
+msgid "License: "
+msgstr "Licenza: "
+
+#: admin/options-init.php:433
+msgid "List Layout"
+msgstr "Lista Layout"
+
+#: admin/options-init.php:1757
+msgid "Lithuanian"
+msgstr "Lituano"
+
+#: admin/options-init.php:1318 admin/options-init.php:1372
+#: admin/class-wordpress-helpdesk-livechat-backend.php:222
+#: admin/class-wordpress-helpdesk-livechat-backend.php:223
+#: admin/class-wordpress-helpdesk-livechat-backend.php:235
+msgid "Live Chat"
+msgstr "Chat dal vivo"
+
+#: admin/options-init.php:1371
+msgid "Live Chat Title"
+msgstr "Titolo della chat dal vivo"
+
+#: admin/options-init.php:1648
+msgid "Login Page"
+msgstr "Pagina di login"
+
+#: admin/options-init.php:1758
+msgid "Macedonian"
+msgstr "macedone"
+
+#: admin/options-init.php:802
+msgid "Mail Account Settings"
+msgstr "Impostazioni account di posta"
+
+#: admin/options-init.php:1128
+msgid "Mail Notifications"
+msgstr "Notifiche di posta"
+
+#: admin/options-init.php:1492
+msgid ""
+"Make sure the [helpdesk_feedback] shortcode is placed there. After saving "
+"here go to settings > permalinks and save."
+msgstr ""
+"Assicurati che lo shortcode [helpdesk_feedback] sia posizionato lì. Dopo "
+"aver salvato qui vai alle impostazioni> permalink e salva."
+
+#: admin/options-init.php:347
+msgid ""
+"Make sure the [knowledge_base] shortcode is placed there. After saving go to "
+"settings > permalinks and save."
+msgstr ""
+"Assicurati che lo shortcode [knowledge_base] sia posizionato lì. Dopo aver "
+"salvato, vai alle impostazioni> permalink e salva."
+
+#: admin/options-init.php:1700
+msgid ""
+"Make sure the [my_tickets] shortcode is placed there. After saving go to "
+"settings > permalinks and save."
+msgstr ""
+"Assicurati che lo shortcode [my_tickets] sia posizionato lì. Dopo aver "
+"salvato, vai alle impostazioni> permalink e salva."
+
+#: admin/options-init.php:1606
+msgid "Make sure the [new_ticket] shortcode is placed there."
+msgstr "Assicurati che lo shortcode [new_ticket] sia posizionato lì."
+
+#: admin/options-init.php:594 admin/options-init.php:653
+#: admin/options-init.php:725
+msgid "Make sure you set a privacy page in wp-admin > settings > privacy"
+msgstr ""
+"Assicurati di impostare una pagina sulla privacy in wp-admin> impostazioni> "
+"privacy"
+
+#: admin/options-init.php:1759
+msgid "Malay"
+msgstr "malese"
+
+#: admin/options-init.php:424
+msgid "Masonry"
+msgstr "Opere murarie"
+
+#: admin/options-init.php:370
+msgid "Maximum Live Search Results"
+msgstr "Numero massimo di risultati di ricerca in tempo reale"
+
+#: admin/widgets/faq-topics.php:114
+msgid "Menu Order"
+msgstr "Ordine dei menu"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:462
+msgid "Merge Now"
+msgstr "Unisci ora"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:350
+msgid "Merge Ticket"
+msgstr "Unisci biglietto"
+
+#: admin/class-wordpress-helpdesk-form.php:399
+msgid "Message * "
+msgstr "Messaggio *"
+
+#: admin/class-wordpress-helpdesk-comments-processor.php:151
+#: admin/class-wordpress-helpdesk-ticket-processor.php:200
+msgid "Message not set!"
+msgstr "Messaggio non impostato!"
+
+#: admin/class-wordpress-helpdesk-livechat-backend.php:201
+#, php-format
+msgid "Message received and Chat-Ticket %s created. You should have an email."
+msgstr "Messaggio ricevuto e Chat-Ticket %s creati. Dovresti avere una email"
+
+#: admin/options-init.php:1760
+msgid "Mongolian"
+msgstr "mongolo"
+
+#: admin/options-init.php:753
+msgid "More order issues"
+msgstr "Più problemi di ordine"
+
+#: admin/class-wordpress-helpdesk-woocommerce.php:54
+msgid "My Tickets"
+msgstr "I miei biglietti"
+
+#: admin/options-init.php:1692
+msgid "My tickets"
+msgstr "I miei biglietti"
+
+#: admin/options-init.php:1699
+msgid "My Tickets Page"
+msgstr "La mia pagina dei biglietti"
+
+#: admin/options-init.php:1287
+#: admin/class-wordpress-helpdesk-my-tickets.php:117
+#: admin/widgets/faq-topics.php:115
+msgid "Name"
+msgstr "Nome"
+
+#: admin/options-init.php:87
+msgid "Need support? Please use the comment function on codecanyon."
+msgstr ""
+"Hai bisogno di supporto? Si prega di utilizzare la funzione di commento su "
+"codecanyon."
+
+#: admin/options-init.php:1761
+msgid "Nepali"
+msgstr "Nepalese"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:133
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:136
+#: admin/class-wordpress-helpdesk-saved-replies.php:151
+#: admin/class-wordpress-helpdesk-saved-replies.php:154
+#: admin/class-wordpress-helpdesk-faq-post-type.php:692
+#: admin/class-wordpress-helpdesk-faq-post-type.php:695
+#, php-format
+msgid "New %s"
+msgstr "Nuovo %s"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:202
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:239
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:276
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:313
+#: admin/class-wordpress-helpdesk-saved-replies.php:221
+#: admin/class-wordpress-helpdesk-saved-replies.php:257
+#: admin/class-wordpress-helpdesk-faq-post-type.php:767
+#, php-format
+msgid "New %s Name"
+msgstr "Nuovo nome %s"
+
+#: admin/class-wordpress-helpdesk-notifications.php:261
+#, php-format
+msgid "New comment added by %s"
+msgstr "Nuovo commento aggiunto da %s"
+
+#: admin/class-wordpress-helpdesk-slack.php:134
+#, php-format
+msgid "New Comment added by %s:"
+msgstr "Nuovo commento aggiunto da %s :"
+
+#: admin/class-wordpress-helpdesk-slack.php:129
+#, php-format
+msgid "New Comment added on Ticket %s"
+msgstr "Nuovo commento aggiunto sul biglietto %s"
+
+#: admin/class-wordpress-helpdesk-desktop-notifications.php:129
+#, php-format
+msgid "New comment on %s"
+msgstr "Nuovo commento su %s"
+
+#: admin/class-wordpress-helpdesk-support-rating.php:111
+#: admin/class-wordpress-helpdesk-support-rating.php:120
+msgid "New Feeback"
+msgstr "Nuovo Feeback"
+
+#: admin/class-wordpress-helpdesk-notifications.php:92
+#: admin/class-wordpress-helpdesk-log.php:115
+msgid "New Ticket created"
+msgstr "Nuovo ticket creato"
+
+#: admin/class-wordpress-helpdesk-slack.php:90
+#: admin/class-wordpress-helpdesk-slack.php:95
+#, php-format
+msgid "New Ticket created: %s"
+msgstr "Nuovo ticket creato: %s"
+
+#: admin/options-init.php:1136 admin/options-init.php:1143
+msgid "New Ticket Notification"
+msgstr "Nuova notifica del biglietto"
+
+#: admin/options-init.php:1605
+msgid "New Ticket Page"
+msgstr "Nuova pagina ticket"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:139
+#: admin/class-wordpress-helpdesk-saved-replies.php:157
+#: admin/class-wordpress-helpdesk-faq-post-type.php:698
+#, php-format
+msgid "No %s found"
+msgstr "Nessun %s trovato"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:140
+#: admin/class-wordpress-helpdesk-saved-replies.php:158
+#: admin/class-wordpress-helpdesk-faq-post-type.php:699
+#, php-format
+msgid "No %s found in trash"
+msgstr "Nessun %s trovato nel cestino"
+
+#: admin/views/single-ticket.php:216
+msgid "No Agent assigned yet."
+msgstr "Nessun agente ancora assegnato."
+
+#: admin/options-init.php:1386
+msgid "No agents online."
+msgstr "Nessun agente online."
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:572
+msgid "No Articles found."
+msgstr "Nessun articolo trovato"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1180
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1195
+#: admin/class-wordpress-helpdesk-livechat-backend.php:403
+msgid "No Author"
+msgstr "Nessun autore"
+
+#: admin/class-wordpress-helpdesk-livechat-backend.php:391
+msgid "No Chat Tickets created yet"
+msgstr "Nessun biglietto chat creato ancora"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:327
+msgid "No comment to duplicate has been supplied!"
+msgstr "Nessun commento da duplicare è stato fornito!"
+
+#: admin/class-wordpress-helpdesk-reports.php:353
+msgid "No Date filter applied here:"
+msgstr "Nessun filtro data applicato qui:"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:335
+msgid "No FAQ found."
+msgstr "Nessuna FAQ trovata."
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:329
+msgid "No FAQ ID set."
+msgstr "Nessun ID ID impostato."
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:869
+msgid "No feedback available"
+msgstr "Nessun feedback disponibile"
+
+#: admin/class-wordpress-helpdesk-inbox.php:329
+#: admin/class-wordpress-helpdesk-inbox.php:390
+msgid "No Message in your Email detected."
+msgstr "Nessun messaggio nella tua email rilevato."
+
+#: admin/class-wordpress-helpdesk-inbox.php:346
+msgid ""
+"No purchase code detected. Please make sure the email contains the following "
+"pattern \"Purchase Code: XXX\"."
+msgstr ""
+"Nessun codice di acquisto rilevato. Assicurati che l'email contenga il "
+"seguente modello  \"Codice d'acquisto: XXX \"."
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1291
+msgid "No Search Terms found yet"
+msgstr "Nessun termine di ricerca trovato ancora"
+
+#: admin/class-wordpress-helpdesk-reports.php:217
+msgid "No Source"
+msgstr "Nessuna fonte"
+
+#: admin/class-wordpress-helpdesk-support-rating.php:89
+msgid "No Ticket ID set."
+msgstr "Nessun ID biglietto impostato."
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:478
+#: admin/class-wordpress-helpdesk-faq-post-type.php:835
+msgid "No ticket to duplicate has been supplied!"
+msgstr "Non è stato fornito alcun biglietto per duplicare!"
+
+#: admin/class-wordpress-helpdesk-my-tickets.php:153
+msgid "No tickets submitted yet."
+msgstr "Nessun biglietto inviato ancora."
+
+#: admin/class-wordpress-helpdesk-exporter.php:47
+msgid "No Tickets to Export"
+msgstr "Nessun biglietto da esportare"
+
+#: admin/options-init.php:886
+msgid "No Validate Cert"
+msgstr "No convalida Cert"
+
+#: admin/options-init.php:110
+msgid "None"
+msgstr "Nessuna"
+
+#: admin/options-init.php:1590
+msgid ""
+"Not solved yet?<br><br>The message you add to your feedback will not be "
+"forwarded as a reply. If you have further questions you can reply to this "
+"email."
+msgstr ""
+"Non ancora risolto? <br> <br> Il messaggio che aggiungi al tuo feedback non "
+"verrà inoltrato come risposta. Se hai altre domande, puoi rispondere a "
+"questa email."
+
+#: admin/options-init.php:1280
+msgid "Notification settings"
+msgstr "Impostazioni di notifica"
+
+#: admin/options-init.php:1137
+msgid "Notification when a new ticket has been created. "
+msgstr "Notifica quando è stato creato un nuovo ticket. "
+
+#: admin/options-init.php:1172
+msgid "Notification when a ticket status has been changed. "
+msgstr "Notifica quando lo stato di un biglietto è stato cambiato. "
+
+#: admin/options-init.php:1227 admin/options-init.php:1264
+msgid "Notify the agent."
+msgstr "Notifica l'agente"
+
+#: admin/options-init.php:1191
+msgid "Notify the assigned agent."
+msgstr "Notifica l'agente assegnato."
+
+#: admin/options-init.php:1156
+msgid "Notify the by default assigned agent."
+msgstr "Notifica l'agente assegnato di default."
+
+#: admin/options-init.php:1163 admin/options-init.php:1198
+#: admin/options-init.php:1235 admin/options-init.php:1271
+msgid "Notify the following users:"
+msgstr "Avvisa i seguenti utenti:"
+
+#: admin/options-init.php:1149 admin/options-init.php:1184
+#: admin/options-init.php:1219 admin/options-init.php:1257
+msgid "Notify the reporter."
+msgstr "Notifica al giornalista."
+
+#: admin/widgets/faq-dynamic-posts.php:111
+msgid "Number of max. FAQs:"
+msgstr "Numero massimo di FAQ:"
+
+#: admin/options-init.php:1763
+msgid "Nynorsk"
+msgstr "Nynorsk"
+
+#: admin/options-init.php:112
+msgid "Only for Ticket pages"
+msgstr "Solo per le pagine dei biglietti"
+
+#: admin/options-init.php:111
+msgid "Only in Knowledge Base"
+msgstr "Solo nella Knowledge Base"
+
+#: admin/options-init.php:1627
+msgid "Only Logged In"
+msgstr "Solo connesso"
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:517
+msgid "Or enter your Ticket ID:"
+msgstr "O inserisci il tuo ID biglietto:"
+
+#: admin/views/single-ticket.php:287
+msgid "Order"
+msgstr "Ordine"
+
+#: admin/widgets/faq-topics.php:125 admin/widgets/faq-dynamic-posts.php:129
+msgid "Order By:"
+msgstr "Ordinato da:"
+
+#: admin/class-wordpress-helpdesk-form.php:242
+msgid "Order Support"
+msgstr "Supporto per l'ordine"
+
+#: admin/options-init.php:737
+msgid "Order Support (lists all Orders)"
+msgstr "Supporto per l'ordine (elenca tutti gli ordini)"
+
+#: admin/options-init.php:743
+msgid "Order Support Subjects"
+msgstr "Ordinare soggetti di supporto"
+
+#: admin/widgets/faq-topics.php:146 admin/widgets/faq-dynamic-posts.php:150
+msgid "Order:"
+msgstr "Ordine:"
+
+#: admin/class-wordpress-helpdesk-form.php:261
+msgid "Other"
+msgstr "Altro"
+
+#: admin/options-init.php:1379
+msgid "Our customer service is available."
+msgstr "Il nostro servizio clienti è disponibile."
+
+#: admin/widgets/faq-topics.php:121
+msgid "Parent"
+msgstr "Genitore"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:197
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:234
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:271
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:308
+#: admin/class-wordpress-helpdesk-saved-replies.php:216
+#: admin/class-wordpress-helpdesk-saved-replies.php:252
+#: admin/class-wordpress-helpdesk-faq-post-type.php:762
+#, php-format
+msgid "Parent %s"
+msgstr "Genitore %s"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:198
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:235
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:272
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:309
+#: admin/class-wordpress-helpdesk-saved-replies.php:217
+#: admin/class-wordpress-helpdesk-saved-replies.php:253
+#: admin/class-wordpress-helpdesk-faq-post-type.php:763
+#, php-format
+msgid "Parent %s:"
+msgstr "Parent %s :"
+
+#: admin/options-init.php:1764
+msgid "Pashto"
+msgstr "Pashto"
+
+#: admin/options-init.php:750
+msgid "Payment issues"
+msgstr "Problemi di pagamento"
+
+#: admin/options-init.php:1765
+msgid "Persian"
+msgstr "persiano"
+
+#: admin/class-wordpress-helpdesk-form.php:146
+#: admin/class-wordpress-helpdesk-form.php:152
+#, php-format
+msgid "Please <a href=\"%s\" title=\"Login\">login to submit a ticket.</a>"
+msgstr ""
+"Si prega di <a href=\" %s \" title=\"Login\"> accedere per inviare un ticket."
+" </a>"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1261
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1267
+#, php-format
+msgid "Please <a href=\"%s\" title=\"Login\">login to view this faq.</a>"
+msgstr ""
+"Si prega di <a href=\" %s \" title=\"Login\"> accedere per visualizzare "
+"questa faq. </a>"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:472
+#, php-format
+msgid "Please <a href=\"%s\" title=\"Login\">login to view this topic.</a>"
+msgstr ""
+"Si prega di <a href=\" %s \" title=\"Login\"> accedere per visualizzare "
+"questo argomento. </a>"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1006
+#: admin/class-wordpress-helpdesk-my-tickets.php:51
+#, php-format
+msgid "Please <a href=\"%s\" title=\"Login\">login to view your tickets</a>"
+msgstr ""
+"Si prega di <a href=\" %s \" title=\"Login\"> accedere per visualizzare i "
+"biglietti </a>"
+
+#: admin/class-wordpress-helpdesk-support-rating.php:100
+msgid "Please set a feedback text."
+msgstr "Si prega di impostare un testo di feedback."
+
+#: admin/options-init.php:1766
+msgid "Polish"
+msgstr "polacco"
+
+#: admin/options-init.php:877
+msgid "POP3"
+msgstr "POP3"
+
+#: admin/options-init.php:878
+msgid "POP3S"
+msgstr "POP3S"
+
+#: admin/widgets/faq-dynamic-posts.php:102
+msgid "Popular FAQs"
+msgstr "Domande frequenti frequenti"
+
+#: admin/widgets/faq-dynamic-posts.php:12
+#: admin/widgets/faq-dynamic-posts.php:106
+#, php-format
+msgid "Popular FAQs %s"
+msgstr "Domande frequenti più frequenti %s"
+
+#: admin/options-init.php:860
+msgid "Port"
+msgstr "Porta"
+
+#: admin/options-init.php:1768
+msgid "Portuguese"
+msgstr "portoghese"
+
+#: admin/class-wordpress-helpdesk-comments-processor.php:146
+msgid "Post ID not created!"
+msgstr "Post ID non creato!"
+
+#: admin/class-wordpress-helpdesk-comments-processor.php:140
+msgid "Post ID not set!"
+msgstr "Post ID non impostato!"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:301
+msgid "Priorities"
+msgstr "priorità"
+
+#: admin/class-wordpress-helpdesk-form.php:461
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:300
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1146
+#: admin/class-wordpress-helpdesk-exporter.php:222
+#: admin/views/single-ticket.php:150
+msgid "Priority"
+msgstr "Priorità"
+
+#: admin/options-init.php:569 admin/options-init.php:628
+#: admin/options-init.php:700
+msgid "Priority Select Field"
+msgstr "Priorità Seleziona campo"
+
+#: admin/class-wordpress-helpdesk-form.php:749
+msgid "Privacy Policy"
+msgstr "politica sulla riservatezza"
+
+#: admin/class-wordpress-helpdesk-ticket-notes.php:49
+msgid "Private Notes"
+msgstr "Note private"
+
+#: admin/options-init.php:747
+msgid "Problem with an order"
+msgstr "Problema con un ordine"
+
+#: admin/class-wordpress-helpdesk-form.php:594
+msgid "Product"
+msgstr "Prodotto"
+
+#: admin/class-wordpress-helpdesk-form.php:252
+msgid "Product Support"
+msgstr "Supporto del prodotto"
+
+#: admin/options-init.php:731
+msgid "Product Support (lists all Products)"
+msgstr "Supporto del prodotto (elenca tutti i prodotti)"
+
+#: admin/views/single-ticket.php:321
+msgid "Product:"
+msgstr "Prodotto:"
+
+#: admin/options-init.php:752
+msgid "Promotions and deals"
+msgstr "Promozioni e offerte"
+
+#: admin/options-init.php:849 admin/options-init.php:873
+msgid "Protocol"
+msgstr "Protocollo"
+
+#: admin/class-wordpress-helpdesk-form.php:626
+#: admin/class-wordpress-helpdesk-form.php:631 admin/options-init.php:659
+msgid "Purchase Code"
+msgstr "Codice d'acquisto"
+
+#: admin/class-wordpress-helpdesk-ticket-processor.php:230
+#, php-format
+msgid "Purchase Code %s could not be verified!"
+msgstr "Il codice di acquisto %s non può essere verificato!"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:679
+#: admin/views/single-ticket.php:266
+msgid "Purchase Code could not be verified!"
+msgstr "Il codice di acquisto non può essere verificato!"
+
+#: admin/class-wordpress-helpdesk-ticket-processor.php:206
+msgid "Purchase Code not set!"
+msgstr "Codice d'acquisto non impostato!"
+
+#: admin/options-init.php:936
+msgid "Purchase Code required?"
+msgstr "Codice d'acquisto richiesto?"
+
+#: admin/class-wordpress-helpdesk-ticket-processor.php:237
+#: admin/class-wordpress-helpdesk-ticket-processor.php:240
+msgid "Purchase Code verified for item: "
+msgstr "Codice d'acquisto verificato per articolo: "
+
+#: admin/views/single-ticket.php:255
+msgid "Purchase Code:"
+msgstr "Codice di acquisto:"
+
+#: admin/options-init.php:1105
+msgid "PureChat Code"
+msgstr "Codice PureChat"
+
+#: admin/class-wordpress-helpdesk-woocommerce.php:291
+msgid "Read More"
+msgstr "Leggi di più"
+
+#: admin/class-wordpress-helpdesk-form.php:109
+msgid "Recaptcha not passed!"
+msgstr "Recaptcha non passato!"
+
+#: admin/options-init.php:789
+msgid "Recurrence"
+msgstr "ricorrenza"
+
+#: admin/options-init.php:1613
+msgid "Redirect reporters to My Tickets page"
+msgstr "Reindirizza i reporter alla pagina I miei ticket"
+
+#: admin/views/single-ticket.php:196
+#, php-format
+msgid "Reporter: %s"
+msgstr "Reporter: %s"
+
+#: admin/class-wordpress-helpdesk-reports.php:38
+#: admin/class-wordpress-helpdesk-reports.php:39
+#: admin/class-wordpress-helpdesk-reports.php:257
+msgid "Reports"
+msgstr "Rapporti"
+
+#: admin/options-init.php:748
+msgid "Returns and refunds"
+msgstr "Resi e rimborsi"
+
+#: admin/options-init.php:339
+msgid "Rich data & snippet support."
+msgstr "Supporto avanzato per dati e snippet."
+
+#: admin/options-init.php:124
+msgid "Right"
+msgstr "Destra"
+
+#: admin/options-init.php:1769
+msgid "Romanian"
+msgstr "rumeno"
+
+#: admin/options-init.php:1770
+msgid "Russian"
+msgstr "russo"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1143
+msgid "Satisfied"
+msgstr "Soddisfatto"
+
+#: admin/class-wordpress-helpdesk-support-rating.php:123
+msgid "Satisfied: "
+msgstr "Soddisfatto:"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:145
+#: admin/class-wordpress-helpdesk-saved-replies.php:148
+msgid "Saved Replies"
+msgstr "Risposte salvate"
+
+#: admin/options-init.php:1425
+msgid "Saved Replies (BOT)"
+msgstr "Risposte salvate (BOT)"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:144
+msgid "Saved Reply"
+msgstr "Risposta salvata"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:348
+msgid "Saved Reply creation failed, could not find original comment: "
+msgstr ""
+"Creazione risposta salvata fallita, impossibile trovare il commento "
+"originale: "
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:138
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:195
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:232
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:269
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:306
+#: admin/class-wordpress-helpdesk-saved-replies.php:156
+#: admin/class-wordpress-helpdesk-saved-replies.php:214
+#: admin/class-wordpress-helpdesk-saved-replies.php:250
+#: admin/class-wordpress-helpdesk-faq-post-type.php:697
+#: admin/class-wordpress-helpdesk-faq-post-type.php:760
+#, php-format
+msgid "Search %s"
+msgstr "Cerca %s"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1306
+msgid "Search Counts"
+msgstr "La ricerca conta"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:279
+#: admin/class-wordpress-helpdesk-faq-post-type.php:282
+msgid "Search FAQs"
+msgstr "Cerca FAQ"
+
+#: admin/options-init.php:363
+msgid "Search in Comments"
+msgstr "Cerca nei commenti"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:927
+#: admin/class-wordpress-helpdesk-faq-post-type.php:962
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Risultati della ricerca per: %s"
+
+#: admin/class-wordpress-helpdesk-form.php:428
+msgid "Select a Department"
+msgstr "Seleziona un dipartimento"
+
+#: admin/widgets/faq-dynamic-posts.php:152
+msgid "Select a Order:"
+msgstr "Seleziona un ordine:"
+
+#: admin/class-wordpress-helpdesk-form.php:463
+msgid "Select a priority"
+msgstr "Seleziona una priorità"
+
+#: admin/class-wordpress-helpdesk-form.php:498
+msgid "Select a type"
+msgstr "Seleziona un tipo"
+
+#: admin/class-wordpress-helpdesk-form.php:656
+msgid "Select an Item"
+msgstr "Seleziona un oggetto"
+
+#: admin/class-wordpress-helpdesk-form.php:654
+msgid "Select Item"
+msgstr "Scegliere oggetto"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:455
+msgid "Select Ticket"
+msgstr "Seleziona il biglietto"
+
+#: admin/class-wordpress-helpdesk-form.php:536
+msgid "Select your Order"
+msgstr "Seleziona il tuo ordine"
+
+#: admin/class-wordpress-helpdesk-form.php:596
+msgid "Select your product"
+msgstr "Seleziona il tuo prodotto"
+
+#: admin/class-wordpress-helpdesk-form.php:561
+msgid "Select your Subject"
+msgstr "Seleziona il tuo soggetto"
+
+#: admin/class-wordpress-helpdesk-support-rating.php:181
+msgid "Send Feedback"
+msgstr "Invia feedback"
+
+#: admin/options-init.php:1484
+msgid "Send Feedback to Agent"
+msgstr "Invia feedback all'agente"
+
+#: admin/options-init.php:1656
+msgid "Send Login credentials"
+msgstr "Invia credenziali di accesso"
+
+#: admin/options-init.php:1471
+msgid ""
+"Send out Emails when tickets are completed and ask for a support rating."
+msgstr ""
+"Invia email quando i biglietti sono completati e chiedi una valutazione di "
+"supporto."
+
+#: admin/options-init.php:1657
+msgid ""
+"Send out the login credentials when a new account has been created for a new "
+"user."
+msgstr ""
+"Invia le credenziali di accesso quando un nuovo account è stato creato per "
+"un nuovo utente."
+
+#: admin/options-init.php:1485
+msgid ""
+"Sends a mail to the Agent with the users feedback. Otherwise it is only "
+"available in backed of each ticket."
+msgstr ""
+"Invia una mail all'Agente con il feedback degli utenti. Altrimenti è "
+"disponibile solo in allegato a ogni ticket."
+
+#: admin/options-init.php:1771
+msgid "Serbian"
+msgstr "serbo"
+
+#: admin/options-init.php:1714
+msgid "Set a language for the datatable."
+msgstr "Imposta una lingua per il datatable."
+
+#: admin/options-init.php:1295
+msgid "Set a Logo"
+msgstr "Imposta un logo"
+
+#: admin/options-init.php:300
+msgid "Set an icon"
+msgstr "Imposta un'icona"
+
+#: admin/options-init.php:371
+msgid "Set maximum results for FAQ live search."
+msgstr "Imposta i risultati massimi per la ricerca in tempo reale delle FAQ."
+
+#: admin/options-init.php:168
+msgid "Set the name of the Solved (closed) ticket status."
+msgstr "Imposta il nome dello stato del ticket Risolto (chiuso)."
+
+#: admin/options-init.php:310
+msgid "Set the time when the notification automatically hides."
+msgstr "Imposta l'ora in cui la notifica si nasconde automaticamente."
+
+#: admin/options-init.php:34
+msgid "Settings"
+msgstr "impostazioni"
+
+#: admin/options-init.php:803
+msgid "Settings for your Mail Account."
+msgstr "Impostazioni per il tuo account di posta."
+
+#: admin/options-init.php:396
+msgid "Show Back to Parent Topic Link"
+msgstr "Mostra collegamento Torna all'argomento principale"
+
+#: admin/options-init.php:1799
+msgid "Show Date"
+msgstr "Mostra data"
+
+#: admin/options-init.php:355
+msgid "Show FAQ Search in Knowledge Base"
+msgstr "Mostra ricerca FAQ nella Knowledge Base"
+
+#: admin/options-init.php:113
+msgid "Show in Ticket & FAQ pages"
+msgstr "Mostra nelle pagine Ticket & FAQ"
+
+#: admin/options-init.php:1793
+msgid "Show Name"
+msgstr "Mostra nome"
+
+#: admin/options-init.php:410
+msgid "Show Rating"
+msgstr "Mostra valutazione"
+
+#: admin/widgets/faq-posts.php:6
+msgid "Show some FAQs."
+msgstr "Mostra alcune domande frequenti."
+
+#: admin/options-init.php:1805
+msgid "Show Status"
+msgstr "Mostra stato"
+
+#: admin/widgets/faq-topics.php:174
+msgid "Show subcategories"
+msgstr "Mostra le sottocategorie"
+
+#: admin/options-init.php:1811
+msgid "Show System"
+msgstr "Mostra sistema"
+
+#: admin/options-init.php:513
+msgid "Show the following FAQs only to logged in Users:"
+msgstr "Mostra le seguenti domande frequenti solo agli utenti registrati:"
+
+#: admin/options-init.php:467
+msgid "Show Topic Children"
+msgstr "Mostra argomento Bambini"
+
+#: admin/options-init.php:474
+msgid "Show Topic Children Categories"
+msgstr "Mostra le categorie di bambini dell'argomento"
+
+#: admin/options-init.php:382
+msgid "Show Topic Title"
+msgstr "Mostra titolo argomento"
+
+#: admin/options-init.php:1817
+msgid "Show Type"
+msgstr "Mostra tipo"
+
+#: admin/options-init.php:403
+msgid "Show Views Count"
+msgstr "Mostra numero di visualizzazioni"
+
+#: admin/options-init.php:107
+msgid "Sidebar Display"
+msgstr "Display della sidebar"
+
+#: admin/options-init.php:120
+msgid "Sidebar Position"
+msgstr "Posizione della barra laterale"
+
+#: admin/options-init.php:556
+msgid "Simple Form Fields"
+msgstr "Campi modulo semplici"
+
+#: admin/options-init.php:1520
+msgid "Single Ticket Intro"
+msgstr "Biglietto singolo Intro"
+
+#: admin/options-init.php:1527 admin/options-init.php:1534
+msgid "Single Ticket Satisfied Text"
+msgstr "Testo di biglietto singolo soddisfatto"
+
+#: admin/options-init.php:1513
+msgid "Single Ticket Status"
+msgstr "Stato del biglietto singolo"
+
+#: admin/options-init.php:1772
+msgid "Sinhala"
+msgstr "Singalese"
+
+#: admin/options-init.php:1773
+msgid "Slovak"
+msgstr "Slovacco"
+
+#: admin/options-init.php:1774
+msgid "Slovenian"
+msgstr "sloveno"
+
+#: admin/widgets/faq-topics.php:116
+msgid "Slug"
+msgstr "lumaca"
+
+#: admin/class-wordpress-helpdesk-exporter.php:55
+msgid "Something was wrong with the export generation ..."
+msgstr "C'era qualcosa di sbagliato nella generazione delle esportazioni ..."
+
+#: admin/class-wordpress-helpdesk-inbox.php:477
+msgid "Sorry ..."
+msgstr "Scusate ..."
+
+#: admin/class-wordpress-helpdesk-inbox.php:482
+msgid "Sorry we could not process your mail :("
+msgstr "Siamo spiacenti, non è stato possibile elaborare la tua posta :("
+
+#: admin/options-init.php:1400
+msgid ""
+"Sorry,<br><br>None of our agents is online right now. But you can leave a "
+"message."
+msgstr ""
+"Siamo spiacenti, <br> <br> Nessuno dei nostri agenti è online in questo "
+"momento. Ma puoi lasciare un messaggio."
+
+#: admin/options-init.php:1775
+msgid "Spanish"
+msgstr "spagnolo"
+
+#: admin/options-init.php:852
+msgid "SSL"
+msgstr "SSL"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:189
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:190
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1142
+#: admin/class-wordpress-helpdesk-exporter.php:210
+#: admin/class-wordpress-helpdesk-my-tickets.php:129
+msgid "Status"
+msgstr "Stato"
+
+#: admin/options-init.php:1171 admin/options-init.php:1178
+msgid "Status Change Notification"
+msgstr "Notifica di cambio di stato"
+
+#: admin/options-init.php:1385
+msgid "Status Text (Offline)"
+msgstr "Testo di stato (offline)"
+
+#: admin/options-init.php:1378
+msgid "Status Text (Online)"
+msgstr "Testo di stato (online)"
+
+#: admin/class-wordpress-helpdesk-form.php:326
+#: admin/class-wordpress-helpdesk-form.php:348
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:510
+msgid "Subject"
+msgstr "Soggetto"
+
+#: admin/class-wordpress-helpdesk-ticket-processor.php:196
+msgid "Subject not set!"
+msgstr "Soggetto non impostato!"
+
+#: admin/class-wordpress-helpdesk-reports.php:271
+msgid "Submit"
+msgstr "Sottoscrivi"
+
+#: admin/class-wordpress-helpdesk-woocommerce.php:110
+msgid "Submit a new Ticket"
+msgstr "Invia un nuovo biglietto"
+
+#: admin/class-wordpress-helpdesk-woocommerce.php:55
+msgid "Submit Ticket"
+msgstr "Presentare il biglietto"
+
+#: admin/class-wordpress-helpdesk-ticket-processor.php:235
+#, php-format
+msgid "Support Expired on %s – please renew!"
+msgstr "Supporto scaduto su %s - si prega di rinnovare!"
+
+#: admin/options-init.php:1304
+msgid "Support Mail Address"
+msgstr "Supporto Mail Address"
+
+#: admin/options-init.php:1840
+msgid "Support Mail Template"
+msgstr "Supporto modello di posta"
+
+#: admin/options-init.php:1470
+msgid "Support Rating"
+msgstr "Valutazione del supporto"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:684
+#: admin/views/single-ticket.php:270
+msgid "Support Until:"
+msgstr "Supporto fino a:"
+
+#: admin/options-init.php:1776
+msgid "Swahili"
+msgstr "Swahili"
+
+#: admin/options-init.php:1777
+msgid "Swedish"
+msgstr "svedese"
+
+#: admin/class-wordpress-helpdesk-exporter.php:228
+msgid "System"
+msgstr "Sistema"
+
+#: admin/options-init.php:563 admin/options-init.php:622
+#: admin/options-init.php:694
+msgid "Systems / Project Select Field"
+msgstr "Sistema / campo di selezione del progetto"
+
+#: admin/options-init.php:966
+msgid "Tab Title"
+msgstr "Titolo scheda"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:244
+msgid "Tag"
+msgstr "Etichetta"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:245
+msgid "Tags"
+msgstr "tag"
+
+#: admin/options-init.php:1778
+msgid "Tamil"
+msgstr "Tamil"
+
+#: admin/options-init.php:1779
+msgid "telugu"
+msgstr "telugu"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1305
+msgid "Term"
+msgstr "Termine"
+
+#: admin/widgets/faq-topics.php:117
+msgid "Term_group"
+msgstr "Term_group"
+
+#: admin/widgets/faq-topics.php:118
+msgid "Term_id"
+msgstr "Term_id"
+
+#: admin/options-init.php:894
+msgid "Test Mail Account"
+msgstr "Prova account di posta"
+
+#: admin/options-init.php:1780
+msgid "Thai"
+msgstr "tailandese"
+
+#: admin/class-wordpress-helpdesk-support-rating.php:159
+msgid "Thanks for your feedback!"
+msgstr "Grazie per il tuo feedback!"
+
+#: admin/class-wordpress-helpdesk-notifications.php:197
+#, php-format
+msgid "The %s changed to: %s"
+msgstr "Il %s cambiato in: %s"
+
+#: admin/class-wordpress-helpdesk-notifications.php:162
+#, php-format
+msgid "The %s has changed from %s to %s"
+msgstr "%s è cambiato da %s a %s"
+
+#. Description of the plugin
+msgid "The All in One WordPress Helpdesk solution"
+msgstr "La soluzione All in One WordPress Helpdesk"
+
+#: admin/options-init.php:204
+msgid "The default Department for new tickets."
+msgstr "Il reparto predefinito per i nuovi ticket."
+
+#: admin/options-init.php:1281
+msgid "The default notification settings for mails etc."
+msgstr "Le impostazioni di notifica predefinite per e-mail, ecc."
+
+#: admin/options-init.php:192
+msgid "The default priority for new tickets."
+msgstr "La priorità predefinita per i nuovi ticket."
+
+#: admin/options-init.php:156
+msgid "The default status for new tickets."
+msgstr "Lo stato di default per i nuovi ticket."
+
+#: admin/options-init.php:180
+msgid "The default type for new tickets."
+msgstr "Il tipo predefinito per i nuovi ticket."
+
+#: admin/options-init.php:233
+#, php-format
+msgid "The default user for %s."
+msgstr "L'utente predefinito per %s ."
+
+#: admin/options-init.php:210
+msgid "The default user for new tickets."
+msgstr "L'utente predefinito per i nuovi ticket."
+
+#: admin/options-init.php:834
+msgid ""
+"The folder where to scan for new mails. Most of the time it is the INBOX "
+"folder."
+msgstr ""
+"La cartella in cui cercare nuovi messaggi. Il più delle volte è la cartella "
+"INBOX."
+
+#: admin/options-init.php:301 admin/options-init.php:1354
+msgid "The icon must be in square format."
+msgstr "L'icona deve essere in formato quadrato."
+
+#: admin/options-init.php:1296
+msgid "The logo will be used in all Mail notifications."
+msgstr "Il logo verrà utilizzato in tutte le notifiche Mail."
+
+#: admin/options-init.php:1514
+msgid "The status when the rating form on single tickets should show."
+msgstr ""
+"Lo stato in cui dovrebbe essere visualizzato il modulo di valutazione sui "
+"biglietti singoli."
+
+#: admin/options-init.php:1555
+msgid "The status when the rating support email should be sent out."
+msgstr ""
+"Lo stato in cui deve essere inviata l'email di supporto della valutazione."
+
+#: admin/options-init.php:842
+msgid "The target folder, where processed mails should be moved (eg. Archiv)."
+msgstr ""
+"La cartella di destinazione, dove le mail elaborate dovrebbero essere "
+"spostate (ad esempio Archiv)."
+
+#: admin/options-init.php:1433
+msgid ""
+"This allows you to save comments into a saved reply, that can be reused for "
+"later tickets."
+msgstr ""
+"Ciò consente di salvare i commenti in una risposta salvata, che può essere "
+"riutilizzata per i biglietti successivi."
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:234
+#: admin/class-wordpress-helpdesk-livechat-backend.php:457
+msgid "This is not your Ticket!"
+msgstr "Questo non è il tuo biglietto!"
+
+#: admin/options-init.php:1288
+msgid "This is the default from name for your mail notifications."
+msgstr "Questo è il nome predefinito per le tue notifiche di posta."
+
+#: admin/class-wordpress-helpdesk-notifications.php:349
+#, php-format
+msgid "This ticket has been assigned from %s to %s"
+msgstr "Questo ticket è stato assegnato da %s a %s"
+
+#: admin/class-wordpress-helpdesk-notifications.php:406
+#, php-format
+msgid "This ticket has been assigned to %s"
+msgstr "Questo ticket è stato assegnato a %s"
+
+#: admin/options-init.php:1642
+msgid "This ticket is closed. Please open a new one for further support."
+msgstr ""
+"Questo biglietto è chiuso. Si prega di aprirne uno nuovo per ulteriore "
+"assistenza."
+
+#: admin/options-init.php:1447
+msgid ""
+"This User will be used for automatic replies. You can create a user Bot for "
+"example and set it here."
+msgstr ""
+"Questo utente verrà utilizzato per le risposte automatiche. Ad esempio, puoi "
+"creare un Bot utente e impostarlo qui."
+
+#: admin/options-init.php:1649
+msgid "This will be the page, where the login button will link to."
+msgstr "Questa sarà la pagina in cui verrà collegato il pulsante di accesso."
+
+#: admin/options-init.php:1841
+msgid "This will be used for notifications."
+msgstr "Questo sarà usato per le notifiche."
+
+#: admin/options-init.php:1305
+msgid ""
+"This will be used in your mail notifications as the default reply to address."
+msgstr ""
+"Questo verrà utilizzato nelle notifiche della posta come risposta "
+"predefinita all'indirizzo."
+
+#: admin/options-init.php:1440
+msgid ""
+"This will use your saved replies based on tags & word matches to "
+"automatically reply."
+msgstr ""
+"Questo utilizzerà le risposte salvate in base ai tag e alle corrispondenze "
+"di parole per rispondere automaticamente."
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:300
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:118
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:349
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1139
+#: admin/class-wordpress-helpdesk-livechat-backend.php:523
+msgid "Ticket"
+msgstr "Biglietto"
+
+#: admin/options-init.php:1641
+msgid "Ticket closed Text"
+msgstr "Biglietto chiuso Testo"
+
+#: admin/class-wordpress-helpdesk-form.php:122
+msgid "Ticket could not be created!"
+msgstr "Il biglietto non può essere creato!"
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:101
+#: admin/class-wordpress-helpdesk-livechat-backend.php:183
+msgid "Ticket could not be created. Please contact support email directly."
+msgstr ""
+"Il ticket non può essere creato. Si prega di contattare l'e-mail di supporto "
+"direttamente."
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:224
+#: admin/class-wordpress-helpdesk-livechat-backend.php:447
+msgid "Ticket does not exists."
+msgstr "Il biglietto non esiste."
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:519
+msgid "Ticket ID"
+msgstr "ID biglietto"
+
+#: admin/class-wordpress-helpdesk-inbox.php:396
+msgid "Ticket ID for your Reply could not be found."
+msgstr "Non è stato possibile trovare l'ID ticket per la tua risposta."
+
+#: admin/class-wordpress-helpdesk-exporter.php:204
+msgid "Ticket Information"
+msgstr "Informazioni sui biglietti"
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:160
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:216
+#: admin/class-wordpress-helpdesk-livechat-backend.php:320
+#: admin/class-wordpress-helpdesk-livechat-backend.php:439
+msgid "Ticket not set."
+msgstr "Biglietto non impostato."
+
+#: admin/class-wordpress-helpdesk-form.php:116
+#, php-format
+msgid ""
+"Ticket successfully created! You can <a href=\"%s\">view it here</a>.<br/>"
+msgstr ""
+"Biglietto creato con successo! Puoi <a href=\" %s \"> vederlo qui </a>. <br/>"
+
+#: admin/class-wordpress-helpdesk-ticket-notes.php:107
+msgid "Ticket Sytem"
+msgstr "Ticket Sytem"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:119
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:130
+#: admin/options-init.php:1598
+msgid "Tickets"
+msgstr "Biglietti"
+
+#: admin/class-wordpress-helpdesk-reports.php:281
+msgid "Tickets by Agent"
+msgstr "Biglietti per agente"
+
+#: admin/class-wordpress-helpdesk-reports.php:374
+msgid "Tickets by Department"
+msgstr "Biglietti per dipartimento"
+
+#: admin/class-wordpress-helpdesk-reports.php:326
+msgid "Tickets by Month"
+msgstr "Biglietti per mese"
+
+#: admin/class-wordpress-helpdesk-reports.php:383
+msgid "Tickets by Priority"
+msgstr "Biglietti per priorità"
+
+#: admin/class-wordpress-helpdesk-reports.php:290
+msgid "Tickets by Reporter"
+msgstr "Biglietti per Reporter"
+
+#: admin/class-wordpress-helpdesk-reports.php:299
+msgid "Tickets by Satisfaction"
+msgstr "Biglietti per soddisfazione"
+
+#: admin/class-wordpress-helpdesk-reports.php:308
+msgid "Tickets by Source"
+msgstr "Biglietti per fonte"
+
+#: admin/class-wordpress-helpdesk-reports.php:356
+msgid "Tickets by Status"
+msgstr "Biglietti per stato"
+
+#: admin/class-wordpress-helpdesk-reports.php:365
+msgid "Tickets by Type"
+msgstr "Biglietti per tipo"
+
+#: admin/class-wordpress-helpdesk-reports.php:317
+msgid "Tickets by Year"
+msgstr "Biglietti per anno"
+
+#: admin/class-wordpress-helpdesk-reports.php:335
+msgid "Tickets created by Year / Month"
+msgstr "Biglietti creati per anno / mese"
+
+#: admin/options-init.php:289
+msgid "Time in minutes when the welcome message should pop up again."
+msgstr ""
+"Tempo in minuti in cui il messaggio di benvenuto dovrebbe apparire di nuovo."
+
+#: admin/options-init.php:309
+msgid "Timeout"
+msgstr "Tempo scaduto"
+
+#: admin/widgets/faq-topics.php:106 admin/widgets/faq-dynamic-posts.php:103
+msgid "Title:"
+msgstr "Titolo:"
+
+#: admin/options-init.php:851
+msgid "TLS"
+msgstr "TLS"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:754
+msgid "Topic"
+msgstr "Argomento"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:452
+msgid "Topic missing."
+msgstr "Argomento mancante."
+
+#: admin/options-init.php:389
+msgid "Topic title Appendix"
+msgstr "Titolo dell'argomento Appendice"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:755
+#: admin/widgets/faq-topics.php:105
+msgid "Topics"
+msgstr "Temi"
+
+#: admin/options-init.php:441
+msgid "Topics Columns"
+msgstr "Argomenti Colonne"
+
+#: admin/options-init.php:431
+msgid "Topics Layout"
+msgstr "Layout degli argomenti"
+
+#: admin/class-wordpress-helpdesk-reports.php:352
+msgid "Total"
+msgstr "Totale"
+
+#: admin/options-init.php:1728
+msgid "traditional"
+msgstr "tradizionale"
+
+#: admin/options-init.php:1781
+msgid "Turkish"
+msgstr "Turco"
+
+#: admin/options-init.php:793
+msgid "Twice daily"
+msgstr "Due volte al giorno"
+
+#: admin/class-wordpress-helpdesk-form.php:496
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:226
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1144
+#: admin/class-wordpress-helpdesk-exporter.php:216
+#: admin/class-wordpress-helpdesk-my-tickets.php:141
+msgid "Type"
+msgstr "genere"
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:403
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:513
+#: admin/class-wordpress-helpdesk-livechat-backend.php:252
+msgid "Type your message…"
+msgstr "Scrivi il tuo messaggio ..."
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:227
+msgid "Types"
+msgstr "tipi"
+
+#: admin/options-init.php:575 admin/options-init.php:634
+#: admin/options-init.php:706
+msgid "Types Select Field"
+msgstr "Tipi Seleziona campo"
+
+#: admin/options-init.php:1782
+msgid "Ukrainian"
+msgstr "ucraino"
+
+#: admin/class-wordpress-helpdesk-notifications.php:327
+#: admin/class-wordpress-helpdesk-notifications.php:336
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:644
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1162
+#: admin/class-wordpress-helpdesk-slack.php:231
+#: admin/class-wordpress-helpdesk-slack.php:240
+#: admin/class-wordpress-helpdesk-log.php:238
+#: admin/class-wordpress-helpdesk-log.php:247
+#: admin/class-wordpress-helpdesk-reports.php:168
+msgid "Unassigned"
+msgstr "Non assegnato"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:200
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:237
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:274
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:311
+#: admin/class-wordpress-helpdesk-saved-replies.php:219
+#: admin/class-wordpress-helpdesk-saved-replies.php:255
+#: admin/class-wordpress-helpdesk-faq-post-type.php:765
+#, php-format
+msgid "Update %s"
+msgstr "Aggiorna %s"
+
+#: admin/options-init.php:1783
+msgid "Urdu"
+msgstr "Urdu"
+
+#: admin/options-init.php:131
+msgid "Use Excel 2007"
+msgstr "Usa Excel 2007"
+
+#: admin/options-init.php:1832
+msgid "Use Theme Template"
+msgstr "Usa il modello del tema"
+
+#: admin/widgets/faq-dynamic-posts.php:6
+msgid ""
+"Use this if you want to show FAQs dynamically based on the current users FAQ "
+"page."
+msgstr ""
+"Utilizzalo se vuoi mostrare le domande in modo dinamico in base alla pagina "
+"delle FAQ degli utenti correnti."
+
+#: admin/widgets/faq-live-search.php:6
+msgid "Use this to show the live ajax search for FAQs"
+msgstr ""
+"Utilizzare questo per mostrare la ricerca Ajax dal vivo per le domande "
+"frequenti"
+
+#: admin/class-wordpress-helpdesk-comments-processor.php:121
+msgid "User Exists. The comment has been created by your account."
+msgstr "L'utente esiste Il commento è stato creato dal tuo account."
+
+#: admin/class-wordpress-helpdesk-comments-processor.php:129
+msgid "User not exists, but account could not be created."
+msgstr "L'utente non esiste, ma non è stato possibile creare l'account."
+
+#: admin/class-wordpress-helpdesk-ticket-processor.php:177
+#, php-format
+msgid ""
+"User not exists, but account could not be created. <a href=\"%s\" "
+"title=\"Login\">Please login first</a>!"
+msgstr ""
+"L'utente non esiste, ma non è stato possibile creare l'account. <a href=\" "
+"%s \" title=\"Login\"> Effettua il login per primo </a>!"
+
+#: admin/options-init.php:817
+msgid "Username & Password"
+msgstr "Nome utente e password"
+
+#: admin/class-wordpress-helpdesk-comments-processor.php:113
+#: admin/class-wordpress-helpdesk-ticket-processor.php:153
+msgid "Username not set!"
+msgstr "Nome utente non impostato!"
+
+#: admin/class-wordpress-helpdesk-ticket-processor.php:163
+#, php-format
+msgid ""
+"Username or Email exists.  <a href=\"%s\" title=\"Login\">Please login to "
+"create a ticket</a>."
+msgstr ""
+"Username o Email esiste. <a href=\" %s \" title=\"Login\"> Effettua il login "
+"per creare un ticket </a>."
+
+#: admin/options-init.php:1784
+msgid "Uzbek"
+msgstr "Uzbeko"
+
+#: admin/options-init.php:1785
+msgid "Vietnamese"
+msgstr "vietnamita"
+
+#: admin/class-wordpress-helpdesk-my-tickets.php:224
+msgid "View"
+msgstr "Visualizza"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:137
+#: admin/class-wordpress-helpdesk-saved-replies.php:155
+#: admin/class-wordpress-helpdesk-faq-post-type.php:696
+#, php-format
+msgid "View %s"
+msgstr "Visualizza %s"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:245
+#: admin/class-wordpress-helpdesk-faq-post-type.php:253
+#, php-format
+msgid "View %s article"
+msgid_plural "View %s articles"
+msgstr[0] "Visualizza l'articolo di %s"
+msgstr[1] "Visualizza l'articolo di %s"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:365
+#: admin/class-wordpress-helpdesk-faq-post-type.php:661
+msgid "View Article"
+msgstr "Visualizza l'articolo"
+
+#: admin/class-wordpress-helpdesk-notifications.php:48
+#: admin/class-wordpress-helpdesk-support-rating.php:73
+msgid "View Ticket"
+msgstr "Visualizza il biglietto"
+
+#: admin/views/single-faq.php:126
+#, php-format
+msgid "Viewed: %s"
+msgstr "Visto: %s"
+
+#: admin/class-wordpress-helpdesk-inbox.php:483
+msgid "Visit our Website"
+msgstr "Visita il nostro sito web"
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:469
+msgid "Visitor"
+msgstr "Visitatore"
+
+#: admin/class-wordpress-helpdesk-reports.php:202
+msgid "Waiting"
+msgstr "In attesa"
+
+#: admin/class-wordpress-helpdesk-comments-processor.php:126
+#: admin/class-wordpress-helpdesk-ticket-processor.php:174
+msgid "We created an account for you – Check your inbox!"
+msgstr "Abbiamo creato un account per te - Controlla la tua casella di posta!"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:941
+#: admin/class-wordpress-helpdesk-faq-post-type.php:981
+#, php-format
+msgid "We found more than %d results ..."
+msgstr "Abbiamo trovato più di% d risultati ..."
+
+#: admin/class-wordpress-helpdesk-support-rating.php:177
+msgid "We would be happy if you leave a feedback message:"
+msgstr "Saremmo felici se tu lasciassi un messaggio di feedback:"
+
+#: admin/class-wordpress-helpdesk-form.php:708 admin/options-init.php:581
+#: admin/options-init.php:640 admin/options-init.php:712
+msgid "Website URL"
+msgstr "URL del sito"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:377
+#: admin/views/single-ticket.php:247
+msgid "Website:"
+msgstr "Sito web:"
+
+#. Author of the plugin
+msgid "weLaunch"
+msgstr "weLaunch"
+
+#: admin/options-init.php:281
+msgid "Welcome Text"
+msgstr "Testo di benvenuto"
+
+#: admin/options-init.php:1399
+msgid "Welcome Text (Offline)"
+msgstr "Testo di benvenuto (offline)"
+
+#: admin/options-init.php:1392
+msgid "Welcome Text (Online)"
+msgstr "Testo di benvenuto (online)"
+
+#: admin/options-init.php:288
+msgid "Welcome Timout"
+msgstr "Benvenuto Timout"
+
+#: admin/options-init.php:274
+msgid "Welcome Title"
+msgstr "Titolo di benvenuto"
+
+#: admin/options-init.php:275
+msgid "Welcome to Helpdesk"
+msgstr "Benvenuti in Helpdesk"
+
+#: admin/options-init.php:1786
+msgid "Welsh"
+msgstr "gallese"
+
+#: admin/options-init.php:1207
+msgid "Whenever a comment has been added. "
+msgstr "Ogni volta che è stato aggiunto un commento. "
+
+#: admin/options-init.php:1245
+msgid "Whenever the assigned agent changed. "
+msgstr "Ogni volta che l'agente assegnato è cambiato. "
+
+#: admin/options-init.php:746
+msgid "Where is my stuff?"
+msgstr "Dov'è la mia roba?"
+
+#: admin/options-init.php:108
+msgid "Where you want to show the sidebar."
+msgstr "Dove vuoi mostrare la barra laterale."
+
+#: admin/class-wordpress-helpdesk-sidebar-widgets.php:50
+msgid "Widgets in this area will be shown on all posts and pages."
+msgstr ""
+"I widget in quest'area verranno visualizzati su tutti i post e le pagine."
+
+#: admin/options-init.php:687
+msgid "WooCommerce Form Fields"
+msgstr "Campi dei moduli WooCommerce"
+
+#: admin/options-init.php:953
+msgid "WooCommerce Integration"
+msgstr "Integrazione con WooCommerce"
+
+#: admin/options-init.php:979
+msgid "WooCommerce – FAQ – Columns"
+msgstr "WooCommerce - FAQ - Colonne"
+
+#: admin/options-init.php:973
+msgid "WooCommerce – FAQ – Show excerpt and read more."
+msgstr "WooCommerce - FAQ - Mostra un estratto e leggi di più."
+
+#: admin/options-init.php:990
+msgid "WooCommerce – Hide Admin bar for Reporters"
+msgstr "WooCommerce - Nascondi la barra di amministrazione per i giornalisti"
+
+#: admin/options-init.php:997
+msgid "WooCommerce – Prevent Admin access for Reporters"
+msgstr "WooCommerce - Impedisci l'accesso amministratore per i giornalisti"
+
+#: admin/options-init.php:959
+msgid "WooCommerce – Show FAQs Tab on Product pages"
+msgstr ""
+"WooCommerce - Mostra la scheda Domande frequenti nelle pagine dei prodotti"
+
+#: admin/options-init.php:26 admin/options-init.php:28
+msgid "WordPress Helpdesk"
+msgstr "Helpdesk di WordPress"
+
+#: wordpress-helpdesk.php:108
+msgid ""
+"WordPress Helpdesk requires the weLaunch Framework Please install or "
+"activate it before: https://www.welaunch.io/updates/welaunch-framework.zip"
+msgstr ""
+"L'helpdesk di WordPress richiede il framework weLaunch Si prega di "
+"installarlo o attivarlo prima: https://www.welaunch.io/updates/welaunch-"
+"framework.zip"
+
+#. Name of the plugin
+msgid "WordPress TotalDesk"
+msgstr "WordPress TotalDesk"
+
+#: admin/class-wordpress-helpdesk-support-rating.php:94
+msgid "Wrong satisfied value."
+msgstr "Valore soddisfatto sbagliato."
+
+#: admin/class-wordpress-helpdesk-exporter.php:40
+msgid "You are not an admin"
+msgstr "Non sei un amministratore"
+
+#: admin/options-init.php:356
+msgid "You can also use the widget instead of this search."
+msgstr "Puoi anche utilizzare il widget al posto di questa ricerca."
+
+#: admin/class-wordpress-helpdesk-form.php:308
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:504
+msgid "Your Email"
+msgstr "La tua email"
+
+#: admin/options-init.php:923
+msgid "Your Envato Username"
+msgstr "Il tuo nome utente Envato"
+
+#: admin/class-wordpress-helpdesk-form.php:285
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:501
+msgid "Your Name"
+msgstr "Il tuo nome"
+
+#: admin/class-wordpress-helpdesk-form.php:534
+msgid "Your Order"
+msgstr "Il tuo ordine"
+
+#: admin/class-wordpress-helpdesk-form.php:559
+msgid "Your Subject"
+msgstr "Il tuo argomento"
+
+#: admin/class-wordpress-helpdesk-exporter.php:53
+msgid "Your Ticket Export is ready. The Download should start automatically."
+msgstr ""
+"La tua esportazione del biglietto è pronta. Il download dovrebbe iniziare "
+"automaticamente."

@@ -1,0 +1,3052 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress TotalDesk\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-07 08:41+0000\n"
+"PO-Revision-Date: 2022-01-25 18:58+0000\n"
+"Last-Translator: WeLaunch\n"
+"Language-Team: Finnish (Finland)\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.1; wp-5.4.2"
+
+#: admin/class-wordpress-helpdesk-log.php:74
+#: admin/class-wordpress-helpdesk-livechat-backend.php:160
+msgid " by "
+msgstr " mennessä "
+
+#: admin/options-init.php:94
+msgid "\">register your License here</a>."
+msgstr "\"> rekisteröi lisenssi täällä </a>."
+
+#: admin/class-wordpress-helpdesk-livechat-backend.php:395
+#, php-format
+msgid "%d Chat Tickets created yet"
+msgstr "%d Chat-liput on luotu"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:212
+#: admin/class-wordpress-helpdesk-saved-replies.php:213
+#: admin/class-wordpress-helpdesk-saved-replies.php:222
+#: admin/class-wordpress-helpdesk-saved-replies.php:248
+#: admin/class-wordpress-helpdesk-saved-replies.php:249
+#: admin/class-wordpress-helpdesk-saved-replies.php:258
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: admin/class-wordpress-helpdesk-notifications.php:158
+#: admin/class-wordpress-helpdesk-log.php:151
+#, php-format
+msgid "%s changed from %s to %s"
+msgstr "%s muuttui %s sta %s"
+
+#: admin/class-wordpress-helpdesk-slack.php:180
+#, php-format
+msgid "%s changed from %s to: %s"
+msgstr "%s muuttui %s : sta %s"
+
+#: admin/class-wordpress-helpdesk-notifications.php:193
+#: admin/class-wordpress-helpdesk-slack.php:192
+#: admin/class-wordpress-helpdesk-log.php:160
+#, php-format
+msgid "%s changed to: %s"
+msgstr "%s muuttui: %s"
+
+#: admin/class-wordpress-helpdesk-ticket-processor.php:220
+#, php-format
+msgid "%s not set!"
+msgstr "%s ei ole asetettu!"
+
+#: admin/class-wordpress-helpdesk-form.php:786
+msgid "*"
+msgstr "*"
+
+#: admin/options-init.php:864
+msgid "110"
+msgstr "110"
+
+#: admin/options-init.php:862
+msgid "143"
+msgstr "143"
+
+#: admin/options-init.php:863
+msgid "993"
+msgstr "993"
+
+#: admin/options-init.php:865
+msgid "995"
+msgstr "995"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:504
+#: admin/class-wordpress-helpdesk-faq-post-type.php:517
+#: admin/views/single-faq.php:86
+msgid "< Back to "
+msgstr "<Takaisin"
+
+#: admin/class-wordpress-helpdesk-form.php:95 admin/views/single-ticket.php:95
+msgid "< Back to My Tickets"
+msgstr "<Takaisin Omat liput"
+
+#: admin/options-init.php:930
+msgid ""
+"<a href=\"https://build.Envato.com/my-apps/\" target=\"_blank\">Click here "
+"to get your API key > Person Tokens</a>."
+msgstr ""
+"<a href=\"https://build.Envato.com/my-apps/\" target=\"_blank\"> "
+"Napsauttamalla tätä saat API-avaimesi> Henkilö-koodit </a>."
+
+#: admin/options-init.php:1076
+msgid ""
+"<a href=\"https://developers.facebook.com/docs/messenger-"
+"platform/discovery/customer-chat-plugin#steps\">Follow the steps here to get "
+"the Messenger code.</a>"
+msgstr ""
+"<a href=\"https://developers.facebook.com/docs/messenger-"
+"platform/discovery/customer-chat-plugin#steps\">Noudata tässä olevia ohjeita "
+"saadaksesi Messenger-koodin.</a>"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:93
+msgid "<h2>No Topics created so far!</h2>"
+msgstr "<h2> Ei tähän mennessä luotuja aiheita! </ h2>"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1147
+msgid ""
+"<span class=\"vers comment-grey-bubble\" title=\"Comments\"><span "
+"class=\"screen-reader-text\">Comments</span></span>"
+msgstr ""
+"<span class =  \"vers comments-harmaa kupla \" title =  \"Comments \"> <span "
+"class =  \"screen-reader-text \"> Kommentit </ span> </ span>"
+
+#: admin/class-wordpress-helpdesk-my-tickets.php:161
+#, php-format
+msgid "[Ticket: %s]"
+msgstr "[Liput: %s ]"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1085
+#, php-format
+msgid "[Ticket: %s] %s"
+msgstr "[Liput: %s ] %s"
+
+#: admin/class-wordpress-helpdesk-slack.php:176
+#: admin/class-wordpress-helpdesk-slack.php:188
+#, php-format
+msgid "[Ticket: %s] %s changed"
+msgstr "[Liput: %s ] %s muutettu"
+
+#: admin/class-wordpress-helpdesk-slack.php:93
+#: admin/class-wordpress-helpdesk-slack.php:132
+#: admin/class-wordpress-helpdesk-slack.php:178
+#: admin/class-wordpress-helpdesk-slack.php:190
+#: admin/class-wordpress-helpdesk-slack.php:253
+#: admin/class-wordpress-helpdesk-slack.php:289
+#, php-format
+msgid "[Ticket: %s] - %s"
+msgstr "[Liput: %s ] - %s"
+
+#: admin/class-wordpress-helpdesk-slack.php:287
+#, php-format
+msgid "[Ticket: %s] Agent assigned"
+msgstr "[Ticket: %s ] Asiamiehen nimi"
+
+#: admin/class-wordpress-helpdesk-slack.php:251
+#, php-format
+msgid "[Ticket: %s] Agent changed"
+msgstr "[Liput: %s ] Agentti muuttui"
+
+#: admin/options-init.php:324
+msgid ""
+"A custom Post Type FAQ will be created. Tickets can be copied into a new FAQ."
+msgstr ""
+"Mukautettu postityypin UKK luodaan. Liput voidaan kopioida uuteen usein "
+"kysyttyyn kysymykseen."
+
+#: admin/options-init.php:666
+msgid ""
+"A selected Item will be overwritten when an item is found within the "
+"purchase code."
+msgstr "Valittu kohta korvataan, kun kohde löytyy ostoskoodista."
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:112
+#: admin/class-wordpress-helpdesk-livechat-backend.php:195
+#, php-format
+msgid "A seperate Chat-Ticket with the ID %s has been created."
+msgstr "Erillinen chat-lippu, jonka tunnus on %s on luotu."
+
+#: admin/class-wordpress-helpdesk-notifications.php:96
+#, php-format
+msgid "A Ticket with the ID %s has been created"
+msgstr "Lippu, jolla on tunnus %s on luotu"
+
+#: admin/options-init.php:534 admin/options-init.php:541
+#: admin/options-init.php:1681 admin/options-init.php:1687
+msgid "Accepts shortcodes also."
+msgstr "Hyväksyy myös lyhytkoodit."
+
+#: admin/class-wordpress-helpdesk-my-tickets.php:146
+msgid "Actions"
+msgstr "Toimet"
+
+#: admin/class-wordpress-helpdesk-ticket-notes.php:92
+msgid "Add"
+msgstr "Lisätä"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:134
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:201
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:238
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:275
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:312
+#: admin/class-wordpress-helpdesk-saved-replies.php:152
+#: admin/class-wordpress-helpdesk-saved-replies.php:220
+#: admin/class-wordpress-helpdesk-saved-replies.php:256
+#: admin/class-wordpress-helpdesk-faq-post-type.php:693
+#: admin/class-wordpress-helpdesk-faq-post-type.php:766
+#, php-format
+msgid "Add New %s"
+msgstr "Lisää uusi %s"
+
+#: admin/class-wordpress-helpdesk-ticket-notes.php:86
+msgid "Add Note"
+msgstr "Lisätä huomautus"
+
+#: admin/options-init.php:338
+msgid "Add Schema.org Support"
+msgstr ""
+
+#: admin/options-init.php:1855 admin/options-init.php:1862
+msgid "Add some stylesheet if you want."
+msgstr "Lisää haluamasi tyylitaulukko."
+
+#: admin/options-init.php:1824
+msgid "Advanced settings"
+msgstr "Lisäasetukset"
+
+#: admin/options-init.php:1717
+msgid "Afrikaans"
+msgstr "afrikaans"
+
+#: admin/options-init.php:1614
+msgid "After login all reporters will be redirected to the my tickets page."
+msgstr ""
+"Kirjautumisen jälkeen kaikki toimittajat ohjataan minun lippujen sivulle."
+
+#: admin/views/single-ticket.php:229
+#, php-format
+msgid "Agent: %s"
+msgstr "Agentti: %s"
+
+#: admin/options-init.php:1620
+msgid "Agents can create tickets for Users"
+msgstr "Agentit voivat luoda lippuja käyttäjille"
+
+#: admin/options-init.php:263 admin/options-init.php:1413
+msgid "AJAX Interval"
+msgstr "AJAX-väli"
+
+#: admin/options-init.php:1718
+msgid "Albanian"
+msgstr "Albanialainen"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:122
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:124
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:196
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:233
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:270
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:307
+#: admin/class-wordpress-helpdesk-saved-replies.php:149
+#: admin/class-wordpress-helpdesk-saved-replies.php:215
+#: admin/class-wordpress-helpdesk-saved-replies.php:251
+#: admin/class-wordpress-helpdesk-faq-post-type.php:690
+#: admin/class-wordpress-helpdesk-faq-post-type.php:761
+#, php-format
+msgid "All %s"
+msgstr "Kaikki %s"
+
+#: admin/options-init.php:1338
+msgid "Allow Attachments"
+msgstr "Salli lisäykset"
+
+#: admin/options-init.php:1331
+msgid "Allow Guest-Chat"
+msgstr "Salli Guest-Chat"
+
+#: admin/options-init.php:1628
+msgid "Allow Ticket creation via Forms only when User is logged in."
+msgstr ""
+"Salli lippujen luominen lomakkeiden kautta vain, kun käyttäjä on kirjautunut "
+"sisään."
+
+#: admin/options-init.php:1748
+msgid "Alternative"
+msgstr "Vaihtoehtoinen"
+
+#: admin/options-init.php:1719
+msgid "Amharic"
+msgstr "Amhara"
+
+#: admin/options-init.php:1720
+msgid "Arabic"
+msgstr "arabialainen"
+
+#: admin/options-init.php:841
+msgid "Archive Folder"
+msgstr "Arkistoi kansio"
+
+#: admin/options-init.php:1721
+msgid "Armenian"
+msgstr "Armenialainen"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1307
+msgid "Articles Found"
+msgstr "Artikkelit löytyi"
+
+#: admin/options-init.php:1244
+msgid "Assigned Agent Changed Notification"
+msgstr "Määritetty agentti muutti ilmoituksen"
+
+#: admin/class-wordpress-helpdesk-slack.php:255
+#: admin/class-wordpress-helpdesk-log.php:265
+#, php-format
+msgid "Assigned from %s to %s"
+msgstr "Määritetty %s stä %s"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1141
+msgid "Assigned To"
+msgstr "Määritetty"
+
+#: admin/class-wordpress-helpdesk-notifications.php:344
+#: admin/class-wordpress-helpdesk-notifications.php:401
+#: admin/class-wordpress-helpdesk-slack.php:291
+#: admin/class-wordpress-helpdesk-log.php:263
+#: admin/class-wordpress-helpdesk-log.php:298
+#, php-format
+msgid "Assigned to %s"
+msgstr "Liitetty kohteeseen %s"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:633
+msgid "Assigned to: "
+msgstr "Määritetty: "
+
+#: admin/class-wordpress-helpdesk-form.php:728
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:351
+#: admin/class-wordpress-helpdesk-attachments.php:63
+#: admin/views/single-ticket.php:393
+msgid "Attachments"
+msgstr "Liitteet"
+
+#: admin/options-init.php:587 admin/options-init.php:646
+#: admin/options-init.php:718
+msgid "Attachments field"
+msgstr "Liitteet-kenttä"
+
+#: admin/options-init.php:1446
+msgid "Automatic Reply User"
+msgstr "Automaattinen vastaus käyttäjä"
+
+#: admin/options-init.php:1663
+msgid "Automatically Close Tickets"
+msgstr "Sulje liput automaattisesti"
+
+#: admin/options-init.php:1664
+msgid ""
+"Automatically set Tickets to close / solved after X Days no comment / update "
+"was made. You need to set a default solved status!"
+msgstr ""
+"Aseta liput automaattisesti sulkemaan / ratkaisemaan X Days -päivän jälkeen, "
+"eikä kommentteja / päivityksiä tehty. Sinun on asetettava oletettu ratkaistu "
+"tila!"
+
+#: admin/options-init.php:1722
+msgid "Azerbaijan"
+msgstr "Azerbaidžan"
+
+#: admin/options-init.php:1535 admin/options-init.php:1583
+msgid "Bad, I'm unsatisfied"
+msgstr "Huono, olen tyytymätön"
+
+#: admin/options-init.php:1723
+msgid "Bangla"
+msgstr "Bangla"
+
+#: admin/options-init.php:1724
+msgid "Basque"
+msgstr "baski"
+
+#: admin/options-init.php:1725
+msgid "Belarusian"
+msgstr "Valkovenäläinen"
+
+#: admin/options-init.php:1762
+msgid "Bokmal"
+msgstr "Bokmal"
+
+#: admin/options-init.php:434
+msgid "Boxed Layout"
+msgstr "Boxed Layout"
+
+#: admin/options-init.php:1767
+msgid "Brasil"
+msgstr "Brasilia"
+
+#: admin/options-init.php:1726
+msgid "Bulgarian"
+msgstr "Bulgaria"
+
+#: admin/options-init.php:1406
+msgid "Button Text"
+msgstr "Button Text"
+
+#: admin/options-init.php:1727
+msgid "Catalan"
+msgstr "Katalaani"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:209
+msgid "Categories"
+msgstr "Luokat"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:208
+msgid "Category"
+msgstr "Kategoria"
+
+#: admin/options-init.php:751
+msgid "Change an order"
+msgstr "Muuta tilausta"
+
+#: admin/options-init.php:1120
+msgid "Chatra Code"
+msgstr "Chatra-koodi"
+
+#: admin/options-init.php:894
+msgid "Check Folder"
+msgstr "Tarkista kansio"
+
+#: admin/options-init.php:944
+msgid "Check Support until for Purchase?"
+msgstr "Tarkista tuki ennen ostoa?"
+
+#: admin/options-init.php:332
+msgid "Check this to enable our FAQ feature."
+msgstr "Valitse tämä, jos haluat ottaa UKK-ominaisuuden käyttöön."
+
+#: admin/options-init.php:1729
+msgid "Chinese"
+msgstr "Kiinalainen"
+
+#: admin/options-init.php:218
+msgid "Choose a default agent per selected department."
+msgstr "Valitse oletusagentti valittua osastoa kohden."
+
+#: admin/options-init.php:1634
+msgid "Close Comment section when Ticket closed"
+msgstr "Sulje Kommentti-osio, kun lippu suljetaan"
+
+#: admin/views/single-ticket.php:105
+msgid "Close ticket"
+msgstr "Sulje lippu"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:977
+msgid "Color"
+msgstr "Väri"
+
+#: admin/class-wordpress-helpdesk-notifications.php:257
+#: admin/class-wordpress-helpdesk-log.php:199
+msgid "Comment added"
+msgstr "Kommentti lisätty"
+
+#: admin/options-init.php:1206
+msgid "Comment Added Notification"
+msgstr "Kommentti lisätty ilmoitukseen"
+
+#: admin/options-init.php:1693
+msgid "Configure what you want to show in the My tickets table."
+msgstr "Määritä, mitä haluat näyttää Omat liput -taulukossa."
+
+#: admin/options-init.php:540
+msgid "Content After FAQ"
+msgstr "Sisältö UKK: n jälkeen"
+
+#: admin/options-init.php:1686
+msgid "Content After Single Ticket"
+msgstr "Sisältö yhden lipun jälkeen"
+
+#: admin/options-init.php:533
+msgid "Content Before FAQ"
+msgstr "Sisältö ennen usein kysyttyä"
+
+#: admin/options-init.php:1680
+msgid "Content Before Single Ticket"
+msgstr "Sisältö ennen yksittäistä lippua"
+
+#: admin/class-wordpress-helpdesk-log.php:79
+msgid "Content: "
+msgstr "sisältö: "
+
+#: admin/options-init.php:1121
+msgid "Copy & paste the HTML code here. https://app.chatra.io/settings/general"
+msgstr ""
+"Kopioi ja liitä HTML-koodi tähän. https://app.chatra.io/settings/general"
+
+#: admin/options-init.php:1091
+msgid ""
+"Copy & paste the HTML code here. https://app.crisp.chat/settings/websites/"
+msgstr ""
+"Kopioi ja liitä HTML-koodi tähän. https://app.crisp.chat/settings/websites/"
+
+#: admin/options-init.php:1106
+msgid ""
+"Copy & paste the HTML code here. https://app.purechat.com/websites/install-"
+"first"
+msgstr ""
+"Kopioi ja liitä HTML-koodi tähän. https://app.purechat.com/websites/install-"
+"first"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:988
+#: admin/class-wordpress-helpdesk-faq-post-type.php:995
+#, php-format
+msgid "Could not find anything for: %s"
+msgstr "Ei löytynyt mitään: %s"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:518
+msgid "Could not Merge Ticket."
+msgstr "Liitettä ei voi yhdistää."
+
+#: admin/widgets/faq-topics.php:122
+msgid "Count"
+msgstr "Kreivi"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:819
+msgid "Create FAQ from this Ticket"
+msgstr "Luo FAQ tästä lipusta"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:309
+msgid "Create Saved Reply"
+msgstr "Luo tallennettu vastaus"
+
+#: admin/class-wordpress-helpdesk-form.php:204
+msgid "Create Ticket"
+msgstr "Luo lippu"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:602
+msgid "Created by: "
+msgstr "Luonut: "
+
+#: admin/class-wordpress-helpdesk-ticket-notes.php:77
+#: admin/class-wordpress-helpdesk-ticket-notes.php:134
+#, php-format
+msgid "created on %s by %s"
+msgstr "luotiin %s %s"
+
+#: admin/views/single-ticket.php:198 admin/views/single-ticket.php:231
+msgid "Created on:"
+msgstr "Luotu:"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:601
+msgid "Created on: "
+msgstr "Luotu: "
+
+#: admin/options-init.php:1090
+msgid "Crisp Code"
+msgstr "Crisp Code"
+
+#: admin/options-init.php:1730
+msgid "Croatian"
+msgstr "Kroatialainen"
+
+#: admin/class-wordpress-helpdesk-woocommerce.php:262
+msgid "Currently we do not have any frequently asked questions."
+msgstr "Tällä hetkellä meillä ei ole usein kysyttyjä kysymyksiä."
+
+#: admin/options-init.php:1854
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: admin/options-init.php:679
+msgid "Custom Envato Optional Fields"
+msgstr "Mukautetut Envato-valinnaiset kentät"
+
+#: admin/options-init.php:672
+msgid "Custom Envato Required Fields"
+msgstr "Mukautetut Envato-pakolliset kentät"
+
+#: admin/options-init.php:1861
+msgid "Custom JS"
+msgstr "Custom JS"
+
+#: admin/options-init.php:607
+msgid "Custom Optional Fields"
+msgstr "Mukautetut valinnaiset kentät"
+
+#: admin/options-init.php:600
+msgid "Custom Required Fields"
+msgstr "Mukautetut pakolliset kentät"
+
+#: admin/options-init.php:1825
+msgid "Custom stylesheet / javascript."
+msgstr "Mukautettu tyylisivu / javascript."
+
+#: admin/options-init.php:767
+msgid "Custom WooCommerce Optional Fields"
+msgstr "Mukautetut WooCommerce-valinnaiset kentät"
+
+#: admin/options-init.php:760
+msgid "Custom WooCommerce Required Fields"
+msgstr "Mukautetut WooCommerce-pakolliset kentät"
+
+#: admin/class-wordpress-helpdesk-form.php:305
+msgid "Customer Email (leave empty to create ticket with your current user)"
+msgstr ""
+"Asiakkaan sähköposti (jätä tyhjäksi luoda lippu nykyisen käyttäjän kanssa)"
+
+#: admin/class-wordpress-helpdesk-form.php:282
+msgid "Customer Name (leave empty to create ticket with your current user)"
+msgstr "Asiakkaan nimi (jätä tyhjäksi luoda lippu nykyisen käyttäjän kanssa)"
+
+#: admin/options-init.php:1731
+msgid "Czech"
+msgstr "Tšekki"
+
+#: admin/options-init.php:794
+msgid "Daily"
+msgstr "Päivittäin"
+
+#: admin/options-init.php:1732
+msgid "Danish"
+msgstr "Tanskan kieli"
+
+#: admin/options-init.php:593 admin/options-init.php:652
+#: admin/options-init.php:724
+msgid "Data Privacy Checkbox"
+msgstr "Tietosuojavalintaruutu"
+
+#: admin/options-init.php:1713
+msgid "Datatables Language"
+msgstr "Tietokantojen kieli"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1148
+#: admin/class-wordpress-helpdesk-my-tickets.php:123
+msgid "Date"
+msgstr "Treffi"
+
+#: admin/class-wordpress-helpdesk-reports.php:259
+msgid "Date Filter"
+msgstr "Päivämääräsuodatin"
+
+#: admin/class-wordpress-helpdesk-reports.php:263
+msgid "Date From (JJJJ-MM-DD)"
+msgstr "Päivämäärä (JJJJ-MM-DD)"
+
+#: admin/class-wordpress-helpdesk-reports.php:84
+msgid "Date From is not valid!"
+msgstr "Päivämäärä From ei ole voimassa!"
+
+#: admin/class-wordpress-helpdesk-reports.php:267
+msgid "Date Until (JJJJ-MM-DD)"
+msgstr "Päivämäärä asti (JJJJ-MM-DD)"
+
+#: admin/class-wordpress-helpdesk-reports.php:94
+msgid "Date Until is not valid!"
+msgstr "Päivämäärä, kunnes se ei ole voimassa!"
+
+#: admin/options-init.php:1670
+msgid "Days after a Ticket gets closed"
+msgstr "Päiviä sen jälkeen, kun lippu suljetaan"
+
+#: admin/options-init.php:209
+msgid "Default Agent"
+msgstr "Oletusagentti"
+
+#: admin/options-init.php:232
+#, php-format
+msgid "Default Agent for %s"
+msgstr "Oletusagentti %s"
+
+#: admin/options-init.php:217
+msgid "Default Agents by Department"
+msgstr "Oletusagentit osastoittain"
+
+#: admin/options-init.php:203
+msgid "Default Department"
+msgstr "Oletusosasto"
+
+#: admin/options-init.php:1353
+msgid "Default Icon"
+msgstr "Oletuskuvake"
+
+#: admin/options-init.php:155
+msgid "Default New Ticket Status"
+msgstr "Uuden lipun oletusarvo"
+
+#: admin/options-init.php:191
+msgid "Default priority"
+msgstr "Oletusprioriteetti"
+
+#: admin/options-init.php:167
+msgid "Default Solved (closed) Status"
+msgstr "Oletus ratkaistu (suljettu) -tila"
+
+#: admin/options-init.php:442 admin/options-init.php:481
+msgid "Default Topic columns. Needs to be deviable by 12."
+msgstr "Oletusaiheiset sarakkeet. Sen täytyy olla muunneltavissa 12 mennessä."
+
+#: admin/options-init.php:179
+msgid "Default Type"
+msgstr "Oletustyyppi"
+
+#: admin/options-init.php:242
+msgid "Defaults"
+msgstr "Oletukset"
+
+#: admin/class-wordpress-helpdesk-ticket-notes.php:78
+#: admin/class-wordpress-helpdesk-ticket-notes.php:135
+msgid "Delete Note"
+msgstr "Poista merkintä"
+
+#: admin/class-wordpress-helpdesk-form.php:426
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:263
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1145
+#: admin/class-wordpress-helpdesk-my-tickets.php:135
+msgid "Department"
+msgstr "osasto"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:264
+msgid "Departments"
+msgstr "osastot"
+
+#: admin/widgets/faq-topics.php:120 admin/views/single-ticket.php:376
+msgid "Description"
+msgstr "Kuvaus"
+
+#: admin/options-init.php:250
+msgid "Desktop Notifications"
+msgstr "Desktop-ilmoitukset"
+
+#: admin/options-init.php:1847
+msgid "Disable Fontawesome Loading"
+msgstr "Poista Fontawesome Loading käytöstä"
+
+#: admin/options-init.php:1635
+msgid ""
+"Disable replies when a ticket is closed. Make sure you set a default solved "
+"(closed) status in default settings."
+msgstr ""
+"Poista vastaukset käytöstä, kun lippu on suljettu. Varmista, että olet "
+"asettanut oletusasetukseksi oletusratkaisun (suljettu)."
+
+#: admin/options-init.php:417
+msgid "Disable the Rating dislike button"
+msgstr "Poista Arvosteluominaisuus -painike käytöstä"
+
+#: admin/options-init.php:887
+msgid "Do not validate Certificates."
+msgstr "Älä hyväksy sertifikaatteja."
+
+#: admin/options-init.php:1733
+msgid "Dutch"
+msgstr "Hollannin kieli"
+
+#: admin/widgets/faq-dynamic-posts.php:107
+msgid "Dynamic Title:"
+msgstr ""
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:135
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:199
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:236
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:273
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:310
+#: admin/class-wordpress-helpdesk-saved-replies.php:153
+#: admin/class-wordpress-helpdesk-saved-replies.php:218
+#: admin/class-wordpress-helpdesk-saved-replies.php:254
+#: admin/class-wordpress-helpdesk-faq-post-type.php:694
+#: admin/class-wordpress-helpdesk-faq-post-type.php:764
+#, php-format
+msgid "Edit %s"
+msgstr "Muokkaa %s"
+
+#: admin/options-init.php:810
+msgid "Email"
+msgstr "Sähköposti"
+
+#: admin/options-init.php:1568
+msgid "Email Intro"
+msgstr "Sähköpostiin"
+
+#: admin/class-wordpress-helpdesk-comments-processor.php:116
+#: admin/class-wordpress-helpdesk-ticket-processor.php:156
+msgid "Email not set!"
+msgstr "Sähköposti ei ole asetettu!"
+
+#: admin/options-init.php:1589
+msgid "Email Outro"
+msgstr "Sähköposti Outro"
+
+#: admin/options-init.php:1554
+msgid "Email Rating Status"
+msgstr ""
+
+#: admin/options-init.php:1575 admin/options-init.php:1582
+msgid "Email Satisfied Text"
+msgstr "Sähköposti tyydytetty teksti"
+
+#: admin/options-init.php:1561
+msgid "Email Subject"
+msgstr "Sähköpostin aihe"
+
+#: admin/views/single-ticket.php:199 admin/views/single-ticket.php:232
+msgid "Email:"
+msgstr "Sähköposti:"
+
+#: admin/options-init.php:100
+msgid "Enable"
+msgstr "ota käyttöön"
+
+#: admin/options-init.php:1251
+msgid "Enable agent changed added Notification"
+msgstr "Ota agentti muuttamaan lisätty ilmoitus"
+
+#: admin/options-init.php:1439
+msgid "Enable Automatic Replies"
+msgstr "Ota automaattiset vastaukset käyttöön"
+
+#: admin/options-init.php:1455
+msgid "Enable Automatic Replies for new Tickets"
+msgstr "Ota käyttöön automaattiset vastaukset uusille lipuille"
+
+#: admin/options-init.php:1462
+msgid "Enable Automatic Reply for new Ticket Replies"
+msgstr "Ota automaattinen vastaus uusiin lipputeksteihin"
+
+#: admin/options-init.php:1112
+msgid "Enable Chatra Live Chat."
+msgstr "Ota Chatra Live Chat käyttöön."
+
+#: admin/options-init.php:1213
+msgid "Enable Comment added Notification"
+msgstr "Ota käyttöön lisätty kommentti"
+
+#: admin/options-init.php:1082
+msgid "Enable Crisp Live Chat."
+msgstr "Ota Crisp Live Chat käyttöön."
+
+#: admin/options-init.php:1707
+msgid "Enable Datatables"
+msgstr "Ota tietokannat käyttöön"
+
+#: admin/options-init.php:257
+msgid "Enable Desktop Notifications"
+msgstr "Ota käyttöön työpöytäilmoitukset"
+
+#: admin/options-init.php:1067
+msgid "Enable FB Messenger Live Chat."
+msgstr "Ota FB Messenger Live Chat käyttöön."
+
+#: admin/options-init.php:782
+msgid "Enable Inbox"
+msgstr "Ota postilaatikko käyttöön"
+
+#: admin/options-init.php:1325
+msgid "Enable Live Chat"
+msgstr "Ota käyttöön Live Chat"
+
+#: admin/options-init.php:1097
+msgid "Enable PureChat Live Chat."
+msgstr "Ota PureChat Live Chat käyttöön."
+
+#: admin/options-init.php:1432
+msgid "Enable Saved Replies"
+msgstr "Ota tallennettuja vastauksia käyttöön"
+
+#: admin/options-init.php:1478
+msgid "Enable Support Rating"
+msgstr "Ota tukiluokitus käyttöön"
+
+#: admin/options-init.php:1542
+msgid "Enable Support Rating Email"
+msgstr ""
+
+#: admin/options-init.php:1501
+msgid "Enable Support Rating on Ticket Page"
+msgstr ""
+
+#: admin/options-init.php:331
+msgid "Enable the FAQs Knowledge Base"
+msgstr "Ota käyttöön usein kysytyt kysymykset"
+
+#: admin/options-init.php:783
+msgid "Enable this to allow ticket creation via Email."
+msgstr "Ota tämä käyttöön sallimalla lippujen luominen sähköpostitse."
+
+#: admin/options-init.php:1833
+msgid "Enable this to override the custom templates."
+msgstr "Ota tämä käyttöön ohittaaksesi mukautetut mallit."
+
+#: admin/options-init.php:101
+msgid "Enable TotalDesk."
+msgstr "Ota TotalDesk käyttöön."
+
+#: admin/options-init.php:1734
+msgid "English"
+msgstr "Englanti"
+
+#: admin/options-init.php:1407
+msgid "Enter Chat"
+msgstr "Anna Chat"
+
+#: admin/options-init.php:820
+msgid "Enter your Password"
+msgstr "Syötä salasanasi"
+
+#: admin/options-init.php:819
+msgid "Enter your Username"
+msgstr "Syötä käyttäjänimesi"
+
+#: admin/options-init.php:929
+msgid "Envato API Key"
+msgstr "Envato API -avaimen"
+
+#: admin/options-init.php:615
+msgid "Envato Form Fields"
+msgstr "Envato lomakekentät"
+
+#: admin/options-init.php:917
+msgid "Envato Integration"
+msgstr "Envato-integraatio"
+
+#: admin/options-init.php:665
+msgid "Envato Items"
+msgstr "Envato-kohteet"
+
+#: admin/class-wordpress-helpdesk-livechat-backend.php:355
+msgid "Error while uploading your attachment."
+msgstr "Virhe lataamassa liitetiedostoasi."
+
+#: admin/options-init.php:1735
+msgid "Estonian"
+msgstr "Virolainen"
+
+#: admin/options-init.php:139
+msgid "Export all Tickets"
+msgstr "Vie kaikki liput"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:685
+msgid "FAQ"
+msgstr "Ohje"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:855
+msgid "FAQ creation failed, could not find original ticket: "
+msgstr "FAQ-luominen epäonnistui, emme löytäneet alkuperäistä lippua: "
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1278
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1279
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1299
+msgid "FAQ Terms"
+msgstr "FAQ Ehdot"
+
+#: admin/widgets/faq-topics.php:6
+msgid "FAQ Topics"
+msgstr "FAQ Aiheet"
+
+#: admin/options-init.php:323
+msgid "FAQ – Knowledge Base"
+msgstr "FAQ - Knowledge Base"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:686
+#: admin/class-wordpress-helpdesk-faq-post-type.php:689
+msgid "FAQs"
+msgstr "FAQ"
+
+#: admin/options-init.php:1075
+msgid "FBMessenger Code"
+msgstr "FBMessenger-koodi"
+
+#: admin/options-init.php:1491
+msgid "Feedback Page"
+msgstr "Palaute sivu"
+
+#: admin/class-wordpress-helpdesk-support-rating.php:141
+msgid "Feedback received. Thanks!"
+msgstr "Palaute Vastaanotettu. Kiitos!"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:354
+msgid "Feedback:"
+msgstr "Palaute:"
+
+#: admin/class-wordpress-helpdesk-support-rating.php:124
+msgid "Feedback: "
+msgstr "Palaute:"
+
+#: admin/options-init.php:894
+msgid "Fetch Emails Now"
+msgstr "Hae sähköpostit nyt"
+
+#: admin/options-init.php:616
+msgid "Fields for the Simple [new_ticket type=\"Envato\"] form. "
+msgstr "Yksinkertaisen [new_ticket type =  \"Envato \"] kentät. "
+
+#: admin/options-init.php:688
+msgid "Fields for the Simple [new_ticket type=\"WooCommerce\"] form. "
+msgstr "Yksinkertaisen [new_ticket type =  \"WooCommerce \"] -kentän kentät. "
+
+#: admin/options-init.php:557
+msgid "Fields for the Simple [new_ticket] form. "
+msgstr "Yksinkertaisen [new_ticket] -kentän kentät. "
+
+#: admin/options-init.php:1736
+msgid "Filipino"
+msgstr "Filippiiniläinen"
+
+#: admin/class-wordpress-helpdesk-reports.php:276
+msgid "Filtered"
+msgstr "suodatettu"
+
+#: admin/class-wordpress-helpdesk-reports.php:277
+msgid "Filtered Tickets:"
+msgstr "Suodatetut liput:"
+
+#: admin/options-init.php:1737
+msgid "Finnish"
+msgstr "Suomalainen"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:881
+msgid "Font Awesome Icon."
+msgstr ""
+
+#: admin/options-init.php:1311
+msgid "Footer for Mails"
+msgstr "Sivun alatunniste"
+
+#: admin/options-init.php:548
+msgid "Form Fields"
+msgstr "Lomakekentät"
+
+#: admin/options-init.php:1738
+msgid "French"
+msgstr "Ranskan kieli"
+
+#: admin/class-wordpress-helpdesk-woocommerce.php:276
+msgid "Frequently Asked Questions"
+msgstr "Usein Kysytyt Kysymykset"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1140
+msgid "From"
+msgstr "alkaen"
+
+#: admin/options-init.php:1739
+msgid "Galician"
+msgstr "Galicialainen"
+
+#: admin/options-init.php:92
+msgid "General"
+msgstr "yleinen"
+
+#: admin/options-init.php:1740
+msgid "Georgian"
+msgstr "Georgialainen"
+
+#: admin/options-init.php:1741
+msgid "German"
+msgstr "Saksan kieli"
+
+#: admin/options-init.php:749
+msgid "Gift Cards"
+msgstr "Lahjakortit"
+
+#: admin/options-init.php:1528 admin/options-init.php:1576
+msgid "Good, I'm satisfied"
+msgstr "Hyvä, olen tyytyväinen"
+
+#: admin/options-init.php:1742
+msgid "Greek"
+msgstr "Kreikka"
+
+#: admin/options-init.php:1743
+msgid "Gujarati"
+msgstr "Gujarati"
+
+#: admin/options-init.php:1744
+msgid "Hebrew"
+msgstr "heprealainen"
+
+#: admin/options-init.php:1569
+#, php-format
+msgid ""
+"Hello %s,<br/><br/>We'd love to hear about your support experience. Please "
+"take a moment to answer one simple question by clicking either link below:"
+"<br/><br/>How would you rate the support you received?<br/><br/>"
+msgstr ""
+"Hei %s , <br/> <br/> Haluamme kuulla tukikokemuksesi. Ottakaa hetki "
+"vastaamaan yhteen yksinkertaiseen kysymykseen klikkaamalla alla olevaa "
+"linkkiä: <br/> <br/> Miten arvioisit saamasi tuen? <br/> <br/>"
+
+#: admin/options-init.php:85 admin/options-init.php:1289
+msgid "Helpdesk"
+msgstr "Tukipalvelu"
+
+#: includes/class-wordpress-helpdesk-activator.php:214
+msgid "Helpdesk Agent"
+msgstr "Helpdesk-agentti"
+
+#: includes/class-wordpress-helpdesk-activator.php:236
+msgid "Helpdesk Reporter"
+msgstr "Helpdesk-toimittaja"
+
+#: admin/class-wordpress-helpdesk-sidebar-widgets.php:48
+msgid "Helpdesk Sidebar"
+msgstr "Helpdesk-sivupalkki"
+
+#: admin/options-init.php:1393
+#, php-format
+msgid "Hi %s,<br><br>Please tell us your subject and your concerns."
+msgstr "Hi %s , <br> <br> Kerro meille aiheenne ja huolenne."
+
+#: admin/options-init.php:493
+msgid "Hide all FAQ excerpts for not logged in users in the Knwoledge Base"
+msgstr ""
+"Piilota kaikki FAQ-erät, jotka eivät ole kirjautuneet käyttäjille Knwoledge-"
+"tukiasemassa"
+
+#: admin/options-init.php:501
+msgid "Hide all Single FAQ pages for not logged in users."
+msgstr ""
+"Piilota kaikki yksittäiset FAQ-sivut, jotka eivät ole kirjautuneet sisään."
+
+#: admin/options-init.php:500
+msgid "Hide All Single FAQs pages"
+msgstr "Piilota kaikki yksittäiset usein kysytyt kysymykset -sivut"
+
+#: admin/options-init.php:527
+msgid "Hide complete Topics from not logged in users:"
+msgstr "Piilota kaikki aiheet, jotka eivät ole kirjautuneet sisään:"
+
+#: admin/widgets/faq-topics.php:166
+msgid "Hide Empy Topics"
+msgstr "Piilota Empy-aiheet"
+
+#: admin/options-init.php:492
+msgid "Hide FAQ excerpts for not logged in"
+msgstr "Piilota usein kysytyt kysymykset, jos et ole kirjautunut sisään"
+
+#: admin/options-init.php:460
+msgid "Hide FAQs when subcategories exists"
+msgstr "Piilota usein kysytyt kysymykset, kun alaluokkia on olemassa"
+
+#: admin/options-init.php:1345
+msgid "Hide Livechat when agents offline"
+msgstr "Piilota Livechat, kun agentit offline-tilassa"
+
+#: admin/options-init.php:512
+msgid "Hide some FAQs"
+msgstr "Piilota jotkin usein kysytyt kysymykset"
+
+#: admin/options-init.php:526
+msgid "Hide some Topics"
+msgstr "Piilota jotkin aiheet"
+
+#: admin/options-init.php:1745
+msgid "Hindi"
+msgstr "Hindi"
+
+#: admin/class-wordpress-helpdesk-log.php:46
+msgid "History"
+msgstr "Historia"
+
+#: admin/options-init.php:827
+msgid "Host"
+msgstr "isäntä"
+
+#: admin/options-init.php:792
+msgid "Hourly"
+msgstr "tunti-"
+
+#: admin/options-init.php:282
+msgid "How can we help you today?"
+msgstr "kuinka voimme auttaa sinua tänään?"
+
+#: admin/options-init.php:790
+msgid "How often should Emails be fetched."
+msgstr "Kuinka usein sähköpostit on haettava."
+
+#: admin/options-init.php:1521
+msgid "How would you rate our support?"
+msgstr ""
+
+#: admin/options-init.php:1562
+msgid "How would you rate the support?"
+msgstr "Miten arvioisit tuen?"
+
+#. Author URI of the plugin
+msgid "https://welaunch.io"
+msgstr "https://welaunch.io"
+
+#. URI of the plugin
+msgid "https://welaunch.io/plugins/helpdesk/"
+msgstr "https://welaunch.io/plugins/helpdesk/"
+
+#: admin/options-init.php:1746
+msgid "Hungarian"
+msgstr "Unkarin kieli"
+
+#: admin/class-wordpress-helpdesk-form.php:755
+#, php-format
+msgid "I have read and agree to the %s"
+msgstr "Olen lukenut%s: n ja hyväksyn sen"
+
+#: admin/options-init.php:1747
+msgid "Icelandic"
+msgstr "Islantilainen"
+
+#: admin/widgets/faq-topics.php:119
+msgid "Id"
+msgstr "Id"
+
+#: admin/options-init.php:937
+msgid ""
+"If enabled manual ticket creations will require a purchase code. Requests "
+"without a purchase code will automatically be denied and a reply will be "
+"sent with the request for the code."
+msgstr ""
+"Jos käytössä on manuaalinen lipun luominen, se edellyttää hankintakoodia. "
+"Pyyntöjä, joissa ei ole ostoskoodia, evätään automaattisesti ja vastaus "
+"lähetetään koodin pyyntöön."
+
+#: admin/options-init.php:945
+msgid ""
+"If enabled purchases, where the support is expired will not be created as a "
+"ticket."
+msgstr "Jos sallitut ostot, joissa tukea on vanhentunut, ei luota lippuna."
+
+#: admin/options-init.php:364
+msgid "If no FAQs found, fall back to comment search."
+msgstr "Jos UKK-kysymyksiä ei löydy, palaa takaisin kommenttihakuun."
+
+#: admin/options-init.php:132
+msgid ""
+"If you can not work with xlsx (Excel 2007 and higher) files, check this. You "
+"then can work with normal .xls files."
+msgstr ""
+"Jos et pysty toimimaan xlsx (Excel 2007 ja uudempi) tiedostojen kanssa, "
+"tarkista tämä. Sitten voit työskennellä tavallisilla .xls-tiedostoilla."
+
+#: admin/options-init.php:875
+msgid "IMAP"
+msgstr "IMAP"
+
+#: admin/options-init.php:876
+msgid "IMAPS"
+msgstr "IMAPS"
+
+#: admin/options-init.php:1621
+msgid ""
+"In the new ticket page, agents can create tickets on behalf of other users."
+msgstr ""
+"Uudella lippusivulla agentit voivat luoda lippuja muiden käyttäjien puolesta."
+
+#: admin/options-init.php:775
+msgid "Inbox"
+msgstr "Saapuneet"
+
+#: admin/options-init.php:833
+msgid "Inbox Folder"
+msgstr "Saapuneet kansio"
+
+#: admin/options-init.php:264 admin/options-init.php:1414
+msgid "Increase the interval (in miliseconds) to save server performance."
+msgstr ""
+"Lisää aikaväliä (millisekunteina) palvelimen suorituskyvyn säästämiseksi."
+
+#: admin/options-init.php:1749
+msgid "Indonesian"
+msgstr "Indonesia"
+
+#: admin/options-init.php:910
+msgid ""
+"Install & Setup the <a href=\"https://wordpress.org/plugins/invisible-"
+"recaptcha/\" target=\"_blank\">invisible recaptcha plugin from here</a>. "
+"Then check this option."
+msgstr ""
+"Asenna ja asenna <a href=\"https://wordpress.org/plugins/invisible-"
+"recaptcha/\" target=\"_blank\"> näkymättömät recaptcha-laajennukset täältä "
+"</a>. Valitse sitten tämä vaihtoehto."
+
+#: admin/options-init.php:901
+msgid "Integrations"
+msgstr "integraatiot"
+
+#: admin/options-init.php:909
+msgid "Invisible Recaptcha Integration"
+msgstr "Näkymätön Recaptcha-integraatio"
+
+#: admin/options-init.php:1750
+msgid "Irish"
+msgstr "Irlantilainen"
+
+#: admin/options-init.php:1751
+msgid "Italian"
+msgstr "italialainen"
+
+#: admin/options-init.php:480
+msgid "Item Columns"
+msgstr "Tuotesarakkeet"
+
+#: admin/options-init.php:453
+msgid "Item Masonry"
+msgstr "Tuote muuraus"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:682
+#: admin/views/single-ticket.php:268
+msgid "Item: "
+msgstr "Tuote: "
+
+#: admin/options-init.php:1752
+msgid "Japanese"
+msgstr "japanilainen"
+
+#: admin/options-init.php:1753
+msgid "Kazakh"
+msgstr "Kazakstan"
+
+#: admin/options-init.php:346
+msgid "Knowledge Base Page"
+msgstr "Tietokannan sivu"
+
+#: admin/options-init.php:1754
+msgid "Korean"
+msgstr "Korealainen"
+
+#: admin/options-init.php:1755
+msgid "Kyrgyz"
+msgstr "Kirgisia"
+
+#: admin/options-init.php:1756
+msgid "Latvian"
+msgstr "Latvialainen"
+
+#: admin/options-init.php:1068
+msgid ""
+"Learn more here: <a href=\"https://developers.facebook.com/docs/messenger-"
+"platform/discovery/customer-chat-plugin\">Click</a>"
+msgstr ""
+"Lisätietoja täältä: <a href=\"https://developers.facebook.com/docs/messenger-"
+"platform/discovery/customer-chat-plugin\">Napsauta</a>"
+
+#: admin/options-init.php:1113
+msgid "Learn more here: https://chatra.io"
+msgstr "Lisätietoja tästä: https://chatra.io"
+
+#: admin/options-init.php:1083
+msgid "Learn more here: https://crisp.chat/en/"
+msgstr "Lisätietoja tästä: https://crisp.chat/en/"
+
+#: admin/options-init.php:1098
+msgid "Learn more here: https://www.purechat.com/"
+msgstr "Lisätietoja tästä: https://www.purechat.com/"
+
+#: admin/options-init.php:123
+msgid "Left"
+msgstr "vasen"
+
+#: admin/options-init.php:121
+msgid "Left or Right sidebar."
+msgstr "Vasen tai oikea sivupalkki."
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:683
+#: admin/views/single-ticket.php:269
+msgid "License: "
+msgstr "Lisenssi: "
+
+#: admin/options-init.php:433
+msgid "List Layout"
+msgstr "List Layout"
+
+#: admin/options-init.php:1757
+msgid "Lithuanian"
+msgstr "Liettua"
+
+#: admin/options-init.php:1318 admin/options-init.php:1372
+#: admin/class-wordpress-helpdesk-livechat-backend.php:222
+#: admin/class-wordpress-helpdesk-livechat-backend.php:223
+#: admin/class-wordpress-helpdesk-livechat-backend.php:235
+msgid "Live Chat"
+msgstr "Live Chat"
+
+#: admin/options-init.php:1371
+msgid "Live Chat Title"
+msgstr "Live Chat -otsikko"
+
+#: admin/options-init.php:1648
+msgid "Login Page"
+msgstr "Sisäänkirjautumissivu"
+
+#: admin/options-init.php:1758
+msgid "Macedonian"
+msgstr "Makedonialainen"
+
+#: admin/options-init.php:802
+msgid "Mail Account Settings"
+msgstr "Mail Account Settings"
+
+#: admin/options-init.php:1128
+msgid "Mail Notifications"
+msgstr "Postiilmoitukset"
+
+#: admin/options-init.php:1492
+msgid ""
+"Make sure the [helpdesk_feedback] shortcode is placed there. After saving "
+"here go to settings > permalinks and save."
+msgstr ""
+"Varmista, että [helpdesk_feedback] -koodi on siellä. Kun olet tallentanut "
+"tähän, siirry asetuksiin> permalinks ja tallenna."
+
+#: admin/options-init.php:347
+msgid ""
+"Make sure the [knowledge_base] shortcode is placed there. After saving go to "
+"settings > permalinks and save."
+msgstr ""
+"Varmista, että [knowledge_base] -koodi on siellä. Tallennuksen jälkeen "
+"siirry asetuksiin> permalinks ja tallenna."
+
+#: admin/options-init.php:1700
+msgid ""
+"Make sure the [my_tickets] shortcode is placed there. After saving go to "
+"settings > permalinks and save."
+msgstr ""
+"Varmista, että [my_tickets] -koodi on sijoitettu siihen. Tallennuksen "
+"jälkeen siirry asetuksiin> permalinks ja tallenna."
+
+#: admin/options-init.php:1606
+msgid "Make sure the [new_ticket] shortcode is placed there."
+msgstr "Varmista, että lyhytkoodi [uusi_ lippu] on sijoitettu sinne."
+
+#: admin/options-init.php:594 admin/options-init.php:653
+#: admin/options-init.php:725
+msgid "Make sure you set a privacy page in wp-admin > settings > privacy"
+msgstr ""
+"Varmista, että asetit tietosuojasivun kohdassa wp-admin> asetukset> "
+"yksityisyys"
+
+#: admin/options-init.php:1759
+msgid "Malay"
+msgstr "Malaiji"
+
+#: admin/options-init.php:424
+msgid "Masonry"
+msgstr "muuraus"
+
+#: admin/options-init.php:370
+msgid "Maximum Live Search Results"
+msgstr "Suurin reaaliaikainen hakutulos"
+
+#: admin/widgets/faq-topics.php:114
+msgid "Menu Order"
+msgstr "Valikkojärjestys"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:462
+msgid "Merge Now"
+msgstr "Yhdistä nyt"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:350
+msgid "Merge Ticket"
+msgstr "Yhdistä liput"
+
+#: admin/class-wordpress-helpdesk-form.php:399
+msgid "Message * "
+msgstr "Viesti *"
+
+#: admin/class-wordpress-helpdesk-comments-processor.php:151
+#: admin/class-wordpress-helpdesk-ticket-processor.php:200
+msgid "Message not set!"
+msgstr "Viesti ei ole asetettu!"
+
+#: admin/class-wordpress-helpdesk-livechat-backend.php:201
+#, php-format
+msgid "Message received and Chat-Ticket %s created. You should have an email."
+msgstr ""
+"Vastaanotettu viesti ja Chat-lippu %s luotu. Sinulla pitäisi olla sähköposti."
+
+#: admin/options-init.php:1760
+msgid "Mongolian"
+msgstr "Mongolialainen"
+
+#: admin/options-init.php:753
+msgid "More order issues"
+msgstr "Lisää tilauksia"
+
+#: admin/class-wordpress-helpdesk-woocommerce.php:54
+msgid "My Tickets"
+msgstr "Omat liput"
+
+#: admin/options-init.php:1692
+msgid "My tickets"
+msgstr "Minun lippuni"
+
+#: admin/options-init.php:1699
+msgid "My Tickets Page"
+msgstr "Omat liput"
+
+#: admin/options-init.php:1287
+#: admin/class-wordpress-helpdesk-my-tickets.php:117
+#: admin/widgets/faq-topics.php:115
+msgid "Name"
+msgstr "Nimi"
+
+#: admin/options-init.php:87
+msgid "Need support? Please use the comment function on codecanyon."
+msgstr "Tarvitsetko tukea? Käytä kommentointitoimintoa koodekanialla."
+
+#: admin/options-init.php:1761
+msgid "Nepali"
+msgstr "Nepali"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:133
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:136
+#: admin/class-wordpress-helpdesk-saved-replies.php:151
+#: admin/class-wordpress-helpdesk-saved-replies.php:154
+#: admin/class-wordpress-helpdesk-faq-post-type.php:692
+#: admin/class-wordpress-helpdesk-faq-post-type.php:695
+#, php-format
+msgid "New %s"
+msgstr "Uusi %s"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:202
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:239
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:276
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:313
+#: admin/class-wordpress-helpdesk-saved-replies.php:221
+#: admin/class-wordpress-helpdesk-saved-replies.php:257
+#: admin/class-wordpress-helpdesk-faq-post-type.php:767
+#, php-format
+msgid "New %s Name"
+msgstr "Uusi %s nimi"
+
+#: admin/class-wordpress-helpdesk-notifications.php:261
+#, php-format
+msgid "New comment added by %s"
+msgstr "Uusi kommentti lisätty %s"
+
+#: admin/class-wordpress-helpdesk-slack.php:134
+#, php-format
+msgid "New Comment added by %s:"
+msgstr "Uusi kommentti on lisännyt %s :"
+
+#: admin/class-wordpress-helpdesk-slack.php:129
+#, php-format
+msgid "New Comment added on Ticket %s"
+msgstr "Uusi kommentti lisätään lipuille %s"
+
+#: admin/class-wordpress-helpdesk-desktop-notifications.php:129
+#, php-format
+msgid "New comment on %s"
+msgstr "Uusi kommentti %s"
+
+#: admin/class-wordpress-helpdesk-support-rating.php:111
+#: admin/class-wordpress-helpdesk-support-rating.php:120
+msgid "New Feeback"
+msgstr "Uusi Feeback"
+
+#: admin/class-wordpress-helpdesk-notifications.php:92
+#: admin/class-wordpress-helpdesk-log.php:115
+msgid "New Ticket created"
+msgstr "Uusi lippu luotiin"
+
+#: admin/class-wordpress-helpdesk-slack.php:90
+#: admin/class-wordpress-helpdesk-slack.php:95
+#, php-format
+msgid "New Ticket created: %s"
+msgstr "Uusi lippu luotiin: %s"
+
+#: admin/options-init.php:1136 admin/options-init.php:1143
+msgid "New Ticket Notification"
+msgstr "Uusi lipputiedotus"
+
+#: admin/options-init.php:1605
+msgid "New Ticket Page"
+msgstr "Uusi lippusivu"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:139
+#: admin/class-wordpress-helpdesk-saved-replies.php:157
+#: admin/class-wordpress-helpdesk-faq-post-type.php:698
+#, php-format
+msgid "No %s found"
+msgstr "%s löytynyt"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:140
+#: admin/class-wordpress-helpdesk-saved-replies.php:158
+#: admin/class-wordpress-helpdesk-faq-post-type.php:699
+#, php-format
+msgid "No %s found in trash"
+msgstr "%s löytynyt roskakoriin"
+
+#: admin/views/single-ticket.php:216
+msgid "No Agent assigned yet."
+msgstr "Ei asiamiestä vielä ole annettu."
+
+#: admin/options-init.php:1386
+msgid "No agents online."
+msgstr "Ei välittäjiä verkossa."
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:572
+msgid "No Articles found."
+msgstr "Artikkeleita ei löytynyt."
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1180
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1195
+#: admin/class-wordpress-helpdesk-livechat-backend.php:403
+msgid "No Author"
+msgstr "Ei kirjoittajaa"
+
+#: admin/class-wordpress-helpdesk-livechat-backend.php:391
+msgid "No Chat Tickets created yet"
+msgstr "Ei ole vielä luotu Chat-lipuja"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:327
+msgid "No comment to duplicate has been supplied!"
+msgstr "Kaksoiskappaleita ei ole toimitettu!"
+
+#: admin/class-wordpress-helpdesk-reports.php:353
+msgid "No Date filter applied here:"
+msgstr "Ei Päiväys suodattaa sovellettu täällä:"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:335
+msgid "No FAQ found."
+msgstr "Ei usein kysyttyjä kysymyksiä."
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:329
+msgid "No FAQ ID set."
+msgstr "Ei FAQ-tunnusta."
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:869
+msgid "No feedback available"
+msgstr "Palautetta ei ole saatavilla"
+
+#: admin/class-wordpress-helpdesk-inbox.php:329
+#: admin/class-wordpress-helpdesk-inbox.php:390
+msgid "No Message in your Email detected."
+msgstr "Sähköpostiviestiä ei löytynyt."
+
+#: admin/class-wordpress-helpdesk-inbox.php:346
+msgid ""
+"No purchase code detected. Please make sure the email contains the following "
+"pattern \"Purchase Code: XXX\"."
+msgstr ""
+"Mitään ostoskoodia ei tunnistettu. Varmista, että sähköpostiosoitteessa on "
+"seuraava ohje:  \"Ostoskoodi: XXX \"."
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1291
+msgid "No Search Terms found yet"
+msgstr "Hakutermejä ei löydy vielä"
+
+#: admin/class-wordpress-helpdesk-reports.php:217
+msgid "No Source"
+msgstr "Ei lähdettä"
+
+#: admin/class-wordpress-helpdesk-support-rating.php:89
+msgid "No Ticket ID set."
+msgstr "Ei lipputunnistetta."
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:478
+#: admin/class-wordpress-helpdesk-faq-post-type.php:835
+msgid "No ticket to duplicate has been supplied!"
+msgstr "Ei kaksoiskappaleita ole toimitettu!"
+
+#: admin/class-wordpress-helpdesk-my-tickets.php:153
+msgid "No tickets submitted yet."
+msgstr "Ei vielä lippuja."
+
+#: admin/class-wordpress-helpdesk-exporter.php:47
+msgid "No Tickets to Export"
+msgstr "Ei liput vientiin"
+
+#: admin/options-init.php:886
+msgid "No Validate Cert"
+msgstr "Ei vahvista Cert"
+
+#: admin/options-init.php:110
+msgid "None"
+msgstr "Ei mitään"
+
+#: admin/options-init.php:1590
+msgid ""
+"Not solved yet?<br><br>The message you add to your feedback will not be "
+"forwarded as a reply. If you have further questions you can reply to this "
+"email."
+msgstr ""
+"Ei vielä ratkaistu? <br> <br> Palautteeseesi lisättävää viestiä ei lähetetä "
+"vastauksena. Jos sinulla on lisäkysymyksiä, voit vastata tähän sähköpostiin."
+
+#: admin/options-init.php:1280
+msgid "Notification settings"
+msgstr "Ilmoitusasetukset"
+
+#: admin/options-init.php:1137
+msgid "Notification when a new ticket has been created. "
+msgstr "Ilmoitus kun uusi lippu on luotu. "
+
+#: admin/options-init.php:1172
+msgid "Notification when a ticket status has been changed. "
+msgstr "Ilmoitus kun lipputilaa on muutettu. "
+
+#: admin/options-init.php:1227 admin/options-init.php:1264
+msgid "Notify the agent."
+msgstr "Ilmoita agentille."
+
+#: admin/options-init.php:1191
+msgid "Notify the assigned agent."
+msgstr "Ilmoita asiamiehelle."
+
+#: admin/options-init.php:1156
+msgid "Notify the by default assigned agent."
+msgstr "Ilmoita oletuksena määritetystä agentista."
+
+#: admin/options-init.php:1163 admin/options-init.php:1198
+#: admin/options-init.php:1235 admin/options-init.php:1271
+msgid "Notify the following users:"
+msgstr "Ilmoita seuraaville käyttäjille:"
+
+#: admin/options-init.php:1149 admin/options-init.php:1184
+#: admin/options-init.php:1219 admin/options-init.php:1257
+msgid "Notify the reporter."
+msgstr "Ilmoita toimittajalle."
+
+#: admin/widgets/faq-dynamic-posts.php:111
+msgid "Number of max. FAQs:"
+msgstr ""
+
+#: admin/options-init.php:1763
+msgid "Nynorsk"
+msgstr "Nynorsk"
+
+#: admin/options-init.php:112
+msgid "Only for Ticket pages"
+msgstr "Vain Lippu-sivuille"
+
+#: admin/options-init.php:111
+msgid "Only in Knowledge Base"
+msgstr "Vain tietokannassa"
+
+#: admin/options-init.php:1627
+msgid "Only Logged In"
+msgstr "Vain kirjautunut"
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:517
+msgid "Or enter your Ticket ID:"
+msgstr "Tai anna Ticket-tunnus:"
+
+#: admin/views/single-ticket.php:287
+msgid "Order"
+msgstr "Tilaus"
+
+#: admin/widgets/faq-topics.php:125 admin/widgets/faq-dynamic-posts.php:129
+msgid "Order By:"
+msgstr "Järjestys:"
+
+#: admin/class-wordpress-helpdesk-form.php:242
+msgid "Order Support"
+msgstr "Tilaa tuki"
+
+#: admin/options-init.php:737
+msgid "Order Support (lists all Orders)"
+msgstr "Tilaa tuki (luetellaan kaikki tilaukset)"
+
+#: admin/options-init.php:743
+msgid "Order Support Subjects"
+msgstr "Tilaa tukikohteita"
+
+#: admin/widgets/faq-topics.php:146 admin/widgets/faq-dynamic-posts.php:150
+msgid "Order:"
+msgstr "Tilata:"
+
+#: admin/class-wordpress-helpdesk-form.php:261
+msgid "Other"
+msgstr "muut"
+
+#: admin/options-init.php:1379
+msgid "Our customer service is available."
+msgstr "Asiakaspalvelumme on saatavana."
+
+#: admin/widgets/faq-topics.php:121
+msgid "Parent"
+msgstr "vanhempi"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:197
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:234
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:271
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:308
+#: admin/class-wordpress-helpdesk-saved-replies.php:216
+#: admin/class-wordpress-helpdesk-saved-replies.php:252
+#: admin/class-wordpress-helpdesk-faq-post-type.php:762
+#, php-format
+msgid "Parent %s"
+msgstr "Vanhempi %s"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:198
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:235
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:272
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:309
+#: admin/class-wordpress-helpdesk-saved-replies.php:217
+#: admin/class-wordpress-helpdesk-saved-replies.php:253
+#: admin/class-wordpress-helpdesk-faq-post-type.php:763
+#, php-format
+msgid "Parent %s:"
+msgstr "Vanhempi %s :"
+
+#: admin/options-init.php:1764
+msgid "Pashto"
+msgstr "Pastu"
+
+#: admin/options-init.php:750
+msgid "Payment issues"
+msgstr "Maksuongelmat"
+
+#: admin/options-init.php:1765
+msgid "Persian"
+msgstr "Persia"
+
+#: admin/class-wordpress-helpdesk-form.php:146
+#: admin/class-wordpress-helpdesk-form.php:152
+#, php-format
+msgid "Please <a href=\"%s\" title=\"Login\">login to submit a ticket.</a>"
+msgstr ""
+"Ole hyvä <a href=\" %s \" title=\"Login\"> kirjaudu sisään lipun "
+"lähettämiseksi. </a>"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1261
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1267
+#, php-format
+msgid "Please <a href=\"%s\" title=\"Login\">login to view this faq.</a>"
+msgstr ""
+"<a href=\" %s \" title=\"Login\"> Kirjaudu sisään nähdäksesi tämän sivun. "
+"</a>"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:472
+#, php-format
+msgid "Please <a href=\"%s\" title=\"Login\">login to view this topic.</a>"
+msgstr ""
+"<a href=\" %s \" title=\"Login\"> Kirjaudu sisään nähdäksesi tämän aiheen. "
+"</a>"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1006
+#: admin/class-wordpress-helpdesk-my-tickets.php:51
+#, php-format
+msgid "Please <a href=\"%s\" title=\"Login\">login to view your tickets</a>"
+msgstr ""
+"<a href=\" %s \" title=\"Login\"> Kirjaudu sisään nähdäksesi liput </a>"
+
+#: admin/class-wordpress-helpdesk-support-rating.php:100
+msgid "Please set a feedback text."
+msgstr "Aseta palautetta koskeva teksti."
+
+#: admin/options-init.php:1766
+msgid "Polish"
+msgstr "Kiillottaa"
+
+#: admin/options-init.php:877
+msgid "POP3"
+msgstr "POP3"
+
+#: admin/options-init.php:878
+msgid "POP3S"
+msgstr "POP3S"
+
+#: admin/widgets/faq-dynamic-posts.php:102
+msgid "Popular FAQs"
+msgstr "Suosittuja usein kysyttyjä kysymyksiä"
+
+#: admin/widgets/faq-dynamic-posts.php:12
+#: admin/widgets/faq-dynamic-posts.php:106
+#, php-format
+msgid "Popular FAQs %s"
+msgstr ""
+
+#: admin/options-init.php:860
+msgid "Port"
+msgstr "portti"
+
+#: admin/options-init.php:1768
+msgid "Portuguese"
+msgstr "Portugalin kieli"
+
+#: admin/class-wordpress-helpdesk-comments-processor.php:146
+msgid "Post ID not created!"
+msgstr "Postin tunnus ei ole luotu!"
+
+#: admin/class-wordpress-helpdesk-comments-processor.php:140
+msgid "Post ID not set!"
+msgstr "Postin tunnus ei ole asetettu!"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:301
+msgid "Priorities"
+msgstr "prioriteetit"
+
+#: admin/class-wordpress-helpdesk-form.php:461
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:300
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1146
+#: admin/class-wordpress-helpdesk-exporter.php:222
+#: admin/views/single-ticket.php:150
+msgid "Priority"
+msgstr "prioriteetti"
+
+#: admin/options-init.php:569 admin/options-init.php:628
+#: admin/options-init.php:700
+msgid "Priority Select Field"
+msgstr "Ensisijainen valintakenttä"
+
+#: admin/class-wordpress-helpdesk-form.php:749
+msgid "Privacy Policy"
+msgstr "Tietosuojakäytäntö"
+
+#: admin/class-wordpress-helpdesk-ticket-notes.php:49
+msgid "Private Notes"
+msgstr "Yksityiset huomautukset"
+
+#: admin/options-init.php:747
+msgid "Problem with an order"
+msgstr "Ongelma tilauksessa"
+
+#: admin/class-wordpress-helpdesk-form.php:594
+msgid "Product"
+msgstr "Tuote"
+
+#: admin/class-wordpress-helpdesk-form.php:252
+msgid "Product Support"
+msgstr "Tuotetuki"
+
+#: admin/options-init.php:731
+msgid "Product Support (lists all Products)"
+msgstr "Tuotetuki (luettelo kaikista tuotteista)"
+
+#: admin/views/single-ticket.php:321
+msgid "Product:"
+msgstr "Tuote:"
+
+#: admin/options-init.php:752
+msgid "Promotions and deals"
+msgstr "Tarjoukset ja tarjoukset"
+
+#: admin/options-init.php:849 admin/options-init.php:873
+msgid "Protocol"
+msgstr "protokolla"
+
+#: admin/class-wordpress-helpdesk-form.php:626
+#: admin/class-wordpress-helpdesk-form.php:631 admin/options-init.php:659
+msgid "Purchase Code"
+msgstr "Ostokoodi"
+
+#: admin/class-wordpress-helpdesk-ticket-processor.php:230
+#, php-format
+msgid "Purchase Code %s could not be verified!"
+msgstr "Ostoskoodia %s ei voitu vahvistaa!"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:679
+#: admin/views/single-ticket.php:266
+msgid "Purchase Code could not be verified!"
+msgstr "Ostoskoodia ei voitu vahvistaa!"
+
+#: admin/class-wordpress-helpdesk-ticket-processor.php:206
+msgid "Purchase Code not set!"
+msgstr "Ostoskoodi ei ole asetettu!"
+
+#: admin/options-init.php:936
+msgid "Purchase Code required?"
+msgstr "Ostotilaa vaaditaan?"
+
+#: admin/class-wordpress-helpdesk-ticket-processor.php:237
+#: admin/class-wordpress-helpdesk-ticket-processor.php:240
+msgid "Purchase Code verified for item: "
+msgstr "Vahvistettu ostokoodi: "
+
+#: admin/views/single-ticket.php:255
+msgid "Purchase Code:"
+msgstr "Ostokoodi:"
+
+#: admin/options-init.php:1105
+msgid "PureChat Code"
+msgstr "PureChat-koodi"
+
+#: admin/class-wordpress-helpdesk-woocommerce.php:291
+msgid "Read More"
+msgstr "Lue lisää"
+
+#: admin/class-wordpress-helpdesk-form.php:109
+msgid "Recaptcha not passed!"
+msgstr "Recaptcha ei läpäissyt!"
+
+#: admin/options-init.php:789
+msgid "Recurrence"
+msgstr "Toistuminen"
+
+#: admin/options-init.php:1613
+msgid "Redirect reporters to My Tickets page"
+msgstr "Ohjaa toimittajia My Tickets -sivulle"
+
+#: admin/views/single-ticket.php:196
+#, php-format
+msgid "Reporter: %s"
+msgstr "Reportteri: %s"
+
+#: admin/class-wordpress-helpdesk-reports.php:38
+#: admin/class-wordpress-helpdesk-reports.php:39
+#: admin/class-wordpress-helpdesk-reports.php:257
+msgid "Reports"
+msgstr "raportit"
+
+#: admin/options-init.php:748
+msgid "Returns and refunds"
+msgstr "Palautukset ja hyvitykset"
+
+#: admin/options-init.php:339
+msgid "Rich data & snippet support."
+msgstr ""
+
+#: admin/options-init.php:124
+msgid "Right"
+msgstr "oikea"
+
+#: admin/options-init.php:1769
+msgid "Romanian"
+msgstr "Romania"
+
+#: admin/options-init.php:1770
+msgid "Russian"
+msgstr "Venäjän kieli"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1143
+msgid "Satisfied"
+msgstr "vakuuttunut"
+
+#: admin/class-wordpress-helpdesk-support-rating.php:123
+msgid "Satisfied: "
+msgstr "Tyytyväinen:"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:145
+#: admin/class-wordpress-helpdesk-saved-replies.php:148
+msgid "Saved Replies"
+msgstr "Tallennetut vastaukset"
+
+#: admin/options-init.php:1425
+msgid "Saved Replies (BOT)"
+msgstr "Tallennetut vastaukset (BOT)"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:144
+msgid "Saved Reply"
+msgstr "Tallennettu vastaus"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:348
+msgid "Saved Reply creation failed, could not find original comment: "
+msgstr ""
+"Tallennetun vastauksen luominen epäonnistui, emme löytäneet alkuperäistä "
+"kommenttia: "
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:138
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:195
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:232
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:269
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:306
+#: admin/class-wordpress-helpdesk-saved-replies.php:156
+#: admin/class-wordpress-helpdesk-saved-replies.php:214
+#: admin/class-wordpress-helpdesk-saved-replies.php:250
+#: admin/class-wordpress-helpdesk-faq-post-type.php:697
+#: admin/class-wordpress-helpdesk-faq-post-type.php:760
+#, php-format
+msgid "Search %s"
+msgstr "Etsi %s"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1306
+msgid "Search Counts"
+msgstr "Haku laskee"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:279
+#: admin/class-wordpress-helpdesk-faq-post-type.php:282
+msgid "Search FAQs"
+msgstr "Etsi usein kysytyt kysymykset"
+
+#: admin/options-init.php:363
+msgid "Search in Comments"
+msgstr "Hae kommenteista"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:927
+#: admin/class-wordpress-helpdesk-faq-post-type.php:962
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Hakutulokset haulle: %s"
+
+#: admin/class-wordpress-helpdesk-form.php:428
+msgid "Select a Department"
+msgstr "Valitse osasto"
+
+#: admin/widgets/faq-dynamic-posts.php:152
+msgid "Select a Order:"
+msgstr ""
+
+#: admin/class-wordpress-helpdesk-form.php:463
+msgid "Select a priority"
+msgstr "Valitse prioriteetti"
+
+#: admin/class-wordpress-helpdesk-form.php:498
+msgid "Select a type"
+msgstr "Valitse tyyppi"
+
+#: admin/class-wordpress-helpdesk-form.php:656
+msgid "Select an Item"
+msgstr "Valitse esine"
+
+#: admin/class-wordpress-helpdesk-form.php:654
+msgid "Select Item"
+msgstr "Valitse tavara"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:455
+msgid "Select Ticket"
+msgstr "Valitse lippu"
+
+#: admin/class-wordpress-helpdesk-form.php:536
+msgid "Select your Order"
+msgstr "Valitse tilauksesi"
+
+#: admin/class-wordpress-helpdesk-form.php:596
+msgid "Select your product"
+msgstr "Valitse tuote"
+
+#: admin/class-wordpress-helpdesk-form.php:561
+msgid "Select your Subject"
+msgstr "Valitse aihe"
+
+#: admin/class-wordpress-helpdesk-support-rating.php:181
+msgid "Send Feedback"
+msgstr "Lähetä palautetta"
+
+#: admin/options-init.php:1484
+msgid "Send Feedback to Agent"
+msgstr "Lähetä palautetta agentille"
+
+#: admin/options-init.php:1656
+msgid "Send Login credentials"
+msgstr "Lähetä kirjautumistunnukset"
+
+#: admin/options-init.php:1471
+msgid ""
+"Send out Emails when tickets are completed and ask for a support rating."
+msgstr "Lähetä sähköpostiviestit, kun liput ovat valmiit ja pyydä tukea."
+
+#: admin/options-init.php:1657
+msgid ""
+"Send out the login credentials when a new account has been created for a new "
+"user."
+msgstr "Lähetä kirjautumistiedot, kun uusi käyttäjä on luotu uusi tili."
+
+#: admin/options-init.php:1485
+msgid ""
+"Sends a mail to the Agent with the users feedback. Otherwise it is only "
+"available in backed of each ticket."
+msgstr ""
+
+#: admin/options-init.php:1771
+msgid "Serbian"
+msgstr "Serbia"
+
+#: admin/options-init.php:1714
+msgid "Set a language for the datatable."
+msgstr "Määritä kieli datatiedostolle."
+
+#: admin/options-init.php:1295
+msgid "Set a Logo"
+msgstr "Aseta logo"
+
+#: admin/options-init.php:300
+msgid "Set an icon"
+msgstr "Aseta kuvake"
+
+#: admin/options-init.php:371
+msgid "Set maximum results for FAQ live search."
+msgstr "Aseta maksimitulokset usein kysytyille kysymyksille."
+
+#: admin/options-init.php:168
+msgid "Set the name of the Solved (closed) ticket status."
+msgstr "Aseta ratkaisun (suljettu) lipun tilan nimi."
+
+#: admin/options-init.php:310
+msgid "Set the time when the notification automatically hides."
+msgstr "Aseta aika, jolloin ilmoitus automaattisesti piilossa."
+
+#: admin/options-init.php:34
+msgid "Settings"
+msgstr "asetukset"
+
+#: admin/options-init.php:803
+msgid "Settings for your Mail Account."
+msgstr "Mail-tilisi asetukset."
+
+#: admin/options-init.php:396
+msgid "Show Back to Parent Topic Link"
+msgstr "Näytä Takaisin vanhempien aiheiden linkkiin"
+
+#: admin/options-init.php:1799
+msgid "Show Date"
+msgstr "Näytä päivämäärä"
+
+#: admin/options-init.php:355
+msgid "Show FAQ Search in Knowledge Base"
+msgstr "Näytä UKK-haku tietokannasta"
+
+#: admin/options-init.php:113
+msgid "Show in Ticket & FAQ pages"
+msgstr "Näytä lipun & FAQ-sivuilla"
+
+#: admin/options-init.php:1793
+msgid "Show Name"
+msgstr "Näytä nimi"
+
+#: admin/options-init.php:410
+msgid "Show Rating"
+msgstr "Näytä luokitus"
+
+#: admin/widgets/faq-posts.php:6
+msgid "Show some FAQs."
+msgstr "Näytä joitakin usein kysyttyjä kysymyksiä."
+
+#: admin/options-init.php:1805
+msgid "Show Status"
+msgstr "Näytä tila"
+
+#: admin/widgets/faq-topics.php:174
+msgid "Show subcategories"
+msgstr "Näytä alaluokat"
+
+#: admin/options-init.php:1811
+msgid "Show System"
+msgstr "Näytä järjestelmä"
+
+#: admin/options-init.php:513
+msgid "Show the following FAQs only to logged in Users:"
+msgstr ""
+"Näytä vain seuraavat usein kysytyt kysymykset kirjautuneille käyttäjille:"
+
+#: admin/options-init.php:467
+msgid "Show Topic Children"
+msgstr "Näytä aihe Lapset"
+
+#: admin/options-init.php:474
+msgid "Show Topic Children Categories"
+msgstr "Näytä aihe Lapset -luokat"
+
+#: admin/options-init.php:382
+msgid "Show Topic Title"
+msgstr "Näytä aiheen otsikko"
+
+#: admin/options-init.php:1817
+msgid "Show Type"
+msgstr "Näytä tyyppi"
+
+#: admin/options-init.php:403
+msgid "Show Views Count"
+msgstr "Näytä näkymämäärät"
+
+#: admin/options-init.php:107
+msgid "Sidebar Display"
+msgstr "Sivupalkin näyttö"
+
+#: admin/options-init.php:120
+msgid "Sidebar Position"
+msgstr "Sivupalkin sijainti"
+
+#: admin/options-init.php:556
+msgid "Simple Form Fields"
+msgstr "Yksinkertaiset lomakekentät"
+
+#: admin/options-init.php:1520
+msgid "Single Ticket Intro"
+msgstr ""
+
+#: admin/options-init.php:1527 admin/options-init.php:1534
+msgid "Single Ticket Satisfied Text"
+msgstr ""
+
+#: admin/options-init.php:1513
+msgid "Single Ticket Status"
+msgstr ""
+
+#: admin/options-init.php:1772
+msgid "Sinhala"
+msgstr "Sinhala"
+
+#: admin/options-init.php:1773
+msgid "Slovak"
+msgstr "Slovakian"
+
+#: admin/options-init.php:1774
+msgid "Slovenian"
+msgstr "Sloveeni"
+
+#: admin/widgets/faq-topics.php:116
+msgid "Slug"
+msgstr "Etana"
+
+#: admin/class-wordpress-helpdesk-exporter.php:55
+msgid "Something was wrong with the export generation ..."
+msgstr "Jotain oli väärässä vienninedistämisessä ..."
+
+#: admin/class-wordpress-helpdesk-inbox.php:477
+msgid "Sorry ..."
+msgstr "Anteeksi ..."
+
+#: admin/class-wordpress-helpdesk-inbox.php:482
+msgid "Sorry we could not process your mail :("
+msgstr "Anteeksi emme voineet käsitellä postia :("
+
+#: admin/options-init.php:1400
+msgid ""
+"Sorry,<br><br>None of our agents is online right now. But you can leave a "
+"message."
+msgstr ""
+"Anteeksi, <br> <br> Yksikään agentti ei ole verkossa juuri nyt. Mutta voit "
+"jättää viestin."
+
+#: admin/options-init.php:1775
+msgid "Spanish"
+msgstr "Espanja"
+
+#: admin/options-init.php:852
+msgid "SSL"
+msgstr "SSL"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:189
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:190
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1142
+#: admin/class-wordpress-helpdesk-exporter.php:210
+#: admin/class-wordpress-helpdesk-my-tickets.php:129
+msgid "Status"
+msgstr "Status"
+
+#: admin/options-init.php:1171 admin/options-init.php:1178
+msgid "Status Change Notification"
+msgstr "Tilamuutosilmoitus"
+
+#: admin/options-init.php:1385
+msgid "Status Text (Offline)"
+msgstr "Tilateksti (Offline)"
+
+#: admin/options-init.php:1378
+msgid "Status Text (Online)"
+msgstr "Tilateksti (verkossa)"
+
+#: admin/class-wordpress-helpdesk-form.php:326
+#: admin/class-wordpress-helpdesk-form.php:348
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:510
+msgid "Subject"
+msgstr "aihe"
+
+#: admin/class-wordpress-helpdesk-ticket-processor.php:196
+msgid "Subject not set!"
+msgstr "Aihe ei ole asetettu!"
+
+#: admin/class-wordpress-helpdesk-reports.php:271
+msgid "Submit"
+msgstr "Lähetä"
+
+#: admin/class-wordpress-helpdesk-woocommerce.php:110
+msgid "Submit a new Ticket"
+msgstr "Lähetä uusi lippu"
+
+#: admin/class-wordpress-helpdesk-woocommerce.php:55
+msgid "Submit Ticket"
+msgstr "Lähetä liput"
+
+#: admin/class-wordpress-helpdesk-ticket-processor.php:235
+#, php-format
+msgid "Support Expired on %s – please renew!"
+msgstr "Tuki umpeutui %s - uusitaan!"
+
+#: admin/options-init.php:1304
+msgid "Support Mail Address"
+msgstr "Tuki sähköpostiosoitteeseen"
+
+#: admin/options-init.php:1840
+msgid "Support Mail Template"
+msgstr "Tuki postimalli"
+
+#: admin/options-init.php:1470
+msgid "Support Rating"
+msgstr "Tuki-luokitus"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:684
+#: admin/views/single-ticket.php:270
+msgid "Support Until:"
+msgstr "Tuki:"
+
+#: admin/options-init.php:1776
+msgid "Swahili"
+msgstr "Swahili"
+
+#: admin/options-init.php:1777
+msgid "Swedish"
+msgstr "Ruotsin kieli"
+
+#: admin/class-wordpress-helpdesk-exporter.php:228
+msgid "System"
+msgstr "järjestelmä"
+
+#: admin/options-init.php:563 admin/options-init.php:622
+#: admin/options-init.php:694
+msgid "Systems / Project Select Field"
+msgstr "Järjestelmät / Projektin valintakenttä"
+
+#: admin/options-init.php:966
+msgid "Tab Title"
+msgstr "Välilehden otsikko"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:244
+msgid "Tag"
+msgstr "Tag"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:245
+msgid "Tags"
+msgstr "Tunnisteet"
+
+#: admin/options-init.php:1778
+msgid "Tamil"
+msgstr "Tamili"
+
+#: admin/options-init.php:1779
+msgid "telugu"
+msgstr "telugu"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1305
+msgid "Term"
+msgstr "Termi"
+
+#: admin/widgets/faq-topics.php:117
+msgid "Term_group"
+msgstr "Term_group"
+
+#: admin/widgets/faq-topics.php:118
+msgid "Term_id"
+msgstr "Term_id"
+
+#: admin/options-init.php:894
+msgid "Test Mail Account"
+msgstr "Testaa sähköpostitili"
+
+#: admin/options-init.php:1780
+msgid "Thai"
+msgstr "Thaimaalainen"
+
+#: admin/class-wordpress-helpdesk-support-rating.php:159
+msgid "Thanks for your feedback!"
+msgstr "Kiitos palautteestasi!"
+
+#: admin/class-wordpress-helpdesk-notifications.php:197
+#, php-format
+msgid "The %s changed to: %s"
+msgstr "%s muuttui %s"
+
+#: admin/class-wordpress-helpdesk-notifications.php:162
+#, php-format
+msgid "The %s has changed from %s to %s"
+msgstr "%s on muuttunut %s sta %s"
+
+#. Description of the plugin
+msgid "The All in One WordPress Helpdesk solution"
+msgstr "All in One WordPress Helpdesk -ratkaisu"
+
+#: admin/options-init.php:204
+msgid "The default Department for new tickets."
+msgstr "Uusien lippujen oletusosasto."
+
+#: admin/options-init.php:1281
+msgid "The default notification settings for mails etc."
+msgstr "Sähköpostiviestien oletusasetusten asetukset jne."
+
+#: admin/options-init.php:192
+msgid "The default priority for new tickets."
+msgstr "Uusien lippujen oletusprioriteetti."
+
+#: admin/options-init.php:156
+msgid "The default status for new tickets."
+msgstr "Uusien lippujen oletustila."
+
+#: admin/options-init.php:180
+msgid "The default type for new tickets."
+msgstr "Uusien lippujen oletustyyppi."
+
+#: admin/options-init.php:233
+#, php-format
+msgid "The default user for %s."
+msgstr "Oletusarvoinen käyttäjä %s ."
+
+#: admin/options-init.php:210
+msgid "The default user for new tickets."
+msgstr "Uusien lippujen oletus käyttäjä."
+
+#: admin/options-init.php:834
+msgid ""
+"The folder where to scan for new mails. Most of the time it is the INBOX "
+"folder."
+msgstr "Kansio, johon etsitään uusia viestejä. Useimmiten se on INBOX-kansio."
+
+#: admin/options-init.php:301 admin/options-init.php:1354
+msgid "The icon must be in square format."
+msgstr "Kuvakkeen on oltava nelikulmio."
+
+#: admin/options-init.php:1296
+msgid "The logo will be used in all Mail notifications."
+msgstr "Logoa käytetään kaikissa postin ilmoituksissa."
+
+#: admin/options-init.php:1514
+msgid "The status when the rating form on single tickets should show."
+msgstr ""
+
+#: admin/options-init.php:1555
+msgid "The status when the rating support email should be sent out."
+msgstr "Tilan, kun luokitustuki-sähköposti on lähetettävä."
+
+#: admin/options-init.php:842
+msgid "The target folder, where processed mails should be moved (eg. Archiv)."
+msgstr ""
+"Tavoitekansio, jossa käsitellyt sähköpostit on siirrettävä (esim. Arkisto)."
+
+#: admin/options-init.php:1433
+msgid ""
+"This allows you to save comments into a saved reply, that can be reused for "
+"later tickets."
+msgstr ""
+"Näin voit tallentaa kommentit tallennettuun vastaukseen, jota voidaan "
+"käyttää myöhempää lippua varten."
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:234
+#: admin/class-wordpress-helpdesk-livechat-backend.php:457
+msgid "This is not your Ticket!"
+msgstr "Tämä ei ole sinun lipuusi!"
+
+#: admin/options-init.php:1288
+msgid "This is the default from name for your mail notifications."
+msgstr "Tämä on sähköpostiosoitteiden oletusasetus."
+
+#: admin/class-wordpress-helpdesk-notifications.php:349
+#, php-format
+msgid "This ticket has been assigned from %s to %s"
+msgstr "Tämä lippu on annettu %s sta %s"
+
+#: admin/class-wordpress-helpdesk-notifications.php:406
+#, php-format
+msgid "This ticket has been assigned to %s"
+msgstr "Tämä lippu on annettu %s"
+
+#: admin/options-init.php:1642
+msgid "This ticket is closed. Please open a new one for further support."
+msgstr "Tämä lippu on suljettu. Avaa uusi tukipalvelua varten."
+
+#: admin/options-init.php:1447
+msgid ""
+"This User will be used for automatic replies. You can create a user Bot for "
+"example and set it here."
+msgstr ""
+"Tätä käyttäjää käytetään automaattisiin vastauksiin. Voit esimerkiksi luoda "
+"käyttäjän Botin ja asettaa sen täältä."
+
+#: admin/options-init.php:1649
+msgid "This will be the page, where the login button will link to."
+msgstr "Tämä on sivu, jossa kirjautumisnappula linkittää."
+
+#: admin/options-init.php:1841
+msgid "This will be used for notifications."
+msgstr "Tätä käytetään ilmoituksiin."
+
+#: admin/options-init.php:1305
+msgid ""
+"This will be used in your mail notifications as the default reply to address."
+msgstr ""
+"Tätä käytetään postitusilmoituksissasi oletuksena vastauksena osoitteeseen."
+
+#: admin/options-init.php:1440
+msgid ""
+"This will use your saved replies based on tags & word matches to "
+"automatically reply."
+msgstr ""
+"Tämä käyttää tallennettuja vastauksia, jotka perustuvat tunnisteisiin ja "
+"sanajoukkoihin automaattisesti vastaamiseksi."
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:300
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:118
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:349
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1139
+#: admin/class-wordpress-helpdesk-livechat-backend.php:523
+msgid "Ticket"
+msgstr "lippu"
+
+#: admin/options-init.php:1641
+msgid "Ticket closed Text"
+msgstr "Lippu suljettu Teksti"
+
+#: admin/class-wordpress-helpdesk-form.php:122
+msgid "Ticket could not be created!"
+msgstr "Lippua ei voitu luoda!"
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:101
+#: admin/class-wordpress-helpdesk-livechat-backend.php:183
+msgid "Ticket could not be created. Please contact support email directly."
+msgstr "Lippua ei voitu luoda. Ota yhteyttä tukeen suoraan."
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:224
+#: admin/class-wordpress-helpdesk-livechat-backend.php:447
+msgid "Ticket does not exists."
+msgstr "Lippua ei ole."
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:519
+msgid "Ticket ID"
+msgstr "Lipputunnus"
+
+#: admin/class-wordpress-helpdesk-inbox.php:396
+msgid "Ticket ID for your Reply could not be found."
+msgstr "Vastauksesi vastausta ei löytynyt."
+
+#: admin/class-wordpress-helpdesk-exporter.php:204
+msgid "Ticket Information"
+msgstr "Lipputiedot"
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:160
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:216
+#: admin/class-wordpress-helpdesk-livechat-backend.php:320
+#: admin/class-wordpress-helpdesk-livechat-backend.php:439
+msgid "Ticket not set."
+msgstr "Lippuja ei ole asetettu."
+
+#: admin/class-wordpress-helpdesk-form.php:116
+#, php-format
+msgid ""
+"Ticket successfully created! You can <a href=\"%s\">view it here</a>.<br/>"
+msgstr ""
+"Lippu on luotu! Voit <a href=\" %s \"> tarkastella sitä täällä </a>. <br/>"
+
+#: admin/class-wordpress-helpdesk-ticket-notes.php:107
+msgid "Ticket Sytem"
+msgstr "Ticket Sytem"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:119
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:130
+#: admin/options-init.php:1598
+msgid "Tickets"
+msgstr "liput"
+
+#: admin/class-wordpress-helpdesk-reports.php:281
+msgid "Tickets by Agent"
+msgstr "Liput asiamiehen mukaan"
+
+#: admin/class-wordpress-helpdesk-reports.php:374
+msgid "Tickets by Department"
+msgstr "Liput osastoittain"
+
+#: admin/class-wordpress-helpdesk-reports.php:326
+msgid "Tickets by Month"
+msgstr "Liput kuukausittain"
+
+#: admin/class-wordpress-helpdesk-reports.php:383
+msgid "Tickets by Priority"
+msgstr "Liput ensisijaisesti"
+
+#: admin/class-wordpress-helpdesk-reports.php:290
+msgid "Tickets by Reporter"
+msgstr "Reporterin liput"
+
+#: admin/class-wordpress-helpdesk-reports.php:299
+msgid "Tickets by Satisfaction"
+msgstr "Lippuja tyydytyksellä"
+
+#: admin/class-wordpress-helpdesk-reports.php:308
+msgid "Tickets by Source"
+msgstr "Liput lähteestä"
+
+#: admin/class-wordpress-helpdesk-reports.php:356
+msgid "Tickets by Status"
+msgstr "Liput tilaajan mukaan"
+
+#: admin/class-wordpress-helpdesk-reports.php:365
+msgid "Tickets by Type"
+msgstr "Liput tyypin mukaan"
+
+#: admin/class-wordpress-helpdesk-reports.php:317
+msgid "Tickets by Year"
+msgstr "Liput vuosittain"
+
+#: admin/class-wordpress-helpdesk-reports.php:335
+msgid "Tickets created by Year / Month"
+msgstr "Lippuja luotiin vuosi / kuukausi"
+
+#: admin/options-init.php:289
+msgid "Time in minutes when the welcome message should pop up again."
+msgstr ""
+"Aika minuutteina, jolloin tervetuliaisviestin pitäisi ponnahtaa uudelleen."
+
+#: admin/options-init.php:309
+msgid "Timeout"
+msgstr "Aikalisä"
+
+#: admin/widgets/faq-topics.php:106 admin/widgets/faq-dynamic-posts.php:103
+msgid "Title:"
+msgstr "Otsikko:"
+
+#: admin/options-init.php:851
+msgid "TLS"
+msgstr "TLS"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:754
+msgid "Topic"
+msgstr "Aihe"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:452
+msgid "Topic missing."
+msgstr "Aihe puuttuu."
+
+#: admin/options-init.php:389
+msgid "Topic title Appendix"
+msgstr "Aiheen nimi Liite"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:755
+#: admin/widgets/faq-topics.php:105
+msgid "Topics"
+msgstr "aiheista"
+
+#: admin/options-init.php:441
+msgid "Topics Columns"
+msgstr "Aihesarakkeet"
+
+#: admin/options-init.php:431
+msgid "Topics Layout"
+msgstr "Aiheiden asettelu"
+
+#: admin/class-wordpress-helpdesk-reports.php:352
+msgid "Total"
+msgstr "Kaikki yhteensä"
+
+#: admin/options-init.php:1728
+msgid "traditional"
+msgstr "perinteinen"
+
+#: admin/options-init.php:1781
+msgid "Turkish"
+msgstr "Turkki"
+
+#: admin/options-init.php:793
+msgid "Twice daily"
+msgstr "Kahdesti päivässä"
+
+#: admin/class-wordpress-helpdesk-form.php:496
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:226
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1144
+#: admin/class-wordpress-helpdesk-exporter.php:216
+#: admin/class-wordpress-helpdesk-my-tickets.php:141
+msgid "Type"
+msgstr "Tyyppi"
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:403
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:513
+#: admin/class-wordpress-helpdesk-livechat-backend.php:252
+msgid "Type your message…"
+msgstr "Kirjoita viesti ..."
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:227
+msgid "Types"
+msgstr "Tyypit"
+
+#: admin/options-init.php:575 admin/options-init.php:634
+#: admin/options-init.php:706
+msgid "Types Select Field"
+msgstr "Tyypit Valitse kentän"
+
+#: admin/options-init.php:1782
+msgid "Ukrainian"
+msgstr "Ukraina"
+
+#: admin/class-wordpress-helpdesk-notifications.php:327
+#: admin/class-wordpress-helpdesk-notifications.php:336
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:644
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1162
+#: admin/class-wordpress-helpdesk-slack.php:231
+#: admin/class-wordpress-helpdesk-slack.php:240
+#: admin/class-wordpress-helpdesk-log.php:238
+#: admin/class-wordpress-helpdesk-log.php:247
+#: admin/class-wordpress-helpdesk-reports.php:168
+msgid "Unassigned"
+msgstr "Unassigned"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:200
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:237
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:274
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:311
+#: admin/class-wordpress-helpdesk-saved-replies.php:219
+#: admin/class-wordpress-helpdesk-saved-replies.php:255
+#: admin/class-wordpress-helpdesk-faq-post-type.php:765
+#, php-format
+msgid "Update %s"
+msgstr "Päivitä %s"
+
+#: admin/options-init.php:1783
+msgid "Urdu"
+msgstr "Urdu"
+
+#: admin/options-init.php:131
+msgid "Use Excel 2007"
+msgstr "Käytä Excel 2007: tä"
+
+#: admin/options-init.php:1832
+msgid "Use Theme Template"
+msgstr "Käytä teemamallia"
+
+#: admin/widgets/faq-dynamic-posts.php:6
+msgid ""
+"Use this if you want to show FAQs dynamically based on the current users FAQ "
+"page."
+msgstr ""
+"Käytä tätä, jos haluat näyttää usein kysytyt kysymykset nykyisten käyttäjien "
+"FAQ-sivun perusteella."
+
+#: admin/widgets/faq-live-search.php:6
+msgid "Use this to show the live ajax search for FAQs"
+msgstr "Käytä tätä näyttämään Live ajax -haun usein kysytyistä kysymyksistä"
+
+#: admin/class-wordpress-helpdesk-comments-processor.php:121
+msgid "User Exists. The comment has been created by your account."
+msgstr "Käyttäjä on olemassa. Kommentti on luotu tilillesi."
+
+#: admin/class-wordpress-helpdesk-comments-processor.php:129
+msgid "User not exists, but account could not be created."
+msgstr "Käyttäjä ei ole olemassa, mutta tiliä ei voitu luoda."
+
+#: admin/class-wordpress-helpdesk-ticket-processor.php:177
+#, php-format
+msgid ""
+"User not exists, but account could not be created. <a href=\"%s\" "
+"title=\"Login\">Please login first</a>!"
+msgstr ""
+"Käyttäjä ei ole olemassa, mutta tiliä ei voitu luoda. <a href=\" %s \" "
+"title=\"Login\"> Ole hyvä ja kirjaudu ensin </a>!"
+
+#: admin/options-init.php:817
+msgid "Username & Password"
+msgstr "Käyttäjänimi Salasana"
+
+#: admin/class-wordpress-helpdesk-comments-processor.php:113
+#: admin/class-wordpress-helpdesk-ticket-processor.php:153
+msgid "Username not set!"
+msgstr "Käyttäjänimi ei ole asetettu!"
+
+#: admin/class-wordpress-helpdesk-ticket-processor.php:163
+#, php-format
+msgid ""
+"Username or Email exists.  <a href=\"%s\" title=\"Login\">Please login to "
+"create a ticket</a>."
+msgstr ""
+"Käyttäjätunnus tai sähköpostiosoite on olemassa. <a href=\" %s \" "
+"title=\"Login\"> Kirjaudu sisään luodaksesi lipun </a>."
+
+#: admin/options-init.php:1784
+msgid "Uzbek"
+msgstr "uzbekki"
+
+#: admin/options-init.php:1785
+msgid "Vietnamese"
+msgstr "vietnam"
+
+#: admin/class-wordpress-helpdesk-my-tickets.php:224
+msgid "View"
+msgstr "Näytä"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:137
+#: admin/class-wordpress-helpdesk-saved-replies.php:155
+#: admin/class-wordpress-helpdesk-faq-post-type.php:696
+#, php-format
+msgid "View %s"
+msgstr "Näytä %s"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:245
+#: admin/class-wordpress-helpdesk-faq-post-type.php:253
+#, php-format
+msgid "View %s article"
+msgid_plural "View %s articles"
+msgstr[0] "Näytä %s artikkeli"
+msgstr[1] "Näytä %s artikkeli"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:365
+#: admin/class-wordpress-helpdesk-faq-post-type.php:661
+msgid "View Article"
+msgstr "Näytä artikkeli"
+
+#: admin/class-wordpress-helpdesk-notifications.php:48
+#: admin/class-wordpress-helpdesk-support-rating.php:73
+msgid "View Ticket"
+msgstr "Katso lippu"
+
+#: admin/views/single-faq.php:126
+#, php-format
+msgid "Viewed: %s"
+msgstr "Katsottu: %s"
+
+#: admin/class-wordpress-helpdesk-inbox.php:483
+msgid "Visit our Website"
+msgstr "Vieraile verkkosivuillamme"
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:469
+msgid "Visitor"
+msgstr "Vierailija"
+
+#: admin/class-wordpress-helpdesk-reports.php:202
+msgid "Waiting"
+msgstr "odotus"
+
+#: admin/class-wordpress-helpdesk-comments-processor.php:126
+#: admin/class-wordpress-helpdesk-ticket-processor.php:174
+msgid "We created an account for you – Check your inbox!"
+msgstr "Luomme sinulle tilin - Tarkista postilaatikko!"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:941
+#: admin/class-wordpress-helpdesk-faq-post-type.php:981
+#, php-format
+msgid "We found more than %d results ..."
+msgstr "Löysimme yli% d tulosta ..."
+
+#: admin/class-wordpress-helpdesk-support-rating.php:177
+msgid "We would be happy if you leave a feedback message:"
+msgstr "Olisimme onnellisia, jos jätät palautetta koskevan viestin:"
+
+#: admin/class-wordpress-helpdesk-form.php:708 admin/options-init.php:581
+#: admin/options-init.php:640 admin/options-init.php:712
+msgid "Website URL"
+msgstr "Nettisivun URL"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:377
+#: admin/views/single-ticket.php:247
+msgid "Website:"
+msgstr "Verkkosivusto:"
+
+#. Author of the plugin
+msgid "weLaunch"
+msgstr "meKäynnistämme"
+
+#: admin/options-init.php:281
+msgid "Welcome Text"
+msgstr "Tervetulotoivotus"
+
+#: admin/options-init.php:1399
+msgid "Welcome Text (Offline)"
+msgstr "Tervetuloa teksti (Offline)"
+
+#: admin/options-init.php:1392
+msgid "Welcome Text (Online)"
+msgstr "Tervetulotoivotus (Online)"
+
+#: admin/options-init.php:288
+msgid "Welcome Timout"
+msgstr "Tervetuloa Timout"
+
+#: admin/options-init.php:274
+msgid "Welcome Title"
+msgstr "Tervetuloa osastoon"
+
+#: admin/options-init.php:275
+msgid "Welcome to Helpdesk"
+msgstr "Tervetuloa Helpdesk-palveluun"
+
+#: admin/options-init.php:1786
+msgid "Welsh"
+msgstr "Walesin"
+
+#: admin/options-init.php:1207
+msgid "Whenever a comment has been added. "
+msgstr "Aina kun kommentti on lisätty. "
+
+#: admin/options-init.php:1245
+msgid "Whenever the assigned agent changed. "
+msgstr "Aina kun osoitettu agentti muuttui. "
+
+#: admin/options-init.php:746
+msgid "Where is my stuff?"
+msgstr "Missä on tavaraani?"
+
+#: admin/options-init.php:108
+msgid "Where you want to show the sidebar."
+msgstr "Missä haluat näyttää sivupalkin."
+
+#: admin/class-wordpress-helpdesk-sidebar-widgets.php:50
+msgid "Widgets in this area will be shown on all posts and pages."
+msgstr "Tämän alueen widgetit näkyvät kaikilla viestillä ja sivuilla."
+
+#: admin/options-init.php:687
+msgid "WooCommerce Form Fields"
+msgstr "WooCommerce lomakekentät"
+
+#: admin/options-init.php:953
+msgid "WooCommerce Integration"
+msgstr "WooCommerce-integraatio"
+
+#: admin/options-init.php:979
+msgid "WooCommerce – FAQ – Columns"
+msgstr "WooCommerce - UKK - Sarakkeet"
+
+#: admin/options-init.php:973
+msgid "WooCommerce – FAQ – Show excerpt and read more."
+msgstr "WooCommerce - UKK - Näytä ote ja lue lisää."
+
+#: admin/options-init.php:990
+msgid "WooCommerce – Hide Admin bar for Reporters"
+msgstr "WooCommerce - Piilota hallintapalkki Toimittajille"
+
+#: admin/options-init.php:997
+msgid "WooCommerce – Prevent Admin access for Reporters"
+msgstr "WooCommerce - Estä Toimittajien pääsy järjestelmänvalvojille"
+
+#: admin/options-init.php:959
+msgid "WooCommerce – Show FAQs Tab on Product pages"
+msgstr "WooCommerce - Näytä usein kysytyt kysymykset -välilehti tuotesivuilla"
+
+#: admin/options-init.php:26 admin/options-init.php:28
+msgid "WordPress Helpdesk"
+msgstr "WordPress Helpdesk"
+
+#: wordpress-helpdesk.php:108
+msgid ""
+"WordPress Helpdesk requires the weLaunch Framework Please install or "
+"activate it before: https://www.welaunch.io/updates/welaunch-framework.zip"
+msgstr ""
+"WordPress-asiakaspalvelu vaatii weLaunch Frameworkin. Asenna tai aktivoi se "
+"ennen: https://www.welaunch.io/updates/welaunch-framework.zip"
+
+#. Name of the plugin
+msgid "WordPress TotalDesk"
+msgstr "WordPress TotalDesk"
+
+#: admin/class-wordpress-helpdesk-support-rating.php:94
+msgid "Wrong satisfied value."
+msgstr "Väärä tyytyväinen arvo."
+
+#: admin/class-wordpress-helpdesk-exporter.php:40
+msgid "You are not an admin"
+msgstr "Et ole ylläpitäjä"
+
+#: admin/options-init.php:356
+msgid "You can also use the widget instead of this search."
+msgstr "Voit myös käyttää widgetiä tämän haun sijaan."
+
+#: admin/class-wordpress-helpdesk-form.php:308
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:504
+msgid "Your Email"
+msgstr "Sähköpostisi"
+
+#: admin/options-init.php:923
+msgid "Your Envato Username"
+msgstr "Envato-käyttäjänimi"
+
+#: admin/class-wordpress-helpdesk-form.php:285
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:501
+msgid "Your Name"
+msgstr "Sinun nimesi"
+
+#: admin/class-wordpress-helpdesk-form.php:534
+msgid "Your Order"
+msgstr "Tilauksesi"
+
+#: admin/class-wordpress-helpdesk-form.php:559
+msgid "Your Subject"
+msgstr "Sinun aiheesi"
+
+#: admin/class-wordpress-helpdesk-exporter.php:53
+msgid "Your Ticket Export is ready. The Download should start automatically."
+msgstr "Lippuvuosi on valmis. Latauksen pitäisi alkaa automaattisesti."

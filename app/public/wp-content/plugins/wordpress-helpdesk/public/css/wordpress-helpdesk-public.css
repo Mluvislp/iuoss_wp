@@ -1,0 +1,2416 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.wordpress-helpdesk-container {
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 100%;
+}
+.wordpress-helpdesk-row {
+  margin-left: -15px;
+  margin-right: -15px;
+}
+.wordpress-helpdesk-col-xs-1, .wordpress-helpdesk-col-sm-1, .wordpress-helpdesk-col-md-1, .wordpress-helpdesk-col-lg-1, .wordpress-helpdesk-col-xs-2, .wordpress-helpdesk-col-sm-2, .wordpress-helpdesk-col-md-2, .wordpress-helpdesk-col-lg-2, .wordpress-helpdesk-col-xs-3, .wordpress-helpdesk-col-sm-3, .wordpress-helpdesk-col-md-3, .wordpress-helpdesk-col-lg-3, .wordpress-helpdesk-col-xs-4, .wordpress-helpdesk-col-sm-4, .wordpress-helpdesk-col-md-4, .wordpress-helpdesk-col-lg-4, .wordpress-helpdesk-col-xs-5, .wordpress-helpdesk-col-sm-5, .wordpress-helpdesk-col-md-5, .wordpress-helpdesk-col-lg-5, .wordpress-helpdesk-col-xs-6, .wordpress-helpdesk-col-sm-6, .wordpress-helpdesk-col-md-6, .wordpress-helpdesk-col-lg-6, .wordpress-helpdesk-col-xs-7, .wordpress-helpdesk-col-sm-7, .wordpress-helpdesk-col-md-7, .wordpress-helpdesk-col-lg-7, .wordpress-helpdesk-col-xs-8, .wordpress-helpdesk-col-sm-8, .wordpress-helpdesk-col-md-8, .wordpress-helpdesk-col-lg-8, .wordpress-helpdesk-col-xs-9, .wordpress-helpdesk-col-sm-9, .wordpress-helpdesk-col-md-9, .wordpress-helpdesk-col-lg-9, .wordpress-helpdesk-col-xs-10, .wordpress-helpdesk-col-sm-10, .wordpress-helpdesk-col-md-10, .wordpress-helpdesk-col-lg-10, .wordpress-helpdesk-col-xs-11, .wordpress-helpdesk-col-sm-11, .wordpress-helpdesk-col-md-11, .wordpress-helpdesk-col-lg-11, .wordpress-helpdesk-col-xs-12, .wordpress-helpdesk-col-sm-12, .wordpress-helpdesk-col-md-12, .wordpress-helpdesk-col-lg-12 {
+  position: relative;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.wordpress-helpdesk-col-xs-1, .wordpress-helpdesk-col-xs-2, .wordpress-helpdesk-col-xs-3, .wordpress-helpdesk-col-xs-4, .wordpress-helpdesk-col-xs-5, .wordpress-helpdesk-col-xs-6, .wordpress-helpdesk-col-xs-7, .wordpress-helpdesk-col-xs-8, .wordpress-helpdesk-col-xs-9, .wordpress-helpdesk-col-xs-10, .wordpress-helpdesk-col-xs-11, .wordpress-helpdesk-col-xs-12 {
+  float: left;
+}
+.wordpress-helpdesk-col-xs-12 {
+  width: 100%;
+}
+.wordpress-helpdesk-col-xs-11 {
+  width: 91.66666667%;
+}
+.wordpress-helpdesk-col-xs-10 {
+  width: 83.33333333%;
+}
+.wordpress-helpdesk-col-xs-9 {
+  width: 75%;
+}
+.wordpress-helpdesk-col-xs-8 {
+  width: 66.66666667%;
+}
+.wordpress-helpdesk-col-xs-7 {
+  width: 58.33333333%;
+}
+.wordpress-helpdesk-col-xs-6 {
+  width: 50%;
+}
+.wordpress-helpdesk-col-xs-5 {
+  width: 41.66666667%;
+}
+.wordpress-helpdesk-col-xs-4 {
+  width: 33.33333333%;
+}
+.wordpress-helpdesk-col-xs-3 {
+  width: 25%;
+}
+.wordpress-helpdesk-col-xs-2 {
+  width: 16.66666667%;
+}
+.wordpress-helpdesk-col-xs-1 {
+  width: 8.33333333%;
+}
+.wordpress-helpdesk-col-xs-pull-12 {
+  right: 100%;
+}
+.wordpress-helpdesk-col-xs-pull-11 {
+  right: 91.66666667%;
+}
+.wordpress-helpdesk-col-xs-pull-10 {
+  right: 83.33333333%;
+}
+.wordpress-helpdesk-col-xs-pull-9 {
+  right: 75%;
+}
+.wordpress-helpdesk-col-xs-pull-8 {
+  right: 66.66666667%;
+}
+.wordpress-helpdesk-col-xs-pull-7 {
+  right: 58.33333333%;
+}
+.wordpress-helpdesk-col-xs-pull-6 {
+  right: 50%;
+}
+.wordpress-helpdesk-col-xs-pull-5 {
+  right: 41.66666667%;
+}
+.wordpress-helpdesk-col-xs-pull-4 {
+  right: 33.33333333%;
+}
+.wordpress-helpdesk-col-xs-pull-3 {
+  right: 25%;
+}
+.wordpress-helpdesk-col-xs-pull-2 {
+  right: 16.66666667%;
+}
+.wordpress-helpdesk-col-xs-pull-1 {
+  right: 8.33333333%;
+}
+.wordpress-helpdesk-col-xs-pull-0 {
+  right: auto;
+}
+.wordpress-helpdesk-col-xs-push-12 {
+  left: 100%;
+}
+.wordpress-helpdesk-col-xs-push-11 {
+  left: 91.66666667%;
+}
+.wordpress-helpdesk-col-xs-push-10 {
+  left: 83.33333333%;
+}
+.wordpress-helpdesk-col-xs-push-9 {
+  left: 75%;
+}
+.wordpress-helpdesk-col-xs-push-8 {
+  left: 66.66666667%;
+}
+.wordpress-helpdesk-col-xs-push-7 {
+  left: 58.33333333%;
+}
+.wordpress-helpdesk-col-xs-push-6 {
+  left: 50%;
+}
+.wordpress-helpdesk-col-xs-push-5 {
+  left: 41.66666667%;
+}
+.wordpress-helpdesk-col-xs-push-4 {
+  left: 33.33333333%;
+}
+.wordpress-helpdesk-col-xs-push-3 {
+  left: 25%;
+}
+.wordpress-helpdesk-col-xs-push-2 {
+  left: 16.66666667%;
+}
+.wordpress-helpdesk-col-xs-push-1 {
+  left: 8.33333333%;
+}
+.wordpress-helpdesk-col-xs-push-0 {
+  left: auto;
+}
+.wordpress-helpdesk-col-xs-offset-12 {
+  margin-left: 100%;
+}
+.wordpress-helpdesk-col-xs-offset-11 {
+  margin-left: 91.66666667%;
+}
+.wordpress-helpdesk-col-xs-offset-10 {
+  margin-left: 83.33333333%;
+}
+.wordpress-helpdesk-col-xs-offset-9 {
+  margin-left: 75%;
+}
+.wordpress-helpdesk-col-xs-offset-8 {
+  margin-left: 66.66666667%;
+}
+.wordpress-helpdesk-col-xs-offset-7 {
+  margin-left: 58.33333333%;
+}
+.wordpress-helpdesk-col-xs-offset-6 {
+  margin-left: 50%;
+}
+.wordpress-helpdesk-col-xs-offset-5 {
+  margin-left: 41.66666667%;
+}
+.wordpress-helpdesk-col-xs-offset-4 {
+  margin-left: 33.33333333%;
+}
+.wordpress-helpdesk-col-xs-offset-3 {
+  margin-left: 25%;
+}
+.wordpress-helpdesk-col-xs-offset-2 {
+  margin-left: 16.66666667%;
+}
+.wordpress-helpdesk-col-xs-offset-1 {
+  margin-left: 8.33333333%;
+}
+.wordpress-helpdesk-col-xs-offset-0 {
+  margin-left: 0%;
+}
+@media (min-width: 768px) {
+  .wordpress-helpdesk-col-sm-1, .wordpress-helpdesk-col-sm-2, .wordpress-helpdesk-col-sm-3, .wordpress-helpdesk-col-sm-4, .wordpress-helpdesk-col-sm-5, .wordpress-helpdesk-col-sm-6, .wordpress-helpdesk-col-sm-7, .wordpress-helpdesk-col-sm-8, .wordpress-helpdesk-col-sm-9, .wordpress-helpdesk-col-sm-10, .wordpress-helpdesk-col-sm-11, .wordpress-helpdesk-col-sm-12 {
+    float: left;
+  }
+  .wordpress-helpdesk-col-sm-12 {
+    width: 100%;
+  }
+  .wordpress-helpdesk-col-sm-11 {
+    width: 91.66666667%;
+  }
+  .wordpress-helpdesk-col-sm-10 {
+    width: 83.33333333%;
+  }
+  .wordpress-helpdesk-col-sm-9 {
+    width: 75%;
+  }
+  .wordpress-helpdesk-col-sm-8 {
+    width: 66.66666667%;
+  }
+  .wordpress-helpdesk-col-sm-7 {
+    width: 58.33333333%;
+  }
+  .wordpress-helpdesk-col-sm-6 {
+    width: 50%;
+  }
+  .wordpress-helpdesk-col-sm-5 {
+    width: 41.66666667%;
+  }
+  .wordpress-helpdesk-col-sm-4 {
+    width: 33.33333333%;
+  }
+  .wordpress-helpdesk-col-sm-3 {
+    width: 25%;
+  }
+  .wordpress-helpdesk-col-sm-2 {
+    width: 16.66666667%;
+  }
+  .wordpress-helpdesk-col-sm-1 {
+    width: 8.33333333%;
+  }
+  .wordpress-helpdesk-col-sm-pull-12 {
+    right: 100%;
+  }
+  .wordpress-helpdesk-col-sm-pull-11 {
+    right: 91.66666667%;
+  }
+  .wordpress-helpdesk-col-sm-pull-10 {
+    right: 83.33333333%;
+  }
+  .wordpress-helpdesk-col-sm-pull-9 {
+    right: 75%;
+  }
+  .wordpress-helpdesk-col-sm-pull-8 {
+    right: 66.66666667%;
+  }
+  .wordpress-helpdesk-col-sm-pull-7 {
+    right: 58.33333333%;
+  }
+  .wordpress-helpdesk-col-sm-pull-6 {
+    right: 50%;
+  }
+  .wordpress-helpdesk-col-sm-pull-5 {
+    right: 41.66666667%;
+  }
+  .wordpress-helpdesk-col-sm-pull-4 {
+    right: 33.33333333%;
+  }
+  .wordpress-helpdesk-col-sm-pull-3 {
+    right: 25%;
+  }
+  .wordpress-helpdesk-col-sm-pull-2 {
+    right: 16.66666667%;
+  }
+  .wordpress-helpdesk-col-sm-pull-1 {
+    right: 8.33333333%;
+  }
+  .wordpress-helpdesk-col-sm-pull-0 {
+    right: auto;
+  }
+  .wordpress-helpdesk-col-sm-push-12 {
+    left: 100%;
+  }
+  .wordpress-helpdesk-col-sm-push-11 {
+    left: 91.66666667%;
+  }
+  .wordpress-helpdesk-col-sm-push-10 {
+    left: 83.33333333%;
+  }
+  .wordpress-helpdesk-col-sm-push-9 {
+    left: 75%;
+  }
+  .wordpress-helpdesk-col-sm-push-8 {
+    left: 66.66666667%;
+  }
+  .wordpress-helpdesk-col-sm-push-7 {
+    left: 58.33333333%;
+  }
+  .wordpress-helpdesk-col-sm-push-6 {
+    left: 50%;
+  }
+  .wordpress-helpdesk-col-sm-push-5 {
+    left: 41.66666667%;
+  }
+  .wordpress-helpdesk-col-sm-push-4 {
+    left: 33.33333333%;
+  }
+  .wordpress-helpdesk-col-sm-push-3 {
+    left: 25%;
+  }
+  .wordpress-helpdesk-col-sm-push-2 {
+    left: 16.66666667%;
+  }
+  .wordpress-helpdesk-col-sm-push-1 {
+    left: 8.33333333%;
+  }
+  .wordpress-helpdesk-col-sm-push-0 {
+    left: auto;
+  }
+  .wordpress-helpdesk-col-sm-offset-12 {
+    margin-left: 100%;
+  }
+  .wordpress-helpdesk-col-sm-offset-11 {
+    margin-left: 91.66666667%;
+  }
+  .wordpress-helpdesk-col-sm-offset-10 {
+    margin-left: 83.33333333%;
+  }
+  .wordpress-helpdesk-col-sm-offset-9 {
+    margin-left: 75%;
+  }
+  .wordpress-helpdesk-col-sm-offset-8 {
+    margin-left: 66.66666667%;
+  }
+  .wordpress-helpdesk-col-sm-offset-7 {
+    margin-left: 58.33333333%;
+  }
+  .wordpress-helpdesk-col-sm-offset-6 {
+    margin-left: 50%;
+  }
+  .wordpress-helpdesk-col-sm-offset-5 {
+    margin-left: 41.66666667%;
+  }
+  .wordpress-helpdesk-col-sm-offset-4 {
+    margin-left: 33.33333333%;
+  }
+  .wordpress-helpdesk-col-sm-offset-3 {
+    margin-left: 25%;
+  }
+  .wordpress-helpdesk-col-sm-offset-2 {
+    margin-left: 16.66666667%;
+  }
+  .wordpress-helpdesk-col-sm-offset-1 {
+    margin-left: 8.33333333%;
+  }
+  .wordpress-helpdesk-col-sm-offset-0 {
+    margin-left: 0%;
+  }
+}
+
+.wordpress-helpdesk-clearfix:before,
+.wordpress-helpdesk-clearfix:after,
+.wordpress-helpdesk-container:before,
+.wordpress-helpdesk-container:after,
+.wordpress-helpdesk-container-fluid:before,
+.wordpress-helpdesk-container-fluid:after,
+.wordpress-helpdesk-row:before,
+.wordpress-helpdesk-row:after {
+  content: " ";
+  display: table;
+}
+.wordpress-helpdesk-clearfix:after,
+.wordpress-helpdesk-container:after,
+.wordpress-helpdesk-container-fluid:after,
+.wordpress-helpdesk-row:after {
+  clear: both;
+}
+.wordpress-helpdesk-center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+/*.wordpress-helpdesk-pull-right {
+  float: right !important;
+}*/
+.wordpress-helpdesk-pull-left {
+  float: left !important;
+}
+.wordpress-helpdesk-hide {
+  display: none !important;
+}
+.wordpress-helpdesk-show {
+  display: block !important;
+}
+.wordpress-helpdesk-invisible {
+  visibility: hidden;
+}
+.wordpress-helpdesk-text-hide {
+  font: 0/0 a;
+  color: transparent;
+  text-shadow: none;
+  background-color: transparent;
+  border: 0;
+}
+.wordpress-helpdesk-hidden {
+  display: none !important;
+}
+.wordpress-helpdesk-affix {
+  position: fixed;
+}
+
+.wordpress-helpdesk-left {
+  text-align: left;
+}
+
+.wordpress-helpdesk-right {
+  text-align: right;
+}
+
+.wordpress-helpdesk-center {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.wordpress-helpdesk-justify {
+  text-align: justify;
+}
+
+.wordpress-helpdesk-box {
+  background-color: #f7f7f7;
+  padding: 50px;
+}
+
+.wordpress-helpdesk button, .wordpress-helpdesk 
+input, .wordpress-helpdesk 
+optgroup, .wordpress-helpdesk 
+select, .wordpress-helpdesk 
+textarea {
+  color: inherit;
+  font: inherit;
+  margin: 0;
+}
+.wordpress-helpdesk 
+button {
+  overflow: visible;
+}
+.wordpress-helpdesk 
+button, .wordpress-helpdesk 
+select {
+  text-transform: none;
+}
+.wordpress-helpdesk 
+button, .wordpress-helpdesk 
+html input[type="button"], .wordpress-helpdesk 
+input[type="reset"], .wordpress-helpdesk 
+input[type="submit"] {
+  -webkit-appearance: button;
+  cursor: pointer;
+}
+.wordpress-helpdesk 
+button[disabled], .wordpress-helpdesk 
+html input[disabled] {
+  cursor: default;
+}
+.wordpress-helpdesk 
+button::-moz-focus-inner, .wordpress-helpdesk 
+input::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+.wordpress-helpdesk 
+input {
+  line-height: normal;
+}
+.wordpress-helpdesk 
+input[type="checkbox"], .wordpress-helpdesk 
+input[type="radio"] {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 0;
+}
+.wordpress-helpdesk 
+input[type="number"]::-webkit-inner-spin-button, .wordpress-helpdesk 
+input[type="number"]::-webkit-outer-spin-button {
+  height: auto;
+}
+.wordpress-helpdesk 
+input[type="search"] {
+  -webkit-appearance: textfield;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.wordpress-helpdesk 
+.form-control.wordpress-helpdesk-faq-searchterm {
+  height: 45px;
+}
+.wordpress-helpdesk 
+input[type="search"]::-webkit-search-cancel-button, .wordpress-helpdesk 
+input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+.wordpress-helpdesk 
+fieldset {
+  border: 1px solid #c0c0c0;
+  margin: 0 2px;
+  padding: 0.35em 0.625em 0.75em;
+}
+.wordpress-helpdesk 
+legend {
+  border: 0;
+  padding: 0;
+}
+.wordpress-helpdesk 
+textarea {
+  overflow: auto;
+}
+.wordpress-helpdesk 
+optgroup {
+  font-weight: bold;
+}
+.wordpress-helpdesk 
+
+input, .wordpress-helpdesk 
+button, .wordpress-helpdesk 
+select, .wordpress-helpdesk 
+textarea {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+.wordpress-helpdesk 
+fieldset {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  min-width: 0;
+}
+.wordpress-helpdesk 
+legend {
+  display: block;
+  width: 100%;
+  padding: 0;
+  margin-bottom: 20px;
+  font-size: 21px;
+  line-height: inherit;
+  color: #333333;
+  border: 0;
+  border-bottom: 1px solid #e5e5e5;
+}
+.wordpress-helpdesk 
+label {
+  display: inline-block;
+  max-width: 100%;
+  width:  100%;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+.wordpress-helpdesk 
+input[type="radio"], .wordpress-helpdesk 
+input[type="checkbox"] {
+  margin: 4px 0 0;
+  margin-top: 1px \9;
+  line-height: normal;
+}
+.wordpress-helpdesk 
+input[type="file"] {
+  display: block;
+}
+.wordpress-helpdesk 
+input[type="range"] {
+  display: block;
+  width: 100%;
+}
+.wordpress-helpdesk 
+select[multiple], .wordpress-helpdesk 
+select[size] {
+  height: auto;
+}
+.wordpress-helpdesk 
+input[type="file"]:focus, .wordpress-helpdesk 
+input[type="radio"]:focus, .wordpress-helpdesk 
+input[type="checkbox"]:focus {
+  outline: 5px auto -webkit-focus-ring-color;
+  outline-offset: -2px;
+}
+.wordpress-helpdesk 
+output {
+  display: block;
+  padding-top: 7px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #555555;
+}
+.wordpress-helpdesk 
+.form-control {
+  display: block;
+  width: 100%;
+  height: 34px;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #555555;
+  background-color: rgb(247, 247, 247);
+  background-image: none;
+  border: 1px solid rgb(238, 238, 238);
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, .wordpress-helpdesk  0, .wordpress-helpdesk  0, .wordpress-helpdesk  0.075);
+  box-shadow: inset 0 1px 1px rgba(0, .wordpress-helpdesk  0, .wordpress-helpdesk  0, .wordpress-helpdesk  0.075);
+  -webkit-transition: border-color ease-in-out .15s, .wordpress-helpdesk  -webkit-box-shadow ease-in-out .15s;
+  -o-transition: border-color ease-in-out .15s, .wordpress-helpdesk  box-shadow ease-in-out .15s;
+  transition: border-color ease-in-out .15s, .wordpress-helpdesk  box-shadow ease-in-out .15s;
+}
+.wordpress-helpdesk 
+.form-control:focus {
+  border-color: #66afe9;
+  outline: 0;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, .wordpress-helpdesk 0, .wordpress-helpdesk 0, .wordpress-helpdesk .075), .wordpress-helpdesk  0 0 8px rgba(102, .wordpress-helpdesk  175, .wordpress-helpdesk  233, .wordpress-helpdesk  0.6);
+  box-shadow: inset 0 1px 1px rgba(0, .wordpress-helpdesk 0, .wordpress-helpdesk 0, .wordpress-helpdesk .075), .wordpress-helpdesk  0 0 8px rgba(102, .wordpress-helpdesk  175, .wordpress-helpdesk  233, .wordpress-helpdesk  0.6);
+}
+.wordpress-helpdesk 
+.form-control::-moz-placeholder {
+  color: #333333;
+  opacity: 1;
+}
+.wordpress-helpdesk 
+.form-control:-ms-input-placeholder {
+  color: #333333;
+}
+.wordpress-helpdesk 
+.form-control::-webkit-input-placeholder {
+  color: #333333;
+}
+.wordpress-helpdesk 
+.form-control::-ms-expand {
+  border: 0;
+  background-color: transparent;
+}
+.wordpress-helpdesk 
+.form-control[disabled], .wordpress-helpdesk 
+.form-control[readonly], .wordpress-helpdesk 
+fieldset[disabled] .form-control {
+  background-color: #eeeeee;
+  opacity: 1;
+}
+.wordpress-helpdesk 
+.form-control[disabled], .wordpress-helpdesk 
+fieldset[disabled] .form-control {
+  cursor: not-allowed;
+}
+.wordpress-helpdesk 
+textarea.form-control {
+  height: auto;
+}
+.wordpress-helpdesk 
+input[type="search"] {
+  -webkit-appearance: none;
+}
+.wordpress-helpdesk 
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  input[type="date"].form-control, .wordpress-helpdesk 
+  input[type="time"].form-control, .wordpress-helpdesk 
+  input[type="datetime-local"].form-control, .wordpress-helpdesk 
+  input[type="month"].form-control {
+    line-height: 34px;
+  }
+.wordpress-helpdesk 
+  input[type="date"].input-sm, .wordpress-helpdesk 
+  input[type="time"].input-sm, .wordpress-helpdesk 
+  input[type="datetime-local"].input-sm, .wordpress-helpdesk 
+  input[type="month"].input-sm, .wordpress-helpdesk 
+  .input-group-sm input[type="date"], .wordpress-helpdesk 
+  .input-group-sm input[type="time"], .wordpress-helpdesk 
+  .input-group-sm input[type="datetime-local"], .wordpress-helpdesk 
+  .input-group-sm input[type="month"] {
+    line-height: 30px;
+  }
+.wordpress-helpdesk 
+  input[type="date"].input-lg, .wordpress-helpdesk 
+  input[type="time"].input-lg, .wordpress-helpdesk 
+  input[type="datetime-local"].input-lg, .wordpress-helpdesk 
+  input[type="month"].input-lg, .wordpress-helpdesk 
+  .input-group-lg input[type="date"], .wordpress-helpdesk 
+  .input-group-lg input[type="time"], .wordpress-helpdesk 
+  .input-group-lg input[type="datetime-local"], .wordpress-helpdesk 
+  .input-group-lg input[type="month"] {
+    line-height: 46px;
+  }
+.wordpress-helpdesk 
+}
+.wordpress-helpdesk 
+.form-group {
+  margin-bottom: 15px;
+}
+.wordpress-helpdesk 
+.radio, .wordpress-helpdesk 
+.checkbox {
+  position: relative;
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.wordpress-helpdesk 
+.radio label, .wordpress-helpdesk 
+.checkbox label {
+  min-height: 20px;
+  padding-left: 20px;
+  margin-bottom: 0;
+  font-weight: normal;
+  cursor: pointer;
+}
+.wordpress-helpdesk 
+.radio input[type="radio"], .wordpress-helpdesk 
+.radio-inline input[type="radio"], .wordpress-helpdesk 
+.checkbox input[type="checkbox"], .wordpress-helpdesk 
+.checkbox-inline input[type="checkbox"] {
+  position: absolute;
+  margin-left: -20px;
+  margin-top: 4px \9;
+}
+.wordpress-helpdesk 
+.radio + .radio, .wordpress-helpdesk 
+.checkbox + .checkbox {
+  margin-top: -5px;
+}
+.wordpress-helpdesk 
+.radio-inline, .wordpress-helpdesk 
+.checkbox-inline {
+  position: relative;
+  display: inline-block;
+  padding-left: 20px;
+  margin-bottom: 0;
+  vertical-align: middle;
+  font-weight: normal;
+  cursor: pointer;
+}
+.wordpress-helpdesk 
+.radio-inline + .radio-inline, .wordpress-helpdesk 
+.checkbox-inline + .checkbox-inline {
+  margin-top: 0;
+  margin-left: 10px;
+}
+.wordpress-helpdesk 
+input[type="radio"][disabled], .wordpress-helpdesk 
+input[type="checkbox"][disabled], .wordpress-helpdesk 
+input[type="radio"].disabled, .wordpress-helpdesk 
+input[type="checkbox"].disabled, .wordpress-helpdesk 
+fieldset[disabled] input[type="radio"], .wordpress-helpdesk 
+fieldset[disabled] input[type="checkbox"] {
+  cursor: not-allowed;
+}
+.wordpress-helpdesk 
+.radio-inline.disabled, .wordpress-helpdesk 
+.checkbox-inline.disabled, .wordpress-helpdesk 
+fieldset[disabled] .radio-inline, .wordpress-helpdesk 
+fieldset[disabled] .checkbox-inline {
+  cursor: not-allowed;
+}
+.wordpress-helpdesk 
+.radio.disabled label, .wordpress-helpdesk 
+.checkbox.disabled label, .wordpress-helpdesk 
+fieldset[disabled] .radio label, .wordpress-helpdesk 
+fieldset[disabled] .checkbox label {
+  cursor: not-allowed;
+}
+.wordpress-helpdesk 
+.form-control-static {
+  padding-top: 7px;
+  padding-bottom: 7px;
+  margin-bottom: 0;
+  min-height: 34px;
+}
+.wordpress-helpdesk 
+.form-control-static.input-lg, .wordpress-helpdesk 
+.form-control-static.input-sm {
+  padding-left: 0;
+  padding-right: 0;
+}
+.wordpress-helpdesk 
+.input-sm {
+  height: 30px;
+  padding: 5px 10px;
+  font-size: 12px;
+  line-height: 1.5;
+  border-radius: 3px;
+}
+.wordpress-helpdesk 
+select.input-sm {
+  height: 30px;
+  line-height: 30px;
+}
+.wordpress-helpdesk 
+textarea.input-sm, .wordpress-helpdesk 
+select[multiple].input-sm {
+  height: auto;
+}
+.wordpress-helpdesk 
+.form-group-sm .form-control {
+  height: 30px;
+  padding: 5px 10px;
+  font-size: 12px;
+  line-height: 1.5;
+  border-radius: 3px;
+}
+.wordpress-helpdesk 
+.form-group-sm select.form-control {
+  height: 30px;
+  line-height: 30px;
+}
+.wordpress-helpdesk 
+.form-group-sm textarea.form-control, .wordpress-helpdesk 
+.form-group-sm select[multiple].form-control {
+  height: auto;
+}
+.wordpress-helpdesk 
+.form-group-sm .form-control-static {
+  height: 30px;
+  min-height: 32px;
+  padding: 6px 10px;
+  font-size: 12px;
+  line-height: 1.5;
+}
+.wordpress-helpdesk 
+.input-lg {
+  height: 46px;
+  padding: 10px 16px;
+  font-size: 18px;
+  line-height: 1.3333333;
+  border-radius: 6px;
+}
+.wordpress-helpdesk 
+select.input-lg {
+  height: 46px;
+  line-height: 46px;
+}
+.wordpress-helpdesk 
+textarea.input-lg, .wordpress-helpdesk 
+select[multiple].input-lg {
+  height: auto;
+}
+.wordpress-helpdesk 
+.form-group-lg .form-control {
+  height: 46px;
+  padding: 10px 16px;
+  font-size: 18px;
+  line-height: 1.3333333;
+  border-radius: 6px;
+}
+.wordpress-helpdesk 
+.form-group-lg select.form-control {
+  height: 46px;
+  line-height: 46px;
+}
+.wordpress-helpdesk 
+.form-group-lg textarea.form-control, .wordpress-helpdesk 
+.form-group-lg select[multiple].form-control {
+  height: auto;
+}
+.wordpress-helpdesk 
+.form-group-lg .form-control-static {
+  height: 46px;
+  min-height: 38px;
+  padding: 11px 16px;
+  font-size: 18px;
+  line-height: 1.3333333;
+}
+.wordpress-helpdesk 
+.has-feedback {
+  position: relative;
+}
+.wordpress-helpdesk 
+.has-feedback .form-control {
+  padding-right: 42.5px;
+}
+.wordpress-helpdesk 
+.form-control-feedback {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 2;
+  display: block;
+  width: 34px;
+  height: 34px;
+  line-height: 34px;
+  text-align: center;
+  pointer-events: none;
+}
+.wordpress-helpdesk 
+.input-lg + .form-control-feedback, .wordpress-helpdesk 
+.input-group-lg + .form-control-feedback, .wordpress-helpdesk 
+.form-group-lg .form-control + .form-control-feedback {
+  width: 46px;
+  height: 46px;
+  line-height: 46px;
+}
+.wordpress-helpdesk 
+.input-sm + .form-control-feedback, .wordpress-helpdesk 
+.input-group-sm + .form-control-feedback, .wordpress-helpdesk 
+.form-group-sm .form-control + .form-control-feedback {
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+}
+.wordpress-helpdesk 
+.has-success .help-block, .wordpress-helpdesk 
+.has-success .control-label, .wordpress-helpdesk 
+.has-success .radio, .wordpress-helpdesk 
+.has-success .checkbox, .wordpress-helpdesk 
+.has-success .radio-inline, .wordpress-helpdesk 
+.has-success .checkbox-inline, .wordpress-helpdesk 
+.has-success.radio label, .wordpress-helpdesk 
+.has-success.checkbox label, .wordpress-helpdesk 
+.has-success.radio-inline label, .wordpress-helpdesk 
+.has-success.checkbox-inline label {
+  color: #3c763d;
+}
+.wordpress-helpdesk 
+.has-success .form-control {
+  border-color: #3c763d;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, .wordpress-helpdesk  0, .wordpress-helpdesk  0, .wordpress-helpdesk  0.075);
+  box-shadow: inset 0 1px 1px rgba(0, .wordpress-helpdesk  0, .wordpress-helpdesk  0, .wordpress-helpdesk  0.075);
+}
+.wordpress-helpdesk 
+.has-success .form-control:focus {
+  border-color: #2b542c;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, .wordpress-helpdesk  0, .wordpress-helpdesk  0, .wordpress-helpdesk  0.075), .wordpress-helpdesk  0 0 6px #67b168;
+  box-shadow: inset 0 1px 1px rgba(0, .wordpress-helpdesk  0, .wordpress-helpdesk  0, .wordpress-helpdesk  0.075), .wordpress-helpdesk  0 0 6px #67b168;
+}
+.wordpress-helpdesk 
+.has-success .input-group-addon {
+  color: #3c763d;
+  border-color: #3c763d;
+  background-color: #dff0d8;
+}
+.wordpress-helpdesk 
+.has-success .form-control-feedback {
+  color: #3c763d;
+}
+.wordpress-helpdesk 
+.has-warning .help-block, .wordpress-helpdesk 
+.has-warning .control-label, .wordpress-helpdesk 
+.has-warning .radio, .wordpress-helpdesk 
+.has-warning .checkbox, .wordpress-helpdesk 
+.has-warning .radio-inline, .wordpress-helpdesk 
+.has-warning .checkbox-inline, .wordpress-helpdesk 
+.has-warning.radio label, .wordpress-helpdesk 
+.has-warning.checkbox label, .wordpress-helpdesk 
+.has-warning.radio-inline label, .wordpress-helpdesk 
+.has-warning.checkbox-inline label {
+  color: #8a6d3b;
+}
+.wordpress-helpdesk 
+.has-warning .form-control {
+  border-color: #8a6d3b;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, .wordpress-helpdesk  0, .wordpress-helpdesk  0, .wordpress-helpdesk  0.075);
+  box-shadow: inset 0 1px 1px rgba(0, .wordpress-helpdesk  0, .wordpress-helpdesk  0, .wordpress-helpdesk  0.075);
+}
+.wordpress-helpdesk 
+.has-warning .form-control:focus {
+  border-color: #66512c;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, .wordpress-helpdesk  0, .wordpress-helpdesk  0, .wordpress-helpdesk  0.075), .wordpress-helpdesk  0 0 6px #c0a16b;
+  box-shadow: inset 0 1px 1px rgba(0, .wordpress-helpdesk  0, .wordpress-helpdesk  0, .wordpress-helpdesk  0.075), .wordpress-helpdesk  0 0 6px #c0a16b;
+}
+.wordpress-helpdesk 
+.has-warning .input-group-addon {
+  color: #8a6d3b;
+  border-color: #8a6d3b;
+  background-color: #fcf8e3;
+}
+.wordpress-helpdesk 
+.has-warning .form-control-feedback {
+  color: #8a6d3b;
+}
+.wordpress-helpdesk 
+.has-error .help-block, .wordpress-helpdesk 
+.has-error .control-label, .wordpress-helpdesk 
+.has-error .radio, .wordpress-helpdesk 
+.has-error .checkbox, .wordpress-helpdesk 
+.has-error .radio-inline, .wordpress-helpdesk 
+.has-error .checkbox-inline, .wordpress-helpdesk 
+.has-error.radio label, .wordpress-helpdesk 
+.has-error.checkbox label, .wordpress-helpdesk 
+.has-error.radio-inline label, .wordpress-helpdesk 
+.has-error.checkbox-inline label {
+  color: #a94442;
+}
+.wordpress-helpdesk 
+.has-error .form-control {
+  border-color: #a94442;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, .wordpress-helpdesk  0, .wordpress-helpdesk  0, .wordpress-helpdesk  0.075);
+  box-shadow: inset 0 1px 1px rgba(0, .wordpress-helpdesk  0, .wordpress-helpdesk  0, .wordpress-helpdesk  0.075);
+}
+.wordpress-helpdesk 
+.has-error .form-control:focus {
+  border-color: #843534;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, .wordpress-helpdesk  0, .wordpress-helpdesk  0, .wordpress-helpdesk  0.075), .wordpress-helpdesk  0 0 6px #ce8483;
+  box-shadow: inset 0 1px 1px rgba(0, .wordpress-helpdesk  0, .wordpress-helpdesk  0, .wordpress-helpdesk  0.075), .wordpress-helpdesk  0 0 6px #ce8483;
+}
+.wordpress-helpdesk 
+.has-error .input-group-addon {
+  color: #a94442;
+  border-color: #a94442;
+  background-color: #f2dede;
+}
+.wordpress-helpdesk 
+.has-error .form-control-feedback {
+  color: #a94442;
+}
+.wordpress-helpdesk 
+.has-feedback label ~ .form-control-feedback {
+  top: 25px;
+}
+.wordpress-helpdesk 
+.has-feedback label.sr-only ~ .form-control-feedback {
+  top: 0;
+}
+.wordpress-helpdesk 
+.help-block {
+  display: block;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  color: #737373;
+}
+.wordpress-helpdesk 
+@media (min-width: 768px) {
+  .form-inline .form-group {
+    display: inline-block;
+    margin-bottom: 0;
+    vertical-align: middle;
+  }
+.wordpress-helpdesk 
+  .form-inline .form-control {
+    display: inline-block;
+    width: auto;
+    vertical-align: middle;
+  }
+.wordpress-helpdesk 
+  .form-inline .form-control-static {
+    display: inline-block;
+  }
+.wordpress-helpdesk 
+  .form-inline .input-group {
+    display: inline-table;
+    vertical-align: middle;
+  }
+.wordpress-helpdesk 
+  .form-inline .input-group .input-group-addon, .wordpress-helpdesk 
+  .form-inline .input-group .input-group-btn, .wordpress-helpdesk 
+  .form-inline .input-group .form-control {
+    width: auto;
+  }
+.wordpress-helpdesk 
+  .form-inline .input-group > .form-control {
+    width: 100%;
+  }
+.wordpress-helpdesk 
+  .form-inline .control-label {
+    margin-bottom: 0;
+    vertical-align: middle;
+  }
+.wordpress-helpdesk 
+  .form-inline .radio, .wordpress-helpdesk 
+  .form-inline .checkbox {
+    display: inline-block;
+    margin-top: 0;
+    margin-bottom: 0;
+    vertical-align: middle;
+  }
+.wordpress-helpdesk 
+  .form-inline .radio label, .wordpress-helpdesk 
+  .form-inline .checkbox label {
+    padding-left: 0;
+  }
+.wordpress-helpdesk 
+  .form-inline .radio input[type="radio"], .wordpress-helpdesk 
+  .form-inline .checkbox input[type="checkbox"] {
+    position: relative;
+    margin-left: 0;
+  }
+.wordpress-helpdesk 
+  .form-inline .has-feedback .form-control-feedback {
+    top: 0;
+  }
+.wordpress-helpdesk 
+}
+.wordpress-helpdesk 
+.form-horizontal .radio, .wordpress-helpdesk 
+.form-horizontal .checkbox, .wordpress-helpdesk 
+.form-horizontal .radio-inline, .wordpress-helpdesk 
+.form-horizontal .checkbox-inline {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 7px;
+}
+.wordpress-helpdesk 
+.form-horizontal .radio, .wordpress-helpdesk 
+.form-horizontal .checkbox {
+  min-height: 27px;
+}
+.wordpress-helpdesk 
+.form-horizontal .form-group {
+  margin-left: -15px;
+  margin-right: -15px;
+}
+.wordpress-helpdesk 
+@media (min-width: 768px) {
+  .form-horizontal .control-label {
+    text-align: right;
+    margin-bottom: 0;
+    padding-top: 7px;
+  }
+.wordpress-helpdesk 
+}
+.wordpress-helpdesk 
+.form-horizontal .has-feedback .form-control-feedback {
+  right: 15px;
+}
+.wordpress-helpdesk 
+@media (min-width: 768px) {
+  .form-horizontal .form-group-lg .control-label {
+    padding-top: 11px;
+    font-size: 18px;
+  }
+.wordpress-helpdesk 
+}
+.wordpress-helpdesk 
+@media (min-width: 768px) {
+  .form-horizontal .form-group-sm .control-label {
+    padding-top: 6px;
+    font-size: 12px;
+  }
+.wordpress-helpdesk 
+}
+.wordpress-helpdesk 
+.input-group {
+  position: relative;
+  display: table;
+  border-collapse: separate;
+}
+.wordpress-helpdesk 
+.input-group[class*="col-"] {
+  float: none;
+  padding-left: 0;
+  padding-right: 0;
+}
+.wordpress-helpdesk 
+.input-group .form-control {
+  position: relative;
+  z-index: 2;
+  float: left;
+  width: 100%;
+  margin-bottom: 0;
+}
+.wordpress-helpdesk 
+.input-group .form-control:focus {
+  z-index: 3;
+}
+.wordpress-helpdesk 
+.input-group-lg > .form-control, .wordpress-helpdesk 
+.input-group-lg > .input-group-addon, .wordpress-helpdesk 
+.input-group-lg > .input-group-btn > .btn {
+  height: 46px;
+  padding: 10px 16px;
+  font-size: 18px;
+  line-height: 1.3333333;
+  border-radius: 6px;
+}
+.wordpress-helpdesk 
+select.input-group-lg > .form-control, .wordpress-helpdesk 
+select.input-group-lg > .input-group-addon, .wordpress-helpdesk 
+select.input-group-lg > .input-group-btn > .btn {
+  height: 46px;
+  line-height: 46px;
+}
+.wordpress-helpdesk 
+textarea.input-group-lg > .form-control, .wordpress-helpdesk 
+textarea.input-group-lg > .input-group-addon, .wordpress-helpdesk 
+textarea.input-group-lg > .input-group-btn > .btn, .wordpress-helpdesk 
+select[multiple].input-group-lg > .form-control, .wordpress-helpdesk 
+select[multiple].input-group-lg > .input-group-addon, .wordpress-helpdesk 
+select[multiple].input-group-lg > .input-group-btn > .btn {
+  height: auto;
+}
+.wordpress-helpdesk 
+.input-group-sm > .form-control, .wordpress-helpdesk 
+.input-group-sm > .input-group-addon, .wordpress-helpdesk 
+.input-group-sm > .input-group-btn > .btn {
+  height: 30px;
+  padding: 5px 10px;
+  font-size: 12px;
+  line-height: 1.5;
+  border-radius: 3px;
+}
+.wordpress-helpdesk 
+select.input-group-sm > .form-control, .wordpress-helpdesk 
+select.input-group-sm > .input-group-addon, .wordpress-helpdesk 
+select.input-group-sm > .input-group-btn > .btn {
+  height: 30px;
+  line-height: 30px;
+}
+.wordpress-helpdesk 
+textarea.input-group-sm > .form-control, .wordpress-helpdesk 
+textarea.input-group-sm > .input-group-addon, .wordpress-helpdesk 
+textarea.input-group-sm > .input-group-btn > .btn, .wordpress-helpdesk 
+select[multiple].input-group-sm > .form-control, .wordpress-helpdesk 
+select[multiple].input-group-sm > .input-group-addon, .wordpress-helpdesk 
+select[multiple].input-group-sm > .input-group-btn > .btn {
+  height: auto;
+}
+.wordpress-helpdesk 
+.input-group-addon, .wordpress-helpdesk 
+.input-group-btn, .wordpress-helpdesk 
+.input-group .form-control {
+  display: table-cell;
+}
+.wordpress-helpdesk 
+.input-group-addon:not(:first-child):not(:last-child), .wordpress-helpdesk 
+.input-group-btn:not(:first-child):not(:last-child), .wordpress-helpdesk 
+.input-group .form-control:not(:first-child):not(:last-child) {
+  border-radius: 0;
+}
+.wordpress-helpdesk 
+.input-group-addon, .wordpress-helpdesk 
+.input-group-btn {
+  width: 1%;
+  white-space: nowrap;
+  vertical-align: middle;
+}
+.wordpress-helpdesk 
+.input-group-addon {
+  padding: 6px 12px;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1;
+  color: #555555;
+  text-align: center;
+  background-color: #eeeeee;
+  border: 1px solid #cccccc;
+  border-radius: 4px;
+}
+.wordpress-helpdesk 
+.input-group-addon.input-sm {
+  padding: 5px 10px;
+  font-size: 12px;
+  border-radius: 3px;
+}
+.wordpress-helpdesk 
+.input-group-addon.input-lg {
+  padding: 10px 16px;
+  font-size: 18px;
+  border-radius: 6px;
+}
+.wordpress-helpdesk 
+.input-group-addon input[type="radio"], .wordpress-helpdesk 
+.input-group-addon input[type="checkbox"] {
+  margin-top: 0;
+}
+.wordpress-helpdesk 
+.input-group .form-control:first-child, .wordpress-helpdesk 
+.input-group-addon:first-child, .wordpress-helpdesk 
+.input-group-btn:first-child > .btn, .wordpress-helpdesk 
+.input-group-btn:first-child > .btn-group > .btn, .wordpress-helpdesk 
+.input-group-btn:first-child > .dropdown-toggle, .wordpress-helpdesk 
+.input-group-btn:last-child > .btn:not(:last-child):not(.dropdown-toggle), .wordpress-helpdesk 
+.input-group-btn:last-child > .btn-group:not(:last-child) > .btn {
+  border-bottom-right-radius: 0;
+  border-top-right-radius: 0;
+}
+.wordpress-helpdesk 
+.input-group-addon:first-child {
+  border-right: 0;
+}
+.wordpress-helpdesk 
+.input-group .form-control:last-child, .wordpress-helpdesk 
+.input-group-addon:last-child, .wordpress-helpdesk 
+.input-group-btn:last-child > .btn, .wordpress-helpdesk 
+.input-group-btn:last-child > .btn-group > .btn, .wordpress-helpdesk 
+.input-group-btn:last-child > .dropdown-toggle, .wordpress-helpdesk 
+.input-group-btn:first-child > .btn:not(:first-child), .wordpress-helpdesk 
+.input-group-btn:first-child > .btn-group:not(:first-child) > .btn {
+  border-bottom-left-radius: 0;
+  border-top-left-radius: 0;
+}
+.wordpress-helpdesk 
+.input-group-addon:last-child {
+  border-left: 0;
+}
+.wordpress-helpdesk 
+.input-group-btn {
+  position: relative;
+  font-size: 0;
+  white-space: nowrap;
+}
+.wordpress-helpdesk 
+.input-group-btn > .btn {
+  position: relative;
+}
+.wordpress-helpdesk 
+.input-group-btn > .btn + .btn {
+  margin-left: -1px;
+}
+.wordpress-helpdesk 
+.input-group-btn > .btn:hover, .wordpress-helpdesk 
+.input-group-btn > .btn:focus, .wordpress-helpdesk 
+.input-group-btn > .btn:active {
+  z-index: 2;
+}
+.wordpress-helpdesk 
+.input-group-btn:first-child > .btn, .wordpress-helpdesk 
+.input-group-btn:first-child > .btn-group {
+  margin-right: -1px;
+}
+.wordpress-helpdesk 
+.input-group-btn:last-child > .btn, .wordpress-helpdesk 
+.input-group-btn:last-child > .btn-group {
+  z-index: 2;
+  margin-left: -1px;
+}
+.wordpress-helpdesk 
+.label {
+  display: inline;
+  padding: .2em .6em .3em;
+  color: #FFFFFF;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: .25em;
+}
+.wordpress-helpdesk 
+a.label:hover, .wordpress-helpdesk 
+a.label:focus {
+  color: #ffffff;
+  text-decoration: none;
+  cursor: pointer;
+}
+.wordpress-helpdesk 
+.label:empty {
+  display: none;
+}
+.wordpress-helpdesk 
+.btn .label {
+  position: relative;
+  top: -1px;
+}
+.wordpress-helpdesk 
+.label-default {
+  background-color: #777777;
+}
+.wordpress-helpdesk 
+.label-default[href]:hover, .wordpress-helpdesk 
+.label-default[href]:focus {
+  background-color: #5e5e5e;
+}
+.wordpress-helpdesk 
+.label-primary {
+  background-color: #337ab7;
+}
+.wordpress-helpdesk 
+.label-primary[href]:hover, .wordpress-helpdesk 
+.label-primary[href]:focus {
+  background-color: #286090;
+}
+.wordpress-helpdesk 
+.label-success {
+  background-color: #5cb85c;
+}
+.wordpress-helpdesk 
+.label-success[href]:hover, .wordpress-helpdesk 
+.label-success[href]:focus {
+  background-color: #449d44;
+}
+.wordpress-helpdesk 
+.label-info {
+  background-color: #5bc0de;
+}
+.wordpress-helpdesk 
+.label-info[href]:hover, .wordpress-helpdesk 
+.label-info[href]:focus {
+  background-color: #31b0d5;
+}
+.wordpress-helpdesk 
+.label-warning {
+  background-color: #f0ad4e;
+}
+.wordpress-helpdesk 
+.label-warning[href]:hover, .wordpress-helpdesk 
+.label-warning[href]:focus {
+  background-color: #ec971f;
+}
+.wordpress-helpdesk 
+.label-danger {
+  background-color: #d9534f;
+}
+.wordpress-helpdesk 
+.label-danger[href]:hover, .wordpress-helpdesk 
+.label-danger[href]:focus {
+  background-color: #c9302c;
+}
+.wordpress-helpdesk 
+.alert {
+  padding: 15px;
+  margin-bottom: 20px;
+}
+.wordpress-helpdesk 
+.alert h4 {
+  margin-top: 0;
+  color: inherit;
+}
+.wordpress-helpdesk 
+.alert .alert-link {
+  font-weight: bold;
+}
+.wordpress-helpdesk 
+.alert > p, .wordpress-helpdesk 
+.alert > ul {
+  margin-bottom: 0;
+}
+.wordpress-helpdesk 
+.alert > p + p {
+  margin-top: 5px;
+}
+.wordpress-helpdesk .alert a,
+.wordpress-helpdesk .alert a:hover,
+.wordpress-helpdesk .alert a:active {
+  color: #FFFFFF;
+  font-weight: bold;
+}
+.wordpress-helpdesk 
+.alert-dismissable, .wordpress-helpdesk 
+.alert-dismissible {
+  padding-right: 35px;
+}
+.wordpress-helpdesk 
+.alert-dismissable .close, .wordpress-helpdesk 
+.alert-dismissible .close {
+  position: relative;
+  top: -2px;
+  right: -21px;
+  color: inherit;
+}
+.wordpress-helpdesk 
+.alert-success {
+  background-color: #4CAF50;
+  color: #FFFFFF;
+}
+.wordpress-helpdesk 
+.alert-success .alert-link {
+  color: #2b542c;
+}
+.wordpress-helpdesk 
+.alert-info {
+  background-color: #03A9F4;
+  color: #FFFFFF;
+}
+.wordpress-helpdesk 
+.alert-info .alert-link {
+  color: #245269;
+}
+.wordpress-helpdesk 
+.alert-warning {
+  background-color: #FF9800;
+  color: #FFFFFF;
+}
+.wordpress-helpdesk 
+.alert-warning .alert-link {
+  color: #66512c;
+}
+.wordpress-helpdesk 
+.alert-danger {
+  background-color: #F44336;
+  color: #FFFFFF;
+}
+.wordpress-helpdesk 
+.alert-danger .alert-link {
+  color: #843534;
+}
+.wordpress-helpdesk 
+.clearfix:before, .wordpress-helpdesk 
+.clearfix:after, .wordpress-helpdesk 
+.form-horizontal .form-group:before, .wordpress-helpdesk 
+.form-horizontal .form-group:after {
+  content: " ";
+  display: table;
+}
+.wordpress-helpdesk 
+.clearfix:after, .wordpress-helpdesk 
+.form-horizontal .form-group:after {
+  clear: both;
+}
+.wordpress-helpdesk 
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.wordpress-helpdesk 
+.pull-right {
+  float: right !important;
+}
+.wordpress-helpdesk 
+.pull-left {
+  float: left !important;
+}
+.wordpress-helpdesk 
+.hide {
+  display: none !important;
+}
+.wordpress-helpdesk 
+.show {
+  display: block !important;
+}
+.wordpress-helpdesk 
+.invisible {
+  visibility: hidden;
+}
+.wordpress-helpdesk 
+.text-hide {
+  font: 0/0 a;
+  color: transparent;
+  text-shadow: none;
+  background-color: transparent;
+  border: 0;
+}
+.wordpress-helpdesk 
+.hidden {
+  display: none !important;
+}
+.wordpress-helpdesk 
+.affix {
+  position: fixed;
+}
+.wordpress-helpdesk-faq-live-search-results {
+    position: absolute;
+    background-color: #FFFFFF;
+    z-index: 99999;
+    border-bottom: 1px solid #eaeaea;
+    border-left: 1px solid #eaeaea;
+    border-right: 1px solid #eaeaea;
+    border-radius: 10px 10px 0px 0px;
+    width: 100%;
+}
+.wordpress-helpdesk-faq-live-search-header {
+    padding: 10px 20px 0;
+}
+
+.wordpress-helpdesk-faq-live-search-result {
+    border-bottom: 1px solid #eaeaea;
+    display: block;
+    color: #333333;
+    padding: 10px 20px;
+}
+
+.wordpress-helpdesk-faq-live-search-result:hover {
+  color: #000000;
+  background-color: #f7f7f7;
+}
+
+.wordpress-helpdesk-faq-live-search-result:hover .wordpress-helpdesk-faq-live-search-result-title {
+  text-decoration: underline;
+}
+
+.wordpress-helpdesk-faq-live-search-result:hover .wordpress-helpdesk-faq-live-search-result-content {
+  text-decoration: none;
+}
+
+.wordpress-helpdesk-faq-live-search-result-title {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.wordpress-helpdesk-faq-live-search-result-content {
+  font-size: 14px;
+}
+
+.wordpress-helpdesk-faq-live-search-footer {
+  text-align: center;
+  padding-top: 4px;
+}
+
+.wordpress-helpdesk-faq-live-search-footer-found-more {
+  font-size: 10px;
+}
+
+.wordpress-helpdesk-faq-live-search-footer-see-all {
+    background-color: #1786e5;
+    color: #FFF;
+    padding: 8px;
+    border-radius: 0 0 6px 6px;
+    display: block;
+}
+
+.wordpress-helpdesk-faq-live-search-footer-see-all:hover {
+  color: #FFF;
+  background-color: #2f92e8;
+}
+
+.wordpress-helpdesk-faq-divider {
+  margin: 0 0 10px;
+  width: 30%;
+}
+.wordpress-helpdesk-faq-title {
+    margin: 0;
+    position: relative;
+    padding: 10px 0 0;
+    font-size: 18px;
+    line-height: 26px;
+}
+ul.wordpress-helpdesk-faq-list {
+    list-style: none;
+    margin: 0 !important;
+    padding: 0 0 0 0 !important;;
+}
+
+.wordpress-helpdesk-faq-list li {
+    padding: 8px 0 3px 0;
+    margin-bottom: 0.2em;
+    list-style: none;
+    border-bottom: 1px solid #eaeaea;
+}
+
+.wordpress-helpdesk-faq-list li i.fa, .wordpress-helpdesk-faq-list li img, .wordpress-helpdesk-faq-list li i.fab, .wordpress-helpdesk-faq-list li i.far, .wordpress-helpdesk-faq-list li i.fab {
+  margin-right: 10px;
+}
+
+.wordpress-helpdesk-faq-list li a {
+  color: #333333;
+}
+
+.wordpress-helpdesk-faq-content {
+  padding: 10px 0;
+}
+.wordpress-helpdesk-faq-searchform {
+  position: relative;
+}
+
+.wordpress-helpdesk-faq-searchform .form-control {
+    border-radius: 25px;
+}
+
+.wordpress-helpdesk-faq-searchform .searchform-submit {
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    height: 20px;
+    line-height: 20px;
+    margin: -10px 0 0;
+    background: none;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    min-height: auto;
+    color: #000;
+    font-size: 20px;
+    -moz-opacity: .5;
+    -webkit-opacity: .5;
+    opacity: .5;
+}
+
+.wordpress-helpdesk-faq-searchform {
+  margin: 20px 0 60px;
+}
+
+.wordpress-helpdesk-woocommerce-types {
+  padding-bottom: 40px;
+}
+
+.wordpress-helpdesk-livechat {
+  bottom: 0;
+  font-size: 12px;
+  right: 24px;
+  position: fixed;
+  width: 350px;
+  z-index: 999999;
+}
+.wordpress-helpdesk-livechat header {
+  background: #293239;
+  border-radius: 5px 5px 0 0;
+  color: #fff;
+  cursor: pointer;
+  padding: 16px 24px;
+}
+.wordpress-helpdesk-livechat header h4 {
+  color: #FFFFFF;
+  margin: 0;
+  display: inline-block;
+}
+
+.wordpress-helpdesk-livechat .chat-welcome-text {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.wordpress-helpdesk-livechat h4:before {
+  border-radius: 50%;
+  content: "";
+  display: inline-block;
+  height: 8px;
+  margin: 0 8px 0 0;
+  width: 8px;
+}
+
+.wordpress-helpdesk-livechat h4.wordpress-helpdesk-livechat-title-online:before {
+  background: #4CAF50;
+}
+
+.wordpress-helpdesk-livechat h4.wordpress-helpdesk-livechat-title-offline:before {
+  background: #F44336;
+}
+
+.wordpress-helpdesk-livechat h4 {
+  font-size: 12px;
+}
+.wordpress-helpdesk-livechat h5 {
+  font-size: 10px;
+  margin: 0 0 5px 0;
+}
+.wordpress-helpdesk-livechat input[type="text"] {
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  padding: 8px;
+  outline: none;
+  width: 100%;
+}
+.wordpress-helpdesk-livechat .chat-message-counter {
+  background: #e62727;
+  border: 1px solid #fff;
+  border-radius: 50%;
+  display: none;
+  font-size: 12px;
+  font-weight: bold;
+  height: 28px;
+  left: 0;
+  line-height: 28px;
+  margin: -15px 0 0 -15px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 28px;
+}
+.wordpress-helpdesk-livechat .chat-close {
+    background: #eaeaea;
+    padding: 2px 10px;
+    border-radius: 25px;
+    color: #333;
+    font-weight: 500;
+    display: block;
+    float: right;
+    font-size: 10px;
+    line-height: 16px;
+    margin: 2px 0 0 0;
+    text-align: center;
+}
+.wordpress-helpdesk-livechat .chat {
+  background: #fff;
+  margin-bottom: 30px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+.wordpress-helpdesk-livechat .chat-history {
+  height: 252px;
+  overflow-y: scroll;
+  border-bottom: 1px solid #eaeaea;
+  padding-top: 10px;
+}
+.chat {
+  border: 1px solid #eaeaea;
+}
+.wordpress-helpdesk-livechat .chat-message img {
+  border-radius: 50%;
+  float: left;
+}
+.wordpress-helpdesk-livechat fieldset {
+  margin-bottom: 10px;
+}
+.wordpress-helpdesk-livechat .chat-history hr {
+  margin: 10px 0;
+  border: solid #e8e8e8;
+  border-width: 1px 0 0;
+  clear: both;
+  height: 0;
+}
+.wordpress-helpdesk-livechat .chat-message-content {
+  text-align: left;
+}
+
+.wordpress-helpdesk-livechat .chat-message-agent .chat-message-content p {
+    margin: 0;
+    background: #2196F3;
+    width: 100%;
+    color: #FFF;
+    display: inline;
+    padding: 5px 15px;
+    border-radius: 20px;
+}
+
+.wordpress-helpdesk-livechat .chat-message-agent .chat-message-content {
+  text-align: right;
+}
+
+.wordpress-helpdesk-livechat .chat-message-content {
+    padding: 10px 24px 0px;
+}
+.wordpress-helpdesk-livechat .chat-message-content p {
+  padding: 0;
+  margin: 0;
+}
+.wordpress-helpdesk-livechat .chat-time {
+  float: right;
+  font-size: 10px;
+}
+.wordpress-helpdesk-livechat .chat-feedback {
+  font-style: italic; 
+  width: 100%;
+  text-align: center;
+}
+
+.wordpress-helpdesk-livechat .chat-online-footer {
+  border-right: 1px solid #eaeaea;
+  padding-bottom: 10px;
+  margin-bottom: -20px;
+  padding: 8px 10px 0;
+}
+
+#livechat-ticket-form {
+  padding-bottom: 10px;
+}
+
+.wordpress-helpdesk-livechat-status .alert {
+  margin-bottom: 0;
+  font-size: 11px;
+}
+
+.wordpress-helpdesk-my-tickets-divider {
+  margin: 10px 0;
+  border: solid #e8e8e8;
+  border-width: 1px 0 0;
+  clear: both;
+  height: 0;
+}
+
+.wordpress-helpdesk-ticket-attachments a {
+padding: 5px;
+    background: #eaeaea;
+    height: 150px;
+    display: block;
+    width: 150px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+.wordpress-helpdesk-meta-information {
+  margin-bottom: 20px;
+}
+
+.wordpress-helpdesk-my-tickets-table {
+  font-size: 15px;
+  line-height: 20px;
+}
+
+.wordpress-helpdesk-my-tickets-table td {
+    padding: 10px 3px;
+    border-bottom: 1px solid #e8e8e8;
+}
+
+.wordpress-helpdesk-my-tickets-header th {
+  font-weight: bold;
+}
+
+li.widget {
+  list-style: none;
+}
+
+.wordpress-helpdesk-faq-boxed {
+    text-align: center;
+    border: 1px solid #eaeaea;
+    padding: 40px;
+    margin-bottom: 10px;
+}
+
+.wordpress-helpdesk-faq-boxed:hover {
+    background-color: #f2f2f2;
+}
+
+.wordpress-helpdesk-faq-boxed .fa, .wordpress-helpdesk-faq-boxed h3, .wordpress-helpdesk-faq-boxed p {
+  margin-bottom: 10px;
+}
+
+.wordpress-helpdesk-faq-boxed h3:hover, .wordpress-helpdesk-faq-boxed p:hover {
+  text-decoration: none;
+}
+
+.wordpress-helpdesk-faq-column a:hover {
+  text-decoration: none;
+}
+
+.wordpress-helpdesk-faq-boxed-count {
+  color: #333;
+}
+.wordpress-helpdesk-faq-link {
+  margin: 8px 0px 10px;
+}
+
+.wordpress-helpdesk-livechat .chat-message-content.livechat-open-chat {
+    font-weight: bold;
+    border-bottom: 1px solid #eaeaea;
+    padding-bottom: 10px;
+}
+
+a:hover h1, a:hover h2, a:hover h3 {
+  text-decoration: none;
+}
+
+.wordpress-helpdesk-reporter-box, .wordpress-helpdesk-agent-box {
+    background: #f2f2f2;
+    font-size: 10px;
+    padding: 10px 20px;
+}
+
+.wordpress-helpdesk-reporter-box-title, .wordpress-helpdesk-agent-box-title {
+  margin: 0 0 10px 0;
+  font-weight: 500;
+}
+
+.wordpress-helpdesk-reporter-box img, .wordpress-helpdesk-agent-box img {
+    width: 100%;
+    border-radius: 50%;
+}
+
+.lum-lightbox {
+  z-index: 9999999999999;
+}
+.wordpress-helpdesk-ticket-attachments-title {
+  margin: 0;
+}
+
+.wordpress-helpdesk-faq-rating {
+    display: inline;
+    float: right;
+    font-size: 18px;
+}
+
+.wordpress-helpdesk-faq-rating-dislike,
+.wordpress-helpdesk-faq-rating-dislike:hover, 
+.wordpress-helpdesk-faq-rating-dislike i {
+  margin-left: 5px;
+  color: #F44336;
+}
+
+.wordpress-helpdesk-faq-rating-like,
+.wordpress-helpdesk-faq-rating-like:hover,
+.wordpress-helpdesk-faq-rating-like i {
+  color: #3291e5;
+}
+
+.wordpress-helpdesk-faq-searchform .screen-reader-text {
+  clip: rect(1px, 1px, 1px, 1px);
+    position: absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+}
+
+.wordpress-helpdesk-feedback i.fa {
+    text-align: center;
+    font-size: 200px;
+    color: #aeaeae;
+    width: 100%;
+}
+
+.wordpress-helpdesk-feedback-form {
+  margin-top: 20px;
+}
+
+.wordpress-helpdesk-livechat-trigger {
+    background-color: #1786e5;
+    width: 80px;
+    height: 80px;
+    position: fixed;
+    display: block;
+    bottom: 15px;
+    right: 1%;
+    border-radius: 50%;
+    cursor: pointer;
+    z-index: 99999999999;
+}
+
+.wordpress-helpdesk-livechat-trigger .fa {
+    line-height: 74px;
+    text-align: center;
+    display: block;
+    font-size: 38px;
+    color: #FFF;
+}
+
+/* NEW */
+
+.wordpress-helpdesk-livechat-content {
+    width: 350px;
+    display: block;
+    background-color: #f7f7f7;
+    z-index: 99999999999;
+    max-height: 420px;
+    height: 420px;
+    position: fixed;
+    display: block;
+    bottom: 30px;
+    right: 2%;
+    font-size: 13px;
+    line-height: 19px;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 12px 34px 0 rgba(0,0,0,.175)!important;
+    -moz-box-shadow: 0 12px 34px 0 rgba(0,0,0,.175)!important;
+    box-shadow: 0 12px 34px 0 rgba(0,0,0,.175)!important;
+}
+
+.wordpress-helpdesk-livechat-header {
+    background-color: #1786e5;
+    min-height: 60px;
+    border-radius: 5px 5px 0 0;
+    padding: 10px 15px 15px;
+}
+
+.wordpress-helpdesk-livechat-header-icon {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  background: #fff;
+  margin-right: 15px;
+  float: left;
+}
+
+.wordpress-helpdesk-livechat-header-icon img {
+  border-radius: 50%;
+}
+
+.wordpress-helpdesk-livechat-header-title-container {
+    float: left;
+    width: 220px;
+}
+
+.wordpress-helpdesk-livechat-header-title {
+    color: #FFF;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.wordpress-helpdesk-livechat-header-status {
+    color: #eaeaea;
+    font-size: 12px;
+}
+
+.wordpress-helpdesk-livechat-close {
+  color: #FFF;
+  position: absolute;
+  top: 5px;
+  right: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+a.wordpress-helpdesk-livechat-close:hover {
+  color: #f2f2f2;
+}
+
+.wordpress-helpdesk-livechat-messages {
+    padding: 10px 15px 10px;
+    overflow-y: auto;
+    height: 330px;
+    width: 100%;
+}
+
+.wordpress-helpdesk-livechat-messages hr {
+  margin: 10px 0;
+  border: solid #e8e8e8;
+  border-width: 1px 0 0;
+  clear: both;
+  height: 0;
+  float: none;
+}
+
+.wordpress-helpdesk-livechat-author {
+    float: left;
+    width: 30px;
+    margin-right: 15px;
+    font-size: 10px;
+    line-height: 13px;
+    color: #808080;
+    text-align: center;
+    position: relative;
+}
+
+.wordpress-helpdesk-livechat-author-name {
+    visibility: hidden;
+    width: 60px;
+    top: 100%;
+    left: 50%; 
+    margin-left: -30px; /* Use half of the width (120/2 = 60), to center the tooltip */
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    position: absolute;
+    z-index: 1;
+}
+
+.wordpress-helpdesk-livechat-author:hover .wordpress-helpdesk-livechat-author-name {
+    visibility: visible;
+}
+
+.wordpress-helpdesk-livechat-message-agent .wordpress-helpdesk-livechat-author {
+    float: right;
+    margin-right: 0;
+    margin-left: 15px;
+}
+
+.wordpress-helpdesk-livechat-author img {
+  border-radius: 50%;
+}
+
+.wordpress-helpdesk-livechat-message {
+  float: left;
+  margin: 0;
+  background: #F2F2F2;
+  color: #000;
+  width: auto;
+  display: inline-block;
+  padding: 5px 15px;
+  border-radius: 20px;
+  max-width: 85%;
+  margin-bottom: 10px;
+}
+
+.wordpress-helpdesk-livechat-message p {
+    margin: 0;
+    padding: 0;
+}
+
+.wordpress-helpdesk-livechat-message:before, 
+.wordpress-helpdesk-livechat-message:after,{
+  content: " ";
+  display: table;
+  clear: both;
+  float: none;
+}
+
+.wordpress-helpdesk-livechat-message-agent .wordpress-helpdesk-livechat-message {
+  float: right;
+  background-color: #1786e5;
+  color: #FFF;
+}
+
+/**
+ * Livechat Enter Chat Form
+ */
+.wordpress-helpdesk-livechat-enter-chat input[type="date"], 
+.wordpress-helpdesk-livechat-enter-chat input[type="time"], 
+.wordpress-helpdesk-livechat-enter-chat input[type="datetime-local"], 
+.wordpress-helpdesk-livechat-enter-chat input[type="week"], 
+.wordpress-helpdesk-livechat-enter-chat input[type="month"], 
+.wordpress-helpdesk-livechat-enter-chat input[type="text"], 
+.wordpress-helpdesk-livechat-enter-chat input[type="email"], 
+.wordpress-helpdesk-livechat-enter-chat input[type="url"], 
+.wordpress-helpdesk-livechat-enter-chat input[type="password"], 
+.wordpress-helpdesk-livechat-enter-chat input[type="search"], 
+.wordpress-helpdesk-livechat-enter-chat input[type="tel"], 
+.wordpress-helpdesk-livechat-enter-chat input[type="number"], 
+.wordpress-helpdesk-livechat-enter-chat textarea
+{
+    background: #fff;
+    color: #555;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 8px;
+}
+
+.wordpress-helpdesk-livechat-enter-chat .theme-button, 
+.wordpress-helpdesk-livechat-enter-chat input[type="submit"], 
+.wordpress-helpdesk-livechat-enter-chat button {
+    width: 100%;
+}
+
+/**
+ * Livechat Error
+ */
+.wordpress-helpdesk-livechat-enter-chat-form-error {
+    border-radius: 20px;
+    background-color: #F44336;
+    display: none;
+    color: #FFF;
+    padding: 10px;
+}
+
+.wordpress-helpdesk-livechat-enter-chat-form-error a, .wordpress-helpdesk-livechat-enter-chat-form-error a:hover {
+  color: #FFFFFF;
+  font-weight: bold;
+}
+
+/**
+ * Livechat Success
+ */
+
+.wordpress-helpdesk-livechat-enter-chat-form-success {
+    border-radius: 20px;
+    background-color: #4CAF50;
+    display: none;
+    color: #FFF;
+    padding: 10px;
+}
+
+.wordpress-helpdesk-livechat-enter-chat-form-success a, .wordpress-helpdesk-livechat-enter-chat-form-success a:hover {
+  color: #FFFFFF;
+  font-weight: bold;
+}
+
+/**
+ * Livechat Footer
+ */
+.wordpress-helpdesk-livechat-footer {
+    background-color: #FFF;
+    height: 40px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    display: none;
+}
+
+input[type="text"].wordpress-helpdesk-livechat-comment-form-message,
+.wordpress-helpdesk-livechat-comment-form-message {
+    background-color: #FFFFFF;
+    border: none;
+    width: 100%;
+    color: #1786e5;
+    font-size: 16px;
+    line-height: 22px;
+    padding: 15px 15px;
+}
+
+.wordpress-helpdesk-livechat-comment-form-attachment {
+    position: absolute;
+    top: 14px;
+    right: 15px;
+}
+
+.wordpress-helpdesk-livechat-comment-form-attachment > input {
+    display: none;
+}
+
+.wordpress-helpdesk-livechat-comment-form-attachment .fa {
+    color: #1786e5;
+    font-size: 20px;
+}
+
+.wordpress-helpdesk-sidebar .widgettitle {
+  margin-top: 20px;
+}
+
+/*.wordpress-helpdesk-livechat-comment-form-attachment .fa {
+    width: 80px;
+    cursor: pointer;
+}*/
+
+.wordpress-helpdesk-ticket-solved{
+  text-align: right;
+}
+
+@media (min-width: 768px) {
+  .wordpress-helpdesk-pull-right {
+    float: right !important;
+  }
+}
+
+.single-ticket .wplink-autocomplete,
+.single-ticket #wp-link-wrap #search-panel,
+.single-ticket #wp-link-wrap .howto,
+.wordpress-helpdesk-new-ticket .wplink-autocomplete,
+.wordpress-helpdesk-new-ticket #wp-link-wrap #search-panel,
+.wordpress-helpdesk-new-ticket #wp-link-wrap .howto {
+  display: none !important;
+}
+
+.mce-btn button {
+  background: transparent !important;
+}
+
+
+.wordpress-helpdesk-single-optional-fields {
+  margin-top: 15px;
+  font-size: 95%;
+}
+
+ul.wordpress-helpdesk-topic-children-list {
+  margin-top: 10px !important;
+  padding-left: 25px !important;
+}
+
+ul.wordpress-helpdesk-topic-children-list li:last-child {
+  border-bottom: 0;
+}
+
+.wordpress-helpdesk-sidebar li a {
+  display: inline !important;
+}
+
+.wordpress-helpdesk-sidebar li.widget_nav_menu a,
+.wordpress-helpdesk-sidebar a.wordpress-helpdesk-faq-live-search-result {
+  display: block !important;
+}
+
+#qt_helpdesk_message_toolbar .ed_button {
+  background-color: transparent !important;
+  color: #333 !important;
+  border: none !important;
+}
+
+.wordpress-helpdesk-my-tickets-table {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+table.dataTable.nowrap th, table.dataTable.nowrap td {
+  white-space: normal !important;
+}
+
+.helpdesk-privacy input {
+  margin-right: 5px !important;
+}
+
+.wordpress-helpdesk-faq-accordion .wordpress-helpdesk-faq-content-container {
+  display: none;
+  transition: 0.4s;
+}
+
+.wordpress-helpdesk-faq-accordion {
+  border-bottom:  1px solid #eaeaea;
+  padding: 5px 0;
+}
+
+.wordpress-helpdesk-faq-accordion .wordpress-helpdesk-faq-title {
+  padding-right:  20px;
+}
+
+.wordpress-helpdesk-faq-accordion:hover .wordpress-helpdesk-faq-accordion-icon {
+  color: blue;
+}
+
+.fa.wordpress-helpdesk-faq-accordion-icon {
+    top: 15px;
+    right: 0;
+    position: absolute;
+}
+
+.wordpress-helpdesk-faq-topic-icon {
+  margin-right: 5px;
+}
+
+.wordpress-helpdesk-rating-container {
+  background-color: #f2f2f2;
+  padding:  30px 30px;
+  text-align: center;
+  margin:  10px 0 20px;
+}
+
+.wordpress-helpdesk-rating-link {
+  display: inline-block;
+  padding:  8px 20px;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.wordpress-helpdesk-rating-link:hover {
+  color:  #fff;
+}
+
+.wordpress-helpdesk-rating-link-satisfied {
+  background-color:  #4CAF50;
+  color: #fff;
+}
+
+.wordpress-helpdesk-rating-link-unsatisfied {
+  background-color:  #F44336;
+  color: #fff;
+}
+
+.wordpress-helpdesk-sidebar .wordpress-helpdesk-faq-searchform {
+  margin-bottom: 0;
+}
+
+.wordpress-helpdesk-faq-title .wordpress-helpdesk-faq-topic-icon,
+.wordpress-helpdesk-faq-list .wordpress-helpdesk-faq-topic-icon {
+  max-width: 25px;
+}
+
+.wordpress-helpdesk-faq-list i,
+.wordpress-helpdesk-faq-title i {
+  font-size: 18px;
+}
+
+.helpdesk-form-checkbox input.form-control,
+.helpdesk-form-radio input.form-control {
+    display: inline-block;
+    float: left;
+    width: auto !important;
+    margin-right: 5px !important;
+    height: auto !important;
+}
+
+.wordpress-helpdesk-reply-container {
+  margin-top: 15px;
+}
+
+.wordpress-helpdesk-reply-container .wordpress-helpdesk-saved-replies {
+  border-left: 1px solid #eaeaea;
+  border-right: 1px solid #eaeaea;
+  padding: 0 15px;
+}
+
+.wordpress-helpdesk-comments .comments-title {
+  display: none;
+}
+
+.wordpress-helpdesk-comments #wp-comment-wrap {
+  margin-bottom: 15px;
+}
+
+.wordpress-helpdesk-single-ticket-description {
+  padding-top: 20px;
+}
