@@ -1,0 +1,4905 @@
+# Translation of Plugins - PrettyLinks &#8211; Affiliate Links, Link Branding, Link Tracking, Marketing and Stripe Payments Plugin - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - PrettyLinks &#8211; Affiliate Links, Link Branding, Link Tracking, Marketing and Stripe Payments Plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-03-29 08:21:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - PrettyLinks &#8211; Affiliate Links, Link Branding, Link Tracking, Marketing and Stripe Payments Plugin - Stable (latest release)\n"
+
+#: vendor-prefixed/caseproof/growth-tools/src/App.php:104
+msgid "Installed"
+msgstr "Đã cài đặt"
+
+#: vendor-prefixed/caseproof/growth-tools/src/Helper/AddonHelper.php:31
+msgid "Addon activated."
+msgstr "Tiện ích đã được kích hoạt."
+
+#: vendor-prefixed/caseproof/growth-tools/src/Helper/AddonHelper.php:72
+msgid "Could not deactivate the addon. Please deactivate from the Plugins page."
+msgstr "Không thể tắt tiện ích. Vui lòng tắt từ trang Plugins."
+
+#: vendor-prefixed/caseproof/growth-tools/src/Helper/AddonHelper.php:41
+msgid "Could not activate addon. Please refresh page and try again."
+msgstr "Không thể kích hoạt tiện ích. Vui lòng làm mới trang và thử lại."
+
+#: vendor-prefixed/caseproof/growth-tools/src/Helper/AddonHelper.php:36
+msgid "Could not activate addon. Please activate from the Plugins page."
+msgstr "Không thể kích hoạt tiện ích. Vui lòng kích hoạt từ trang Plugins."
+
+#: vendor-prefixed/caseproof/growth-tools/src/Helper/AddonHelper.php:22
+msgid "Could not activate addon. Please check user permissions."
+msgstr "Không thể kích hoạt tiện ích. Vui lòng kiểm tra quyền của người dùng."
+
+#: vendor-prefixed/caseproof/growth-tools/src/App.php:58
+#: vendor-prefixed/caseproof/growth-tools/src/App.php:59
+#: vendor-prefixed/caseproof/growth-tools/src/App.php:208
+msgid "Growth Tools"
+msgstr "Công cụ tăng trưởng"
+
+#: vendor-prefixed/caseproof/ground-level-mothership/Views/products.php:120
+msgid "There were no Add-ons found for your License Key."
+msgstr "Không tìm thấy tiện ích bổ sung nào cho Mã giấy phép của bạn."
+
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/LicenseManager.php:274
+msgid "License deactivation failed, you are using a license key from an environment variable or constant."
+msgstr "Hủy kích hoạt giấy phép thất bại, bạn đang sử dụng mã giấy phép từ biến môi trường hoặc hằng số."
+
+#. Translators: %s is the response error message.
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/LicenseManager.php:212
+msgid "License activation failed: %s"
+msgstr "Kích hoạt giấy phép thất bại: %s"
+
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/LicenseManager.php:208
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/LicenseManager.php:265
+msgid "Invalid nonce"
+msgstr "Nonce không hợp lệ"
+
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/LicenseManager.php:95
+msgid "License deactivated successfully"
+msgstr "Hủy kích hoạt giấy phép thành công"
+
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/LicenseManager.php:82
+msgid "License activated successfully"
+msgstr "Kích hoạt giấy phép thành công"
+
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/AddonsManager.php:390
+msgid "Could not install add-on. Please download and install manually."
+msgstr "Không thể cài đặt tiện ích bổ sung. Vui lòng tải xuống và cài đặt thủ công."
+
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/AddonsManager.php:361
+msgid "There was an issue connecting with the API."
+msgstr "Có sự cố khi kết nối với API."
+
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/AddonsManager.php:349
+msgid "Please enter your license key to access add-ons."
+msgstr "Vui lòng nhập mã giấy phép của bạn để truy cập tiện ích bổ sung."
+
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/AddonsManager.php:242
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/AddonsManager.php:394
+msgid "Could not install plugin. Please download and install manually."
+msgstr "Không thể cài đặt plugin. Vui lòng tải xuống và cài đặt thủ công."
+
+#: vendor-prefixed/caseproof/ground-level-mothership/Credentials.php:75
+msgid "Cannot store credentials in database; found in environment variables or constants."
+msgstr "Không thể lưu thông tin đăng nhập trong cơ sở dữ liệu; tìm thấy trong các biến môi trường hoặc hằng số."
+
+#. Translators: %s The name of the property that does not exist on the response
+#. object.
+#: vendor-prefixed/caseproof/ground-level-mothership/Api/Response.php:108
+msgid "Property %s does not exist on the response object."
+msgstr "Thuộc tính %s không tồn tại trong đối tượng phản hồi."
+
+#: vendor-prefixed/caseproof/ground-level-in-product-notifications/Services/View.php:98
+msgid "%s unread notification"
+msgid_plural "%s unread notifications"
+msgstr[0] "%s thông báo chưa đọc"
+
+#: vendor-prefixed/caseproof/ground-level-in-product-notifications/Services/Ajax.php:100
+msgid "Unknown error."
+msgstr "Lỗi không xác định."
+
+#: vendor-prefixed/caseproof/ground-level-in-product-notifications/Services/Ajax.php:96
+msgid "Missing required parameter: id."
+msgstr "Thiếu tham số bắt buộc: id."
+
+#: vendor-prefixed/caseproof/ground-level-in-product-notifications/Services/Ajax.php:92
+msgid "You are not allowed to perform this action."
+msgstr "Bạn không được phép thực hiện hành động này."
+
+#: vendor-prefixed/caseproof/ground-level-in-product-notifications/Services/Ajax.php:88
+msgid "You must log in to perform this action."
+msgstr "Bạn phải đăng nhập để thực hiện hành động này."
+
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/LicenseManager.php:132
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/LicenseManager.php:171
+msgid "License Key: "
+msgstr "Mã bản quyền: "
+
+#: vendor-prefixed/caseproof/ground-level-in-product-notifications/Services/Ajax.php:84
+msgid "Invalid nonce."
+msgstr "Nonce không hợp lệ."
+
+#: app/views/admin/upgrade/products.php:20
+msgid "No Product Display found"
+msgstr "Không tìm thấy hiển thị sản phẩm"
+
+#: app/controllers/PrliUpdateController.php:805
+msgid "Products Display"
+msgstr "Hiển thị sản phẩm"
+
+#: app/controllers/PrliLinksController.php:1137
+msgid "Find Broken Links"
+msgstr "Tìm liên kết bị hỏng"
+
+#. Plugin Name of the plugin
+#: pretty-link.php
+msgid "PrettyLinks"
+msgstr "PrettyLinks"
+
+#: app/views/prettypay/fee_notice.php:4
+msgid "Pocket All Your Profits!"
+msgstr "Bỏ túi tất cả lợi nhuận của bạn!"
+
+#: app/views/admin/onboarding/welcome.php:83
+msgid "*Upgrade to a Pretty Links Pro plan to avoid the 3% transaction fee on all sales."
+msgstr "*Nâng cấp lên gói Pretty Links Pro để tránh phí giao dịch 3% trên tất cả doanh thu."
+
+#: app/views/admin/onboarding/welcome.php:82
+msgid "Create personalized payment links powered by Stripe's reliable payment processing platform. Share them with your network, and watch as followers become your paying customers."
+msgstr "Tạo liên kết thanh toán cá nhân hóa được cung cấp bởi nền tảng xử lý thanh toán đáng tin cậy của Stripe. Chia sẻ chúng với mạng lưới của bạn và theo dõi khi người theo dõi trở thành khách hàng trả tiền của bạn."
+
+#: app/views/admin/onboarding/welcome.php:79
+msgid "Customized Checkout Links"
+msgstr "Liên kết thanh toán tùy chỉnh"
+
+#: app/views/admin/onboarding/complete.php:40
+msgid "Stay in the loop an all things Pretty Links..."
+msgstr "Luôn cập nhật mọi thứ về Pretty Links..."
+
+#: app/views/admin/onboarding/complete.php:33
+msgid "Experience the simplicity of selling YOUR creations with customized payment links, designed to make every transaction smooth and personal."
+msgstr "Trải nghiệm sự đơn giản khi bán sản phẩm của BẠN với các liên kết thanh toán được tùy chỉnh, được thiết kế để giúp mọi giao dịch diễn ra suôn sẻ và cá nhân hóa."
+
+#: app/views/links/prettypay_link_stripe.php:229
+msgid "Default (Homepage)"
+msgstr "Mặc định (Trang chủ)"
+
+#: app/views/admin/payments/options.php:123
+msgid "Homepage"
+msgstr "Trang chủ"
+
+#. translators: %1$s: open strong tag, %2$s: close strong tag, %3$s: the error
+#. message
+#: app/controllers/PrliStripeController.php:1128
+msgid "%1$sError saving Customer Portal:%2$s %3$s"
+msgstr "%1$sLỗi lưu Cổng khách hàng:%2$s %3$s"
+
+#: app/controllers/PrliLinksController.php:69
+msgid "Add New"
+msgstr "Thêm mới"
+
+#: i18n/countries.php:249
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+#: i18n/countries.php:248
+msgid "Zambia"
+msgstr "Zambia"
+
+#: i18n/countries.php:247
+msgid "Yemen"
+msgstr "Yemen"
+
+#: i18n/countries.php:246
+msgid "Western Samoa"
+msgstr "Samoa thuộc Tây Ban Nha"
+
+#: i18n/countries.php:245
+msgid "Western Sahara"
+msgstr "Tây Sahara"
+
+#: i18n/countries.php:244
+msgid "Wallis and Futuna"
+msgstr "Wallis và Futuna"
+
+#: i18n/countries.php:243
+msgid "Vietnam"
+msgstr "Việt Nam"
+
+#: i18n/countries.php:242
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: i18n/countries.php:241
+msgid "Vatican"
+msgstr "Vatican"
+
+#: i18n/countries.php:240
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: i18n/countries.php:239
+msgid "Uzbekistan"
+msgstr "Uzbekistan"
+
+#: i18n/countries.php:238
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: i18n/countries.php:237
+msgid "United States"
+msgstr "Hoa Kỳ"
+
+#: i18n/countries.php:236
+msgid "United Kingdom (UK)"
+msgstr "Vương quốc Anh (UK)"
+
+#: i18n/countries.php:235
+msgid "United Arab Emirates"
+msgstr "Các Tiểu vương quốc Ả Rập Thống nhất"
+
+#: i18n/countries.php:234
+msgid "Ukraine"
+msgstr "Ukraine"
+
+#: i18n/countries.php:233
+msgid "Uganda"
+msgstr "Uganda"
+
+#: i18n/countries.php:232
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: i18n/countries.php:231
+msgid "Turks and Caicos Islands"
+msgstr "Quần đảo Turks và Caicos"
+
+#: i18n/countries.php:230
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+#: i18n/countries.php:229
+msgid "Turkey"
+msgstr "Thổ Nhĩ Kỳ"
+
+#: i18n/countries.php:228
+msgid "Tunisia"
+msgstr "Tunisia"
+
+#: i18n/countries.php:227
+msgid "Trinidad and Tobago"
+msgstr "Trinidad và Tobago"
+
+#: i18n/countries.php:226
+msgid "Tonga"
+msgstr "Tonga"
+
+#: i18n/countries.php:225
+msgid "Tokelau"
+msgstr "Tokelau"
+
+#: i18n/countries.php:224
+msgid "Togo"
+msgstr "Togo"
+
+#: i18n/countries.php:223
+msgid "Timor-Leste"
+msgstr "Timor-Leste"
+
+#: i18n/countries.php:222
+msgid "Thailand"
+msgstr "Thái Lan"
+
+#: i18n/countries.php:221
+msgid "Tanzania"
+msgstr "Tanzania"
+
+#: i18n/countries.php:220
+msgid "Tajikistan"
+msgstr "Tajikistan"
+
+#: i18n/countries.php:219
+msgid "Taiwan"
+msgstr "Đài Loan"
+
+#: i18n/countries.php:218
+msgid "Syria"
+msgstr "Syria"
+
+#: i18n/countries.php:217
+msgid "Switzerland"
+msgstr "Thụy Sĩ"
+
+#: i18n/countries.php:216
+msgid "Sweden"
+msgstr "Thụy Điển"
+
+#: i18n/countries.php:215
+msgid "Swaziland"
+msgstr "Swaziland"
+
+#: i18n/countries.php:214
+msgid "Svalbard and Jan Mayen"
+msgstr "Svalbard và Jan Mayen"
+
+#: i18n/countries.php:213
+msgid "Suriname"
+msgstr "Suriname"
+
+#: i18n/countries.php:212
+msgid "Sudan"
+msgstr "Sudan"
+
+#: i18n/countries.php:211
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: i18n/countries.php:210
+msgid "Spain"
+msgstr "Tây Ban Nha"
+
+#: i18n/countries.php:209
+msgid "South Sudan"
+msgstr "Nam Sudan"
+
+#: i18n/countries.php:208
+msgid "South Korea"
+msgstr "Hàn Quốc"
+
+#: i18n/countries.php:207
+msgid "South Georgia/Sandwich Islands"
+msgstr "Quần đảo Georgia và Sandwich Nam"
+
+#: i18n/countries.php:206
+msgid "South Africa"
+msgstr "Nam Phi"
+
+#: i18n/countries.php:205
+msgid "Somalia"
+msgstr "Somalia"
+
+#: i18n/countries.php:204
+msgid "Solomon Islands"
+msgstr "Quần đảo Solomon"
+
+#: i18n/countries.php:203
+msgid "Slovenia"
+msgstr "Slovenia"
+
+#: i18n/countries.php:202
+msgid "Slovakia"
+msgstr "Slovakia"
+
+#: i18n/countries.php:201
+msgid "Singapore"
+msgstr "Singapore"
+
+#: i18n/countries.php:200
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: i18n/countries.php:199
+msgid "Seychelles"
+msgstr "Seychelles"
+
+#: i18n/countries.php:198
+msgid "Serbia"
+msgstr "Serbia"
+
+#: i18n/countries.php:197
+msgid "Senegal"
+msgstr "Senegal"
+
+#: i18n/countries.php:196
+msgid "Saudi Arabia"
+msgstr "Ả Rập Xê Út"
+
+#: i18n/countries.php:195
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+msgstr "São Tomé và Príncipe"
+
+#: i18n/countries.php:194
+msgid "San Marino"
+msgstr "San Marino"
+
+#: i18n/countries.php:193
+msgid "Saint Vincent and the Grenadines"
+msgstr "Saint Vincent và Grenadines"
+
+#: i18n/countries.php:192
+msgid "Saint Pierre and Miquelon"
+msgstr "Saint Pierre và Miquelon"
+
+#: i18n/countries.php:191
+msgid "Saint Martin (Dutch part)"
+msgstr "Saint Martin (Phần Hà Lan)"
+
+#: i18n/countries.php:190
+msgid "Saint Martin (French part)"
+msgstr "Saint Martin (Phần Pháp)"
+
+#: i18n/countries.php:189
+msgid "Saint Lucia"
+msgstr "Saint Lucia"
+
+#: i18n/countries.php:188
+msgid "Saint Kitts and Nevis"
+msgstr "Saint Kitts và Nevis"
+
+#: i18n/countries.php:187
+msgid "Saint Helena"
+msgstr "Saint Helena"
+
+#: i18n/countries.php:186
+msgid "Saint Barth&eacute;lemy"
+msgstr "Saint Barthélemy"
+
+#: i18n/countries.php:185
+msgid "Rwanda"
+msgstr "Rwanda"
+
+#: i18n/countries.php:184
+msgid "Russia"
+msgstr "Nga"
+
+#: i18n/countries.php:183
+msgid "Romania"
+msgstr "Romania"
+
+#: i18n/countries.php:182
+msgid "Reunion"
+msgstr "Réunion"
+
+#: i18n/countries.php:181
+msgid "Qatar"
+msgstr "Qatar"
+
+#: i18n/countries.php:180
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+#: i18n/countries.php:179
+msgid "Portugal"
+msgstr "Bồ Đào Nha"
+
+#: i18n/countries.php:178
+msgid "Poland"
+msgstr "Ba Lan"
+
+#: i18n/countries.php:177
+msgid "Pitcairn"
+msgstr "Pitcairn"
+
+#: i18n/countries.php:176
+msgid "Philippines"
+msgstr "Philippines"
+
+#: i18n/countries.php:175
+msgid "Peru"
+msgstr "Peru"
+
+#: i18n/countries.php:174
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: i18n/countries.php:173
+msgid "Papua New Guinea"
+msgstr "Papua New Guinea"
+
+#: i18n/countries.php:172
+msgid "Panama"
+msgstr "Panama"
+
+#: i18n/countries.php:171
+msgid "Palestinian Territory"
+msgstr "Lãnh thổ Palestine"
+
+#: i18n/countries.php:170
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: i18n/countries.php:169
+msgid "Oman"
+msgstr "Oman"
+
+#: i18n/countries.php:168
+msgid "Norway"
+msgstr "Na Uy"
+
+#: i18n/countries.php:167
+msgid "North Korea"
+msgstr "Bắc Triều Tiên"
+
+#: i18n/countries.php:166
+msgid "Norfolk Island"
+msgstr "Đảo Norfolk"
+
+#: i18n/countries.php:165
+msgid "Niue"
+msgstr "Niue"
+
+#: i18n/countries.php:164
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: i18n/countries.php:163
+msgid "Niger"
+msgstr "Niger"
+
+#: i18n/countries.php:162
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: i18n/countries.php:161
+msgid "New Zealand"
+msgstr "New Zealand"
+
+#: i18n/countries.php:160
+msgid "New Caledonia"
+msgstr "New Caledonia"
+
+#: i18n/countries.php:159
+msgid "Netherlands Antilles"
+msgstr "Quần đảo Antilles thuộc Hà Lan"
+
+#: i18n/countries.php:158
+msgid "Netherlands"
+msgstr "Hà Lan"
+
+#: i18n/countries.php:157
+msgid "Nepal"
+msgstr "Nepal"
+
+#: i18n/countries.php:156
+msgid "Nauru"
+msgstr "Nauru"
+
+#: i18n/countries.php:155
+msgid "Namibia"
+msgstr "Namibia"
+
+#: i18n/countries.php:154
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: i18n/countries.php:153
+msgid "Mozambique"
+msgstr "Mozambique"
+
+#: i18n/countries.php:152
+msgid "Morocco"
+msgstr "Ma-rốc"
+
+#: i18n/countries.php:151
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: i18n/countries.php:150
+msgid "Montenegro"
+msgstr "Montenegro"
+
+#: i18n/countries.php:149
+msgid "Mongolia"
+msgstr "Mông Cổ"
+
+#: i18n/countries.php:148
+msgid "Monaco"
+msgstr "Monaco"
+
+#: i18n/countries.php:147
+msgid "Moldova"
+msgstr "Moldova"
+
+#: i18n/countries.php:146
+msgid "Micronesia"
+msgstr "Micronesia"
+
+#: i18n/countries.php:145
+msgid "Mexico"
+msgstr "Mexico"
+
+#: i18n/countries.php:144
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: i18n/countries.php:143
+msgid "Mauritius"
+msgstr "Mauritius"
+
+#: i18n/countries.php:142
+msgid "Mauritania"
+msgstr "Mauritania"
+
+#: i18n/countries.php:141
+msgid "Martinique"
+msgstr "Martinique"
+
+#: i18n/countries.php:140
+msgid "Marshall Islands"
+msgstr "Quần đảo Marshall"
+
+#: i18n/countries.php:139
+msgid "Malta"
+msgstr "Malta"
+
+#: i18n/countries.php:138
+msgid "Mali"
+msgstr "Mali"
+
+#: i18n/countries.php:137
+msgid "Maldives"
+msgstr "Maldives"
+
+#: i18n/countries.php:136
+msgid "Malaysia"
+msgstr "Malaysia"
+
+#: i18n/countries.php:135
+msgid "Malawi"
+msgstr "Malawi"
+
+#: i18n/countries.php:134
+msgid "Madagascar"
+msgstr "Madagascar"
+
+#: i18n/countries.php:133
+msgid "Macedonia"
+msgstr "Macedonia"
+
+#: i18n/countries.php:132
+msgid "Macao S.A.R., China"
+msgstr "Ma Cao, Trung Quốc"
+
+#: i18n/countries.php:131
+msgid "Luxembourg"
+msgstr "Luxembourg"
+
+#: i18n/countries.php:130
+msgid "Lithuania"
+msgstr "Lithuania"
+
+#: i18n/countries.php:129
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: i18n/countries.php:128
+msgid "Libya"
+msgstr "Libya"
+
+#: i18n/countries.php:127
+msgid "Liberia"
+msgstr "Liberia"
+
+#: i18n/countries.php:126
+msgid "Lesotho"
+msgstr "Lesotho"
+
+#: i18n/countries.php:125
+msgid "Lebanon"
+msgstr "Liban"
+
+#: i18n/countries.php:124
+msgid "Latvia"
+msgstr "Latvia"
+
+#: i18n/countries.php:123
+msgid "Laos"
+msgstr "Lào"
+
+#: i18n/countries.php:122
+msgid "Kyrgyzstan"
+msgstr "Kyrgyzstan"
+
+#: i18n/countries.php:121
+msgid "Kuwait"
+msgstr "Kuwait"
+
+#: i18n/countries.php:120
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: i18n/countries.php:119
+msgid "Kenya"
+msgstr "Kenya"
+
+#: i18n/countries.php:118
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+#: i18n/countries.php:117
+msgid "Jordan"
+msgstr "Jordan"
+
+#: i18n/countries.php:116
+msgid "Jersey"
+msgstr "Jersey"
+
+#: i18n/countries.php:115
+msgid "Japan"
+msgstr "Nhật Bản"
+
+#: i18n/countries.php:114
+msgid "Jamaica"
+msgstr "Jamaica"
+
+#: i18n/countries.php:113
+msgid "Ivory Coast"
+msgstr "Bờ Biển Ngà"
+
+#: i18n/countries.php:111
+msgid "Israel"
+msgstr "Israel"
+
+#: i18n/countries.php:110
+msgid "Isle of Man"
+msgstr "Đảo Man"
+
+#: i18n/countries.php:109
+msgid "Republic of Ireland"
+msgstr "Cộng hòa Ireland"
+
+#: i18n/countries.php:108
+msgid "Iraq"
+msgstr "Iraq"
+
+#: i18n/countries.php:107
+msgid "Iran"
+msgstr "Iran"
+
+#: i18n/countries.php:106
+msgid "Indonesia"
+msgstr "Indonesia"
+
+#: i18n/countries.php:105
+msgid "India"
+msgstr "Ấn Độ"
+
+#: i18n/countries.php:104
+msgid "Iceland"
+msgstr "Iceland"
+
+#: i18n/countries.php:103
+msgid "Hungary"
+msgstr "Hungary"
+
+#: i18n/countries.php:102
+msgid "Hong Kong"
+msgstr "Hồng Kông"
+
+#: i18n/countries.php:101
+msgid "Honduras"
+msgstr "Honduras"
+
+#: i18n/countries.php:100
+msgid "Heard Island and McDonald Islands"
+msgstr "Đảo Heard và quần đảo McDonald"
+
+#: i18n/countries.php:99
+msgid "Haiti"
+msgstr "Haiti"
+
+#: i18n/countries.php:98
+msgid "Guyana"
+msgstr "Guyana"
+
+#: i18n/countries.php:97
+msgid "Guinea-Bissau"
+msgstr "Guinea-Bissau"
+
+#: i18n/countries.php:96
+msgid "Guinea"
+msgstr "Guinea"
+
+#: i18n/countries.php:95
+msgid "Guernsey"
+msgstr "Guernsey"
+
+#: i18n/countries.php:94
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: i18n/countries.php:93
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+#: i18n/countries.php:92
+msgid "Grenada"
+msgstr "Grenada"
+
+#: i18n/countries.php:91
+msgid "Greenland"
+msgstr "Greenland"
+
+#: i18n/countries.php:90
+msgid "Greece"
+msgstr "Hy Lạp"
+
+#: i18n/countries.php:89
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#: i18n/countries.php:88
+msgid "Ghana"
+msgstr "Ghana"
+
+#: i18n/countries.php:87
+msgid "Germany"
+msgstr "Đức"
+
+#: i18n/countries.php:86
+msgid "Georgia"
+msgstr "Gruzia"
+
+#: i18n/countries.php:85
+msgid "Gambia"
+msgstr "Gambia"
+
+#: i18n/countries.php:84
+msgid "Gabon"
+msgstr "Gabon"
+
+#: i18n/countries.php:83
+msgid "French Southern Territories"
+msgstr "Vùng đất phía Nam thuộc Pháp"
+
+#: i18n/countries.php:82
+msgid "French Polynesia"
+msgstr "Polynésie thuộc Pháp"
+
+#: i18n/countries.php:81
+msgid "French Guiana"
+msgstr "Guyana thuộc Pháp"
+
+#: i18n/countries.php:80
+msgid "France"
+msgstr "Pháp"
+
+#: i18n/countries.php:79
+msgid "Finland"
+msgstr "Phần Lan"
+
+#: i18n/countries.php:78
+msgid "Fiji"
+msgstr "Fiji"
+
+#: i18n/countries.php:77
+msgid "Faroe Islands"
+msgstr "Quần đảo Faroe"
+
+#: i18n/countries.php:76
+msgid "Falkland Islands"
+msgstr "Quần đảo Falkland"
+
+#: i18n/countries.php:75
+msgid "Ethiopia"
+msgstr "Ethiopia"
+
+#: i18n/countries.php:74
+msgid "Estonia"
+msgstr "Estonia"
+
+#: i18n/countries.php:73
+msgid "Eritrea"
+msgstr "Eritrea"
+
+#: i18n/countries.php:72
+msgid "Equatorial Guinea"
+msgstr "Guinea Xích đạo"
+
+#: i18n/countries.php:71
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: i18n/countries.php:70
+msgid "Egypt"
+msgstr "Ai Cập"
+
+#: i18n/countries.php:69
+msgid "Ecuador"
+msgstr "Ecuador"
+
+#: i18n/countries.php:68
+msgid "Dominican Republic"
+msgstr "Cộng hòa Dominica"
+
+#: i18n/countries.php:67
+msgid "Dominica"
+msgstr "Dominica"
+
+#: i18n/countries.php:66
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: i18n/countries.php:65
+msgid "Denmark"
+msgstr "Đan Mạch"
+
+#: i18n/countries.php:64
+msgid "Czech Republic"
+msgstr "Cộng hòa Séc"
+
+#: i18n/countries.php:63
+msgid "Cyprus"
+msgstr "Síp"
+
+#: i18n/countries.php:62
+msgid "Cura&Ccedil;ao"
+msgstr "Curaçao"
+
+#: i18n/countries.php:61
+msgid "Cuba"
+msgstr "Cuba"
+
+#: i18n/countries.php:60
+msgid "Croatia"
+msgstr "Croatia"
+
+#: i18n/countries.php:59
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: i18n/countries.php:58
+msgid "Cook Islands"
+msgstr "Quần đảo Cook"
+
+#: i18n/countries.php:57
+msgid "Congo (Kinshasa)"
+msgstr "Cộng hòa Dân chủ Congo"
+
+#: i18n/countries.php:56
+msgid "Congo (Brazzaville)"
+msgstr "Cộng hòa Congo"
+
+#: i18n/countries.php:55
+msgid "Comoros"
+msgstr "Comoros"
+
+#: i18n/countries.php:54
+msgid "Colombia"
+msgstr "Colombia"
+
+#: i18n/countries.php:53
+msgid "Cocos (Keeling) Islands"
+msgstr "Quần đảo Cocos (Keeling)"
+
+#: i18n/countries.php:52
+msgid "Christmas Island"
+msgstr "Đảo Giáng Sinh"
+
+#: i18n/countries.php:51
+msgid "China"
+msgstr "Trung Quốc"
+
+#: i18n/countries.php:50
+msgid "Chile"
+msgstr "Chile"
+
+#: i18n/countries.php:49
+msgid "Chad"
+msgstr "Chad"
+
+#: i18n/countries.php:48
+msgid "Central African Republic"
+msgstr "Cộng hòa Trung Phi"
+
+#: i18n/countries.php:47
+msgid "Cayman Islands"
+msgstr "Quần đảo Cayman"
+
+#: i18n/countries.php:46
+msgid "Cape Verde"
+msgstr "Cabo Verde"
+
+#: i18n/countries.php:45
+msgid "Canada"
+msgstr "Canada"
+
+#: i18n/countries.php:44
+msgid "Cameroon"
+msgstr "Cameroon"
+
+#: i18n/countries.php:43
+msgid "Cambodia"
+msgstr "Campuchia"
+
+#: i18n/countries.php:42
+msgid "Burundi"
+msgstr "Burundi"
+
+#: i18n/countries.php:41
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: i18n/countries.php:40
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+#: i18n/countries.php:39
+msgid "Brunei"
+msgstr "Brunei"
+
+#: i18n/countries.php:38
+msgid "British Virgin Islands"
+msgstr "Quần đảo Virgin thuộc Anh"
+
+#: i18n/countries.php:37
+msgid "British Indian Ocean Territory"
+msgstr "Lãnh thổ Ấn Độ Dương thuộc Anh"
+
+#: i18n/countries.php:36
+msgid "Brazil"
+msgstr "Brazil"
+
+#: i18n/countries.php:35
+msgid "Bouvet Island"
+msgstr "Đảo Bouvet"
+
+#: i18n/countries.php:34
+msgid "Botswana"
+msgstr "Botswana"
+
+#: i18n/countries.php:33
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnia và Herzegovina"
+
+#: i18n/countries.php:32
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr "Bonaire, Sint Eustatius và Saba"
+
+#: i18n/countries.php:31
+msgid "Bolivia"
+msgstr "Bolivia"
+
+#: i18n/countries.php:30
+msgid "Bhutan"
+msgstr "Bhutan"
+
+#: i18n/countries.php:29
+msgid "Bermuda"
+msgstr "Bermuda"
+
+#: i18n/countries.php:28
+msgid "Benin"
+msgstr "Bénin"
+
+#: i18n/countries.php:27
+msgid "Belize"
+msgstr "Belize"
+
+#: i18n/countries.php:26
+msgid "Belau"
+msgstr "Palau"
+
+#: i18n/countries.php:25
+msgid "Belgium"
+msgstr "Bỉ"
+
+#: i18n/countries.php:24
+msgid "Belarus"
+msgstr "Belarus"
+
+#: i18n/countries.php:23
+msgid "Barbados"
+msgstr "Barbados"
+
+#: i18n/countries.php:22
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+#: i18n/countries.php:21
+msgid "Bahrain"
+msgstr "Bahrain"
+
+#: i18n/countries.php:20
+msgid "Bahamas"
+msgstr "Bahamas"
+
+#: i18n/countries.php:19
+msgid "Azerbaijan"
+msgstr "Azerbaijan"
+
+#: i18n/countries.php:18
+msgid "Austria"
+msgstr "Áo"
+
+#: i18n/countries.php:17
+msgid "Australia"
+msgstr "Úc"
+
+#: i18n/countries.php:16
+msgid "Aruba"
+msgstr "Aruba"
+
+#: i18n/countries.php:15
+msgid "Armenia"
+msgstr "Armenia"
+
+#: i18n/countries.php:14
+msgid "Argentina"
+msgstr "Argentina"
+
+#: i18n/countries.php:13
+msgid "Antigua and Barbuda"
+msgstr "Antigua và Barbuda"
+
+#: i18n/countries.php:12
+msgid "Antarctica"
+msgstr "Nam Cực"
+
+#: i18n/countries.php:11
+msgid "Anguilla"
+msgstr "Anguilla"
+
+#: i18n/countries.php:10
+msgid "Angola"
+msgstr "Angola"
+
+#: i18n/countries.php:9
+msgid "Andorra"
+msgstr "Andorra"
+
+#: i18n/countries.php:8
+msgid "Algeria"
+msgstr "Algeria"
+
+#: i18n/countries.php:7
+msgid "Albania"
+msgstr "Albania"
+
+#: i18n/countries.php:6
+msgid "&#197;land Islands"
+msgstr "&#197;land Islands"
+
+#: i18n/countries.php:5
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+#: app/views/prettypay/invoice.php:61
+msgid "Manage Subscription"
+msgstr "Quản lý Đăng ký"
+
+#: app/views/prettypay/invoice.php:54
+msgid "Total"
+msgstr "Tổng cộng"
+
+#: app/views/prettypay/invoice.php:48
+msgid "Tax"
+msgstr "Thuế"
+
+#: app/views/prettypay/invoice.php:41
+msgid "Discount"
+msgstr "Giảm giá"
+
+#: app/views/prettypay/invoice.php:35
+msgid "Subtotal"
+msgstr "Tổng tiền hàng"
+
+#: app/views/prettypay/invoice.php:12
+msgid "Order: %s"
+msgstr "Đơn hàng: %s"
+
+#. translators: %s: thank you page title
+#: app/views/links/prettypay_link_stripe.php:235
+msgid "Default (%s)"
+msgstr "Mặc định (%s)"
+
+#: app/views/links/prettypay_link_stripe.php:224
+msgid "Thank You Page"
+msgstr "Trang Cảm ơn"
+
+#: app/views/links/prettypay_link_stripe.php:214
+msgid "Custom text that should be displayed alongside the payment confirmation button (up to 1000 characters)."
+msgstr "Văn bản tùy chỉnh sẽ được hiển thị cùng với nút xác nhận thanh toán (tối đa 1000 ký tự)."
+
+#: app/views/links/prettypay_link_stripe.php:209
+#: app/views/links/prettypay_link_stripe.php:213
+msgid "Checkout Message"
+msgstr "Tin nhắn thanh toán"
+
+#: app/views/links/prettypay_link_stripe.php:193
+msgid "Include a free trial"
+msgstr "Bao gồm bản dùng thử miễn phí"
+
+#: app/views/links/prettypay_link_stripe.php:187
+msgid "Save payment details for future use"
+msgstr "Lưu thông tin thanh toán để sử dụng sau"
+
+#: app/views/links/prettypay_link_stripe.php:179
+msgid "View docs"
+msgstr "Xem tài liệu"
+
+#. translators: %s: link to Stripe Tax ID docs
+#: app/views/links/prettypay_link_stripe.php:178
+msgid "This displays an additional field for businesses to provide their VAT or other tax ID. Stripe only displays this field to customers in certain countries. %s"
+msgstr "Điều này hiển thị một trường bổ sung cho các doanh nghiệp để cung cấp mã số thuế VAT hoặc mã số thuế khác của họ. Stripe chỉ hiển thị trường này cho khách hàng ở một số quốc gia nhất định. %s"
+
+#: app/views/links/prettypay_link_stripe.php:170
+#: app/views/links/prettypay_link_stripe.php:175
+msgid "Allow business customers to provide tax IDs"
+msgstr "Cho phép khách hàng doanh nghiệp cung cấp mã số thuế"
+
+#: app/views/links/prettypay_link_stripe.php:164
+msgid "Allow promotion codes"
+msgstr "Cho phép mã khuyến mãi"
+
+#: app/views/links/prettypay_link_stripe.php:158
+msgid "Require customers to provide a phone number"
+msgstr "Yêu cầu khách hàng cung cấp số điện thoại"
+
+#: app/views/links/prettypay_link_stripe.php:143
+msgid "Billing and shipping addresses"
+msgstr "Địa chỉ thanh toán và giao hàng"
+
+#: app/views/links/prettypay_link_stripe.php:137
+msgid "Billing addresses only"
+msgstr "Chỉ địa chỉ thanh toán"
+
+#: app/views/links/prettypay_link_stripe.php:131
+msgid "Collect customers' addresses"
+msgstr "Thu thập địa chỉ của khách hàng"
+
+#. translators: %s: link to Stripe Tax setup docs
+#: app/views/links/prettypay_link_stripe.php:122
+msgid "Tax will be calculated automatically based on the address provided by the customer. Stripe Tax must be enabled on the connected Stripe account. Additional charges may apply. Please visit %s to get started."
+msgstr "Thuế sẽ được tính toán tự động dựa trên địa chỉ mà khách hàng cung cấp. Stripe Tax phải được kích hoạt trên tài khoản Stripe được kết nối. Phí bổ sung có thể được áp dụng. Vui lòng truy cập %s để bắt đầu."
+
+#: app/views/links/prettypay_link_stripe.php:114
+#: app/views/links/prettypay_link_stripe.php:119
+msgid "Collect tax automatically"
+msgstr "Thu thập thuế tự động"
+
+#: app/views/links/prettypay_link_stripe.php:99
+msgid "Add product"
+msgstr "Thêm sản phẩm"
+
+#: app/views/links/prettypay_link_stripe.php:93
+msgid "Price is exclusive of tax"
+msgstr "Giá chưa bao gồm thuế"
+
+#: app/views/links/prettypay_link_stripe.php:92
+msgid "Price is inclusive of tax"
+msgstr "Giá đã bao gồm thuế"
+
+#: app/views/links/prettypay_link_stripe.php:88
+msgid "Include tax in price"
+msgstr "Bao gồm thuế trong giá"
+
+#: app/views/links/prettypay_link_stripe.php:82
+msgid "months"
+msgstr "tháng"
+
+#: app/views/links/prettypay_link_stripe.php:81
+msgid "weeks"
+msgstr "tuần"
+
+#: app/views/links/prettypay_link_stripe.php:80
+#: app/views/links/prettypay_link_stripe.php:199
+msgid "days"
+msgstr "ngày"
+
+#: app/views/links/prettypay_link_stripe.php:79
+msgid "Interval"
+msgstr "Khoảng thời gian"
+
+#: app/views/links/prettypay_link_stripe.php:78
+msgid "Interval count"
+msgstr "Số lượng khoảng thời gian"
+
+#: app/views/links/prettypay_link_stripe.php:77
+msgid "every"
+msgstr "mỗi"
+
+#: app/views/links/prettypay_link_stripe.php:72
+msgid "Custom"
+msgstr "Tùy chỉnh"
+
+#: app/views/links/prettypay_link_stripe.php:71
+msgid "Yearly"
+msgstr "Hàng năm"
+
+#: app/views/links/prettypay_link_stripe.php:70
+msgid "Every 6 months"
+msgstr "Mỗi 6 tháng"
+
+#: app/views/links/prettypay_link_stripe.php:69
+msgid "Every 3 months"
+msgstr "Mỗi 3 tháng"
+
+#: app/views/links/prettypay_link_stripe.php:68
+msgid "Monthly"
+msgstr "Hàng tháng"
+
+#: app/views/links/prettypay_link_stripe.php:67
+msgid "Weekly"
+msgstr "Hàng tuần"
+
+#: app/views/links/prettypay_link_stripe.php:66
+msgid "Daily"
+msgstr "Hàng ngày"
+
+#: app/views/links/prettypay_link_stripe.php:63
+msgid "Billing period"
+msgstr "Chu kỳ thanh toán"
+
+#: app/views/links/prettypay_link_stripe.php:59
+msgid "One time"
+msgstr "Một lần"
+
+#: app/views/links/prettypay_link_stripe.php:55
+msgid "Recurring"
+msgstr "Định kỳ"
+
+#: app/views/links/prettypay_link_stripe.php:36
+msgid "Premium Plan, sunglasses, etc."
+msgstr "Gói Premium, kính mát, v.v."
+
+#: app/views/links/prettypay_link_stripe.php:31
+msgid "Add a new product"
+msgstr "Thêm sản phẩm mới"
+
+#: app/views/links/prettypay_link_stripe.php:5
+msgid "Product*"
+msgstr "Sản phẩm*"
+
+#: app/views/admin/payments/options.php:275
+msgid "Show a history of paid invoices"
+msgstr "Hiển thị lịch sử hóa đơn đã thanh toán"
+
+#: app/views/admin/payments/options.php:272
+msgid "Invoice History"
+msgstr "Lịch sử hóa đơn"
+
+#: app/views/admin/payments/options.php:264
+msgid "Cancel subscriptions immediately"
+msgstr "Hủy đăng ký ngay lập tức"
+
+#: app/views/admin/payments/options.php:263
+msgid "Cancel at end of billing period (customer can renew until then)"
+msgstr "Hủy vào cuối chu kỳ thanh toán (khách hàng có thể gia hạn cho đến lúc đó)"
+
+#: app/views/admin/payments/options.php:259
+msgid "Allow subscriptions to be cancelled"
+msgstr "Cho phép hủy đăng ký"
+
+#: app/views/admin/payments/options.php:256
+msgid "Subscription Cancel"
+msgstr "Hủy đăng ký"
+
+#: app/views/admin/payments/options.php:251
+msgid "Allow customers to update their payment method"
+msgstr "Cho phép khách hàng cập nhật phương thức thanh toán của họ"
+
+#: app/views/admin/payments/options.php:248
+msgid "Payment Method Update"
+msgstr "Cập nhật phương thức thanh toán"
+
+#: app/views/admin/payments/options.php:235
+msgid "Allow updating tax IDs"
+msgstr "Cho phép cập nhật mã số thuế"
+
+#: app/views/admin/payments/options.php:234
+msgid "Allow updating phone numbers"
+msgstr "Cho phép cập nhật số điện thoại"
+
+#: app/views/admin/payments/options.php:233
+msgid "Allow updating shipping addresses"
+msgstr "Cho phép cập nhật địa chỉ giao hàng"
+
+#: app/views/admin/payments/options.php:232
+msgid "Allow updating billing addresses"
+msgstr "Cho phép cập nhật địa chỉ thanh toán"
+
+#: app/views/admin/payments/options.php:231
+msgid "Allow updating email addresses"
+msgstr "Cho phép cập nhật địa chỉ email"
+
+#: app/views/admin/payments/options.php:230
+msgid "Allow updating names"
+msgstr "Cho phép cập nhật tên"
+
+#: app/views/admin/payments/options.php:226
+#: app/views/admin/payments/options.php:251
+#: app/views/admin/payments/options.php:259
+#: app/views/admin/payments/options.php:275
+msgid "Recommended"
+msgstr "Được đề xuất"
+
+#: app/views/admin/payments/options.php:226
+msgid "Allow customers to update their data"
+msgstr "Cho phép khách hàng cập nhật dữ liệu của họ"
+
+#: app/views/admin/payments/options.php:223
+msgid "Customer Update"
+msgstr "Cập nhật khách hàng"
+
+#: app/views/admin/payments/options.php:213
+msgid "A link to the business's publicly available terms of service."
+msgstr "Một liên kết đến điều khoản dịch vụ công khai của doanh nghiệp."
+
+#: app/views/admin/payments/options.php:210
+#: app/views/admin/payments/options.php:212
+msgid "Terms of Service URL"
+msgstr "URL Điều khoản dịch vụ"
+
+#: app/views/admin/payments/options.php:199
+msgid "A link to the business's publicly available privacy policy."
+msgstr "Một liên kết đến chính sách bảo mật công khai của doanh nghiệp."
+
+#: app/views/admin/payments/options.php:196
+#: app/views/admin/payments/options.php:198
+msgid "Privacy Policy URL"
+msgstr "URL Chính sách bảo mật"
+
+#: app/views/admin/payments/options.php:185
+msgid "The messaging shown to customers in the portal."
+msgstr "Thông điệp hiển thị cho khách hàng trong cổng thông tin."
+
+#: app/views/admin/payments/options.php:182
+#: app/views/admin/payments/options.php:184
+msgid "Portal Header"
+msgstr "Tiêu đề cổng thông tin"
+
+#: app/views/admin/payments/options.php:140
+#: app/views/links/prettypay_link_stripe.php:44
+msgid "Currency"
+msgstr "Tiền tệ"
+
+#: app/views/admin/payments/options.php:134
+msgid "Set the currency that is selected by default when creating products."
+msgstr "Thiết lập loại tiền tệ được chọn theo mặc định khi tạo sản phẩm."
+
+#: app/views/admin/payments/options.php:131
+#: app/views/admin/payments/options.php:133
+msgid "Default Currency"
+msgstr "Tiền tệ mặc định"
+
+#: app/views/admin/payments/options.php:92
+#: app/views/admin/payments/options.php:98
+msgid "\"Connect with Stripe\" button"
+msgstr "Nút \"Kết nối với Stripe\""
+
+#: app/views/admin/payments/options.php:86
+msgid "Re-Connect to Stripe"
+msgstr "Kết nối lại với Stripe"
+
+#: app/views/admin/payments/options.php:79
+msgid "Disconnect"
+msgstr "Ngắt kết nối"
+
+#: app/views/admin/payments/options.php:75
+msgid "Refresh Stripe Credentials"
+msgstr "Làm mới thông tin đăng nhập Stripe"
+
+#: app/views/admin/payments/options.php:70
+msgid "Connected to: %1$s %2$s %3$s"
+msgstr "Đã kết nối với: %1$s %2$s %3$s"
+
+#: app/views/admin/payments/options.php:68
+msgid "Connected to Stripe"
+msgstr "Đã kết nối với Stripe"
+
+#: app/views/admin/payments/options.php:52
+msgid "Fraud prevention tools"
+msgstr "Công cụ phòng chống gian lận"
+
+#: app/views/admin/payments/options.php:51
+msgid "Accept Google Wallet"
+msgstr "Chấp nhận Google Wallet"
+
+#: app/views/admin/payments/options.php:50
+msgid "Accept Apple Pay"
+msgstr "Chấp nhận Apple Pay"
+
+#: app/views/admin/payments/options.php:45
+msgid "25+ ways to pay"
+msgstr "Hơn 25 cách thanh toán"
+
+#: app/views/admin/payments/options.php:44
+msgid "Flexible subscriptions and billing terms"
+msgstr "Đăng ký linh hoạt và điều khoản thanh toán"
+
+#: app/views/admin/payments/options.php:43
+msgid "Accept all Major Credit Cards"
+msgstr "Chấp nhận tất cả các thẻ tín dụng chính"
+
+#: app/views/admin/payments/options.php:32 app/views/options/form.php:63
+msgid "Payments"
+msgstr "Thanh toán"
+
+#: app/views/admin/payments/customer_portal_notice.php:3
+#: app/views/admin/payments/options.php:152
+#: app/views/admin/payments/options.php:154
+msgid "Customer Portal"
+msgstr "Cổng thông tin khách hàng"
+
+#: app/models/PrliUtils.php:1398
+msgid "NEW"
+msgstr "MỚI"
+
+#: app/helpers/PrliStripeHelper.php:103
+msgid "Manage your Payments"
+msgstr "Quản lý thanh toán của bạn"
+
+#: app/helpers/PrliAppHelper.php:49
+msgid "View"
+msgstr "Xem"
+
+#: app/helpers/PrliAppHelper.php:39
+msgid "- Auto Create New Page -"
+msgstr "- Tự động tạo trang mới -"
+
+#: app/controllers/PrliStripeController.php:1007
+msgid "The Customer Portal is not yet configured."
+msgstr "Cổng thông tin khách hàng chưa được cấu hình."
+
+#: app/controllers/PrliStripeController.php:1003
+#: app/views/admin/payments/customer_portal_notice.php:17
+#: app/views/admin/payments/options.php:168
+msgid "Configure Customer Portal"
+msgstr "Cấu hình cổng thông tin khách hàng"
+
+#: app/controllers/PrliStripeController.php:936
+msgid "Payment Successful"
+msgstr "Thanh toán thành công"
+
+#: app/controllers/PrliStripeController.php:936
+msgid "Payment Pending"
+msgstr "Thanh toán đang chờ xử lý"
+
+#: app/controllers/PrliStripeController.php:843
+msgid "The given tax behavior is not supported"
+msgstr "Hành vi thuế được cung cấp không được hỗ trợ"
+
+#: app/controllers/PrliStripeController.php:838
+msgid "The given custom billing interval is not supported"
+msgstr "Khoảng thời gian thanh toán tùy chỉnh được cung cấp không được hỗ trợ"
+
+#: app/controllers/PrliStripeController.php:834
+msgid "The given custom billing interval count must be numeric and greater than zero"
+msgstr "Số lượng khoảng thời gian thanh toán tùy chỉnh phải là số và lớn hơn không"
+
+#: app/controllers/PrliStripeController.php:830
+msgid "The given billing period is not supported"
+msgstr "Chu kỳ thanh toán đã cho không được hỗ trợ"
+
+#: app/controllers/PrliStripeController.php:826
+msgid "The given product type is not supported"
+msgstr "Loại sản phẩm đã cho không được hỗ trợ"
+
+#: app/controllers/PrliStripeController.php:821
+msgid "The given currency is not supported"
+msgstr "Loại tiền tệ đã cho không được hỗ trợ"
+
+#: app/controllers/PrliStripeController.php:815
+msgid "A product currency is required"
+msgstr "Cần có loại tiền tệ cho sản phẩm"
+
+#: app/controllers/PrliStripeController.php:811
+msgid "The product price must be numeric and greater than zero"
+msgstr "Giá sản phẩm phải là số và lớn hơn không"
+
+#: app/controllers/PrliStripeController.php:808
+msgid "A product price is required"
+msgstr "Cần có giá sản phẩm"
+
+#: app/controllers/PrliStripeController.php:804
+msgid "A product name is required"
+msgstr "Cần có tên sản phẩm"
+
+#: app/controllers/PrliStripeController.php:730
+msgid "At least one shipping country must be selected"
+msgstr "Phải chọn ít nhất một quốc gia vận chuyển"
+
+#: app/controllers/PrliStripeController.php:612
+msgid "+ Add a product"
+msgstr "+ Thêm sản phẩm"
+
+#: app/controllers/PrliStripeController.php:596
+msgid "Invalid response from the remote server"
+msgstr "Phản hồi không hợp lệ từ máy chủ từ xa"
+
+#: app/controllers/PrliStripeController.php:584
+msgid "HTTP error"
+msgstr "Lỗi HTTP"
+
+#: app/controllers/PrliStripeController.php:390
+msgid "Try again"
+msgstr "Thử lại"
+
+#: app/controllers/PrliStripeController.php:280
+msgid "This link is not configured correctly."
+msgstr "Liên kết này không được cấu hình chính xác."
+
+#: app/controllers/PrliStripeConnectController.php:307
+msgid "Get Paid the Pretty Links Way!"
+msgstr "Nhận thanh toán theo cách của Pretty Links!"
+
+#: app/controllers/PrliStripeConnectController.php:229
+#: app/controllers/PrliStripeConnectController.php:240
+msgid "Sorry, the disconnect failed."
+msgstr "Xin lỗi, ngắt kết nối không thành công."
+
+#: app/controllers/PrliStripeConnectController.php:169
+#: app/controllers/PrliStripeConnectController.php:174
+#: app/controllers/PrliStripeConnectController.php:199
+msgid "Sorry, the refresh failed."
+msgstr "Xin lỗi, làm mới không thành công."
+
+#: app/controllers/PrliStripeConnectController.php:110
+msgid "Sorry, updating your credentials failed. (pmt)"
+msgstr "Xin lỗi, cập nhật thông tin đăng nhập của bạn không thành công. (thanh toán)"
+
+#: app/controllers/PrliStripeConnectController.php:100
+msgid "Sorry, updating your credentials failed. (security)"
+msgstr "Xin lỗi, cập nhật thông tin đăng nhập của bạn không thành công. (bảo mật)"
+
+#: app/controllers/PrliOptionsController.php:116
+msgid "Thank you for your purchase."
+msgstr "Cảm ơn bạn đã mua hàng."
+
+#: app/controllers/PrliOptionsController.php:115
+msgid "Thank You"
+msgstr "Cảm ơn"
+
+#. translators: %s: number of links in the trash
+#: app/controllers/PrliLinksController.php:1097
+msgid "Trash %s"
+msgstr "Thùng rác %s"
+
+#. translators: %s: number of links
+#: app/controllers/PrliLinksController.php:1088
+msgid "All %s"
+msgstr "Tất cả %s"
+
+#: app/controllers/PrliAppController.php:568
+msgid "This field is required"
+msgstr "Trường này bắt buộc"
+
+#: app/controllers/PrliAppController.php:566
+msgid "Select shipping countries"
+msgstr "Chọn quốc gia vận chuyển"
+
+#: app/controllers/PrliAppController.php:564
+msgid "Find or add a product..."
+msgstr "Tìm hoặc thêm sản phẩm..."
+
+#: i18n/countries.php:112
+msgid "Italy"
+msgstr "Italy"
+
+#: app/views/options/form.php:358
+msgid "If checked, this will enable you to automatically replace keywords on your blog with pretty links. You will specify the specific keywords from your Pretty Link edit page."
+msgstr "Nếu được chọn, điều này sẽ cho phép bạn tự động thay thế các từ khóa trên blog của mình bằng các liên kết đẹp. Bạn sẽ chỉ định các từ khóa cụ thể từ trang chỉnh sửa Pretty Link của mình."
+
+#: app/views/options/form.php:618 app/views/options/form.php:620
+msgid "Enable Replacement Indexing"
+msgstr "Bật lập chỉ mục thay thế"
+
+#: app/views/options/form.php:604
+msgid "Disclosure Notice"
+msgstr "Thông báo công khai"
+
+#: app/views/options/form.php:540
+msgid "Select the post types you'd like URLs to be replaced in."
+msgstr "Chọn loại bài viết bạn muốn thay thế URL."
+
+#: app/views/options/form.php:537 app/views/options/form.php:539
+msgid "URL Post Types"
+msgstr "Loại bài đăng URL"
+
+#: app/views/options/form.php:503
+msgid "Enable URL Auto Replacement"
+msgstr "Bật thay thế URL tự động"
+
+#: app/views/options/form.php:488 app/views/options/form.php:551
+msgid "Pages"
+msgstr "Trang"
+
+#: app/views/options/form.php:484 app/views/options/form.php:547
+msgid "Posts"
+msgstr "Bài đăng"
+
+#: app/views/options/form.php:477
+msgid "Select the post types you'd like keywords to be replaced in."
+msgstr "Chọn loại bài viết bạn muốn thay thế từ khóa."
+
+#: app/views/options/form.php:473 app/views/options/form.php:476
+msgid "Keyword Post Types"
+msgstr "Loại bài đăng từ khóa"
+
+#. translators: %1$s: open code tag, %2$s: close code tag
+#: app/views/options/form.php:458
+msgid "This adds the html %1$sSPONSORED%2$s attribute to all keyword replacement links."
+msgstr "Điều này thêm thuộc tính html %1$sSPONSORED%2$s vào tất cả các liên kết thay thế từ khóa."
+
+#: app/views/options/form.php:455
+msgid "Add 'sponsored' attribute to all Keyword Replacement Pretty Links"
+msgstr "Thêm thuộc tính 'sponsored' vào tất cả các liên kết đẹp thay thế từ khóa"
+
+#. translators: %1$s: open code tag, %2$s: close code tag
+#: app/views/options/form.php:438
+msgid "This adds the html %1$sNOFOLLOW%2$s attribute to all keyword replacement links."
+msgstr "Điều này thêm thuộc tính html %1$sNOFOLLOW%2$s vào tất cả các liên kết thay thế từ khóa."
+
+#: app/views/options/form.php:435
+msgid "Add 'nofollow' attribute to all Keyword Replacement Pretty Links"
+msgstr "Thêm thuộc tính 'nofollow' vào tất cả các liên kết đẹp thay thế từ khóa"
+
+#: app/views/options/form.php:433
+msgid "Add Nofollow"
+msgstr "Thêm Nofollow"
+
+#: app/views/options/form.php:421
+msgid "Ensure that these keyword replacement links are opened in a separate window."
+msgstr "Đảm bảo rằng các liên kết thay thế từ khóa này được mở trong một cửa sổ riêng biệt."
+
+#: app/views/options/form.php:377
+msgid "Enable Thresholds"
+msgstr "Bật Ngưỡng"
+
+#: app/views/options/form.php:357
+msgid "Enable Keyword Auto Replacement"
+msgstr "Bật Thay thế Từ khóa Tự động"
+
+#: app/views/options/form.php:355
+msgid "Enable Keyword Replacements"
+msgstr "Bật Thay thế Từ khóa"
+
+#: app/views/admin/onboarding/welcome.php:138
+msgid "Leverage the persuasive power of visually appealing content to captivate your audience at the precise moment they’re ready to buy."
+msgstr "Tận dụng sức mạnh thuyết phục của nội dung trực quan hấp dẫn để thu hút đối tượng của bạn chính xác tại thời điểm họ sẵn sàng mua."
+
+#: app/views/admin/onboarding/welcome.php:137
+msgid "Transform ordinary text links into captivating showcases featuring vibrant images, enticing descriptions, and irresistible CTAs."
+msgstr "Biến đổi các liên kết văn bản thông thường thành những trưng bày hấp dẫn với hình ảnh rực rỡ, mô tả hấp dẫn và lời kêu gọi hành động không thể cưỡng lại."
+
+#: app/views/admin/onboarding/welcome.php:136
+msgid "Add a touch of pizzazz to your blog posts with product displays that demand attention and drive commissions."
+msgstr "Thêm một chút sự quyến rũ vào các bài đăng trên blog của bạn với các hiển thị sản phẩm thu hút sự chú ý và thúc đẩy hoa hồng."
+
+#: app/views/admin/onboarding/welcome.php:134
+msgid "Scroll-Stopping Product Displays"
+msgstr "Hiển thị Sản phẩm Dừng Cuộn"
+
+#: app/views/admin/onboarding/welcome.php:126
+msgid "Whether you're transitioning to a new website or making the smart move of switching from a different plugin, our intuitive import and export functionality ensures a smooth, secure, and stress-free process."
+msgstr "Cho dù bạn đang chuyển đổi sang một trang web mới hay thực hiện động thái thông minh là chuyển từ một plugin khác, chức năng nhập và xuất trực quan của chúng tôi đảm bảo một quy trình suôn sẻ, an toàn và không căng thẳng."
+
+#: app/views/admin/onboarding/welcome.php:125
+msgid "Easily migrate links between platforms, back up your valuable link data, or collaborate with others by sharing links effortlessly with our 1-click import and export feature."
+msgstr "Dễ dàng di chuyển liên kết giữa các nền tảng, sao lưu dữ liệu liên kết quý giá của bạn hoặc cộng tác với những người khác bằng cách chia sẻ liên kết một cách dễ dàng với tính năng nhập và xuất 1-click của chúng tôi."
+
+#: app/views/admin/onboarding/welcome.php:123
+msgid "Effortlessly Import & Export Links"
+msgstr "Nhập và xuất liên kết dễ dàng"
+
+#: app/views/admin/onboarding/welcome.php:116
+msgid "This opens up a world of possibilities to deliver a personalized experience for each user, directing them to the most relevant content."
+msgstr "Điều này mở ra một thế giới đầy tiềm năng để mang đến trải nghiệm cá nhân hóa cho mỗi người dùng, hướng họ đến nội dung phù hợp nhất."
+
+#: app/views/admin/onboarding/welcome.php:115
+msgid "With dynamic redirects, you have the power to create rules that consider a wide range of factors, including user location, device type, and even the time of day."
+msgstr "Với chuyển hướng động, bạn có quyền tạo ra các quy tắc xem xét nhiều yếu tố, bao gồm vị trí của người dùng, loại thiết bị và thậm chí cả thời gian trong ngày."
+
+#: app/views/admin/onboarding/welcome.php:114
+msgid "In addition to traditional redirects that send users to a single destination, dynamic redirects offer an exceptional advantage by allowing you to determine the user's destination based on specific conditions."
+msgstr "Ngoài các chuyển hướng truyền thống gửi người dùng đến một điểm đến duy nhất, chuyển hướng động mang đến một lợi thế vượt trội bằng cách cho phép bạn xác định điểm đến của người dùng dựa trên các điều kiện cụ thể."
+
+#: app/views/admin/onboarding/welcome.php:105
+msgid "Then, Pretty Links takes it a step further by offering advanced forms of redirection. Explore JavaScript-based redirects, Meta-Refresh redirection, Framed Cloak Redirection, and even Pixel Tracking to optimize every aspect of your website."
+msgstr "Sau đó, Pretty Links đưa nó lên một tầm cao mới bằng cách cung cấp các hình thức chuyển hướng nâng cao. Khám phá chuyển hướng dựa trên JavaScript, chuyển hướng Meta-Refresh, chuyển hướng Framed Cloak và thậm chí cả Pixel Tracking để tối ưu hóa mọi khía cạnh của trang web của bạn."
+
+#: app/views/admin/onboarding/welcome.php:104
+msgid "Start with the traditional server-side URL redirects, such as 301 redirects for permanent redirection and 302/307 redirects for temporary redirection."
+msgstr "Bắt đầu với các chuyển hướng URL phía máy chủ truyền thống, chẳng hạn như chuyển hướng 301 cho chuyển hướng vĩnh viễn và chuyển hướng 302/307 cho chuyển hướng tạm thời."
+
+#: app/views/admin/onboarding/welcome.php:103
+msgid "When it comes to boosting your SEO, enhancing user experience, or streamlining your website, the right redirect type can be a game-changer."
+msgstr "Khi nói đến việc thúc đẩy SEO, nâng cao trải nghiệm người dùng hoặc tối ưu hóa website của bạn, loại chuyển hướng phù hợp có thể là một yếu tố thay đổi cuộc chơi."
+
+#: app/views/admin/onboarding/welcome.php:94
+msgid "No more scrambling to find the right link. Everything is at your fingertips, neatly organized in one convenient location."
+msgstr "Không còn phải vất vả tìm kiếm liên kết phù hợp. Mọi thứ đều nằm trong tầm tay bạn, được sắp xếp gọn gàng ở một vị trí thuận tiện."
+
+#: app/views/admin/onboarding/welcome.php:93
+msgid "Take link organization to the next level with custom link categories. Effortlessly sort and group your links based on affiliate programs, platforms, campaigns, or any criteria that help you stay in control and on top of your marketing game."
+msgstr "Nâng cao việc tổ chức liên kết lên một tầm cao mới với các danh mục liên kết tùy chỉnh. Sắp xếp và nhóm liên kết của bạn một cách dễ dàng dựa trên các chương trình liên kết, nền tảng, chiến dịch hoặc bất kỳ tiêu chí nào giúp bạn kiểm soát và dẫn đầu trong trò chơi tiếp thị."
+
+#: app/views/admin/onboarding/welcome.php:92
+msgid "As a content creator constantly on the move, juggling links across multiple platforms can be a chaotic experience. But fear not, because Pretty Links is here to bring order to the madness."
+msgstr "Là một nhà sáng tạo nội dung liên tục di chuyển, việc quản lý các liên kết trên nhiều nền tảng có thể là một trải nghiệm hỗn loạn. Nhưng đừng lo, bởi Pretty Links ở đây để mang lại trật tự cho sự hỗn loạn."
+
+#: app/views/admin/onboarding/welcome.php:90
+msgid "Streamlined Categories & Tags"
+msgstr "Danh mục & Thẻ được sắp xếp hợp lý"
+
+#: app/views/admin/onboarding/welcome.php:71
+msgid "Put an end to the mind-numbing task of manually inserting links into your content. Let Pretty Links do the heavy lifting, effortlessly sneaking in your cash-loaded affiliate links while you sit back and chillax."
+msgstr "Kết thúc công việc nhàm chán khi chèn thủ công các liên kết vào nội dung của bạn. Hãy để Pretty Links thực hiện công việc nặng nhọc, dễ dàng lén lút thêm các liên kết liên kết đầy tiền của bạn trong khi bạn ngồi ngả lưng và thư giãn."
+
+#: app/views/admin/onboarding/welcome.php:56
+msgid "Unlock the The Power of"
+msgstr "Mở khóa sức mạnh của"
+
+#: app/views/admin/onboarding/welcome.php:22
+msgid "Get Started"
+msgstr "Bắt đầu"
+
+#: app/views/admin/onboarding/welcome.php:16
+msgid "With just a few clicks, you can create customized, trackable, and shareable links that will leave a lasting impression. But that's not all! We also offer a range of advanced features, including comprehensive analytics, automated redirects, and so much more."
+msgstr "Chỉ với vài cú nhấp chuột, bạn có thể tạo các liên kết tùy chỉnh, có thể theo dõi và chia sẻ, để lại ấn tượng sâu sắc. Nhưng đó chưa phải là tất cả! Chúng tôi cũng cung cấp một loạt các tính năng nâng cao, bao gồm phân tích toàn diện, chuyển hướng tự động và nhiều hơn nữa."
+
+#: app/views/admin/onboarding/welcome.php:13
+msgid "Here at Pretty Links, we believe every link deserves to be pretty, sleek, and oh-so-effective. Whether you're a seasoned affiliate marketer, a passionate blogger, or simply someone who wants their links to pop, we've got the perfect tools to make it happen."
+msgstr "Tại Pretty Links, chúng tôi tin rằng mỗi liên kết xứng đáng được đẹp, thanh lịch và hiệu quả. Cho dù bạn là một nhà tiếp thị liên kết dày dạn kinh nghiệm, một blogger đam mê, hay đơn giản là một người muốn liên kết của mình nổi bật, chúng tôi đều có những công cụ hoàn hảo để giúp bạn thực hiện điều đó."
+
+#: app/views/admin/onboarding/welcome.php:69
+msgid "Automatic Link Placement "
+msgstr "Đặt liên kết tự động "
+
+#: app/views/admin/onboarding/welcome.php:10
+msgid "Welcome aboard the most powerful link management platform on the planet! We're thrilled to have you join our community of link-loving enthusiasts."
+msgstr "Chào mừng bạn đến với nền tảng quản lý liên kết mạnh mẽ nhất hành tinh! Chúng tôi rất vui mừng khi bạn tham gia cộng đồng những người yêu thích liên kết của chúng tôi."
+
+#: app/views/admin/onboarding/parts/pretty-link.php:91
+msgid "Your Pretty Link"
+msgstr "Liên kết Pretty của bạn"
+
+#: app/views/admin/onboarding/parts/pretty-link.php:75
+msgid "Don't want to upgrade yet? Click the \"Create New Pretty Link\" button to get started with creating your first pretty link."
+msgstr "Chưa muốn nâng cấp? Nhấp vào nút \"Tạo Liên kết Pretty Mới\" để bắt đầu tạo liên kết Pretty đầu tiên của bạn."
+
+#: app/views/admin/onboarding/parts/pretty-link.php:70
+msgid "Import"
+msgstr "Nhập"
+
+#: app/views/admin/onboarding/parts/pretty-link.php:64
+msgid "Failed Rows:"
+msgstr "Hàng thất bại:"
+
+#: app/views/admin/onboarding/parts/pretty-link.php:61
+msgid "Links Unable to be Updated: "
+msgstr "Liên kết không thể cập nhật: "
+
+#: app/views/admin/onboarding/parts/pretty-link.php:60
+msgid "Links Unable to be Created: "
+msgstr "Liên kết không thể tạo: "
+
+#: app/views/admin/onboarding/parts/pretty-link.php:59
+msgid "Links Updated: "
+msgstr "Liên kết đã được cập nhật: "
+
+#: app/views/admin/onboarding/parts/pretty-link.php:58
+msgid "Links Created: "
+msgstr "Liên kết đã được tạo: "
+
+#: app/views/admin/onboarding/parts/pretty-link.php:56
+msgid "Import Information"
+msgstr "Thông tin nhập"
+
+#: app/views/admin/onboarding/parts/pretty-link.php:35
+msgid "For an example of a properly formatted Pretty Links CSV file, please click the \"Download Sample CSV\" button below."
+msgstr "Để xem ví dụ về tệp CSV Pretty Links được định dạng chính xác, vui lòng nhấp vào nút \"Tải xuống mẫu CSV\" bên dưới."
+
+#: app/views/admin/onboarding/parts/pretty-link.php:34
+msgid "To convert your existing links into pretty links, you'll need a CSV file that's compatible with the plugin."
+msgstr "Để chuyển đổi các liên kết hiện có của bạn thành các liên kết đẹp, bạn sẽ cần một tệp CSV tương thích với plugin."
+
+#: app/views/admin/onboarding/parts/pretty-link.php:31
+msgid "Import Your Links"
+msgstr "Nhập liên kết của bạn"
+
+#: app/views/admin/onboarding/parts/pretty-link.php:23
+msgid "Import Existing Links"
+msgstr "Nhập Liên kết Hiện có"
+
+#: app/views/admin/onboarding/parts/pretty-link.php:20
+msgid "Create Your First Pretty Link"
+msgstr "Tạo Liên kết Đẹp Đầu Tiên Của Bạn"
+
+#: app/views/admin/onboarding/parts/pretty-link.php:12
+msgid "Whether you have one, two, or even thousands of ugly-looking links, we're here to help you get them cleaned up and click-worthy."
+msgstr "Cho dù bạn có một, hai, hoặc thậm chí hàng ngàn liên kết xấu xí, chúng tôi ở đây để giúp bạn làm cho chúng sạch sẽ và đáng nhấp chuột."
+
+#: app/views/admin/onboarding/parts/pretty-link.php:11
+msgid "Create Your Pretty Link"
+msgstr "Tạo Liên kết Đẹp Của Bạn"
+
+#. translators: %1$s: open underline tag, %2$s: close underline tag
+#: app/views/admin/onboarding/parts/link_popup.php:34
+msgid "More advanced options are available on the %1$sPretty Links%2$s page"
+msgstr "Nhiều tùy chọn nâng cao hơn có sẵn trên trang %1$sPretty Links%2$s"
+
+#: app/views/admin/onboarding/parts/link_popup.php:22
+msgid "Cloaked (Pro)"
+msgstr "Che giấu (Pro)"
+
+#: app/views/admin/onboarding/parts/link_popup.php:1
+msgid "Create Pretty Link"
+msgstr "Tạo Liên kết Đẹp"
+
+#: app/views/admin/onboarding/parts/finish.php:134
+msgid "Please wait... We're prepping your link(s) for optimal performance."
+msgstr "Vui lòng chờ... Chúng tôi đang chuẩn bị liên kết(của bạn) cho hiệu suất tối ưu."
+
+#: app/views/admin/onboarding/parts/finish.php:113
+msgid "Please don't close the browser."
+msgstr "Vui lòng không đóng trình duyệt."
+
+#: app/views/admin/onboarding/parts/finish.php:112
+#: app/views/admin/onboarding/parts/finish.php:132
+msgid "Finishing setup"
+msgstr "Hoàn thành thiết lập"
+
+#: app/views/admin/onboarding/parts/finish.php:67
+msgid "Finish setup"
+msgstr "Hoàn tất thiết lập"
+
+#: app/views/admin/onboarding/parts/finish.php:41
+msgid "Please wait while the upgrade is processed, this may take a minute."
+msgstr "Vui lòng chờ trong khi nâng cấp được xử lý, điều này có thể mất một phút."
+
+#: app/views/admin/onboarding/parts/finish.php:39
+msgid "Processing upgrade"
+msgstr "Đang xử lý nâng cấp"
+
+#: app/views/admin/onboarding/parts/category-pro.php:51
+msgid "Search for the links you want to assign to this category."
+msgstr "Tìm kiếm các liên kết bạn muốn gán vào danh mục này."
+
+#: app/views/admin/onboarding/parts/category-pro.php:44
+msgid "Enter the name of your category."
+msgstr "Nhập tên danh mục của bạn."
+
+#: app/views/admin/onboarding/parts/category-pro.php:40
+msgid "Create Category"
+msgstr "Tạo Danh mục"
+
+#: app/views/admin/onboarding/parts/category-pro.php:26
+msgid "Count"
+msgstr "Số lượng"
+
+#: app/views/admin/onboarding/parts/category-pro.php:21
+msgid "Category Slug"
+msgstr "Slug Danh mục"
+
+#: app/views/admin/onboarding/parts/category-pro.php:16
+#: app/views/admin/onboarding/parts/category-pro.php:43
+msgid "Category Name"
+msgstr "Tên Danh mục"
+
+#: app/views/admin/onboarding/parts/category-pro.php:13
+msgid "Your category"
+msgstr "Danh mục của bạn"
+
+#: app/views/admin/onboarding/parts/category-pro.php:8
+msgid "Create New Category"
+msgstr "Tạo Danh Mục Mới"
+
+#: app/views/admin/onboarding/parts/category-lite.php:8
+msgid "Uh-oh! Pretty Links Lite doesn't have the superpower to support Categories. Upgrade to Pretty Links Pro for full control over organizing your links."
+msgstr "Ối! Pretty Links Lite không có sức mạnh siêu việt để hỗ trợ Danh mục. Nâng cấp lên Pretty Links Pro để kiểm soát đầy đủ việc sắp xếp các liên kết của bạn."
+
+#: app/views/admin/onboarding/parts/category-lite.php:6
+#: app/views/admin/onboarding/parts/category-pro.php:5
+msgid "By categorizing your links, you'll have a neat and tidy system in place, allowing you to find what you need in a snap as you continue adding more links to your site."
+msgstr "Bằng cách phân loại các liên kết của bạn, bạn sẽ có một hệ thống gọn gàng và ngăn nắp, cho phép bạn tìm thấy những gì mình cần một cách nhanh chóng khi bạn tiếp tục thêm nhiều liên kết vào trang web của mình."
+
+#: app/views/admin/onboarding/parts/category-lite.php:5
+#: app/views/admin/onboarding/parts/category-pro.php:4
+msgid "Let's Get Organized!"
+msgstr "Hãy sắp xếp mọi thứ!"
+
+#: app/views/admin/onboarding/nav/complete.php:10
+msgid "Finish"
+msgstr "Hoàn thành"
+
+#: app/views/admin/onboarding/nav/category.php:13
+#: app/views/admin/onboarding/nav/features.php:3
+#: app/views/admin/onboarding/nav/finish.php:6
+#: app/views/admin/onboarding/nav/license.php:7
+#: app/views/admin/onboarding/nav/pretty-link.php:13
+msgid "Continue"
+msgstr "Tiếp tục"
+
+#: app/views/admin/onboarding/license.php:18
+#: app/views/admin/onboarding/nav/category.php:10
+#: app/views/admin/onboarding/nav/finish.php:3
+#: app/views/admin/onboarding/nav/pretty-link.php:10
+msgid "Skip"
+msgstr "Bỏ qua"
+
+#: app/views/admin/onboarding/license.php:15
+msgid "Let's kick things off by activating your license."
+msgstr "Hãy bắt đầu bằng cách kích hoạt giấy phép của bạn."
+
+#: app/views/admin/onboarding/license.php:10
+msgid "Your License"
+msgstr "Giấy phép của bạn"
+
+#: app/views/admin/onboarding/features.php:123
+msgid "If your subscription level allows, the following plugins will be installed automatically: %s"
+msgstr "Nếu mức đăng ký của bạn cho phép, các plugin sau sẽ được cài đặt tự động: %s"
+
+#: app/views/admin/onboarding/features.php:106
+msgid "Collect comprehensive data through Google Analytics, gaining deeper insights into link performance, user behavior, conversions, and more."
+msgstr "Thu thập dữ liệu toàn diện thông qua Google Analytics, giúp bạn hiểu rõ hơn về hiệu suất liên kết, hành vi người dùng, chuyển đổi và hơn thế nữa."
+
+#: app/views/admin/onboarding/features.php:90
+msgid "Transform plain ol’ text links into attention-grabbing showcases complete with captivating visuals, engaging descriptions, and irresistible CTAs."
+msgstr "Biến đổi các liên kết văn bản đơn giản thành những showcase thu hút sự chú ý, hoàn chỉnh với hình ảnh hấp dẫn, mô tả lôi cuốn và lời kêu gọi hành động không thể cưỡng lại."
+
+#: app/views/admin/onboarding/features.php:68
+msgid "Seamlessly link keywords and phrases throughout your content, driving more traffic to relevant pages and increasing your click-through rate."
+msgstr "Liên kết liền mạch các từ khóa và cụm từ trong toàn bộ nội dung của bạn, thu hút nhiều lưu lượng truy cập hơn đến các trang có liên quan và tăng tỷ lệ nhấp chuột."
+
+#: app/views/admin/onboarding/features.php:57
+msgid "Instantly receive notifications about broken links, so you can take immediate action, enhance user experience, and maintain a healthy website."
+msgstr "Nhận thông báo ngay lập tức về các liên kết bị hỏng, để bạn có thể thực hiện hành động ngay lập tức, nâng cao trải nghiệm người dùng và duy trì một trang web khỏe mạnh."
+
+#: app/views/admin/onboarding/features.php:46
+msgid "Create QR codes in seconds to engage your audience, boost brand visibility, and unlock new marketing opportunities."
+msgstr "Tạo mã QR trong vài giây để thu hút khán giả của bạn, tăng cường nhận diện thương hiệu và mở khóa cơ hội tiếp thị mới."
+
+#: app/views/admin/onboarding/features.php:35
+msgid "Build trust with your audience and maintain transparency by adding a “sponsored” attribute to your affiliate links."
+msgstr "Xây dựng lòng tin với khán giả và duy trì sự minh bạch bằng cách thêm thuộc tính \"được tài trợ\" vào các liên kết liên kết của bạn."
+
+#: app/views/admin/onboarding/features.php:24
+msgid "Protect your privacy by requesting search engine crawlers don't track your links. Please note: it’s up to the search engine to obey this request."
+msgstr "Bảo vệ quyền riêng tư của bạn bằng cách yêu cầu trình thu thập thông tin của công cụ tìm kiếm không theo dõi các liên kết của bạn. Xin lưu ý: việc tuân thủ yêu cầu này phụ thuộc vào công cụ tìm kiếm."
+
+#: app/views/admin/onboarding/features.php:13
+msgid "Monitor clicks, engagement, conversions, and more to make data-driven decisions and boost your marketing strategies."
+msgstr "Theo dõi lượt nhấp, tương tác, chuyển đổi và hơn thế nữa để đưa ra quyết định dựa trên dữ liệu và thúc đẩy các chiến lược tiếp thị của bạn."
+
+#: app/views/admin/onboarding/features.php:12
+msgid "Link Tracking"
+msgstr "Theo dõi Liên kết"
+
+#: app/views/admin/onboarding/features.php:8
+msgid "Pretty Links is packed with powerful link management and optimization features. Here are a few you can enable right from the start."
+msgstr "Pretty Links được trang bị nhiều tính năng quản lý và tối ưu hóa liên kết mạnh mẽ. Đây là một số tính năng bạn có thể bật ngay từ đầu."
+
+#: app/views/admin/onboarding/features.php:7
+msgid "What Features Do You Need?"
+msgstr "Bạn Cần Những Tính Năng Nào?"
+
+#: app/views/admin/onboarding/created-links-list.php:17
+msgid "Your Pretty Links"
+msgstr "Pretty Links của Bạn"
+
+#: app/views/admin/onboarding/complete.php:50
+msgid "Sign up for tips, tricks, and industry updates from top affiliate marketers and influencers."
+msgstr "Đăng ký để nhận mẹo, thủ thuật và cập nhật ngành từ các nhà tiếp thị liên kết và người có ảnh hưởng hàng đầu."
+
+#: app/views/admin/onboarding/complete.php:45
+#: app/views/admin/onboarding/complete.php:49
+msgid "Pretty Links Blog"
+msgstr "Blog Pretty Links"
+
+#: app/views/admin/onboarding/complete.php:17
+msgid "Now that you've configured Pretty Links, it's time to learn the basics of the plugin so you can start monetizing your content!"
+msgstr "Bây giờ bạn đã cấu hình Pretty Links, đã đến lúc tìm hiểu những điều cơ bản về plugin để bạn có thể bắt đầu kiếm tiền từ nội dung của mình!"
+
+#: app/views/admin/onboarding/complete.php:12
+#: app/views/admin/onboarding/complete.php:16
+msgid "Getting Started with Pretty Links"
+msgstr "Bắt đầu với Pretty Links"
+
+#: app/views/admin/onboarding/complete.php:6
+msgid "Your next steps..."
+msgstr "Các bước tiếp theo của bạn..."
+
+#: app/views/admin/onboarding/complete.php:2
+msgid "That’s It! You're Ready to Roll"
+msgstr "Đó là tất cả! Bạn đã sẵn sàng để bắt đầu"
+
+#: app/views/admin/onboarding/active_license.php:66
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/LicenseManager.php:185
+msgid "Deactivate License"
+msgstr "Hủy kích hoạt giấy phép"
+
+#: app/views/admin/onboarding/active_license.php:63
+msgid "Manage activations"
+msgstr "Quản lý kích hoạt"
+
+#: app/views/admin/onboarding/active_license.php:48
+msgid "Activations"
+msgstr "Kích hoạt"
+
+#: app/views/admin/onboarding/active_license.php:40
+msgid "Product"
+msgstr "Sản phẩm"
+
+#: app/views/admin/onboarding/active_license.php:35
+msgid "Unknown"
+msgstr "Không xác định"
+
+#: app/views/admin/onboarding/active_license.php:32
+msgid "Account email"
+msgstr "Email tài khoản"
+
+#: app/views/admin/onboarding/active_license.php:25
+msgid "License activated"
+msgstr "Giấy phép đã được kích hoạt"
+
+#: app/views/admin/onboarding/active_license.php:19
+msgid "License activated until %s"
+msgstr "Giấy phép được kích hoạt cho đến %s"
+
+#: app/helpers/PrliOnboardingHelper.php:250
+msgid "Looks like you selected the Product Display feature – you've got great instincts! Supercharge your blog revenue from the start by upgrading your plan now."
+msgstr "Có vẻ như bạn đã chọn tính năng Hiển thị Sản phẩm – bạn có trực giác tuyệt vời! Tăng cường doanh thu blog của bạn ngay từ đầu bằng cách nâng cấp gói của bạn ngay bây giờ."
+
+#: app/views/admin/onboarding/parts/pretty-link.php:13
+msgid "Click the \"Create New Link\" button below and we'll guide you through creating your first pretty link!"
+msgstr "Nhấn vào nút \"Tạo liên kết mới\" bên dưới và chúng tôi sẽ hướng dẫn bạn tạo pretty link đầu tiên của mình!"
+
+#: app/views/admin/onboarding/parts/link_popup.php:11
+msgid "Enter the slug for your pretty link."
+msgstr "Nhập đường dẫn cố định cho pretty link của bạn."
+
+#: app/views/admin/onboarding/parts/link_popup.php:6
+msgid "Enter the URL where your pretty link should redirect to."
+msgstr "Nhập URL mà pretty link của bạn nên chuyển hướng đến."
+
+#: app/views/admin/onboarding/features.php:79
+msgid "Effortlessly import and export your pretty links with a simple click, streamlining your link management and saving valuable time and effort."
+msgstr "Nhập và xuất khẩu các pretty link mắt của bạn một cách dễ dàng chỉ với một cú nhấp chuột, hợp lý hóa việc quản lý liên kết của bạn và tiết kiệm thời gian và công sức quý báu."
+
+#. translators: %1$d: activation count, %2$d: max activations
+#: app/views/admin/onboarding/active_license.php:54
+msgid "%1$d of %2$d sites have been activated with this license key"
+msgstr "%1$d trong số %2$d trang web đã được kích hoạt bằng mã bản quyền này"
+
+#: app/helpers/PrliOnboardingHelper.php:249
+msgid "Upgrade to Super Affiliate"
+msgstr "Nâng cấp lên Super Affiliate"
+
+#: app/helpers/PrliOnboardingHelper.php:247
+msgid "Super Affiliate"
+msgstr "Super Affiliate"
+
+#: app/helpers/PrliOnboardingHelper.php:244
+msgid "Looks like you selected one of our premium features – you mean business! Kick things into high gear by upgrading to one of our pro plan options now."
+msgstr "Có vẻ như bạn đã chọn một trong những tính năng cao cấp của chúng tôi – bạn có nghĩa là kinh doanh! Bắt đầu mọi thứ với tốc độ cao bằng cách nâng cấp lên một trong các tùy chọn gói chuyên nghiệp của chúng tôi ngay bây giờ."
+
+#: app/helpers/PrliOnboardingHelper.php:184
+msgid "Link Category"
+msgstr "Danh mục liên kết"
+
+#: app/helpers/PrliOnboardingHelper.php:146
+msgid "Check out what you set up..."
+msgstr "Kiểm tra những gì bạn đã thiết lập..."
+
+#: app/helpers/PrliOnboardingHelper.php:128
+#: app/views/admin/onboarding/features.php:105
+msgid "MonsterInsights"
+msgstr "MonsterInsights"
+
+#: app/helpers/PrliOnboardingHelper.php:126
+#: app/views/admin/onboarding/features.php:78
+msgid "Import/Export Links"
+msgstr "Nhập / Xuất liên kết"
+
+#: app/helpers/PrliOnboardingHelper.php:124
+#: app/views/admin/onboarding/features.php:56
+msgid "Link Health"
+msgstr "Tình trạng liên kết"
+
+#: app/helpers/PrliOnboardingHelper.php:123
+#: app/views/admin/onboarding/features.php:45
+msgid "QR Codes"
+msgstr "Mã QR"
+
+#. translators: %1$s open link tag, %2$s: close link tag
+#: app/controllers/PrliOnboardingController.php:972
+msgid "Welcome back! It seems the excitement of setting up Pretty Links got the best of you. No worries! %1$sClick here%2$s and we'll whisk you back to where you left off."
+msgstr "Chào mừng trở lại! Có vẻ như sự phấn khích khi thiết lập Pretty Links đã khiến bạn mất tập trung. Đừng lo! %1$sNhấp vào đây%2$s và chúng tôi sẽ đưa bạn trở lại nơi bạn đã dừng lại."
+
+#: app/controllers/PrliOnboardingController.php:868
+#: app/views/admin/onboarding/parts/finish.php:84
+msgid "Unable to install. Please download and install manually."
+msgstr "Không thể cài đặt. Vui lòng tải xuống và cài đặt thủ công."
+
+#: app/controllers/PrliOnboardingController.php:669
+msgid "There was a problem processing your CSV file. Please try the import again."
+msgstr "Có vấn đề khi xử lý tệp CSV của bạn. Vui lòng thử nhập lại."
+
+#: app/controllers/PrliOnboardingController.php:650
+msgid "Invalid request."
+msgstr "Yêu cầu không hợp lệ."
+
+#: app/controllers/PrliOnboardingController.php:139
+#: app/views/admin/onboarding/created-links-list.php:31
+#: app/views/admin/onboarding/parts/category-pro.php:33
+#: app/views/admin/onboarding/parts/pretty-link.php:102
+msgid "Remove"
+msgstr "Xóa"
+
+#: app/controllers/PrliOnboardingController.php:135
+msgid "An error occurred when installing an add-on, please download and install the add-ons manually."
+msgstr "Lỗi xảy ra khi cài đặt tiện ích bổ sung, vui lòng tải xuống và cài đặt tiện ích bổ sung thủ công."
+
+#: app/controllers/PrliOnboardingController.php:132
+msgid "This may take a couple of minutes"
+msgstr "Điều này có thể mất vài phút"
+
+#: app/controllers/PrliOnboardingController.php:131
+msgid "Page"
+msgstr "Trang"
+
+#: app/controllers/PrliOnboardingController.php:130
+msgid "Course"
+msgstr "Khóa học"
+
+#: app/controllers/PrliOnboardingController.php:129
+#: app/views/admin/onboarding/created-links-list.php:23
+msgid "Link Name"
+msgstr "Tên liên kết"
+
+#: app/controllers/PrliOnboardingController.php:128
+msgid "Course Name"
+msgstr "Tên khóa học"
+
+#: app/controllers/PrliOnboardingController.php:124
+msgid "An error occurred"
+msgstr "Lỗi xảy ra"
+
+#: app/controllers/PrliOnboardingController.php:121
+msgid "Are you sure? You will no longer receive updates for Pretty Links if this License Key is deactivated."
+msgstr "Bạn có chắc chắn? Bạn sẽ không còn nhận được cập nhật cho Pretty Links nếu Khóa cấp phép này bị vô hiệu hóa."
+
+#: app/controllers/PrliOnboardingController.php:76
+msgid "Complete"
+msgstr "Hoàn thành"
+
+#: app/controllers/PrliOnboardingController.php:70
+msgid "Finish Setup"
+msgstr "Hoàn thành thiết lập"
+
+#: app/controllers/PrliOnboardingController.php:64
+msgid "Categorize Your Pretty Link"
+msgstr "Phân loại Pretty Link của bạn"
+
+#: app/controllers/PrliOnboardingController.php:58
+msgid "Creating Your Pretty Link"
+msgstr "Tạo Pretty Link của bạn"
+
+#: app/controllers/PrliOnboardingController.php:52
+msgid "Enable Features"
+msgstr "Kích hoạt tính năng"
+
+#: app/controllers/PrliOnboardingController.php:46
+#: app/views/admin/onboarding/license.php:14
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/LicenseManager.php:149
+msgid "Activate License"
+msgstr "Kích hoạt giấy phép"
+
+#: app/controllers/PrliOnboardingController.php:425
+msgid "There was a problem locating your newly created pretty link."
+msgstr "Có vấn đề khi xác định vị trí pretty link mới được tạo của bạn."
+
+#: app/controllers/PrliOnboardingController.php:419
+msgid "There was a problem attempting to create your pretty link. Please try again."
+msgstr "Có vấn đề khi cố gắng tạo pretty link của bạn. Vui lòng thử lại."
+
+#: app/controllers/PrliPostsController.php:74
+msgid "Upgrade to Pretty Links Pro now!"
+msgstr "Nâng cấp lên Pretty Links Pro ngay bây giờ!"
+
+#: app/controllers/PrliPostsController.php:73
+msgid "To get access to these advanced features, upgrade to Pretty Links Pro."
+msgstr "Để truy cập vào các tính năng nâng cao này, hãy nâng cấp lên Pretty Links Pro."
+
+#: app/controllers/PrliAppController.php:411 app/views/admin/update/ui.php:3
+msgid "Manage License"
+msgstr "Quản lý giấy phép"
+
+#: app/views/options/form.php:1192
+msgid "Disclosure to show for the display."
+msgstr "Báo cáo hiển thị cho màn hình."
+
+#: app/views/options/form.php:1189 app/views/options/form.php:1191
+msgid "Affiliate Disclosure"
+msgstr "Báo cáo liên kết tiếp thị"
+
+#: app/views/options/form.php:1178
+msgid "Text color for the two buttons used in the displays when hovered over."
+msgstr "Màu văn bản cho hai nút được sử dụng trong màn hình khi di chuột qua."
+
+#: app/views/options/form.php:1175 app/views/options/form.php:1177
+msgid "Button Hover Text Color"
+msgstr "Màu văn bản khi di chuột qua nút"
+
+#: app/views/options/form.php:1164
+msgid "Background color for the two buttons used in the displays when hovered over."
+msgstr "Màu nền cho hai nút được sử dụng trong màn hình khi di chuột qua."
+
+#: app/views/options/form.php:1161 app/views/options/form.php:1163
+msgid "Button Hover Background Color"
+msgstr "Màu nền khi di chuột qua nút"
+
+#: app/views/options/form.php:1150
+msgid "Text color for the two buttons used in the displays."
+msgstr "Màu văn bản cho hai nút được sử dụng trong màn hình."
+
+#: app/views/options/form.php:1147 app/views/options/form.php:1149
+msgid "Button Text Color"
+msgstr "Màu văn bản nút"
+
+#: app/views/options/form.php:1136
+msgid "Background color for the two buttons used in the displays."
+msgstr "Màu nền cho hai nút được sử dụng trong màn hình."
+
+#: app/views/options/form.php:1133 app/views/options/form.php:1135
+msgid "Button Background Color"
+msgstr "Màu nền nút"
+
+#: app/views/options/form.php:1125 app/views/options/form.php:1205
+msgid "Product Display Options"
+msgstr "Tùy chọn hiển thị sản phẩm"
+
+#: app/views/links/form_product_display.php:133
+msgid "Used to change the button text displayed for the review URL."
+msgstr "Được sử dụng để thay đổi văn bản nút hiển thị cho URL đánh giá."
+
+#: app/views/links/form_product_display.php:129
+#: app/views/links/form_product_display.php:132
+msgid "Review Button Text"
+msgstr "Văn bản nút đánh giá"
+
+#: app/views/links/form_product_display.php:120
+msgid "URL for the product review."
+msgstr "URL cho đánh giá sản phẩm."
+
+#: app/views/links/form_product_display.php:116
+#: app/views/links/form_product_display.php:119
+msgid "Review URL"
+msgstr "URL đánh giá"
+
+#: app/views/links/form_product_display.php:107
+msgid "Used to change the button text displayed for the target URL set up for the Pretty Link."
+msgstr "Được sử dụng để thay đổi văn bản nút hiển thị cho URL mục tiêu được thiết lập cho Pretty Link."
+
+#: app/views/links/form_product_display.php:103
+#: app/views/links/form_product_display.php:106
+msgid "Primary Button Text"
+msgstr "Văn bản nút chính"
+
+#: app/views/links/form_product_display.php:94
+msgid "Text shown as a badge at the top of the display."
+msgstr "Văn bản hiển thị dưới dạng huy hiệu ở đầu màn hình."
+
+#: app/views/links/form_product_display.php:90
+#: app/views/links/form_product_display.php:93
+msgid "Badge Text"
+msgstr "Văn bản huy hiệu"
+
+#: app/views/links/form_product_display.php:81
+msgid "Enter the price for this product."
+msgstr "Nhập giá cho sản phẩm này."
+
+#: app/views/links/form_product_display.php:77
+#: app/views/links/form_product_display.php:80
+#: app/views/links/prettypay_link_stripe.php:40
+msgid "Price"
+msgstr "Giá"
+
+#: app/views/links/form_product_display.php:60
+msgid "Enter a short description for this product."
+msgstr "Nhập mô tả ngắn cho sản phẩm này."
+
+#: app/views/links/form_product_display.php:50
+msgid "Update Image"
+msgstr "Cập nhật hình ảnh"
+
+#: app/views/links/form_product_display.php:45
+msgid "Upload an image associated with this product."
+msgstr "Tải lên hình ảnh liên quan đến sản phẩm này."
+
+#: app/views/links/form_product_display.php:41
+#: app/views/links/form_product_display.php:44
+msgid "Product Image"
+msgstr "Hình ảnh sản phẩm"
+
+#: app/views/links/form_product_display.php:35
+msgid "Sharp"
+msgstr "Sắc nét"
+
+#: app/views/links/form_product_display.php:34
+msgid "Boxed"
+msgstr "Hộp"
+
+#: app/views/links/form_product_display.php:28
+msgid "Theme to use for the display."
+msgstr "Giao diện sử dụng cho màn hình."
+
+#: app/views/links/form_product_display.php:24
+#: app/views/links/form_product_display.php:27
+msgid "Theme"
+msgstr "Giao diện"
+
+#: app/views/links/form_product_display.php:18
+msgid "Copy Shortcode"
+msgstr "Sao chép Shortcode"
+
+#: app/views/links/form.php:39 app/views/links/form_product_display.php:17
+#: app/views/options/form.php:61
+msgid "Product Display"
+msgstr "Hiển thị sản phẩm"
+
+#: app/views/admin/upgrade/groups.php:23
+msgid "No Display Groups found"
+msgstr "Không tìm thấy nhóm hiển thị"
+
+#: app/views/admin/addons/addon-page-pro.php:98
+msgid "Upgrade Now"
+msgstr "Nâng cấp ngay"
+
+#. translators: %s: add-on status label
+#. Translators: %s: add-on status label.
+#: app/views/admin/addons/addon-page-pro.php:66
+#: vendor-prefixed/caseproof/ground-level-mothership/Views/products.php:73
+msgid "Status: %s"
+msgstr "Trạng thái: %s"
+
+#: app/views/admin/addons/addon-page-pro.php:40
+#: vendor-prefixed/caseproof/ground-level-mothership/Views/products.php:43
+#: vendor-prefixed/caseproof/growth-tools/src/App.php:103
+msgid "Not Installed"
+msgstr "Chưa cài đặt"
+
+#. translators: %1$s: open link tag, %2$s: close link tag
+#: app/views/admin/addons/addon-page-pro.php:11
+msgid "Improve your links with our premium add-ons. Missing an add-on that you think you should be able to see? Click the %1$sRefresh Add-ons%2$s button above."
+msgstr "Cải thiện liên kết của bạn với các tiện ích bổ sung cao cấp của chúng tôi. Thiếu tiện ích bổ sung nào mà bạn nghĩ rằng bạn nên thấy? Nhấp vào nút %1$sLàm mới tiện ích bổ sung%2$s ở trên."
+
+#: app/views/admin/addons/addon-page-lite.php:27
+msgid "Status: "
+msgstr "Trạng thái: "
+
+#: app/views/admin/addons/addon-page-lite.php:23
+msgid "Add beautifully styled product displays to your site."
+msgstr "Thêm hiển thị sản phẩm được thiết kế đẹp mắt vào trang web của bạn."
+
+#: app/controllers/PrliAppController.php:230
+#: app/controllers/PrliAppController.php:231
+#: app/views/admin/addons/addon-page-lite.php:22
+#: app/views/admin/onboarding/features.php:89
+msgid "Product Displays"
+msgstr "Hiển thị sản phẩm"
+
+#: app/helpers/PrliOnboardingHelper.php:127
+#: app/views/admin/addons/addon-page-lite.php:21
+msgid "Pretty Links Product Displays"
+msgstr "Hiển thị sản phẩm Pretty Links"
+
+#: app/views/admin/addons/addon-page-lite.php:15
+#: app/views/admin/addons/addon-page-pro.php:18
+#: vendor-prefixed/caseproof/ground-level-mothership/Views/products.php:10
+msgid "Available Add-ons"
+msgstr "Tiện ích bổ sung có sẵn"
+
+#: app/views/admin/addons/addon-page-lite.php:5
+#: app/views/admin/addons/addon-page-pro.php:5
+#: vendor-prefixed/caseproof/ground-level-mothership/Views/products.php:18
+msgid "Search add-ons"
+msgstr "Tìm kiếm tiện ích bổ sung"
+
+#: app/views/admin/addons/addon-page-lite.php:5
+#: app/views/admin/addons/addon-page-pro.php:5
+#: vendor-prefixed/caseproof/ground-level-mothership/Views/products.php:14
+msgid "Refresh Add-ons"
+msgstr "Làm mới tiện ích bổ sung"
+
+#: app/lib/PrliAddonUpdates.php:206
+msgid "You can access in-depth information about Pretty Links at %1$sthe Pretty Links User Manual%2$s."
+msgstr "Bạn có thể truy cập thông tin chi tiết về Pretty Links tại %1$sHướng dẫn sử dụng Pretty Links%2$s."
+
+#: app/controllers/PrliAppController.php:921
+msgid "Support"
+msgstr "Hỗ trợ"
+
+#: app/controllers/PrliAppController.php:222
+#: app/controllers/PrliAppController.php:223
+#: app/controllers/PrliUpdateController.php:757
+msgid "Display Groups"
+msgstr "Nhóm hiển thị"
+
+#: app/controllers/PrliAddonsController.php:199
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/AddonsManager.php:305
+msgid "Add-on installed."
+msgstr "Tiện ích bổ sung đã được cài đặt."
+
+#: app/controllers/PrliAddonsController.php:199
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/AddonsManager.php:304
+msgid "Plugin installed."
+msgstr "Plugin đã được cài đặt."
+
+#: app/controllers/PrliAddonsController.php:191
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/AddonsManager.php:295
+msgid "Add-on installed & activated."
+msgstr "Tiện ích bổ sung đã được cài đặt và kích hoạt."
+
+#: app/controllers/PrliAddonsController.php:191
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/AddonsManager.php:294
+msgid "Plugin installed & activated."
+msgstr "Plugin đã được cài đặt và kích hoạt."
+
+#: app/controllers/PrliAddonsController.php:118
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/AddonsManager.php:216
+msgid "Add-on deactivated."
+msgstr "Tiện ích bổ sung đã bị tắt."
+
+#: app/controllers/PrliAddonsController.php:116
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/AddonsManager.php:214
+#: vendor-prefixed/caseproof/growth-tools/src/Helper/AddonHelper.php:70
+msgid "Plugin deactivated."
+msgstr "Plugin đã bị tắt."
+
+#: app/controllers/PrliAddonsController.php:83
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/AddonsManager.php:189
+msgid "Add-on activated."
+msgstr "Tiện ích bổ sung đã được kích hoạt."
+
+#: app/controllers/PrliAddonsController.php:81
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/AddonsManager.php:187
+msgid "Plugin activated."
+msgstr "Plugin đã được kích hoạt."
+
+#: app/controllers/PrliAddonsController.php:76
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/AddonsManager.php:178
+msgid "Could not activate add-on. Please activate from the Plugins page manually."
+msgstr "Không thể kích hoạt tiện ích bổ sung. Vui lòng kích hoạt từ trang Plugin theo cách thủ công."
+
+#: app/controllers/PrliAddonsController.php:74
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/AddonsManager.php:171
+msgid "Could not activate plugin. Please activate from the Plugins page manually."
+msgstr "Không thể kích hoạt plugin. Vui lòng kích hoạt từ trang Plugin theo cách thủ công."
+
+#: app/controllers/PrliAddonsController.php:33
+#: app/controllers/PrliAddonsController.php:138
+msgid "Could not install plugin."
+msgstr "Không thể cài đặt plugin."
+
+#: app/controllers/PrliAddonsController.php:32
+#: app/controllers/PrliAddonsController.php:140
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/AddonsManager.php:247
+msgid "Could not install add-on."
+msgstr "Không thể cài đặt tiện ích bổ sung."
+
+#: app/controllers/PrliAddonsController.php:31
+#: app/views/admin/addons/addon-page-pro.php:86
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/AddonsManager.php:389
+#: vendor-prefixed/caseproof/ground-level-mothership/Views/products.php:92
+#: vendor-prefixed/caseproof/growth-tools/src/App.php:107
+msgid "Deactivate"
+msgstr "Tắt"
+
+#: app/controllers/PrliAddonsController.php:29
+#: app/views/admin/addons/addon-page-lite.php:27
+#: app/views/admin/addons/addon-page-pro.php:43
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/AddonsManager.php:387
+#: vendor-prefixed/caseproof/ground-level-mothership/Views/products.php:46
+msgid "Inactive"
+msgstr "Không hoạt động"
+
+#: app/controllers/PrliAddonsController.php:28
+#: app/views/admin/addons/addon-page-pro.php:37
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/AddonsManager.php:386
+#: vendor-prefixed/caseproof/ground-level-mothership/Views/products.php:40
+#: vendor-prefixed/caseproof/growth-tools/src/App.php:105
+msgid "Active"
+msgstr "Hoạt động"
+
+#: app/controllers/PrliAppController.php:931
+msgid "Made with ♥ by the Pretty Links Team"
+msgstr "Được tạo ra với ♥ bởi đội ngũ Pretty Links"
+
+#: app/views/options/form.php:218
+msgid "Enable this option to be notified when your links are broken."
+msgstr "Bật tùy chọn này để nhận thông báo khi liên kết của bạn bị hỏng."
+
+#: app/views/options/form.php:214 app/views/options/form.php:217
+msgid "Enable Link Health"
+msgstr "Bật Kiểm tra liên kết"
+
+#: app/views/options/form.php:116
+msgid "Defaults 'No Follow' to be enabled on new links. This will add the nofollow and noindex in the HTTP Reponse headers when enabled on the link."
+msgstr "Mặc định 'Không theo dõi' được bật cho các liên kết mới. Điều này sẽ thêm nofollow và noindex vào tiêu đề phản hồi HTTP khi bật trên liên kết."
+
+#. translators: %1$s: the license edition, %2$s: the installed edition, %3$s:
+#. open link tag, %4$s: close link tag
+#: app/views/admin/update/active_license.php:12
+msgid "This License Key is for %1$s, but %2$s is installed. %3$sClick here%4$s to install the correct edition for the license (%1$s)."
+msgstr "Khóa bản quyền này dành cho %1$s, nhưng %2$s đang được cài đặt. %3$sNhấp vào đây%4$s để cài đặt phiên bản phù hợp cho giấy phép (%1$s)."
+
+#. translators: %1$s: open link tag, %2$s: close link tag
+#: app/controllers/PrliUpdateController.php:772
+#: app/lib/PrliAddonUpdates.php:216
+msgid "To restore automatic updates, %1$sinstall the correct edition%2$s of Pretty Links."
+msgstr "Để khôi phục cập nhật tự động, %1$scài đặt phiên bản phù hợp%2$s của Pretty Links."
+
+#: app/controllers/PrliUpdateController.php:653
+msgid "An error occurred while installing the correct edition."
+msgstr "Đã xảy ra lỗi trong khi cài đặt phiên bản phù hợp."
+
+#: app/controllers/PrliUpdateController.php:651
+msgid "An error occurred during deactivation: %s"
+msgstr "Đã xảy ra lỗi trong khi hủy kích hoạt: %s"
+
+#: app/controllers/PrliUpdateController.php:648
+msgid "Ajax error."
+msgstr "Lỗi Ajax."
+
+#: app/controllers/PrliUpdateController.php:647
+msgid "Invalid response."
+msgstr "Phản hồi không hợp lệ."
+
+#: app/controllers/PrliUpdateController.php:646
+msgid "An error occurred during activation: %s"
+msgstr "Đã xảy ra lỗi trong khi kích hoạt: %s"
+
+#: app/controllers/PrliUpdateController.php:402
+msgid "License key deactivated"
+msgstr "Khóa bản quyền đã bị hủy kích hoạt"
+
+#: app/controllers/PrliOnboardingController.php:804
+#: app/controllers/PrliUpdateController.php:228
+msgid "License data not found"
+msgstr "Không tìm thấy dữ liệu giấy phép"
+
+#: app/controllers/PrliOnboardingController.php:800
+#: app/controllers/PrliUpdateController.php:224
+msgid "Failed to install the correct edition of Pretty Links, please download it from prettylinks.com and install it manually."
+msgstr "Không thể cài đặt phiên bản phù hợp của Pretty Links, vui lòng tải xuống từ prettylinks.com và cài đặt thủ công."
+
+#: app/controllers/PrliOnboardingController.php:797
+#: app/controllers/PrliUpdateController.php:221
+msgid "The correct edition of Pretty Links has been installed successfully."
+msgstr "Phiên bản phù hợp của Pretty Links đã được cài đặt thành công."
+
+#: app/controllers/PrliOnboardingController.php:818
+#: app/controllers/PrliUpdateController.php:192
+msgid "Failed to get filesystem access"
+msgstr "Không thể truy cập vào hệ thống tệp"
+
+#. translators: %1$s: the product name, %2$s: open link tag, %3$s: close link
+#. tag
+#: app/controllers/PrliUpdateController.php:140
+msgid "This License Key has expired, but you have an active license for %1$s, %2$sclick here%3$s to activate using this license instead."
+msgstr "Khóa bản quyền này đã hết hạn, nhưng bạn có giấy phép hoạt động cho %1$s, %2$snhấp vào đây%3$s để kích hoạt bằng giấy phép này."
+
+#: app/controllers/PrliUpdateController.php:108
+msgid "The license information is not available, try refreshing the page."
+msgstr "Thông tin giấy phép không khả dụng, hãy thử tải lại trang."
+
+#: app/controllers/PrliAddonsController.php:66
+#: app/controllers/PrliAddonsController.php:109
+#: app/controllers/PrliAddonsController.php:132
+#: app/controllers/PrliLinksController.php:715
+#: app/controllers/PrliOnboardingController.php:204
+#: app/controllers/PrliPostsController.php:157
+#: app/controllers/PrliPostsController.php:185
+#: app/controllers/PrliUpdateController.php:74
+#: app/controllers/PrliUpdateController.php:169
+#: app/controllers/PrliUpdateController.php:208
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/AddonsManager.php:162
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/AddonsManager.php:207
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/AddonsManager.php:236
+msgid "Security check failed."
+msgstr "Kiểm tra bảo mật thất bại."
+
+#: app/controllers/PrliAddonsController.php:62
+#: app/controllers/PrliAddonsController.php:105
+#: app/controllers/PrliAddonsController.php:128
+#: app/controllers/PrliOnboardingController.php:200
+#: app/controllers/PrliOnboardingController.php:398
+#: app/controllers/PrliOnboardingController.php:639
+#: app/controllers/PrliOnboardingController.php:732
+#: app/controllers/PrliOnboardingController.php:776
+#: app/controllers/PrliOnboardingController.php:834
+#: app/controllers/PrliStripeConnectController.php:115
+#: app/controllers/PrliStripeConnectController.php:179
+#: app/controllers/PrliStripeConnectController.php:234
+#: app/controllers/PrliUpdateController.php:70
+#: app/controllers/PrliUpdateController.php:165
+#: app/controllers/PrliUpdateController.php:204
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/AddonsManager.php:158
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/AddonsManager.php:204
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/AddonsManager.php:232
+msgid "Sorry, you don't have permission to do this."
+msgstr "Xin lỗi, bạn không có quyền thực hiện thao tác này."
+
+#: app/controllers/PrliAddonsController.php:58
+#: app/controllers/PrliAddonsController.php:101
+#: app/controllers/PrliAddonsController.php:124
+#: app/controllers/PrliOnboardingController.php:196
+#: app/controllers/PrliOnboardingController.php:212
+#: app/controllers/PrliOnboardingController.php:218
+#: app/controllers/PrliOnboardingController.php:394
+#: app/controllers/PrliOnboardingController.php:643
+#: app/controllers/PrliOnboardingController.php:728
+#: app/controllers/PrliOnboardingController.php:772
+#: app/controllers/PrliOnboardingController.php:830
+#: app/controllers/PrliUpdateController.php:66
+#: app/controllers/PrliUpdateController.php:80
+#: app/controllers/PrliUpdateController.php:161
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/AddonsManager.php:154
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/AddonsManager.php:201
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/AddonsManager.php:228
+msgid "Bad request."
+msgstr "Yêu cầu không hợp lệ."
+
+#: app/views/admin/upgrade/reports.php:30
+msgid "No Pretty Link Reports were found"
+msgstr "Không tìm thấy báo cáo Pretty Link nào"
+
+#: app/views/admin/upgrade/reports.php:13
+#: app/views/admin/upgrade/reports.php:36
+msgid "Goal Link"
+msgstr "Liên kết mục tiêu"
+
+#: app/views/options/form.php:1118
+msgid "Public Link Options"
+msgstr "Tùy chọn liên kết công khai"
+
+#: app/views/options/form.php:641
+msgid "Keyword &amp; URL Options"
+msgstr "Tùy chọn từ khóa & URL"
+
+#: app/controllers/PrliReviewNoticeController.php:95
+#: app/views/admin/payments/customer_portal_notice.php:16
+msgid "No thanks"
+msgstr "Không cần cảm ơn"
+
+#: app/controllers/PrliReviewNoticeController.php:94
+msgid "Give Feedback"
+msgstr "Gửi phản hồi"
+
+#: app/controllers/PrliReviewNoticeController.php:92
+msgid "We're sorry to hear you aren't enjoying Pretty Links. We would love a chance to improve. Could you take a minute and let us know what we can do better?"
+msgstr "Chúng tôi rất tiếc khi biết bạn không hài lòng với Pretty Links. Chúng tôi rất muốn có cơ hội để cải thiện. Bạn có thể dành một chút thời gian để cho chúng tôi biết chúng tôi có thể làm gì tốt hơn?"
+
+#: app/controllers/PrliReviewNoticeController.php:88
+msgid "I already did"
+msgstr "Tôi đã làm rồi"
+
+#: app/controllers/PrliReviewNoticeController.php:87
+msgid "Nope, maybe later"
+msgstr "Không, có thể sau này"
+
+#: app/controllers/PrliReviewNoticeController.php:86
+msgid "Okay, you deserve it"
+msgstr "Được rồi, bạn xứng đáng"
+
+#: app/controllers/PrliReviewNoticeController.php:83
+msgid "That's awesome! Could you please do me a BIG favor and give it a 5-star rating on WordPress to help us spread the word and boost our motivation?"
+msgstr "Tuyệt vời! Bạn có thể làm cho tôi một LỢI ÍCH LỚN và đánh giá 5 sao trên WordPress để giúp chúng tôi lan tỏa thông điệp và tăng động lực?"
+
+#: app/controllers/PrliAppController.php:215
+msgid "Reports"
+msgstr "Báo cáo"
+
+#: app/controllers/PrliAppController.php:238
+#: app/controllers/PrliAppController.php:239
+#: app/controllers/PrliUpdateController.php:763
+msgid "Import / Export"
+msgstr "Nhập / Xuất"
+
+#: app/controllers/PrliAppController.php:214
+#: app/controllers/PrliUpdateController.php:751
+msgid "Link Reports"
+msgstr "Báo cáo liên kết"
+
+#: app/controllers/PrliFlyoutMenuController.php:91
+msgid "Suggest a Feature"
+msgstr "Đề xuất tính năng"
+
+#: app/controllers/PrliFlyoutMenuController.php:86
+msgid "Support & Docs"
+msgstr "Hỗ trợ & Tài liệu"
+
+#: app/controllers/PrliFlyoutMenuController.php:34
+msgid "See Quick Links"
+msgstr "Xem liên kết nhanh"
+
+#: app/controllers/PrliLinksController.php:180
+msgid "Tell Me More"
+msgstr "Cho tôi biết thêm"
+
+#: app/controllers/PrliLinksController.php:178
+msgid "Plus Much More!"
+msgstr "Và nhiều hơn nữa!"
+
+#: app/controllers/PrliAppController.php:206
+#: app/controllers/PrliLinksController.php:177
+#: app/controllers/PrliUpdateController.php:745
+msgid "Link Tags"
+msgstr "Thẻ liên kết"
+
+#: app/controllers/PrliAppController.php:198
+#: app/controllers/PrliLinksController.php:176
+#: app/controllers/PrliUpdateController.php:739
+msgid "Link Categories"
+msgstr "Danh mục liên kết"
+
+#: app/controllers/PrliLinksController.php:175
+msgid "Support & Updates"
+msgstr "Hỗ trợ & Cập nhật"
+
+#: app/controllers/PrliLinksController.php:174
+msgid "Auto-Link Keywords"
+msgstr "Tự động liên kết từ khóa"
+
+#: app/controllers/PrliLinksController.php:146
+msgid "Advanced Features"
+msgstr "Tính năng nâng cao"
+
+#: app/controllers/PrliLinksController.php:173
+msgid "Auto Create Pretty Links"
+msgstr "Tự động tạo pretty link"
+
+#. Description of the plugin
+#: pretty-link.php
+msgid "Shrink, track and share any URL using your website and brand!"
+msgstr "Thu gọn, theo dõi và chia sẻ bất kỳ URL nào bằng trang web và thương hiệu của bạn!"
+
+#: app/views/options/form.php:128
+msgid "Add the 'sponsored' attribute by default to new links. This will add sponsored in the HTTP Response headers when enabled."
+msgstr "Thêm thuộc tính 'sponsored' theo mặc định vào các liên kết mới. Điều này sẽ thêm sponsored vào tiêu đề phản hồi HTTP khi được bật."
+
+#: app/views/options/form.php:127 app/views/options/form.php:453
+msgid "Add Sponsored"
+msgstr "Thêm tài trợ"
+
+#: app/views/options/form.php:125
+msgid "Enable Sponsored"
+msgstr "Bật tài trợ"
+
+#: app/views/links/form_advanced.php:23
+msgid "Add a sponsored attribute to this link's http redirect header. Recommended if this is an affiliate link."
+msgstr "Thêm thuộc tính tài trợ vào tiêu đề chuyển hướng http của liên kết này. Khuyến nghị nếu đây là liên kết liên kết."
+
+#: app/views/links/form_advanced.php:22 js/build/editor.js:3
+#: js/editor/components/link-editor/index.js:381
+msgid "Sponsored Link"
+msgstr "Liên kết tài trợ"
+
+#: app/views/links/form_advanced.php:10
+msgid "Add a nofollow and noindex to this link's http redirect header. (Recommended)"
+msgstr "Thêm thuộc tính nofollow và noindex vào tiêu đề chuyển hướng http của liên kết này. (Được khuyến nghị)"
+
+#: app/controllers/PrliLinksController.php:658
+#: app/views/admin/onboarding/features.php:34
+#: app/views/links/form_advanced.php:19
+#: app/views/shared/tinymce_form_popup.php:54
+msgid "Sponsored"
+msgstr "Được tài trợ"
+
+#: app/helpers/PrliLinksHelper.php:60
+msgid "Sponsored Enabled"
+msgstr "Được tài trợ đã bật"
+
+#: app/controllers/PrliLinksController.php:653
+#: app/controllers/PrliLinksController.php:660
+#: app/controllers/PrliLinksController.php:667
+msgid "No Change"
+msgstr "Không thay đổi"
+
+#: app/controllers/PrliAppController.php:521
+msgid "Oops, Copy Failed!"
+msgstr "Oops, Sao chép thất bại!"
+
+#: app/controllers/PrliAppController.php:520
+msgid "Copied!"
+msgstr "Đã sao chép!"
+
+#: app/controllers/PrliLinksController.php:374
+msgid "Pretty Link created."
+msgstr "Pretty Link đã được tạo."
+
+#: app/controllers/PrliLinksController.php:370
+msgid "Pretty Link updated."
+msgstr "Pretty Link đã được cập nhật."
+
+#: app/controllers/PrliAppController.php:519
+msgid "Copy to Clipboard"
+msgstr "Sao chép liên kết"
+
+#: app/controllers/PrliLinksController.php:542
+msgid "Target"
+msgstr "Mục tiêu"
+
+#: app/controllers/PrliLinksController.php:73
+msgid "View Pretty Link"
+msgstr "Xem Pretty Link"
+
+#: app/controllers/PrliLinksController.php:71
+msgid "Edit Pretty Link"
+msgstr "Chỉnh sửa Pretty Link"
+
+#. translators: %1$s: open link tag, %2$s close link tag
+#: app/views/tools/form.php:31
+msgid "Just drag this \"Get PrettyLink\" link to your toolbar to install the bookmarklet. As you browse the web, you can just click this bookmarklet to create a pretty link from the current url you're looking at. %1$s(more help)%2$s"
+msgstr "Chỉ cần kéo liên kết \"Get PrettyLink\" này vào thanh công cụ của bạn để cài đặt bookmarklet. Khi bạn duyệt web, bạn có thể nhấp vào bookmarklet này để tạo một pretty link từ URL hiện tại bạn đang xem. %1$s(trợ giúp thêm)%2$s"
+
+#: app/views/links/form_pro.php:100
+msgid "Time"
+msgstr "Thời gian"
+
+#: app/views/links/form_pro.php:99
+msgid "Technology"
+msgstr "Công nghệ"
+
+#: app/views/links/form_pro.php:98
+msgid "Geographic"
+msgstr "Địa lý"
+
+#: app/views/links/form_pro.php:97
+msgid "Rotation"
+msgstr "Xoay vòng"
+
+#: app/views/links/form_pro.php:90
+msgid "These powerful options are available to give you dynamic control over redirection for this pretty link."
+msgstr "Những tùy chọn mạnh mẽ này có sẵn để cung cấp cho bạn quyền kiểm soát động về chuyển hướng cho pretty link này."
+
+#: app/views/links/form_pro.php:89
+msgid "Dynamic Redirection Options"
+msgstr "Tùy chọn chuyển hướng động"
+
+#: app/views/links/form_pro.php:86
+msgid "Dynamic Redirection"
+msgstr "Chuyển hướng động"
+
+#. translators: %1$s: br tag, %2$s: open b tag, %3$s close b tag
+#: app/views/links/form_pro.php:72
+msgid "Useful for adding Google Analytics tracking, Facebook retargeting pixels, or any other kind of tracking script to the HTML head for this pretty link.%1$s%1$sThese scripts will be in addition to any global one's you've defined in the options.%1$s%1$s%2$sNOTE:%3$s This does NOT work with 301, 302 and 307 type redirects."
+msgstr "Hữu ích để thêm theo dõi Google Analytics, pixel nhắm mục tiêu lại Facebook hoặc bất kỳ loại mã theo dõi nào khác vào đầu HTML cho liên kết đẹp này.%1$s%1$sNhững mã này sẽ được thêm vào bất kỳ mã nào bạn đã định nghĩa trong tùy chọn.%1$s%1$s%2$sLƯU Ý:%3$s Điều này KHÔNG hoạt động với chuyển hướng kiểu 301, 302 và 307."
+
+#: app/views/links/form_pro.php:66 app/views/links/form_pro.php:69
+msgid "Head Scripts"
+msgstr "Mã đầu trang"
+
+#: app/views/links/form_pro.php:49
+msgid "Auto-Replace URLs"
+msgstr "Tự động thay thế URL"
+
+#: app/views/links/form_pro.php:46
+msgid "URL Replacements"
+msgstr "Thay thế URL"
+
+#: app/views/links/form_pro.php:36
+msgid "Enter a comma separated list of keywords / keyword phrases that you'd like to replace with this link in your Posts & Pages."
+msgstr "Nhập danh sách các từ khóa / cụm từ khóa phân tách bằng dấu phẩy mà bạn muốn thay thế bằng liên kết này trong Bài đăng & Trang của mình."
+
+#: app/views/links/form_pro.php:35
+msgid "Auto-Replace Keywords"
+msgstr "Tự động thay thế từ khóa"
+
+#: app/views/links/form_pro.php:21
+msgid "Set this link to expire after a specific date or number of clicks."
+msgstr "Đặt liên kết này hết hạn sau ngày hoặc số lần nhấp cụ thể."
+
+#: app/views/links/form_pro.php:20
+msgid "Expire Link"
+msgstr "Liên kết hết hạn"
+
+#: app/views/links/form_pro.php:17
+msgid "Expire"
+msgstr "Hết hạn"
+
+#: app/views/links/form.php:35 app/views/links/form_product_display.php:33
+msgid "Basic"
+msgstr "Cơ bản"
+
+#: app/views/groups/list.php:80 app/views/groups/list.php:84
+msgid "View links in %s"
+msgstr "Xem các liên kết trong %s"
+
+#: app/views/groups/list.php:20
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: app/views/clicks/list.php:62
+msgid "Search Clicks"
+msgstr "Tìm kiếm lần nhấp"
+
+#: app/views/clicks/list.php:43
+msgid "Customize"
+msgstr "Tùy chỉnh"
+
+#: app/views/clicks/csv_download.php:4 app/views/clicks/list.php:6
+msgid "For %s"
+msgstr "Cho %s"
+
+#. translators: %1$s: open b tag, %2$s: close b tag, %3$d: current activation
+#. count, %4$s: max activations
+#: app/views/admin/update/active_license.php:44
+msgid "%1$s%3$d of %4$s%2$s sites have been activated with this license key"
+msgstr "%1$s%3$d trên %4$s%2$s trang web đã được kích hoạt bằng khóa cấp phép này"
+
+#: app/views/admin/update/active_license.php:32
+msgid "Active on %s"
+msgstr "Hoạt động trên %s"
+
+#: app/views/admin/popups/upgrade.php:24
+msgid "Maybe Later"
+msgstr "Có thể sau"
+
+#: app/views/admin/popups/upgrade.php:17
+msgid "Plus, upgrading is fast, easy and won't disrupt any of your existing links or data."
+msgstr "Thêm nữa, nâng cấp nhanh chóng, dễ dàng và sẽ không làm gián đoạn bất kỳ liên kết hoặc dữ liệu hiện có nào của bạn."
+
+#: app/views/admin/popups/upgrade.php:13
+msgid "Split-test your Pretty Links"
+msgstr "Kiểm tra chia tách Pretty Links của bạn"
+
+#: app/views/admin/popups/upgrade.php:12
+msgid "Expire your Pretty Links"
+msgstr "Làm hết hạn Pretty Links của bạn"
+
+#: app/views/admin/popups/upgrade.php:11
+msgid "Redirect by location, time, device or rotation"
+msgstr "Chuyển hướng theo vị trí, thời gian, thiết bị hoặc luân phiên"
+
+#: app/views/admin/popups/upgrade.php:10
+msgid "Redirect with cloaking, Javascript or Meta-refresh"
+msgstr "Chuyển hướng với ẩn danh, Javascript hoặc làm mới Meta"
+
+#: app/views/admin/popups/upgrade.php:9
+msgid "Monetize existing content with automated Pretty Link placement"
+msgstr "Kiếm tiền từ nội dung hiện có với việc đặt Pretty Link tự động"
+
+#: app/views/admin/popups/upgrade.php:7
+msgid "Unlock Pretty Links' PRO features and you'll be able to:"
+msgstr "Mở khóa các tính năng PRO của Pretty Links và bạn sẽ có thể:"
+
+#: app/views/admin/popups/rating.php:30
+msgid "To help us improve Pretty Links, would you mind taking a moment to leave feedback?"
+msgstr "Để giúp chúng tôi cải thiện Pretty Links, bạn có muốn dành một chút thời gian để để lại phản hồi?"
+
+#: app/views/admin/popups/rating.php:29 app/views/admin/popups/rating.php:37
+msgid "Leave Feedback"
+msgstr "Để lại phản hồi"
+
+#: app/views/admin/popups/rating.php:13
+msgid "No"
+msgstr "Không"
+
+#: app/views/admin/popups/rating.php:12
+msgid "Yes"
+msgstr "Có"
+
+#: app/controllers/PrliReviewNoticeController.php:79
+#: app/views/admin/popups/rating.php:8
+msgid "Are you enjoying using Pretty Links?"
+msgstr "Bạn có thích sử dụng Pretty Links không?"
+
+#: app/views/admin/onboarding/welcome.php:112
+msgid "Dynamic Redirect Types"
+msgstr "Loại chuyển hướng động"
+
+#: app/controllers/PrliLinksController.php:172
+#: app/views/admin/onboarding/welcome.php:101
+msgid "Advanced Redirect Types"
+msgstr "Loại chuyển hướng nâng cao"
+
+#: app/views/admin/onboarding/welcome.php:59
+msgid "The Power of Pretty Links Pro"
+msgstr "Sức mạnh của Pretty Links Pro"
+
+#: app/views/admin/onboarding/welcome.php:53
+msgid "Wasn't that easy? Now, you can use this link wherever you want!"
+msgstr "Có phải rất dễ dàng không? Bây giờ, bạn có thể sử dụng liên kết này ở bất cứ đâu bạn muốn!"
+
+#: app/views/admin/onboarding/welcome.php:48
+#: app/views/admin/onboarding/welcome.php:49
+msgid "Copy the Pretty Link URL"
+msgstr "Sao chép URL Pretty Link"
+
+#: app/views/admin/onboarding/welcome.php:43
+#: app/views/admin/onboarding/welcome.php:44
+msgid "Click \"Update\""
+msgstr "Nhấp vào \"Cập nhật\""
+
+#: app/views/admin/onboarding/welcome.php:38
+#: app/views/admin/onboarding/welcome.php:39
+msgid "Customize your Pretty Link Slug"
+msgstr "Tùy chỉnh Slug Pretty Link của bạn"
+
+#: app/views/admin/onboarding/welcome.php:33
+#: app/views/admin/onboarding/welcome.php:34
+msgid "Enter the URL of your Affiliate Link"
+msgstr "Nhập URL của liên kết liên kết của bạn"
+
+#: app/views/admin/onboarding/welcome.php:28
+#: app/views/admin/onboarding/welcome.php:29
+msgid "Click \"Add New Link\""
+msgstr "Nhấp vào \"Thêm liên kết mới\""
+
+#: app/views/admin/onboarding/welcome.php:8
+msgid "Welcome to Pretty Links"
+msgstr "Chào mừng đến với Pretty Links"
+
+#: app/views/options/form.php:1102
+msgid "This option will give you the ability to turn your website into a link shortening service for your users. Once selected, you can enable the Pretty Links Pro Sidebar Widget or just display the link creation form with the %s shortcode in any post or page on your website."
+msgstr "Tùy chọn này sẽ cho phép bạn biến trang web của mình thành dịch vụ rút gọn liên kết cho người dùng của bạn. Sau khi được chọn, bạn có thể bật Widget Thanh bên Pretty Links Pro hoặc chỉ hiển thị biểu mẫu tạo liên kết với shortcode %s trong bất kỳ bài đăng hoặc trang nào trên trang web của bạn."
+
+#: app/views/options/form.php:1100
+msgid "Enable Public Link Creation on this Site"
+msgstr "Bật tạo liên kết công khai trên trang web này"
+
+#: app/views/options/form.php:1098
+msgid "Enable Public Links"
+msgstr "Bật liên kết công khai"
+
+#: app/views/options/form.php:1090
+msgid "Public Links Creation Options"
+msgstr "Tùy chọn tạo liên kết công khai"
+
+#. translators: %1$s: example shortcode, %2$s: example template tag
+#: app/views/options/form.php:1070
+msgid "If you select none, you can still show your Social Buttons by manually adding the %1$s shortcode to your blog posts or %2$s template tag to your WordPress Theme."
+msgstr "Nếu bạn không chọn gì, bạn vẫn có thể hiển thị Nút mạng xã hội của mình bằng cách thêm thủ công shortcode %1$s vào bài đăng trên blog của bạn hoặc thẻ mẫu %2$s vào Chủ đề WordPress của bạn."
+
+#: app/views/options/form.php:1067
+msgid "Social Buttons Manual Placement"
+msgstr "Vị trí thủ công của nút mạng xã hội"
+
+#: app/views/options/form.php:1064
+msgid "Top and Bottom"
+msgstr "Trên cùng và dưới cùng"
+
+#: app/views/options/form.php:1063
+msgid "Bottom"
+msgstr "Dưới cùng"
+
+#: app/views/options/form.php:1062
+msgid "Top"
+msgstr "Trên cùng"
+
+#. translators: %1$s: br tag, %2$s open code tag, %3$s close code tag
+#: app/views/options/form.php:1052
+msgid "This determines where your Social Buttons Placement should appear in relation to content on Pages and/or Posts.%1$s%1$s%2$sNote:%3$s If you want this bar to appear then you must enable it in the \"Auto-Create Links\" section above."
+msgstr "Điều này xác định vị trí hiển thị của Nút Chia sẻ Xã hội liên quan đến nội dung trên Trang và/hoặc Bài viết.%1$s%1$s%2$sLưu ý:%3$s Nếu bạn muốn thanh này hiển thị thì bạn phải bật nó trong phần \"Tự động tạo liên kết\" ở trên."
+
+#: app/views/options/form.php:1049
+msgid "Social Buttons Placement"
+msgstr "Vị trí Nút Chia sẻ Xã hội"
+
+#: app/views/options/form.php:1047
+msgid "Buttons Placement"
+msgstr "Vị trí Nút"
+
+#. translators: %1$s: br tag, %2$s open code tag, %3$s close code tag
+#: app/views/options/form.php:1025
+msgid "Select which buttons you want to be visible on the Social Buttons Bar.%1$s%1$s%2$sNote:%3$s In order for the Social Buttons Bar to be visible on Pages and or Posts, you must first enable it in the \"Page &amp; Post Options\" section above."
+msgstr "Chọn những nút bạn muốn hiển thị trên thanh Nút Chia sẻ Xã hội.%1$s%1$s%2$sLưu ý:%3$s Để thanh Nút Chia sẻ Xã hội hiển thị trên Trang và/hoặc Bài viết, bạn phải bật nó trước trong phần \"Tùy chọn Trang & Bài viết\" ở trên."
+
+#: app/views/options/form.php:1022
+msgid "Social Buttons"
+msgstr "Nút Chia sẻ Xã hội"
+
+#: app/views/options/form.php:1020
+msgid "Buttons"
+msgstr "Nút"
+
+#: app/views/options/form.php:1016 app/views/options/form.php:1082
+msgid "Social Buttons Options"
+msgstr "Tùy chọn Nút Chia sẻ Xã hội"
+
+#: app/views/options/form.php:673
+msgid "Page Shortlinks"
+msgstr "Liên kết rút gọn Trang"
+
+#: app/views/options/form.php:656
+msgid "Post Shortlinks"
+msgstr "Liên kết rút gọn Bài viết"
+
+#: app/views/options/form.php:648 app/views/options/form.php:692
+msgid "Auto-Create Shortlink Options"
+msgstr "Tùy chọn Tự động tạo liên kết rút gọn"
+
+#. translators: %1$s: br tag, %2$s open strong tag, %3$s: close strong tag
+#: app/views/options/form.php:623
+msgid "This feature will index all of your keyword & URL replacements to dramatically improve performance.%1$s%1$sIf your site has a large number of replacements and/or posts then this feature may increase the load on your server temporarily and your replacements may not show up on your posts for a day or two initially (until all posts are indexed).%1$s%1$s%2$sNote:%3$s this feature requires the use of wp-cron."
+msgstr "Tính năng này sẽ lập chỉ mục tất cả các thay thế từ khóa & URL của bạn để cải thiện hiệu suất đáng kể.%1$s%1$sNếu trang web của bạn có nhiều thay thế và / hoặc bài đăng thì tính năng này có thể làm tăng tải trên máy chủ của bạn tạm thời và các thay thế của bạn có thể không hiển thị trên bài đăng của bạn trong một hoặc hai ngày đầu tiên (cho đến khi tất cả bài đăng được lập chỉ mục).%1$s%1$s%2$sLưu ý:%3$s tính năng này yêu cầu sử dụng wp-cron."
+
+#: app/views/options/form.php:677
+msgid "Automatically Create a Pretty Link for each of your published Pages"
+msgstr "Tự động tạo một pretty link cho mỗi trang đã xuất bản"
+
+#: app/views/options/form.php:676
+msgid "Create Pretty Links for Pages"
+msgstr "Tạo pretty link cho trang"
+
+#: app/views/options/form.php:660
+msgid "Automatically Create a Pretty Link for each of your published Posts"
+msgstr "Tự động tạo một pretty link cho mỗi bài viết đã xuất bản"
+
+#: app/views/options/form.php:659
+msgid "Create Pretty Links for Posts"
+msgstr "Tạo pretty link cho bài viết"
+
+#: app/views/options/form.php:583
+msgid "Replace Keywords and URLs in Feeds"
+msgstr "Thay thế Từ khóa và URL trong Nguồn cấp dữ liệu"
+
+#: app/views/options/form.php:581
+msgid "Replace in Feeds"
+msgstr "Thay thế trong Nguồn cấp dữ liệu"
+
+#: app/views/options/form.php:567
+msgid "This option will enable the keyword / URL replacement routine to run in Comments."
+msgstr "Tùy chọn này sẽ cho phép quy trình thay thế từ khóa / URL chạy trong Bình luận."
+
+#: app/views/options/form.php:566
+msgid "Replace Keywords and URLs in Comments"
+msgstr "Thay thế Từ khóa và URL trong Bình luận"
+
+#: app/views/options/form.php:564
+msgid "Replace in Comments"
+msgstr "Thay thế trong Bình luận"
+
+#: app/views/options/form.php:523
+msgid "Replace All URLs"
+msgstr "Thay thế Tất cả URL"
+
+#. translators: %1$s: open b tag, %2$s close b tag
+#: app/views/options/form.php:402
+msgid "When enabled, this will add an affiliate link disclosure next to each one of your keyword replacements. %1$sNote:%2$s This does not apply to url replacements--only keyword replacements."
+msgstr "Khi bật, điều này sẽ thêm một thông báo liên kết liên kết bên cạnh mỗi thay thế từ khóa của bạn. %1$sLưu ý:%2$s Điều này không áp dụng cho thay thế URL - chỉ thay thế từ khóa."
+
+#: app/views/options/form.php:399
+msgid "Automatically Add Affiliate Link Disclosures to Keyword Replacements"
+msgstr "Tự động thêm thông báo liên kết liên kết vào Thay thế từ khóa"
+
+#: app/views/options/form.php:396
+msgid "Keyword Disclosure"
+msgstr "Thông báo Từ khóa"
+
+#: app/views/options/form.php:607
+msgid "When enabled, this will add a link to your official affiliate link disclosure page to any page, post or custom post type that have any keyword or URL replacements. You'll also be able to customize the URL and position of the disclosure link."
+msgstr "Khi bật, điều này sẽ thêm một liên kết đến trang công khai liên kết liên kết chính thức của bạn vào bất kỳ trang, bài đăng hoặc loại bài đăng tùy chỉnh nào có bất kỳ từ khóa hoặc thay thế URL nào. Bạn cũng có thể tùy chỉnh URL và vị trí của liên kết công khai."
+
+#: app/views/options/form.php:526
+msgid "This feature will take each url it finds and create or use an existing pretty link pointing to the url and replace it with the pretty link."
+msgstr "Tính năng này sẽ lấy mỗi URL tìm thấy và tạo hoặc sử dụng một pretty link hiện có trỏ đến URL và thay thế nó bằng pretty link."
+
+#: app/views/options/form.php:525
+msgid "Replace All non-Pretty Link URLs With Pretty Link URLs"
+msgstr "Thay thế Tất cả URL không phải pretty link bằng Liên kết đẹp"
+
+#: app/views/options/form.php:606
+msgid "Automatically Add a Link to Disclosures"
+msgstr "Tự động thêm liên kết đến thông tin công khai"
+
+#: app/views/options/form.php:420
+msgid "Open Keyword Replacement Links in New Window"
+msgstr "Mở liên kết thay thế từ khóa trong cửa sổ mới"
+
+#: app/views/options/form.php:418
+msgid "Open in New Window"
+msgstr "Mở trong cửa sổ mới"
+
+#: app/views/options/form.php:380
+msgid "Don't want to have too many keyword replacements per page? Select to set some reasonable keyword replacement thresholds."
+msgstr "Bạn không muốn có quá nhiều thay thế từ khóa trên mỗi trang? Chọn để đặt một số ngưỡng thay thế từ khóa hợp lý."
+
+#: app/views/options/form.php:379
+msgid "Set Keyword Replacement Thresholds"
+msgstr "Đặt ngưỡng thay thế từ khóa"
+
+#: app/views/options/form.php:501
+msgid "Enable URL Replacements"
+msgstr "Bật thay thế URL"
+
+#: app/views/options/form.php:347
+msgid "Keyword &amp; URL Auto Replacements Options"
+msgstr "Tùy chọn tự động thay thế từ khóa & URL"
+
+#: app/views/options/form.php:288
+msgid "FYI, your current IP address is %s."
+msgstr "FYI, địa chỉ IP hiện tại của bạn là %s."
+
+#. translators: %1$s: br tag, %2$s: open b tag, %3$s close b tag
+#: app/views/options/form.php:235
+msgid "Useful for adding Google Analytics tracking, Facebook retargeting pixels, or any other kind of tracking script to the HTML head.%1$s%1$sWhat you enter in this box will be applied to all supported pretty links.%1$s%1$s%2$sNOTE:%3$s This does NOT work with 301, 302 and 307 type redirects."
+msgstr "Hữu ích để thêm theo dõi Google Analytics, pixel tái định hướng Facebook hoặc bất kỳ loại tập lệnh theo dõi nào khác vào phần đầu HTML.%1$s%1$sNội dung bạn nhập vào hộp này sẽ được áp dụng cho tất cả các liên kết đẹp được hỗ trợ.%1$s%1$s%2$sLƯU Ý:%3$s Điều này KHÔNG hoạt động với chuyển hướng loại 301, 302 và 307."
+
+#: app/views/options/form.php:504
+msgid "If checked, this will enable you to automatically replace URLs on your blog with pretty links. You will specify the specific URLs from your Pretty Link edit page."
+msgstr "Nếu được chọn, điều này sẽ cho phép bạn tự động thay thế URL trên blog của mình bằng các pretty link. Bạn sẽ chỉ định các URL cụ thể từ trang chỉnh sửa Pretty Link của mình."
+
+#: app/views/options/form.php:230 app/views/options/form.php:232
+msgid "Global Head Scripts"
+msgstr "Tập lệnh đầu toàn cầu"
+
+#: app/views/options/form.php:202
+msgid "This will enable a link in your pretty link admin that will allow you to automatically download a QR Code for each individual Pretty Link."
+msgstr "Điều này sẽ cho phép một liên kết trong quản trị viên liên kết đẹp của bạn cho phép bạn tải xuống tự động Mã QR cho mỗi liên kết đẹp riêng lẻ."
+
+#: app/views/options/form.php:201
+msgid "Generate QR Codes"
+msgstr "Tạo Mã QR"
+
+#: app/views/options/form.php:199
+msgid "Enable %sQR Codes%s"
+msgstr "Bật %sMã QR%s"
+
+#: app/views/options/form.php:175
+msgid "The number of characters to use when auto-generating a random slug for pretty links. The default is 4. You cannot use less than 2."
+msgstr "Số lượng ký tự được sử dụng khi tự động tạo slug ngẫu nhiên cho các liên kết đẹp. Mặc định là 4. Bạn không thể sử dụng ít hơn 2."
+
+#: app/views/options/form.php:172 app/views/options/form.php:174
+msgid "Slug Character Count"
+msgstr "Số ký tự Slug"
+
+#: app/views/options/form.php:153 app/views/options/form.php:155
+msgid "Base Slug Prefix"
+msgstr "Tiền tố Slug cơ bản"
+
+#: app/views/links/form_basic.php:25 app/views/options/form.php:93
+msgid "Get cloaked redirects, Javascript redirects and more when you %1$sUpgrade to PRO%2$s"
+msgstr "Nhận chuyển hướng ẩn danh, chuyển hướng Javascript và nhiều hơn nữa khi bạn %1$sNâng cấp lên PRO%2$s"
+
+#: app/views/admin/onboarding/parts/link_popup.php:15
+#: app/views/options/form.php:81
+msgid "Redirection"
+msgstr "Chuyển hướng"
+
+#: app/views/options/form.php:59
+msgid "Public"
+msgstr "Công khai"
+
+#: app/views/options/form.php:58
+msgid "Social"
+msgstr "Xã hội"
+
+#: app/views/options/form.php:54
+msgid "Auto-Create Links"
+msgstr "Tự động tạo liên kết"
+
+#: app/helpers/PrliOnboardingHelper.php:125
+#: app/views/admin/onboarding/features.php:67 app/views/options/form.php:53
+msgid "Replacements"
+msgstr "Thay thế"
+
+#: app/controllers/PrliAppController.php:762
+msgid "Ajax error"
+msgstr "Lỗi Ajax"
+
+#: app/controllers/PrliAppController.php:761
+msgid "Invalid server response"
+msgstr "Phản hồi máy chủ không hợp lệ"
+
+#: app/controllers/PrliAppController.php:545
+msgid "Are you sure you want to reset your Pretty Link? This will delete all of the statistical data about this Pretty Link in your database."
+msgstr "Bạn có chắc muốn đặt lại Pretty Link của mình không? Điều này sẽ xóa tất cả dữ liệu thống kê về Pretty Link này trong cơ sở dữ liệu của bạn."
+
+#: app/controllers/PrliAppController.php:269
+msgid "Welcome"
+msgstr "Chào mừng"
+
+#: app/controllers/PrliAppController.php:265
+#: app/views/prettypay/fee_notice.php:7
+msgid "Upgrade"
+msgstr "Nâng cấp"
+
+#: app/controllers/PrliLinksController.php:937
+msgid "All Groups (Legacy)"
+msgstr "Tất cả các nhóm (Di sản)"
+
+#: app/controllers/PrliLinksController.php:900
+msgid "An error occurred creating the link"
+msgstr "Đã xảy ra lỗi khi tạo liên kết"
+
+#: app/controllers/PrliLinksController.php:871
+msgid "Security check failed"
+msgstr "Kiểm tra bảo mật không thành công"
+
+#: app/controllers/PrliAppController.php:74
+#: app/controllers/PrliAppController.php:133
+#: app/controllers/PrliAppController.php:147
+#: app/controllers/PrliAppController.php:161
+#: app/controllers/PrliLinksController.php:474
+#: app/controllers/PrliLinksController.php:849
+#: app/controllers/PrliLinksController.php:867
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/LicenseManager.php:203
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/LicenseManager.php:260
+msgid "Insufficient permissions"
+msgstr "Quyền không đủ"
+
+#: app/controllers/PrliLinksController.php:863
+#: app/controllers/PrliStripeController.php:604
+#: app/controllers/PrliStripeController.php:741
+#: app/controllers/PrliStripeController.php:747
+#: app/controllers/PrliStripeController.php:1141
+#: app/controllers/PrliUpdateController.php:200
+msgid "Bad request"
+msgstr "Yêu cầu không hợp lệ"
+
+#: app/controllers/PrliLinksController.php:808
+#: app/controllers/PrliLinksController.php:809
+msgid "View Split Test Report"
+msgstr "Xem báo cáo thử nghiệm phân chia"
+
+#: app/controllers/PrliLinksController.php:785
+msgid "Pretty Link &raquo;"
+msgstr "Pretty Link &raquo;"
+
+#: app/controllers/PrliLinksController.php:782
+msgid "Target &raquo;"
+msgstr "Mục tiêu &raquo;"
+
+#: app/controllers/PrliLinksController.php:540
+#: app/views/admin/popups/prettypay.php:51
+#: app/views/admin/popups/prettypay.php:381
+msgid "Link Title"
+msgstr "Tiêu đề liên kết"
+
+#: app/controllers/PrliLinksController.php:539
+#: app/views/admin/popups/prettypay.php:46
+#: app/views/admin/popups/prettypay.php:380
+#: app/views/links/prettypay_link_stripe.php:251
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: app/controllers/PrliLinksController.php:531
+msgid "Upgrade to a Pretty Links premium plan to get Keyword Replacements"
+msgstr "Nâng cấp lên gói cao cấp của Pretty Links để nhận Thay thế từ khóa"
+
+#: app/controllers/PrliLinksController.php:525
+msgid "Upgrade to a Pretty Links premium plan to get Link Tags"
+msgstr "Nâng cấp lên gói cao cấp của Pretty Links để nhận Thẻ liên kết"
+
+#: app/controllers/PrliLinksController.php:519
+msgid "Upgrade to a Pretty Links premium plan to get Link Categories"
+msgstr "Nâng cấp lên gói cao cấp của Pretty Links để nhận Danh mục liên kết"
+
+#: app/controllers/PrliLinksController.php:509
+#: app/views/admin/popups/prettypay.php:66
+#: app/views/admin/popups/prettypay.php:384 app/views/links/form_pro.php:32
+msgid "Keywords"
+msgstr "Từ khóa"
+
+#: app/controllers/PrliAppController.php:207
+#: app/controllers/PrliLinksController.php:508
+#: app/views/admin/popups/prettypay.php:61
+#: app/views/admin/popups/prettypay.php:383
+msgid "Tags"
+msgstr "Thẻ"
+
+#: app/controllers/PrliAppController.php:199
+#: app/controllers/PrliLinksController.php:507
+#: app/views/admin/popups/prettypay.php:56
+#: app/views/admin/popups/prettypay.php:382
+msgid "Categories"
+msgstr "Danh mục"
+
+#: app/controllers/PrliLinksController.php:485
+msgid "Fix the following errors:"
+msgstr "Sửa lỗi sau:"
+
+#: app/controllers/PrliLinksController.php:483
+msgid "Success!"
+msgstr "Thành công!"
+
+#: app/controllers/PrliLinksController.php:138
+msgid "Pretty Link Settings"
+msgstr "Cài đặt Pretty Link"
+
+#: app/controllers/PrliLinksController.php:77
+msgid "Parent Pretty Link:"
+msgstr "Pretty Link cha:"
+
+#: app/controllers/PrliLinksController.php:76
+msgid "No Pretty Links found in Trash"
+msgstr "Không tìm thấy Pretty Link nào trong Thùng rác"
+
+#: app/controllers/PrliLinksController.php:75
+msgid "No Pretty Links found"
+msgstr "Không tìm thấy Pretty Link nào"
+
+#: app/controllers/PrliLinksController.php:74
+msgid "Search Pretty Links"
+msgstr "Tìm kiếm Pretty Link"
+
+#: app/helpers/PrliAppHelper.php:20
+msgid "Upgrade to Pro to unlock this feature"
+msgstr "Nâng cấp lên Pro để mở khóa tính năng này"
+
+#: app/controllers/PrliLinksController.php:521
+#: app/controllers/PrliLinksController.php:527
+#: app/controllers/PrliLinksController.php:533 app/helpers/PrliAppHelper.php:19
+#: app/helpers/PrliOnboardingHelper.php:241 app/views/links/form.php:37
+msgid "Pro"
+msgstr "Pro"
+
+#: app/helpers/PrliLinksHelper.php:119
+msgid "This link isn't being tracked"
+msgstr "Liên kết này không được theo dõi"
+
+#: app/helpers/PrliLinksHelper.php:110
+msgid "%d Clicks / %d Uniques"
+msgstr "%d Lượt nhấp / %d Lượt duy nhất"
+
+#: app/helpers/PrliLinksHelper.php:92 app/helpers/PrliLinksHelper.php:199
+msgid "Visit Short URL: %s in a New Window"
+msgstr "Truy cập URL rút gọn: %s trong một cửa sổ mới"
+
+#: app/models/PrliUtils.php:103
+msgid "This Pretty Link Slug is already taken. There's already another pretty link with this slug: %s"
+msgstr "Slug Pretty Link này đã được sử dụng. Đã có một Pretty Link khác với slug này: %s"
+
+#: app/models/PrliUtils.php:96
+msgid "The Slug can't be empty"
+msgstr "Slug không thể trống"
+
+#: app/models/PrliGroup.php:114
+msgid "Group must have a name."
+msgstr "Nhóm phải có tên."
+
+#: app/helpers/PrliLinksHelper.php:91 app/helpers/PrliLinksHelper.php:188
+msgid "Visit Target URL: %s in a New Window"
+msgstr "Truy cập URL mục tiêu: %s trong một cửa sổ mới"
+
+#. translators: %1$s: open link tag, %2$s: close link tag, %3$s: br tag
+#: app/models/PrliUtils.php:1095
+msgid "Get started by %1$sadding a URL%2$s that you want to turn into a pretty link.%3$sCome back to see how many times it was clicked."
+msgstr "Bắt đầu bằng cách %1$sThêm một URL%2$s mà bạn muốn biến thành một Pretty Link.%3$sQuay lại để xem số lần nó được nhấp."
+
+#: app/controllers/PrliAppController.php:818
+msgid "Your Pretty Links Pro installation isn't quite complete yet. %1$sAutomatically Upgrade to Enable Pretty Links Pro%2$s"
+msgstr "Việc cài đặt Pretty Links Pro của bạn chưa hoàn tất. %1$sNâng cấp tự động để kích hoạt Pretty Links Pro%2$s"
+
+#: app/controllers/PrliAppController.php:414
+#: app/controllers/PrliAppController.php:420
+msgid "Activate Pro License"
+msgstr "Kích hoạt bản quyền Pro"
+
+#. Plugin URI of the plugin
+#: pretty-link.php
+msgid "https://prettylinks.com/pl/plugin-uri"
+msgstr "https://prettylinks.com/pl/plugin-uri"
+
+#. translators: %1$s: open link tag, %2$s: close link tag
+#: app/views/admin/update/inactive_license.php:34
+msgid "It looks like you haven't %1$supgraded to Pretty Links Pro%2$s yet. Here are just a few things you could be doing with pro:"
+msgstr "Có vẻ bạn chưa %1$snâng cấp lên Pretty Links Pro%2$s. Dưới đây là một vài điều bạn có thể làm với Pro:"
+
+#: app/views/admin/update/inactive_license.php:48
+msgid "Find out what works and what doesn't by split testing your links"
+msgstr "Tìm hiểu những gì hiệu quả và những gì không hiệu quả bằng cách thử nghiệm chia tách các liên kết của bạn"
+
+#: app/views/admin/update/inactive_license.php:46
+msgid "Redirect based on a visitor's location"
+msgstr "Chuyển hướng dựa trên vị trí của khách truy cập"
+
+#: app/views/admin/update/inactive_license.php:45
+msgid "Protect your affiliate links by using Cloaked Redirects"
+msgstr "Bảo vệ các liên kết liên kết của bạn bằng cách sử dụng Chuyển hướng ẩn"
+
+#: app/controllers/PrliLinksController.php:458
+msgid "Pretty Link Cleanup Visitor Locks"
+msgstr "Khóa Khách truy cập dọn dẹp Pretty Link"
+
+#: app/controllers/PrliFlyoutMenuController.php:79
+#: app/views/admin/popups/upgrade.php:23
+msgid "Upgrade to Pretty Links Pro"
+msgstr "Nâng cấp lên Pretty Links Pro"
+
+#: app/views/admin/popups/upgrade.php:18
+#: app/views/admin/update/inactive_license.php:55
+msgid "We think you'll love it!"
+msgstr "Chúng tôi nghĩ bạn sẽ thích nó!"
+
+#: app/views/admin/update/inactive_license.php:53
+msgid "Plus, upgrading is fast, easy and won't disrupt any of your existing links or data. And there's even a 14 day money back guarantee."
+msgstr "Thêm nữa, việc nâng cấp nhanh chóng, dễ dàng và sẽ không làm gián đoạn bất kỳ liên kết hoặc dữ liệu hiện có nào của bạn. Và thậm chí còn có bảo hành hoàn tiền trong 14 ngày."
+
+#: app/views/admin/popups/upgrade.php:14
+#: app/views/admin/update/inactive_license.php:49
+msgid "And much, much more!"
+msgstr "Và nhiều hơn thế nữa!"
+
+#: app/views/admin/update/inactive_license.php:44
+msgid "Auto-replace keywords throughout your site with Pretty Links"
+msgstr "Tự động thay thế từ khóa trên toàn bộ trang web của bạn bằng Pretty Links"
+
+#: app/views/admin/update/inactive_license.php:47
+msgid "Auto-prettylink your Pages &amp; Posts"
+msgstr "Tự động tạo Pretty Link cho các trang & bài viết của bạn"
+
+#: app/views/admin/popups/upgrade.php:6
+msgid "Upgrade to Pretty Links PRO"
+msgstr "Nâng cấp lên Pretty Links PRO"
+
+#: app/views/admin/popups/rating.php:40
+msgid "Never Remind Me Again"
+msgstr "Không nhắc lại nữa"
+
+#: app/views/admin/popups/rating.php:25
+msgid "Review Pretty Links"
+msgstr "Đánh giá Pretty Links"
+
+#: app/views/admin/popups/rating.php:24 app/views/admin/popups/rating.php:36
+msgid "Remind Me Later"
+msgstr "Nhắc tôi sau"
+
+#: app/views/admin/popups/rating.php:19 app/views/admin/popups/rating.php:31
+msgid "Thanks for your support!"
+msgstr "Cảm ơn bạn đã ủng hộ!"
+
+#: app/views/admin/popups/rating.php:18
+msgid "If you enjoy using Pretty Links would you mind taking a moment to rate it on WordPress.org? It won't take more than a minute."
+msgstr "Nếu bạn thích sử dụng Pretty Links, bạn có thể dành chút thời gian để đánh giá nó trên WordPress.org? Việc này sẽ không mất quá một phút."
+
+#: app/views/admin/popups/rating.php:17
+msgid "Rate Pretty Links"
+msgstr "Đánh giá Pretty Links"
+
+#: app/controllers/PrliPopupController.php:114
+msgid "The popup was successfully stopped"
+msgstr "Báo cáo bật lên đã bị dừng thành công"
+
+#: app/controllers/PrliPopupController.php:110
+msgid "The popup was successfully delayed"
+msgstr "Báo cáo bật lên đã bị trì hoãn thành công"
+
+#: app/controllers/PrliPopupController.php:105
+msgid "Invalid popup"
+msgstr "Báo cáo bật lên không hợp lệ"
+
+#: app/controllers/PrliPopupController.php:99
+msgid "Must specify a popup"
+msgstr "Phải chỉ định một báo cáo bật lên"
+
+#: app/controllers/PrliLinksController.php:470
+#: app/controllers/PrliLinksController.php:845
+#: app/controllers/PrliPopupController.php:95
+msgid "Forbidden"
+msgstr "Bị cấm"
+
+#: app/controllers/PrliPopupController.php:63
+msgid "An unknown error occurred."
+msgstr "Đã xảy ra lỗi không xác định."
+
+#: app/controllers/PrliAppController.php:415
+msgid "Buy"
+msgstr "Mua"
+
+#: app/controllers/PrliAddonsController.php:30
+#: app/controllers/PrliAppController.php:259
+#: app/controllers/PrliAppController.php:262
+#: app/views/admin/addons/addon-page-lite.php:32
+#: app/views/admin/addons/addon-page-pro.php:90
+#: app/views/admin/onboarding/license.php:17
+#: vendor-prefixed/caseproof/ground-level-mothership/Manager/AddonsManager.php:388
+#: vendor-prefixed/caseproof/ground-level-mothership/Views/products.php:100
+#: vendor-prefixed/caseproof/growth-tools/src/App.php:106
+msgid "Activate"
+msgstr "Kích hoạt"
+
+#: app/controllers/PrliAppController.php:410
+#: app/controllers/PrliAppController.php:416
+#: app/controllers/PrliAppController.php:421
+#: app/controllers/PrliAppController.php:926
+msgid "Docs"
+msgstr "Tài liệu"
+
+#. Author URI of the plugin
+#: pretty-link.php
+msgid "http://prettylinks.com"
+msgstr "http://prettylinks.com"
+
+#: app/views/tools/form.php:90
+msgid "Seriously, only click this link if you want to delete all the Click data in your database."
+msgstr "Thật sự, chỉ nhấp vào liên kết này nếu bạn muốn xóa tất cả dữ liệu nhấp chuột trong cơ sở dữ liệu của mình."
+
+#: app/views/tools/form.php:89
+msgid "Clear all clicks"
+msgstr "Xóa tất cả nhấp chuột"
+
+#: app/views/tools/form.php:87
+msgid "Delete All Clicks"
+msgstr "Xóa tất cả nhấp chuột"
+
+#: app/views/tools/form.php:87
+msgid "***WARNING*** If you click OK you will delete ALL of the Click data in your Database. Your data will be gone forever -- no way to retreive it. Do not click OK unless you are absolutely sure you want to delete all your data because there is no going back!"
+msgstr "***CẢNH BÁO*** Nếu bạn nhấp vào OK, bạn sẽ xóa TẤT CẢ dữ liệu Nhấp chuột trong Cơ sở dữ liệu của mình. Dữ liệu của bạn sẽ biến mất vĩnh viễn - không có cách nào để khôi phục lại. Không nhấp vào OK trừ khi bạn hoàn toàn chắc chắn muốn xóa tất cả dữ liệu của mình vì không có cách nào quay lại!"
+
+#: app/views/tools/form.php:83
+msgid "This will clear all clicks in your database that are older than 90 days."
+msgstr "Điều này sẽ xóa tất cả các nhấp chuột trong cơ sở dữ liệu của bạn có tuổi đời hơn 90 ngày."
+
+#: app/views/tools/form.php:82
+msgid "Clear clicks 90 days or older"
+msgstr "Xóa nhấp chuột có tuổi đời từ 90 ngày trở lên"
+
+#: app/views/tools/form.php:80
+msgid "Delete Clicks older than 90 days"
+msgstr "Xóa nhấp chuột có tuổi đời hơn 90 ngày"
+
+#: app/views/tools/form.php:80
+msgid "***WARNING*** If you click OK you will delete ALL of the Click data that is older than 90 days. Your data will be gone forever -- no way to retreive it. Do not click OK unless you are absolutely sure you want to delete this data because there is no going back!"
+msgstr "***CẢNH BÁO*** Nếu bạn nhấp vào OK, bạn sẽ xóa TẤT CẢ dữ liệu Nhấp chuột có tuổi đời lớn hơn 90 ngày. Dữ liệu của bạn sẽ biến mất mãi mãi - không có cách nào để lấy lại. Không nhấp vào OK trừ khi bạn hoàn toàn chắc chắn rằng bạn muốn xóa dữ liệu này vì không có cách quay lại!"
+
+#: app/views/tools/form.php:78
+msgid "This will clear all clicks in your database that are older than 30 days."
+msgstr "Điều này sẽ xóa tất cả các lần nhấp trong cơ sở dữ liệu của bạn có tuổi đời lớn hơn 30 ngày."
+
+#: app/views/tools/form.php:77
+msgid "Clear clicks 30 days or older"
+msgstr "Xóa các lần nhấp 30 ngày hoặc lâu hơn"
+
+#: app/views/tools/form.php:75
+msgid "Delete Clicks older than 30 days"
+msgstr "Xóa các lần nhấp có tuổi đời lớn hơn 30 ngày"
+
+#: app/views/tools/form.php:75
+msgid "***WARNING*** If you click OK you will delete ALL of the Click data that is older than 30 days. Your data will be gone forever -- no way to retreive it. Do not click OK unless you are absolutely sure you want to delete this data because there is no going back!"
+msgstr "***CẢNH BÁO*** Nếu bạn nhấp vào OK, bạn sẽ xóa TẤT CẢ dữ liệu Nhấp chuột có tuổi đời lớn hơn 30 ngày. Dữ liệu của bạn sẽ biến mất mãi mãi - không có cách nào để lấy lại. Không nhấp vào OK trừ khi bạn hoàn toàn chắc chắn rằng bạn muốn xóa dữ liệu này vì không có cách quay lại!"
+
+#: app/views/tools/form.php:72
+msgid "Pretty Link is already automatically trimming Clicks older than 90 days. Although not necessary, you can still use the buttons below to force click trimming."
+msgstr "Pretty Link đã tự động cắt bớt các lần nhấp có tuổi đời lớn hơn 90 ngày. Mặc dù không cần thiết, bạn vẫn có thể sử dụng các nút bên dưới để buộc cắt bớt các lần nhấp."
+
+#: app/views/tools/form.php:64
+msgid "Now when you find a page you want to save off as a Pretty Link, just click the \"Bookmarks\" icon at the bottom of the screen and select your \"Get PrettyLink\" bookmarklet."
+msgstr "Bây giờ, khi bạn tìm thấy một trang web muốn lưu lại dưới dạng Pretty Link, chỉ cần nhấp vào biểu tượng \"Bookmarks\" ở cuối màn hình và chọn bookmarklet \"Get PrettyLink\" của bạn."
+
+#: app/views/tools/form.php:52
+msgid "Navigate through your Bookmarks until you find the new bookmark and click \"Edit\""
+msgstr "Điều hướng qua các Bookmark của bạn cho đến khi bạn tìm thấy bookmark mới và nhấp vào \"Edit\""
+
+#: app/views/tools/form.php:51
+msgid "Choose to share the page, then click on \"Bookmark\". We recommend saving it in your Favorites folder. Rename your bookmark to \"Get PrettyLink\" (or whatever you want) and then \"Save\""
+msgstr "Chọn chia sẻ trang, sau đó nhấp vào \"Bookmark\". Chúng tôi khuyên bạn nên lưu nó vào thư mục Favorites. Đổi tên bookmark của bạn thành \"Get PrettyLink\" (hoặc bất kỳ tên nào bạn muốn) và sau đó \"Save\""
+
+#: app/views/tools/form.php:28
+msgid "Install Pretty Link Bookmarklet"
+msgstr "Cài đặt Bookmarklet Pretty Link"
+
+#: app/views/tools/form.php:26
+msgid "Get Pretty Link"
+msgstr "Lấy Pretty Link"
+
+#: app/views/tools/form.php:19 app/views/tools/form.php:70
+msgid "Trim Clicks"
+msgstr "Loại bỏ Clicks"
+
+#: app/views/tools/form.php:18 app/views/tools/form.php:25
+msgid "Bookmarklet"
+msgstr "Bookmarklet"
+
+#: app/views/shared/tinymce_form_popup.php:100
+msgid "Insert Existing Pretty Link"
+msgstr "Chèn Pretty Link Đã Tồn Tại"
+
+#: app/views/shared/tinymce_form_popup.php:80
+msgid "Search by Slug, Title, or Target URL..."
+msgstr "Tìm kiếm theo Slug, Tiêu đề hoặc URL Mục tiêu..."
+
+#: app/views/shared/tinymce_form_popup.php:78
+msgid "Use Existing Pretty Link"
+msgstr "Sử dụng Pretty Link Đã Tồn Tại"
+
+#: app/views/shared/tinymce_form_popup.php:74
+msgid "Insert New Pretty Link"
+msgstr "Chèn Pretty Link Mới"
+
+#: app/views/shared/tinymce_form_popup.php:71
+#: app/views/shared/tinymce_form_popup.php:95
+msgid "Open this Pretty Link in a new window/tab"
+msgstr "Mở Pretty Link này trong cửa sổ/tab mới"
+
+#: app/controllers/PrliLinksController.php:655
+#: app/controllers/PrliLinksController.php:662
+#: app/controllers/PrliLinksController.php:669
+#: app/views/shared/tinymce_form_popup.php:50
+#: app/views/shared/tinymce_form_popup.php:58
+#: app/views/shared/tinymce_form_popup.php:66
+msgid "Disabled"
+msgstr "Vô hiệu hóa"
+
+#: app/controllers/PrliLinksController.php:654
+#: app/controllers/PrliLinksController.php:661
+#: app/controllers/PrliLinksController.php:668
+#: app/views/shared/tinymce_form_popup.php:49
+#: app/views/shared/tinymce_form_popup.php:57
+#: app/views/shared/tinymce_form_popup.php:65
+msgid "Enabled"
+msgstr "Kích hoạt"
+
+#: app/views/shared/tinymce_form_popup.php:41
+msgid "Javascript"
+msgstr "Javascript"
+
+#: app/views/shared/tinymce_form_popup.php:40
+msgid "Meta Refresh"
+msgstr "Làm mới Meta"
+
+#: app/views/shared/tinymce_form_popup.php:39
+msgid "Pixel"
+msgstr "Pixel"
+
+#: app/views/admin/onboarding/parts/link_popup.php:20
+#: app/views/shared/tinymce_form_popup.php:38
+msgid "Cloaked"
+msgstr "Che giấu"
+
+#: app/views/options/form.php:56 app/views/shared/tinymce_form_popup.php:37
+msgid "Pretty Bar"
+msgstr "Thanh Pretty"
+
+#: app/views/links/prettypay_link_stripe.php:91
+#: app/views/shared/tinymce_form_popup.php:31
+#: app/views/shared/tinymce_form_popup.php:48
+#: app/views/shared/tinymce_form_popup.php:56
+#: app/views/shared/tinymce_form_popup.php:64
+msgid "Default"
+msgstr "Mặc định"
+
+#: app/views/shared/tinymce_form_popup.php:25
+#: app/views/shared/tinymce_form_popup.php:90
+msgid "Link Text"
+msgstr "Văn bản Liên kết"
+
+#: app/views/shared/tinymce_form_popup.php:21
+msgid "invalid"
+msgstr "không hợp lệ"
+
+#: app/views/shared/tinymce_form_popup.php:20
+msgid "valid"
+msgstr "hợp lệ"
+
+#: app/views/shared/tinymce_form_popup.php:17
+msgid "Slug"
+msgstr "Slug"
+
+#: app/views/shared/tinymce_form_popup.php:10 js/build/editor.js:3
+#: js/editor/components/link-editor/index.js:456
+msgid "Create New Pretty Link"
+msgstr "Tạo Pretty Link Mới"
+
+#: app/views/shared/tinymce_form_popup.php:4 js/build/editor.js:3
+#: js/editor/components/link-editor/index.js:64
+msgid "Insert Pretty Link"
+msgstr "Chèn Pretty Link"
+
+#: app/views/shared/public_link.php:30
+msgid "Here's your pretty link for"
+msgstr "Đây là Pretty Link của bạn cho"
+
+#: app/views/shared/public_link.php:22
+msgid "Here is your Pretty Link"
+msgstr "Đây là Pretty Link của bạn"
+
+#: app/views/shared/nav.php:18
+msgid "Get Help:"
+msgstr "Nhận trợ giúp:"
+
+#: app/views/shared/nav.php:14
+msgid "Connect:"
+msgstr "Kết nối:"
+
+#: app/views/options/form.php:333
+msgid "Enter IP Addresses or IP Ranges you want to always include in your Click data and Stats even if they are flagged as robots. Each IP Address should be separated by commas. Example: 192.168.0.1, 192.168.2.1, 192.168.3.4 or 192.168.*.*"
+msgstr "Nhập Địa chỉ IP hoặc Phạm vi IP mà bạn muốn luôn bao gồm trong dữ liệu Click và Thống kê của mình ngay cả khi chúng được gắn cờ là robot. Mỗi Địa chỉ IP nên được phân cách bằng dấu phẩy. Ví dụ: 192.168.0.1, 192.168.2.1, 192.168.3.4 hoặc 192.168.*.*"
+
+#: app/views/options/form.php:330 app/views/options/form.php:332
+msgid "Whitelist IP Addresses"
+msgstr "Danh sách trắng Địa chỉ IP"
+
+#: app/views/options/form.php:314
+msgid "Filter known Robots and unidentifiable browser clients from your click data, stats and reports. Works best if Tracking Style above is set to 'Extended Tracking'."
+msgstr "Lọc các Robot đã biết và khách hàng trình duyệt không thể xác định được khỏi dữ liệu click, thống kê và báo cáo của bạn. Hoạt động tốt nhất nếu Kiểu Theo dõi ở trên được đặt thành 'Theo dõi Mở rộng'."
+
+#: app/views/options/form.php:302
+msgid "Will automatically delete all hits older than 90 days. We strongly recommend doing this to keep your database performance up. This will permanently delete this click data, and is not undo-able. "
+msgstr "Tự động xóa tất cả lượt truy cập có tuổi đời hơn 90 ngày. Chúng tôi khuyên bạn nên thực hiện điều này để giữ hiệu suất cơ sở dữ liệu của bạn. Hành động này sẽ xóa vĩnh viễn dữ liệu nhấp chuột này và không thể khôi phục lại. "
+
+#: app/views/options/form.php:301
+msgid "Automatically Trim Clicks"
+msgstr "Tự động cắt bớt lượt nhấp"
+
+#: app/views/options/form.php:299
+msgid "Auto-Trim Clicks"
+msgstr "Tự động cắt bớt lượt nhấp"
+
+#: app/views/options/form.php:284
+msgid "Excluded IP Addresses"
+msgstr "Địa chỉ IP bị loại trừ"
+
+#: app/views/options/form.php:270
+msgid "Changing your tracking style can affect the accuracy of your existing statistics. Extended mode must be used for Conversion reporting."
+msgstr "Thay đổi kiểu theo dõi có thể ảnh hưởng đến độ chính xác của thống kê hiện tại. Chế độ Mở rộng phải được sử dụng để báo cáo Chuyển đổi."
+
+#: app/views/options/form.php:267 app/views/options/form.php:269
+msgid "Tracking Style"
+msgstr "Kiểu theo dõi"
+
+#: app/views/options/form.php:139
+msgid "Use fix for index.php Permalink Structure"
+msgstr "Sử dụng sửa lỗi cho Cấu trúc Permalink index.php"
+
+#: app/views/options/form.php:137
+msgid "Enable Permalink Fix"
+msgstr "Bật sửa lỗi Permalink"
+
+#: app/views/options/form.php:115
+msgid "Add No Follow"
+msgstr "Thêm No Follow"
+
+#: app/views/options/form.php:113
+msgid "Enable No Follow"
+msgstr "Bật No Follow"
+
+#: app/views/options/form.php:101 app/views/options/form.php:103
+msgid "Enable Tracking"
+msgstr "Bật Theo dõi"
+
+#: app/views/options/form.php:76
+msgid "Default Link Options"
+msgstr "Tùy chọn liên kết mặc định"
+
+#: app/views/options/form.php:70
+msgid "General Options"
+msgstr "Tùy chọn chung"
+
+#: app/views/options/form.php:52
+msgid "Reporting"
+msgstr "Báo cáo"
+
+#: app/views/options/form.php:49
+msgid "General"
+msgstr "Chung"
+
+#: app/controllers/PrliLinksController.php:665
+#: app/views/links/form_advanced.php:60 app/views/links/form_advanced.php:63
+#: app/views/shared/tinymce_form_popup.php:62
+msgid "Tracking"
+msgstr "Theo dõi"
+
+#: app/views/links/form_advanced.php:32 app/views/links/form_advanced.php:35
+msgid "Delay Redirect"
+msgstr "Chậm chuyển hướng"
+
+#: app/views/links/form_advanced.php:9
+msgid "Nofollow Link"
+msgstr "Liên kết Nofollow"
+
+#: app/controllers/PrliLinksController.php:651
+#: app/views/admin/onboarding/features.php:23
+#: app/views/links/form_advanced.php:6
+msgid "No Follow"
+msgstr "No Follow"
+
+#: app/views/links/form_basic.php:69
+msgid "This is a field where you can enter notes about a particular link. This notes field is mainly for your own link management needs. It isn't currently used anywhere on the front end."
+msgstr "Đây là một trường nơi bạn có thể nhập ghi chú về một liên kết cụ thể. Trường ghi chú này chủ yếu dành cho nhu cầu quản lý liên kết của riêng bạn. Nó hiện không được sử dụng ở bất kỳ đâu trên đầu trang."
+
+#: app/views/links/form_basic.php:65 app/views/links/form_basic.php:68
+msgid "Notes"
+msgstr "Ghi chú"
+
+#: app/views/admin/upgrade/groups.php:8 app/views/admin/upgrade/groups.php:30
+#: app/views/admin/upgrade/products.php:8
+#: app/views/admin/upgrade/products.php:27
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: app/views/links/form_basic.php:52
+msgid "This is how your pretty link will appear. You can edit the Pretty Link slug here."
+msgstr "Đây là cách liên kết đẹp của bạn sẽ xuất hiện. Bạn có thể chỉnh sửa slug Liên kết đẹp ở đây."
+
+#: app/views/links/form_basic.php:11
+msgid "This is the method of redirection for your link."
+msgstr "Đây là phương thức chuyển hướng cho liên kết của bạn."
+
+#: app/views/links/form_basic.php:10 app/views/options/form.php:83
+msgid "Redirection Type"
+msgstr "Loại chuyển hướng"
+
+#: app/views/links/form_basic.php:7
+msgid "Redirection*"
+msgstr "Chuyển hướng*"
+
+#: app/views/groups/new.php:71 app/views/widgets/widget.php:21
+msgid "Create"
+msgstr "Tạo"
+
+#: app/views/groups/list.php:81
+msgid "View hits in %s"
+msgstr "Xem lượt truy cập trong %s"
+
+#: app/views/groups/list.php:7
+msgid "Add Group"
+msgstr "Thêm nhóm"
+
+#: app/views/clicks/list.php:150
+msgid "View All Activity for Visitor: %s"
+msgstr "Xem tất cả hoạt động cho khách truy cập: %s"
+
+#: app/views/clicks/list.php:147
+msgid "View All Activity for IP Address: %s"
+msgstr "Xem tất cả hoạt động cho địa chỉ IP: %s"
+
+#: app/views/clicks/list.php:111
+msgid "No Clicks have been recorded yet"
+msgstr "Chưa có lượt nhấp nào được ghi lại"
+
+#: app/views/clicks/list.php:75 app/views/clicks/list.php:172
+msgid "OS"
+msgstr "Hệ điều hành"
+
+#: app/views/clicks/list.php:33
+msgid "Unique Clicks"
+msgstr "Lượt nhấp duy nhất"
+
+#: app/views/clicks/list.php:32
+msgid "All Clicks"
+msgstr "Tất cả lượt nhấp"
+
+#: app/views/clicks/list.php:21
+msgid "Back to Clicks"
+msgstr "Quay lại lượt nhấp"
+
+#: app/views/clicks/csv_download.php:24
+msgid "Clicks %d-%d (%d Records)"
+msgstr "Lượt nhấp %d-%d (%d bản ghi)"
+
+#: app/views/clicks/csv_download.php:7
+msgid "All clicks on %s"
+msgstr "Tất cả lượt nhấp trên %s"
+
+#: app/views/clicks/csv_download.php:6
+msgid "Click Reports:"
+msgstr "Báo cáo nhấp chuột:"
+
+#: app/views/clicks/csv_download.php:3
+msgid "Download Clicks"
+msgstr "Tải xuống lượt nhấp"
+
+#: app/controllers/PrliAddonsController.php:49
+#: app/controllers/PrliAppController.php:272
+msgid "Add-ons"
+msgstr "Tiện ích mở rộng"
+
+#: app/views/admin/update/ui.php:16
+msgid "License"
+msgstr "Giấy phép"
+
+#: app/views/admin/update/active_license.php:64
+msgid "You're currently running version %s of Pretty Links Pro"
+msgstr "Bạn đang chạy phiên bản %s của Pretty Links Pro"
+
+#: app/views/admin/update/active_license.php:59
+msgid "Upgrade plugin to Pro"
+msgstr "Nâng cấp plugin lên Pro"
+
+#: app/views/admin/update/active_license.php:39
+msgid "Activations:"
+msgstr "Kích hoạt:"
+
+#: app/views/admin/update/active_license.php:35
+msgid "Product:"
+msgstr "Sản phẩm:"
+
+#: app/views/admin/update/active_license.php:31
+msgid "Status:"
+msgstr "Trạng thái:"
+
+#: app/views/admin/update/inactive_license.php:57
+msgid "Upgrade to Pro today!"
+msgstr "Nâng cấp lên Pro ngay hôm nay!"
+
+#: app/controllers/PrliUpdateController.php:645
+#: app/views/admin/update/active_license.php:19
+#: app/views/admin/update/edge_updates.php:4 app/views/widgets/widget.php:22
+msgid "Loading..."
+msgstr "Đang tải..."
+
+#: app/views/admin/update/edge_updates.php:4
+msgid "Include Pretty Links Pro edge (development) releases in automatic updates (not recommended for production websites)"
+msgstr "Bao gồm các bản phát hành Pretty Links Pro edge (phát triển) trong cập nhật tự động (không được khuyến nghị cho các trang web sản xuất)"
+
+#: app/views/links/form_product_display.php:56
+#: app/views/links/form_product_display.php:59
+msgid "Description"
+msgstr "Mô tả"
+
+#: app/views/admin/addons/addon-page-pro.php:115
+msgid "There were no Add-ons found for your license or lack thereof..."
+msgstr "Không tìm thấy tiện ích mở rộng nào cho giấy phép của bạn hoặc thiếu giấy phép..."
+
+#: app/views/admin/addons/addon-page-lite.php:5
+#: app/views/admin/addons/addon-page-pro.php:5
+msgid "Pretty Links Add-ons"
+msgstr "Tiện ích mở rộng Pretty Links"
+
+#: app/views/admin/addons/addon-page-pro.php:94
+#: vendor-prefixed/caseproof/ground-level-mothership/Views/products.php:109
+msgid "Install Add-on"
+msgstr "Cài đặt tiện ích mở rộng"
+
+#. translators: %1$s: open link tag, %2$s: close link tag
+#: app/views/admin/update/activation_warning.php:47
+msgid "You can retrieve or purchase a license key at %1$sPrettyLinks.com%2$s to enable automatic updates today."
+msgstr "Bạn có thể lấy hoặc mua khóa bản quyền tại %1$sPrettyLinks.com%2$s để kích hoạt cập nhật tự động ngay hôm nay."
+
+#. translators: %1$s: open link tag, %2$s: close link tag
+#: app/views/admin/update/activation_warning.php:21
+msgid "You can get your license key by logging in at %1$sPrettyLinkPro.com.%2$s"
+msgstr "Bạn có thể lấy khóa bản quyền bằng cách đăng nhập tại %1$sPrettyLinkPro.com.%2$s"
+
+#: app/views/admin/update/activation_warning.php:15
+msgid "It looks like you used to have Pretty Links Pro activated with a username and password but now you need a license key to activate it."
+msgstr "Có vẻ như bạn đã từng kích hoạt Pretty Links Pro bằng tên người dùng và mật khẩu, nhưng bây giờ bạn cần khóa bản quyền để kích hoạt nó."
+
+#: app/views/admin/update/activation_warning.php:14
+#: app/views/admin/update/activation_warning.php:41
+msgid "Pretty Links Pro isn't able to get critical automatic updates"
+msgstr "Pretty Links Pro không thể nhận được các cập nhật tự động quan trọng"
+
+#: app/views/admin/update/activation_warning.php:7
+msgid "Error with PRETTYLINK_LICENSE_KEY: %s"
+msgstr "Lỗi với PRETTYLINK_LICENSE_KEY: %s"
+
+#: app/models/PrliUtils.php:88
+msgid "*** Pretty Links Debug: %s"
+msgstr "*** Pretty Links Gỡ lỗi: %s"
+
+#: app/models/PrliClick.php:249
+msgid "Unique hits"
+msgstr "Số lần truy cập duy nhất"
+
+#: app/models/PrliClick.php:246
+msgid "All clicks"
+msgstr "Tất cả lượt nhấp"
+
+#: app/helpers/PrliLinksHelper.php:86 app/helpers/PrliLinksHelper.php:177
+msgid "Send %s in an Email"
+msgstr "Gửi %s trong Email"
+
+#: app/helpers/PrliLinksHelper.php:85 app/helpers/PrliLinksHelper.php:166
+msgid "Post %s to Twitter"
+msgstr "Đăng %s lên Twitter"
+
+#: app/helpers/PrliLinksHelper.php:80 app/views/clicks/list.php:161
+msgid "View clicks for %s"
+msgstr "Xem lượt nhấp cho %s"
+
+#: app/helpers/PrliLinksHelper.php:77 app/helpers/PrliLinksHelper.php:155
+msgid "Reset %s"
+msgstr "Đặt lại %s"
+
+#: app/helpers/PrliLinksHelper.php:77
+msgid "Are you sure you want to reset your %s Pretty Link? This will delete all of the statistical data about this Pretty Link in your database."
+msgstr "Bạn có chắc chắn muốn đặt lại %s Pretty Link của bạn? Điều này sẽ xóa tất cả dữ liệu thống kê về Pretty Link này trong cơ sở dữ liệu của bạn."
+
+#: app/helpers/PrliLinksHelper.php:76 app/views/groups/list.php:79
+msgid "Delete %s"
+msgstr "Xóa %s"
+
+#: app/helpers/PrliLinksHelper.php:76
+msgid "Are you sure you want to delete your %s Pretty Link? This will delete the Pretty Link and all of the statistical data about it in your database."
+msgstr "Bạn có chắc chắn muốn xóa %s Pretty Link của bạn? Điều này sẽ xóa Pretty Link và tất cả dữ liệu thống kê về nó trong cơ sở dữ liệu của bạn."
+
+#: app/helpers/PrliLinksHelper.php:75 app/views/groups/list.php:75
+#: app/views/groups/list.php:78
+msgid "Edit %s"
+msgstr "Chỉnh sửa %s"
+
+#: app/helpers/PrliLinksHelper.php:56
+msgid "Nofollow Enabled"
+msgstr "Nofollow được bật"
+
+#: app/helpers/PrliLinksHelper.php:52
+msgid "Permanent (301) Redirection"
+msgstr "Chuyển hướng vĩnh viễn (301)"
+
+#: app/helpers/PrliLinksHelper.php:49
+msgid "Temporary (302) Redirection"
+msgstr "Chuyển hướng tạm thời (302)"
+
+#: app/helpers/PrliLinksHelper.php:46
+msgid "Temporary (307) Redirection"
+msgstr "Chuyển hướng tạm thời (307)"
+
+#: app/helpers/PrliLinksHelper.php:37
+msgid "Pixel Tracking Redirection"
+msgstr "Chuyển hướng theo dõi pixel"
+
+#: app/helpers/PrliLinksHelper.php:34
+msgid "Cloaked Redirection"
+msgstr "Chuyển hướng ẩn danh"
+
+#: app/helpers/PrliLinksHelper.php:31
+msgid "PrettyBar Redirection"
+msgstr "Chuyển hướng PrettyBar"
+
+#: app/controllers/PrliUpdateController.php:671
+msgid "Edge updates couldn't be updated."
+msgstr "Cập nhật Edge không thể được cập nhật."
+
+#: app/controllers/PrliUpdateController.php:667
+msgid "You do not have access."
+msgstr "Bạn không có quyền truy cập."
+
+#: app/controllers/PrliUpdateController.php:628
+msgid "Your License Key was invalid"
+msgstr "Khóa bản quyền của bạn không hợp lệ"
+
+#: app/controllers/PrliUpdateController.php:616
+msgid "You had an HTTP error connecting to Caseproof's Mothership API"
+msgstr "Bạn gặp lỗi HTTP khi kết nối với Caseproof's Mothership API"
+
+#: app/controllers/PrliUpdateController.php:547
+msgid "Check for Update"
+msgstr "Kiểm tra bản cập nhật"
+
+#: app/controllers/PrliToolsController.php:104
+msgid "No clicks older than %1$d days were found, so nothing was deleted"
+msgstr "Không tìm thấy lượt nhấp nào cũ hơn %1$d ngày, vì vậy không có gì bị xóa"
+
+#: app/controllers/PrliToolsController.php:101
+msgid "Clicks older than %1$d days (%2$d Clicks) were deleted"
+msgstr "Lượt nhấp cũ hơn %1$d ngày (%2$d lượt nhấp) đã bị xóa"
+
+#: app/controllers/PrliToolsController.php:95
+msgid "Click Database was Cleared."
+msgstr "Cơ sở dữ liệu nhấp đã được xóa."
+
+#: app/controllers/PrliOptionsController.php:88
+msgid "Whitelist IP Addresses must be a comma separated list of IPv4 or IPv6 addresses or ranges."
+msgstr "Địa chỉ IP trắng phải là danh sách các địa chỉ hoặc phạm vi IPv4 hoặc IPv6 được phân tách bằng dấu phẩy."
+
+#: app/controllers/PrliOptionsController.php:84
+msgid "Excluded IP Addresses must be a comma separated list of IPv4 or IPv6 addresses or ranges."
+msgstr "Địa chỉ IP bị loại trừ phải là danh sách các địa chỉ hoặc phạm vi IPv4 hoặc IPv6 được phân tách bằng dấu phẩy."
+
+#: app/controllers/PrliAppController.php:248
+#: app/controllers/PrliLinksController.php:546 app/models/PrliClick.php:258
+#: app/views/admin/popups/prettypay.php:71
+#: app/views/admin/popups/prettypay.php:385 app/views/clicks/list.php:4
+#: app/views/groups/list.php:81
+msgid "Clicks"
+msgstr "Lượt nhấp"
+
+#: app/models/PrliClick.php:239
+msgid "all links"
+msgstr "tất cả liên kết"
+
+#: app/controllers/PrliAppController.php:248
+msgid "Pretty Links | Clicks"
+msgstr "Pretty Links | Lợt nhấp"
+
+#: app/controllers/PrliAppController.php:255
+msgid "Pretty Links | Options"
+msgstr "Pretty Links | Tùy chọn"
+
+#: app/controllers/PrliAppController.php:252
+msgid "Pretty Links | Tools"
+msgstr "Pretty Links | Công cụ"
+
+#: app/helpers/PrliLinksHelper.php:15
+#: app/views/admin/onboarding/parts/link_popup.php:17
+#: app/views/links/form_basic.php:17 app/views/shared/tinymce_form_popup.php:33
+msgid "302 (Temporary)"
+msgstr "302 (Chuyển hướng tạm thời)"
+
+#: app/views/links/form_basic.php:33
+msgid "Target URL*"
+msgstr "URL Mục tiêu*"
+
+#: app/views/links/form_basic.php:48
+msgid "Pretty Link*"
+msgstr "Pretty Link*"
+
+#: app/views/links/form_basic.php:37
+msgid "This is the URL that your Pretty Link will redirect to."
+msgstr "Đây là URL mà Pretty Link của bạn sẽ chuyển hướng đến."
+
+#: app/views/groups/list.php:79
+msgid "Are you sure you want to delete your %s Pretty Link Group?"
+msgstr "Bạn có chắc chắn muốn xóa nhóm Pretty Link %s của mình?"
+
+#: app/controllers/PrliLinksController.php:72 js/build/editor.js:3
+#: js/editor/components/link-editor/index.js:401
+msgid "New Pretty Link"
+msgstr "Pretty link mới"
+
+#: app/views/admin/update/ui.php:22
+msgid "Pretty Links Pro License"
+msgstr "Bản quyền Pretty Links Pro"
+
+#: app/views/admin/update/inactive_license.php:15
+msgid "Enter Your Pretty Links Pro License Key:"
+msgstr "Nhập mã bản quyền Pretty Links Pro của bạn:"
+
+#: app/views/admin/update/active_license.php:27
+msgid "License Key:"
+msgstr "Mã bản quyền:"
+
+#: app/views/admin/update/active_license.php:55
+msgid "Deactivate License Key on %s"
+msgstr "Hủy kích hoạt mã bản quyền trên %s"
+
+#: app/controllers/PrliUpdateController.php:649
+msgid "Are you sure? Pretty Links will not be functional on %s if this License Key is deactivated."
+msgstr "Bạn có chắc chắn? Pretty Links sẽ không hoạt động trên %s nếu mã bản quyền này bị hủy kích hoạt."
+
+#: app/views/admin/update/active_license.php:24
+msgid "Active License Key Information:"
+msgstr "Thông tin mã bản quyền đang hoạt động:"
+
+#: app/views/admin/update/inactive_license.php:22
+msgid "Activate License Key on %s"
+msgstr "Kích hoạt mã bản quyền trên %s"
+
+#. translators: %1$s: link to pro site, %2$s: link to pro site login page
+#: app/views/admin/update/inactive_license.php:6
+msgid "You must have a License Key to enable automatic updates for Pretty Links Pro. If you don't have a License please go to %1$s to get one. If you do have a license you can login at %2$s to manage your licenses and site activations."
+msgstr "Bạn phải có mã bản quyền để kích hoạt cập nhật tự động cho Pretty Links Pro. Nếu bạn không có mã bản quyền, vui lòng truy cập %1$s để lấy một mã bản quyền. Nếu bạn có mã bản quyền, bạn có thể đăng nhập tại %2$s để quản lý mã bản quyền và kích hoạt trang web của mình."
+
+#: vendor-prefixed/caseproof/growth-tools/src/App.php:108
+msgid "Install"
+msgstr "Cài đặt"
+
+#. translators: %1$s: open link tag, %2$s: close link tag
+#: app/views/admin/update/activation_warning.php:32
+msgid "After you paste your license key on the %1$s\"Pretty Link\" -> \"Activate Pro\" admin page,%2$s you'll start getting updates again."
+msgstr "Khi bạn dán mã bản quyền vào trang quản trị %1$s\"Pretty Link\" -> \"Kích hoạt Pro\", %2$s bạn sẽ bắt đầu nhận được các bản cập nhật trở lại."
+
+#: app/views/options/form.php:140
+msgid "This option should ONLY be checked if you have elements in your permalink structure that must be present in any link on your site. For example, some WordPress installs don't have the benefit of full rewrite capabilities and in this case you'd need an index.php included in each link (http://example.com/index.php/mycoolslug instead of http://example.com/mycoolslug). If this is the case for you then check this option but the vast majority of users will want to keep this unchecked."
+msgstr "Tuỳ chọn này chỉ nên được đánh dấu nếu bạn có các yếu tố trong cấu trúc đường dẫn của mình mà phải có mặt trong bất kỳ liên kết nào trên trang web của bạn. Ví dụ, một số cài đặt WordPress không có lợi ích từ khả năng viết lại đầy đủ và trong trường hợp này, bạn sẽ cần một index.php được bao gồm trong mỗi liên kết (http://example.com/index.php/mycoolslug thay vì http://example.com/mycoolslug). Nếu đây là trường hợp của bạn thì hãy đánh dấu tuỳ chọn này, nhưng phần lớn người dùng sẽ muốn giữ tuỳ chọn này không được đánh dấu."
+
+#: app/controllers/PrliXmlRpcController.php:350
+msgid "There was an error fetching your Pretty Link URL"
+msgstr "Có lỗi khi lấy URL Pretty Link của bạn"
+
+#: app/controllers/PrliXmlRpcController.php:311
+#: app/controllers/PrliXmlRpcController.php:343
+msgid "Sorry, you must provide an id to lookup"
+msgstr "Xin lỗi, bạn phải cung cấp ID để tra cứu"
+
+#: app/controllers/PrliXmlRpcController.php:285
+#: app/controllers/PrliXmlRpcController.php:318
+msgid "There was an error fetching your Pretty Link"
+msgstr "Có lỗi khi lấy Pretty Link của bạn"
+
+#: app/controllers/PrliXmlRpcController.php:278
+msgid "Sorry, you must provide a slug to lookup"
+msgstr "Xin lỗi, bạn phải cung cấp một slug để tra cứu"
+
+#: app/controllers/PrliXmlRpcController.php:252
+msgid "There was an error fetching the Pretty Links"
+msgstr "Có lỗi khi lấy Pretty Links"
+
+#: app/controllers/PrliXmlRpcController.php:223
+msgid "There was an error fetching the Pretty Link Groups"
+msgstr "Có lỗi khi lấy các nhóm Pretty Link"
+
+#: app/controllers/PrliXmlRpcController.php:165
+msgid "You must provide the id of the link you want to update"
+msgstr "Bạn phải cung cấp ID của liên kết bạn muốn cập nhật"
+
+#: app/controllers/PrliXmlRpcController.php:144
+#: app/controllers/PrliXmlRpcController.php:194
+msgid "There was an error creating your Pretty Link"
+msgstr "Có lỗi khi tạo Pretty Link của bạn"
+
+#: app/controllers/PrliXmlRpcController.php:45
+#: app/controllers/PrliXmlRpcController.php:112
+#: app/controllers/PrliXmlRpcController.php:161
+#: app/controllers/PrliXmlRpcController.php:218
+#: app/controllers/PrliXmlRpcController.php:247
+#: app/controllers/PrliXmlRpcController.php:275
+#: app/controllers/PrliXmlRpcController.php:308
+#: app/controllers/PrliXmlRpcController.php:340
+msgid "Sorry, you must be an administrator to access this resource"
+msgstr "Xin lỗi, bạn phải là quản trị viên để truy cập tài nguyên này"
+
+#: app/controllers/PrliXmlRpcController.php:39
+#: app/controllers/PrliXmlRpcController.php:106
+#: app/controllers/PrliXmlRpcController.php:155
+#: app/controllers/PrliXmlRpcController.php:212
+#: app/controllers/PrliXmlRpcController.php:241
+#: app/controllers/PrliXmlRpcController.php:269
+#: app/controllers/PrliXmlRpcController.php:302
+#: app/controllers/PrliXmlRpcController.php:334
+msgid "Sorry, Login failed"
+msgstr "Xin lỗi, đăng nhập thất bại"
+
+#: app/controllers/PrliXmlRpcController.php:36
+#: app/controllers/PrliXmlRpcController.php:103
+#: app/controllers/PrliXmlRpcController.php:152
+#: app/controllers/PrliXmlRpcController.php:209
+#: app/controllers/PrliXmlRpcController.php:238
+#: app/controllers/PrliXmlRpcController.php:266
+#: app/controllers/PrliXmlRpcController.php:299
+#: app/controllers/PrliXmlRpcController.php:331
+msgid "Sorry, XML-RPC Not enabled for this website"
+msgstr "Xin lỗi, XML-RPC không được bật cho trang web này"
+
+#: app/controllers/PrliAppController.php:707
+msgid "Pretty Links Pro Successfully Uninstalled."
+msgstr "Pretty Links Pro đã được gỡ cài đặt thành công."
+
+#. translators: %1$s: br tag, %2$s: open link tag, %3$s: close link tag
+#: app/controllers/PrliAppController.php:692
+msgid "You're almost done!%1$s%2$sFinish your Re-Install of Pretty Links Pro%3$s"
+msgstr "Bạn sắp hoàn thành!%1$s%2$sHoàn tất việc cài đặt lại Pretty Links Pro%3$s"
+
+#: app/controllers/PrliOptionsController.php:70
+msgid "Options saved."
+msgstr "Tùy chọn đã được lưu."
+
+#: app/controllers/PrliAppController.php:779
+msgid "Pretty Link Quick Add"
+msgstr "Thêm nhanh Pretty Link"
+
+#: app/controllers/PrliClicksController.php:104
+msgid "All Links"
+msgstr "Tất cả liên kết"
+
+#: app/controllers/PrliClicksController.php:99
+msgid "Visitor: "
+msgstr "Khách truy cập: "
+
+#: app/controllers/PrliClicksController.php:94
+msgid "IP Address: "
+msgstr "Địa chỉ IP: "
+
+#: app/controllers/PrliLocalApiController.php:128
+msgid "Pretty Link ID must be set for successful update."
+msgstr "Pretty Link ID phải được đặt để cập nhật thành công."
+
+#: app/controllers/PrliLocalApiController.php:103
+#: app/controllers/PrliLocalApiController.php:167
+msgid "An error prevented your Pretty Link from being created"
+msgstr "Lỗi đã ngăn chặn việc tạo Pretty Link của bạn"
+
+#: app/views/shared/nav.php:19
+msgid "Tutorials"
+msgstr "Hướng dẫn"
+
+#: app/controllers/PrliAppController.php:419
+#: app/helpers/PrliOnboardingHelper.php:243
+#: app/views/admin/update/inactive_license.php:28 app/views/shared/nav.php:9
+msgid "Upgrade to Pro"
+msgstr "Nâng cấp lên Pro"
+
+#: app/views/shared/nav.php:6
+msgid "Pro Manual"
+msgstr "Hướng dẫn sử dụng Pro"
+
+#. translators: %1$s: open strong tag, %2$s close strong tag
+#: app/views/tools/form.php:59
+msgid "To save the changes hit \"Bookmarks\" and %1$syou're done!%2$s"
+msgstr "Để lưu thay đổi, hãy nhấn \"Bắt đầu\" và %1$sbạn đã hoàn tất!%2$s"
+
+#: app/views/tools/form.php:54
+msgid "Paste the text you copied in Step 1 into the address field"
+msgstr "Dán văn bản bạn đã sao chép ở Bước 1 vào trường địa chỉ"
+
+#: app/views/tools/form.php:53
+msgid "Delete all the text from the address"
+msgstr "Xóa tất cả văn bản khỏi địa chỉ"
+
+#: app/views/tools/form.php:50
+msgid "Tap the + button at the bottom of the screen"
+msgstr "Nhấn vào nút + ở cuối màn hình"
+
+#: app/views/tools/form.php:49
+msgid "Copy this text:"
+msgstr "Sao chép văn bản này:"
+
+#. translators: %1$s: open strong tag, %2$s close strong tag
+#: app/views/tools/form.php:43
+msgid "%1$sNote:%2$s iPhone users can install this bookmarklet in their Safari to create Pretty Links with the following steps:"
+msgstr "%1$sLưu ý:%2$s Người dùng iPhone có thể cài đặt bookmarklet này trong Safari để tạo Pretty Links theo các bước sau:"
+
+#: app/views/tools/form.php:36
+msgid "Show iPhone Bookmarklet Instructions"
+msgstr "Hiển thị hướng dẫn sử dụng Bookmarklet iPhone"
+
+#: app/controllers/PrliAppController.php:252 app/views/tools/form.php:3
+msgid "Tools"
+msgstr "Công cụ"
+
+#: app/views/shared/public_link.php:45
+msgid "back"
+msgstr "trở lại"
+
+#: app/views/shared/public_link.php:41
+msgid "send this link to:"
+msgstr "gửi liên kết này đến:"
+
+#: app/controllers/PrliStripeConnectController.php:317
+msgid "Learn More"
+msgstr "Tìm hiểu thêm"
+
+#: app/views/options/form.php:4
+msgid "User Manual"
+msgstr "Hướng dẫn sử dụng"
+
+#: app/views/options/form.php:276
+msgid "Simple Click Count Tracking (less stats / faster performance)"
+msgstr "Theo dõi số lần nhấp đơn giản (thống kê ít hơn / hiệu suất nhanh hơn)"
+
+#: app/views/options/form.php:275
+msgid "Extended Tracking (more stats / slower performance)"
+msgstr "Theo dõi mở rộng (thống kê nhiều hơn / hiệu suất chậm hơn)"
+
+#: app/views/options/form.php:274
+msgid "Normal Tracking"
+msgstr "Theo dõi bình thường"
+
+#: app/views/options/form.php:311 app/views/options/form.php:313
+msgid "Filter Robots"
+msgstr "Lọc Robot"
+
+#: app/views/options/form.php:285
+msgid "Enter IP Addresses or IP Ranges you want to exclude from your Click data and Stats. Each IP Address should be separated by commas. Example: 192.168.0.1, 192.168.2.1, 192.168.3.4 or 192.168.*.*"
+msgstr "Nhập địa chỉ IP hoặc phạm vi IP bạn muốn loại trừ khỏi dữ liệu và Thống kê Click của bạn. Mỗi địa chỉ IP phải được phân cách bằng dấu phẩy. Ví dụ: 192.168.0.1, 192.168.2.1, 192.168.3.4 hoặc 192.168.*.*"
+
+#: app/views/options/form.php:282
+msgid "Excluded IP Addresses:"
+msgstr "Địa chỉ IP bị loại trừ:"
+
+#: app/views/options/form.php:262
+msgid "Reporting Options"
+msgstr "Tùy chọn báo cáo"
+
+#: app/views/options/form.php:84
+msgid "Select the type of redirection you want your newly created links to have."
+msgstr "Chọn loại chuyển hướng bạn muốn liên kết mới tạo của mình có."
+
+#: app/views/options/form.php:104
+msgid "Default all new links to be tracked."
+msgstr "Mặc định tất cả các liên kết mới được theo dõi."
+
+#: app/controllers/PrliXmlRpcController.php:116
+msgid "You must provide a target URL"
+msgstr "Bạn phải cung cấp một URL mục tiêu"
+
+#: app/controllers/PrliAppController.php:839
+msgid "Your Pretty Links Pro installation isn't quite complete yet.<br/>%1$sAutomatically Upgrade to Enable Pretty Links Pro%2$s"
+msgstr "Cài đặt Pretty Links Pro của bạn chưa hoàn tất.<br/>%1$sTự động nâng cấp để bật Pretty Links Pro%2$s"
+
+#: app/views/groups/list.php:79
+msgid "Delete"
+msgstr "Xóa"
+
+#: app/views/links/form_pro.php:96 app/views/options/form.php:574
+#: app/views/options/form.php:597 app/views/options/form.php:1065
+#: app/views/shared/tinymce_form_popup.php:83
+#: app/views/shared/tinymce_form_popup.php:87
+msgid "None"
+msgstr "Không mục nào"
+
+#: app/controllers/PrliAppController.php:517 app/views/groups/edit.php:72
+#: app/views/options/form.php:1221
+msgid "Update"
+msgstr "Cập nhật"
+
+#: app/views/admin/upgrade/reports.php:8 app/views/admin/upgrade/reports.php:35
+#: app/views/groups/edit.php:36 app/views/groups/list.php:41
+#: app/views/groups/list.php:93 app/views/groups/new.php:37
+#: app/views/links/prettypay_link_stripe.php:34
+msgid "Name"
+msgstr "Tên"
+
+#: app/controllers/PrliAppController.php:255
+#: app/views/links/prettypay_link_stripe.php:107 app/views/options/form.php:3
+msgid "Options"
+msgstr "Tùy chọn"
+
+#: app/views/clicks/list.php:43 app/views/groups/edit.php:72
+#: app/views/groups/new.php:71 app/views/links/prettypay_link_stripe.php:98
+msgid "Cancel"
+msgstr "Hủy"
+
+#: app/helpers/PrliAppHelper.php:48 app/views/groups/list.php:78
+#: js/build/editor.js:3 js/editor/components/link-editor/index.js:151
+msgid "Edit"
+msgstr "Sửa"
+
+#: app/views/admin/onboarding/parts/category-pro.php:62
+#: app/views/admin/onboarding/parts/link_popup.php:29
+msgid "Save"
+msgstr "Lưu"
+
+#: app/views/clicks/list.php:83 app/views/clicks/list.php:176
+msgid "Visitor"
+msgstr "Khách"
+
+#: app/views/clicks/list.php:39
+msgid "to"
+msgstr "đến"
+
+#: app/controllers/PrliLinksController.php:775 app/views/clicks/list.php:64
+#: app/views/groups/list.php:24
+msgid "Reset"
+msgstr "Đặt lại dữ liệu"
+
+#: app/controllers/PrliLinksController.php:779
+msgid "Email"
+msgstr "Email"
+
+#: app/controllers/PrliLinksController.php:778
+msgid "Tweet"
+msgstr "Tweet"
+
+#: app/helpers/PrliLinksHelper.php:43
+msgid "Javascript Redirection"
+msgstr "Chuyển hướng Javascript"
+
+#: app/helpers/PrliLinksHelper.php:40
+msgid "Meta Refresh Redirection"
+msgstr "Chuyển hướng Meta Refresh"
+
+#: app/views/shared/tinymce_form_popup.php:46 js/build/editor.js:3
+#: js/editor/components/link-editor/index.js:376
+msgid "Nofollow"
+msgstr "Nofollow"
+
+#: app/views/shared/tinymce_form_popup.php:29
+msgid "Redirect Type"
+msgstr "Loại chuyển hướng"
+
+#: app/controllers/PrliLinksController.php:70
+msgid "Add New Pretty Link"
+msgstr "Thêm Pretty Link mới"
+
+#: app/views/options/form.php:22
+msgid "Permalink Settings"
+msgstr "Cài đặt Permalink"
+
+#. translators: %1$s: open strong tag, %2$s: close strong tag
+#: app/views/options/form.php:17
+msgid "%1$sWordPress Must be Configured:%2$s Pretty Links won't work until you select a Permalink Structure other than 'Default'"
+msgstr "%1$sWordPress cần được cấu hình:%2$s Pretty Links sẽ không hoạt động cho đến khi bạn chọn cấu trúc Permalink khác với 'Mặc định'"
+
+#: app/views/links/form_advanced.php:50
+msgid "Forward parameters passed to this link onto the Target URL"
+msgstr "Chuyển tiếp các tham số được truyền vào liên kết này đến URL Mục tiêu"
+
+#: app/helpers/PrliLinksHelper.php:64
+msgid "Parameter Forwarding Enabled"
+msgstr "Chuyển tiếp tham số đã được bật"
+
+#: app/views/links/form_advanced.php:46 app/views/links/form_advanced.php:49
+msgid "Parameter Forwarding"
+msgstr "Chuyển tiếp tham số"
+
+#: app/views/links/form_advanced.php:36
+msgid "Time in seconds to wait before redirecting"
+msgstr "Thời gian chờ (giây) trước khi chuyển hướng"
+
+#: app/views/links/form.php:36
+msgid "Advanced"
+msgstr "Nâng cao"
+
+#. Author of the plugin
+#: pretty-link.php app/controllers/PrliAppController.php:383
+#: app/controllers/PrliLinksController.php:67
+#: app/controllers/PrliLinksController.php:548
+#: app/controllers/PrliPostsController.php:59
+#: app/helpers/PrliOnboardingHelper.php:169
+#: app/views/admin/popups/prettypay.php:81
+#: app/views/admin/popups/prettypay.php:387
+msgid "Pretty Links"
+msgstr "Pretty Links"
+
+#: app/views/groups/new.php:22
+msgid "Name*:"
+msgstr "Tên*:"
+
+#: app/views/groups/new.php:10
+msgid "New Group"
+msgstr "Nhóm mới"
+
+#: app/views/groups/list.php:62
+msgid "No Pretty Link Groups were found"
+msgstr "Không tìm thấy nhóm Pretty Link nào"
+
+#: app/views/admin/upgrade/reports.php:23
+#: app/views/admin/upgrade/reports.php:38 app/views/groups/list.php:51
+#: app/views/groups/list.php:95
+msgid "Created"
+msgstr "Được tạo"
+
+#: app/views/admin/onboarding/parts/category-pro.php:49
+#: app/views/admin/upgrade/groups.php:17 app/views/admin/upgrade/groups.php:39
+#: app/views/admin/upgrade/reports.php:18
+#: app/views/admin/upgrade/reports.php:37 app/views/groups/list.php:46
+#: app/views/groups/list.php:80 app/views/groups/list.php:94
+#: app/views/options/form.php:51
+msgid "Links"
+msgstr "Liên kết"
+
+#: app/views/groups/list.php:6
+msgid "Groups"
+msgstr "Nhóm"
+
+#. translators: %1$s: open strong tag, %2$s close strong tag
+#: app/views/groups/edit.php:61 app/views/groups/new.php:60
+msgid "Select some links for this group. %1$sNote: each link can only be in one group at a time.%2$s"
+msgstr "Chọn một số liên kết cho nhóm này. %1$sLưu ý: mỗi liên kết chỉ có thể nằm trong một nhóm tại một thời điểm.%2$s"
+
+#: app/views/groups/edit.php:37 app/views/groups/new.php:38
+msgid "Current Group"
+msgstr "Nhóm hiện tại"
+
+#: app/views/groups/edit.php:31 app/views/groups/new.php:32
+msgid "Links:"
+msgstr "Liên kết:"
+
+#: app/views/groups/edit.php:28 app/views/groups/new.php:29
+msgid "A Description of this group."
+msgstr "Mô tả về nhóm này."
+
+#: app/views/groups/edit.php:26 app/views/groups/new.php:27
+msgid "Description:"
+msgstr "Mô tả:"
+
+#: app/views/groups/edit.php:23 app/views/groups/new.php:24
+msgid "This is how you'll identify your Group."
+msgstr "Đây là cách bạn sẽ nhận biết nhóm của mình."
+
+#: app/views/groups/edit.php:21
+msgid "Name:"
+msgstr "Tên:"
+
+#: app/views/groups/edit.php:10
+msgid "Edit Group"
+msgstr "Chỉnh sửa nhóm"
+
+#: app/controllers/PrliLinksController.php:68
+#: app/controllers/PrliOnboardingController.php:432
+#: app/helpers/PrliLinksHelper.php:175 app/helpers/PrliOnboardingHelper.php:162
+#: app/views/admin/onboarding/parts/link_popup.php:10
+#: app/views/links/form_basic.php:51 app/views/shared/tinymce_form_popup.php:86
+#: app/views/widgets/widget.php:15 js/build/editor.js:3
+#: js/editor/formats/pretty-link/index.js:25
+msgid "Pretty Link"
+msgstr "Pretty Link"
+
+#: app/views/clicks/list.php:190
+msgid "Download CSV"
+msgstr "Tải xuống CSV"
+
+#: app/views/clicks/list.php:101 app/views/clicks/list.php:184
+msgid "Link"
+msgstr "Liên kết"
+
+#: app/views/clicks/list.php:98 app/views/clicks/list.php:183
+msgid "Referrer"
+msgstr "Người giới thiệu"
+
+#: app/views/clicks/list.php:95 app/views/clicks/list.php:182
+msgid "URI"
+msgstr "URI"
+
+#: app/views/clicks/list.php:91 app/views/clicks/list.php:180
+msgid "Host"
+msgstr "Máy chủ"
+
+#: app/views/clicks/list.php:87 app/views/clicks/list.php:178
+msgid "Timestamp"
+msgstr "Dấu thời gian"
+
+#: app/views/clicks/list.php:79 app/views/clicks/list.php:174
+msgid "IP"
+msgstr "IP"
+
+#: app/views/clicks/list.php:73 app/views/clicks/list.php:171
+msgid "Browser"
+msgstr "Trình duyệt"
+
+#: app/views/clicks/list.php:37
+msgid "Date Range:"
+msgstr "Khoảng ngày:"
+
+#: app/views/clicks/list.php:30
+msgid "Type:"
+msgstr "Loại:"
+
+#: app/views/clicks/list.php:18
+msgid "Back to Links"
+msgstr "Quay lại Liên kết"
+
+#: app/views/clicks/list.php:11
+msgid "Customize Report"
+msgstr "Tùy chỉnh báo cáo"
+
+#: app/views/admin/errors.php:7 app/views/shared/errors.php:12
+msgid "ERROR"
+msgstr "LỖI"
+
+#: app/models/PrliLink.php:496
+msgid "Pretty Link slugs must not end with a slash (\"/\")"
+msgstr "Pretty Link slugs không được kết thúc bằng dấu gạch chéo (\"/\")"
+
+#: app/models/PrliLink.php:492
+msgid "Pretty Link slugs must not contain question marks, ampersands or number signs."
+msgstr "Pretty Link slugs không được chứa dấu hỏi, dấu ampersand hoặc dấu số."
+
+#: app/models/PrliLink.php:488
+msgid "Link URL must be a correctly formatted url"
+msgstr "Link URL phải được định dạng chính xác"
+
+#: app/controllers/PrliLinksController.php:547 app/models/PrliClick.php:258
+#: app/views/admin/popups/prettypay.php:76
+#: app/views/admin/popups/prettypay.php:386
+#: app/views/admin/upgrade/groups.php:13 app/views/admin/upgrade/groups.php:35
+#: app/views/admin/upgrade/products.php:13
+#: app/views/admin/upgrade/products.php:32
+msgid "Date"
+msgstr "Ngày"
+
+#: app/models/PrliClick.php:253
+msgid "and"
+msgstr "và"
+
+#: app/models/PrliClick.php:253
+msgid "between"
+msgstr "giữa"
+
+#: app/models/PrliClick.php:253
+msgid "on"
+msgstr "bật"
+
+#: app/models/PrliLink.php:484
+msgid "Target URL must be different than the Pretty Link"
+msgstr "URL Trang mục tiêu phải khác Pretty Link"
+
+#: app/models/PrliLink.php:480
+msgid "Target URL can't be blank"
+msgstr "URL Trang mục tiêu không được bỏ trống"
+
+#: app/helpers/PrliLinksHelper.php:16
+#: app/views/admin/onboarding/parts/link_popup.php:18
+#: app/views/links/form_basic.php:18 app/views/shared/tinymce_form_popup.php:34
+msgid "301 (Permanent)"
+msgstr "301 (Chuyển hướng vĩnh viễn)"
+
+#: app/helpers/PrliLinksHelper.php:14 app/views/links/form_basic.php:16
+#: app/views/shared/tinymce_form_popup.php:32
+msgid "307 (Temporary)"
+msgstr "307 (Chuyển hướng tạm thời)"
+
+#: app/views/admin/onboarding/parts/link_popup.php:5
+#: app/views/links/form_basic.php:36 app/views/shared/tinymce_form_popup.php:13
+#: app/views/shared/tinymce_form_popup.php:82 app/views/widgets/widget.php:11
+msgid "Target URL"
+msgstr "URL Mục tiêu"
+
+#: app/helpers/PrliLinksHelper.php:143
+msgid "Target URL:"
+msgstr "URL Mục tiêu:"
+
+#: app/models/PrliClick.php:253
+msgid "Pretty Link:"
+msgstr "Pretty Link:"
+
+#: app/controllers/PrliLinksController.php:855
+msgid "Your Pretty Link was Successfully Reset"
+msgstr "Pretty Link của bạn đã được đặt lại thành công"
+
+#: app/views/links/form_advanced.php:64
+msgid "Enable Pretty Link's built-in hit (click) tracking"
+msgstr "Bật theo dõi lượt truy cập (nhấp) tích hợp của Pretty Link"

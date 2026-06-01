@@ -1,0 +1,16 @@
+.tablepress th,
+.tablepress td {
+	border: 1px solid black;
+}
+
+.tablepress {
+	overflow-x: auto;
+}
+
+.dt-container.tablepress {
+	width: 100% !important;
+}
+
+.dt-layout-cell.dt-layout-end {
+	display: none !important;
+}

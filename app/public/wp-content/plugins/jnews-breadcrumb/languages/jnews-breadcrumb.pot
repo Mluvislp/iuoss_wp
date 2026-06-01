@@ -1,0 +1,65 @@
+# Copyright (C) 2024 Jegtheme
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: JNews - Breadcrumb 11.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Jegtheme <support@jeghteme.com>\n"
+"Language-Team: Jegtheme <support@jeghteme.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-30T05:56:25+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.9.0\n"
+"X-Domain: jnews-breadcrumb\n"
+
+#. Plugin Name of the plugin
+msgid "JNews - Breadcrumb"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://jegtheme.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Breadcrumb Plugin for JNews Themes"
+msgstr ""
+
+#. Author of the plugin
+msgid "Jegtheme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://jegtheme.com"
+msgstr ""
+
+#: class.jnews-breadcrumb.php:66
+#: class.jnews-breadcrumb.php:78
+#: class.jnews-breadcrumb.php:100
+#: class.jnews-breadcrumb.php:112
+#: class.jnews-breadcrumb.php:124
+#: class.jnews-breadcrumb.php:154
+#: class.jnews-breadcrumb.php:173
+msgid "Home"
+msgstr ""
+
+#: class.jnews-breadcrumb.php:67
+msgid "Page Not Found"
+msgstr ""
+
+#: class.jnews-breadcrumb.php:113
+msgid "Author"
+msgstr ""
+
+#: class.jnews-breadcrumb.php:125
+msgid "Search"
+msgstr ""
+
+#: class.jnews-breadcrumb.php:157
+msgid "Category"
+msgstr ""
+
+#: class.jnews-breadcrumb.php:159
+msgid "Tag"
+msgstr ""

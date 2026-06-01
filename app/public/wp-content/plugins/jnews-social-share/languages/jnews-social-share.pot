@@ -1,0 +1,327 @@
+# Copyright (C) 2025 Jegtheme
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: JNews - Social Share 11.6.5\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Jegtheme <support@jeghteme.com>\n"
+"Language-Team: Jegtheme <support@jeghteme.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-07-15T02:39:24+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: jnews-social-share\n"
+
+#. Plugin Name of the plugin
+msgid "JNews - Social Share"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://jegtheme.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Social bar, Social Counter and Initial Counter functionality for JNews"
+msgstr ""
+
+#. Author of the plugin
+msgid "Jegtheme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://jegtheme.com"
+msgstr ""
+
+#: class.jnews-share-bar.php:140
+#: class.jnews-share-bar.php:142
+#: class.jnews-share-bar.php:144
+#: class.jnews-share-bar.php:146
+#: class.jnews-share-bar.php:539
+#: class.jnews-share-bar.php:542
+#: class.jnews-share-bar.php:545
+#: class.jnews-share-bar.php:548
+#: class.jnews-share-bar.php:550
+msgid "Share on "
+msgstr ""
+
+#: class.jnews-share-bar.php:209
+msgid "VIEWS"
+msgstr ""
+
+#: class.jnews-share-bar.php:228
+msgid "SHARES"
+msgstr ""
+
+#: class.jnews-share-bar.php:251
+msgid "Share on another social media platform"
+msgstr ""
+
+#: class.jnews-share-bar.php:562
+#: class.jnews-share-bar.php:574
+#: class.jnews-share-bar.php:578
+#: class.jnews-share-bar.php:582
+#: class.jnews-share-bar.php:586
+#: class.jnews-share-bar.php:601
+msgid "Share"
+msgstr ""
+
+#: class.jnews-share-bar.php:566
+msgid "Tweet"
+msgstr ""
+
+#: class.jnews-share-bar.php:570
+msgid "Pin"
+msgstr ""
+
+#: class.jnews-share-bar.php:589
+msgid "Bookmark"
+msgstr ""
+
+#: class.jnews-share-bar.php:592
+msgid "Scan"
+msgstr ""
+
+#: class.jnews-share-bar.php:595
+#: class.jnews-share-bar.php:598
+msgid "Send"
+msgstr ""
+
+#: class.jnews-social-option.php:46
+msgid "Social Bar, View & Like"
+msgstr ""
+
+#: jnews-social-share.php:500
+msgid "JNews Plugins Compatibility"
+msgstr ""
+
+#: jnews-social-share.php:501
+msgid "These plugins below only compatible with the <strong>JNews Theme version 11.6.0</strong> and above. Your current JNews version is "
+msgstr ""
+
+#: jnews-social-share.php:505
+msgid "Update Theme Now"
+msgstr ""
+
+#: social-option.php:12
+#: social-option.php:78
+msgid "View Counter Script"
+msgstr ""
+
+#: social-option.php:14
+#: social-option.php:80
+msgid ""
+"<ul>\n"
+"\t\t\t\t\t<li>Please choose view counter script on single page.</li>                        \n"
+"\t\t\t\t\t<li>Please be aware value of each counter script may be different.</li>\n"
+"\t\t\t\t\t<li>You will need to install one plugin of <strong>JNews - View Counter</strong> or <strong>Jetpack</strong> that based on option that you chosen below.</li>\n"
+"\t\t\t\t\t<li>We recommend you only to stick to one view counter script for more consistent result.</li>\n"
+"\t\t\t\t</ul>"
+msgstr ""
+
+#: social-option.php:27
+#: social-option.php:93
+msgid "JNews View Counter"
+msgstr ""
+
+#: social-option.php:28
+#: social-option.php:94
+msgid "Jetpack View Counter"
+msgstr ""
+
+#: social-option.php:68
+msgid "View Option"
+msgstr ""
+
+#: social-option.php:108
+msgid "Share Bar Social Icon"
+msgstr ""
+
+#: social-option.php:112
+msgid "Choose Share Network"
+msgstr ""
+
+#: social-option.php:113
+#: social-option.php:233
+msgid "Facebook"
+msgstr ""
+
+#: social-option.php:114
+msgid "Twitter"
+msgstr ""
+
+#: social-option.php:115
+msgid "Linkedin"
+msgstr ""
+
+#: social-option.php:116
+#: social-option.php:234
+msgid "Pinterest"
+msgstr ""
+
+#: social-option.php:117
+msgid "Stumbleupon"
+msgstr ""
+
+#: social-option.php:118
+msgid "Reddit"
+msgstr ""
+
+#: social-option.php:119
+msgid "Tumblr"
+msgstr ""
+
+#: social-option.php:120
+msgid "Whatsapp"
+msgstr ""
+
+#: social-option.php:121
+msgid "Telegram"
+msgstr ""
+
+#: social-option.php:122
+#: social-option.php:235
+msgid "Vk"
+msgstr ""
+
+#: social-option.php:123
+msgid "QR Code"
+msgstr ""
+
+#: social-option.php:124
+msgid "Weibo"
+msgstr ""
+
+#: social-option.php:125
+msgid "Wechat"
+msgstr ""
+
+#: social-option.php:126
+msgid "Line"
+msgstr ""
+
+#: social-option.php:127
+msgid "Hatena"
+msgstr ""
+
+#: social-option.php:128
+msgid "Email"
+msgstr ""
+
+#: social-option.php:129
+msgid "Odnoklassniki"
+msgstr ""
+
+#: social-option.php:130
+msgid "Xing"
+msgstr ""
+
+#: social-option.php:131
+msgid "Threads"
+msgstr ""
+
+#: social-option.php:132
+msgid "Bluesky"
+msgstr ""
+
+#: social-option.php:141
+msgid "Main Share Network"
+msgstr ""
+
+#: social-option.php:142
+msgid "Main share network will always show on your share post container. <br/>Fill share text if you need your share button to have share text on it, but leave it empty to make it look like default button."
+msgstr ""
+
+#: social-option.php:155
+msgid "Main Share Button"
+msgstr ""
+
+#: social-option.php:161
+#: social-option.php:203
+msgid "Share Network"
+msgstr ""
+
+#: social-option.php:167
+msgid "Share Text"
+msgstr ""
+
+#: social-option.php:185
+msgid "Secondary Share Network"
+msgstr ""
+
+#: social-option.php:186
+msgid "Secondary share network will not shown until user click plus (+) button on your share container."
+msgstr ""
+
+#: social-option.php:197
+msgid "Secondary Share"
+msgstr ""
+
+#: social-option.php:220
+msgid "Share Bar Setting Detail"
+msgstr ""
+
+#: social-option.php:229
+msgid "Social Share Counter API"
+msgstr ""
+
+#: social-option.php:230
+msgid "Select the social media platforms which you want to retrieve share count values via API."
+msgstr ""
+
+#: social-option.php:247
+msgid "Social Share Threshold"
+msgstr ""
+
+#: social-option.php:248
+msgid "Only show social share total number if its more than this threshold."
+msgstr ""
+
+#: social-option.php:267
+msgid "Twitter Account"
+msgstr ""
+
+#: social-option.php:268
+msgid "Default Twitter account (username) as share reference."
+msgstr ""
+
+#: social-option.php:281
+msgid "Facebook App ID"
+msgstr ""
+
+#: social-option.php:292
+msgid "Facebook App Secret"
+msgstr ""
+
+#: social-option.php:303
+msgid "Facebook Access Token"
+msgstr ""
+
+#: social-option.php:311
+msgid "Initial Counter"
+msgstr ""
+
+#: social-option.php:322
+msgid "Initial View Count"
+msgstr ""
+
+#: social-option.php:323
+msgid "This value will increase your initial view counter. This value will also affect social share value (if you choose to use social share option above)."
+msgstr ""
+
+#: social-option.php:343
+msgid "Social Share Value base on View"
+msgstr ""
+
+#: social-option.php:344
+msgid "We increase your social share value base on percentage of your view. You can change value of percentage using this input."
+msgstr ""
+
+#: social-option.php:364
+msgid "Like Percentage base on View"
+msgstr ""
+
+#: social-option.php:365
+msgid "We increase your like value base on percentage of your view. Dislike will also calculated by using your title length."
+msgstr ""

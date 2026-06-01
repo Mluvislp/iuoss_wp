@@ -1,0 +1,96 @@
+# Copyright (C) 2025 Jegtheme
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: JNews - Meta Header 11.6.2\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Jegtheme <support@jeghteme.com>\n"
+"Language-Team: Jegtheme <support@jeghteme.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-07-15T02:39:19+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: jnews-meta-header\n"
+
+#. Plugin Name of the plugin
+msgid "JNews - Meta Header"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://jegtheme.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Plugin to customize Meta Header (Facebook share / Twitter Card)"
+msgstr ""
+
+#. Author of the plugin
+msgid "Jegtheme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://jegtheme.com"
+msgstr ""
+
+#: class.jnews-meta-option.php:43
+msgid "Meta Header Tags"
+msgstr ""
+
+#: class.jnews-meta-option.php:55
+#: meta-header-option.php:9
+msgid "Social Meta Setting"
+msgstr ""
+
+#: general-meta-option.php:11
+msgid "Enable Pages Meta Description"
+msgstr ""
+
+#: general-meta-option.php:12
+msgid "Enable this option to add the JNews default meta description to all your single pages. "
+msgstr ""
+
+#: general-meta-option.php:21
+msgid "Enable Posts Meta Description"
+msgstr ""
+
+#: general-meta-option.php:22
+msgid "Enable this option to add the JNews default meta description to all your single post"
+msgstr ""
+
+#: general-meta-option.php:31
+msgid "Enable Tags Meta Description"
+msgstr ""
+
+#: general-meta-option.php:32
+msgid "Enable this option to add the JNews default meta description to your archive tags page."
+msgstr ""
+
+#: general-meta-option.php:41
+msgid "Enable Categories Meta Description"
+msgstr ""
+
+#: general-meta-option.php:42
+msgid "Enable this option to add the JNews default meta description to your archive categories page."
+msgstr ""
+
+#: jnews-meta-header.php:168
+msgid "JNews Plugins Compatibility"
+msgstr ""
+
+#: jnews-meta-header.php:169
+msgid "These plugins below only compatible with the <strong>JNews Theme version 11.6.0</strong> and above. Your current JNews version is "
+msgstr ""
+
+#: jnews-meta-header.php:173
+msgid "Update Theme Now"
+msgstr ""
+
+#: meta-header-option.php:18
+msgid "Social Meta Method"
+msgstr ""
+
+#: meta-header-option.php:19
+msgid "Choose which social meta method you want to use. <br/> Each breadcrumb script will need you to install its respective plugin."
+msgstr ""
